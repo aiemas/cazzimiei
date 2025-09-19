@@ -25,7 +25,7 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Run scraper
-        run: python cazzimiei.py
+        run: python multiscrapergrouped.py
 
       - name: Commit generated playlist
         run: |
