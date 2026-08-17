@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>TV Player</title>
+
+<style>
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    color: white;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+}
+
+
+/* =========================================================
+   BARRA LATERALE
+   ========================================================= */
+
+#sidebar {
+
+    position: fixed;
+
+    left: 0;
+    top: 0;
+
+    width: 250px;
+    height: 100vh;
+
+    background: #111827;
+
+    padding: 15px;
+
+    overflow-y: auto;
+
+    z-index: 1000;
+
+    border-right: 2px solid #222;
+}
+
+
+/* Titolo */
+
+#sidebar h1 {
+
+    margin: 5px 0 20px 0;
+
+    text-align: center;
+
+    font-size: 22px;
+
+}
+
+
+/* =========================================================
+   PULSANTI CANALI
+   ========================================================= */
+
+.channel {
+
+    width: 100%;
+
+    display: block;
+
+    margin-bottom: 10px;
+
+    padding: 14px 12px;
+
+    background: #1f2937;
+
+    border: 2px solid transparent;
+
+    border-radius: 8px;
+
+    color: white;
+
+    font-size: 16px;
+
+    cursor: pointer;
+
+    text-align: left;
+
+    transition: 0.2s;
+
+}
+
+
+/* Mouse */
+
+.channel:hover {
+
+    background: #374151;
+
+}
+
+
+/* Telecomando / tastiera */
+
+.channel:focus {
+
+    outline: none;
+
+    border-color: white;
+
+    background: #16a34a;
+
+}
+
+
+/* Canale selezionato */
+
+.channel.active {
+
+    background: #16a34a;
+
+    border-color: white;
+
+}
+
+
+/* =========================================================
+   PLAYER
+   ========================================================= */
+
+#playerContainer {
+
+    position: fixed;
+
+    left: 250px;
+    top: 0;
+
+    width: calc(100% - 250px);
+    height: 100vh;
+
+    background: #000;
+
+}
+
+
+#player {
+
+    width: 100%;
+    height: 100%;
+
+    border: 0;
+
+    background: #000;
+
+}
+
+
+/* =========================================================
+   BARRA IN ALTO
+   ========================================================= */
+
+#topBar {
+
+    position: fixed;
+
+    left: 250px;
+    top: 0;
+
+    width: calc(100% - 250px);
+
+    height: 50px;
+
+    background: rgba(0,0,0,0.75);
+
+    z-index: 2000;
+
+    display: flex;
+
+    align-items: center;
+
+    padding-left: 20px;
+
+    pointer-events: none;
+
+}
+
+
+#currentChannel {
+
+    font-size: 18px;
+
+    font-weight: bold;
+
+}
+
+
+/* =========================================================
+   MOBILE / SCHERMI PICCOLI
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+    #sidebar {
+
+        width: 190px;
+
+    }
+
+    #playerContainer {
+
+        left: 190px;
+
+        width: calc(100% - 190px);
+
+    }
+
+    #topBar {
+
+        left: 190px;
+
+        width: calc(100% - 190px);
+
+    }
+
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<!-- =========================================================
+     MENU CANALI
+     ========================================================= -->
+
+<div id="sidebar">
+
+    <h1>📺 CANALI</h1>
+
+
+    <button
+        class="channel active"
+        onclick="playChannel(0)"
+        tabindex="1">
+
+        ▶ Canale 451
+
+    </button>
+
+
+    <button
+        class="channel"
+        onclick="playChannel(1)"
+        tabindex="2">
+
+        ▶ Canale 401
+
+    </button>
+
+
+</div>
+
+
+
+<!-- =========================================================
+     PLAYER
+     ========================================================= -->
+
+<div id="playerContainer">
+
+    <iframe
+        id="player"
+        src="https://dlhd.pk/embed/stream-451.php"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen>
+    </iframe>
+
+</div>
+
+
+
+<!-- =========================================================
+     NOME CANALE
+     ========================================================= -->
+
+<div id="topBar">
+
+    <div id="currentChannel">
+
+        Canale 451
+
+    </div>
+
+</div>
+
+
+
+<script>
+
+
+/* =========================================================
+   LISTA CANALI
+   ========================================================= */
+
+const channels = [
+
+    {
+        name: "Canale 451",
+        url: "https://dlhd.pk/embed/stream-451.php"
+    },
+
+    {
+        name: "Canale 401",
+        url: "https://dlhd.pk/embed/stream-401.php"
+    }
+
+];
+
+
+
+/* =========================================================
+   RIPRODUZIONE CANALE
+   ========================================================= */
+
+function playChannel(index) {
+
+    const player =
+        document.getElementById("player");
+
+    const currentChannel =
+        document.getElementById("currentChannel");
+
+    const buttons =
+        document.querySelectorAll(".channel");
+
+
+    /* Cambia player */
+
+    player.src = channels[index].url;
+
+
+    /* Cambia nome */
+
+    currentChannel.textContent =
+        channels[index].name;
+
+
+    /* Aggiorna selezione */
+
+    buttons.forEach(function(button) {
+
+        button.classList.remove("active");
+
+    });
+
+
+    buttons[index].classList.add("active");
+
+
+    /* Metti il focus sul pulsante */
+
+    buttons[index].focus();
+
+}
+
+
+
+/* =========================================================
+   NAVIGAZIONE CON TELECOMANDO / TASTIERA
+   ========================================================= */
+
+document.addEventListener("keydown", function(event) {
+
+    const buttons =
+        Array.from(document.querySelectorAll(".channel"));
+
+    const current =
+        document.activeElement;
+
+
+    const index =
+        buttons.indexOf(current);
+
+
+    /* Freccia GIÙ */
+
+    if (event.key === "ArrowDown") {
+
+        event.preventDefault();
+
+        let next = index + 1;
+
+        if (next >= buttons.length) {
+
+            next = 0;
+
+        }
+
+        buttons[next].focus();
+
+    }
+
+
+    /* Freccia SU */
+
+    if (event.key === "ArrowUp") {
+
+        event.preventDefault();
+
+        let previous = index - 1;
+
+        if (previous < 0) {
+
+            previous = buttons.length - 1;
+
+        }
+
+        buttons[previous].focus();
+
+    }
+
+
+    /* OK / ENTER */
+
+    if (
+        event.key === "Enter" ||
+        event.key === " "
+    ) {
+
+        if (index >= 0) {
+
+            event.preventDefault();
+
+            playChannel(index);
+
+        }
+
+    }
+
+});
+
+
+</script>
+
+
+</body>
+</html>
