@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>TV Player</title>
+
+
+<style>
+
+/* =========================================================
+   BASE
+   ========================================================= */
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+
+    margin: 0;
+    padding: 0;
+
+    width: 100%;
+    height: 100%;
+
+    background: #000;
+
+    color: white;
+
+    font-family: Arial, sans-serif;
+
+    overflow: hidden;
+
+}
+
+
+/* =========================================================
+   PLAYER
+   ========================================================= */
+
+#playerContainer {
+
+    position: fixed;
+
+    left: 0;
+    top: 0;
+
+    width: 100%;
+    height: 100%;
+
+    background: #000;
+
+    z-index: 1;
+
+}
+
+
+#player {
+
+    width: 100%;
+    height: 100%;
+
+    border: 0;
+
+    background: #000;
+
+}
+
+
+/* =========================================================
+   SIDEBAR
+   ========================================================= */
+
+#sidebar {
+
+    position: fixed;
+
+    left: 0;
+    top: 0;
+
+    width: 270px;
+    height: 100vh;
+
+    background: rgba(15, 23, 42, 0.97);
+
+    padding: 15px;
+
+    overflow-y: auto;
+
+    z-index: 1000;
+
+    transform: translateX(0);
+
+    transition: transform 0.35s ease;
+
+    box-shadow: 5px 0 20px rgba(0,0,0,0.5);
+
+}
+
+
+/* Sidebar nascosta */
+
+#sidebar.hidden {
+
+    transform: translateX(-100%);
+
+}
+
+
+/* =========================================================
+   TITOLO
+   ========================================================= */
+
+#sidebar h1 {
+
+    margin: 5px 0 20px 0;
+
+    text-align: center;
+
+    font-size: 22px;
+
+}
+
+
+/* =========================================================
+   CANALI
+   ========================================================= */
+
+.channel {
+
+    width: 100%;
+
+    display: block;
+
+    margin-bottom: 10px;
+
+    padding: 15px 12px;
+
+    background: #1f2937;
+
+    border: 2px solid transparent;
+
+    border-radius: 8px;
+
+    color: white;
+
+    font-size: 16px;
+
+    cursor: pointer;
+
+    text-align: left;
+
+}
+
+
+.channel:hover {
+
+    background: #374151;
+
+}
+
+
+.channel:focus {
+
+    outline: none;
+
+    border-color: white;
+
+    background: #16a34a;
+
+}
+
+
+.channel.active {
+
+    background: #16a34a;
+
+    border-color: white;
+
+}
+
+
+/* =========================================================
+   NOME CANALE
+   ========================================================= */
+
+#topBar {
+
+    position: fixed;
+
+    top: 15px;
+    left: 290px;
+
+    z-index: 900;
+
+    background: rgba(0,0,0,0.65);
+
+    padding: 8px 15px;
+
+    border-radius: 6px;
+
+    font-size: 18px;
+
+    font-weight: bold;
+
+    transition: opacity 0.3s ease;
+
+}
+
+
+#topBar.hidden {
+
+    opacity: 0;
+
+}
+
+
+/* =========================================================
+   ZONA INVISIBILE PER RIAPRIRE IL MENU
+   ========================================================= */
+
+#leftTrigger {
+
+    position: fixed;
+
+    left: 0;
+    top: 0;
+
+    width: 25px;
+    height: 100vh;
+
+    z-index: 800;
+
+}
+
+
+/* =========================================================
+   BOTTONE CHIUDI
+   ========================================================= */
+
+#closeMenu {
+
+    position: absolute;
+
+    top: 10px;
+    right: 10px;
+
+    background: #374151;
+
+    border: none;
+
+    color: white;
+
+    width: 35px;
+    height: 35px;
+
+    border-radius: 50%;
+
+    cursor: pointer;
+
+    font-size: 18px;
+
+}
+
+
+/* =========================================================
+   RESPONSIVE
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+    #sidebar {
+
+        width: 230px;
+
+    }
+
+    #topBar {
+
+        left: 250px;
+
+    }
+
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<!-- =========================================================
+     PLAYER
+     ========================================================= -->
+
+<div id="playerContainer">
+
+    <iframe
+        id="player"
+        src="https://dlhd.pk/embed/stream-451.php"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen>
+    </iframe>
+
+</div>
+
+
+
+<!-- =========================================================
+     SIDEBAR
+     ========================================================= -->
+
+<div id="sidebar">
+
+    <button
+        id="closeMenu"
+        onclick="hideSidebar()">
+
+        ×
+
+    </button>
+
+
+    <h1>📺 CANALI</h1>
+
+
+    <button
+        class="channel active"
+        onclick="playChannel(0)"
+        tabindex="1">
+
+        ▶ Canale 451
+
+    </button>
+
+
+    <button
+        class="channel"
+        onclick="playChannel(1)"
+        tabindex="2">
+
+        ▶ Canale 401
+
+    </button>
+
+
+</div>
+
+
+
+<!-- =========================================================
+     NOME CANALE
+     ========================================================= -->
+
+<div id="topBar">
+
+    <span id="currentChannel">
+        Canale 451
+    </span>
+
+</div>
+
+
+
+<!-- =========================================================
+     ZONA PER RIAPRIRE IL MENU
+     ========================================================= -->
+
+<div id="leftTrigger"></div>
+
+
+
+<script>
+
+
+/* =========================================================
+   CANALI
+   ========================================================= */
+
+const channels = [
+
+    {
+        name: "Canale 451",
+        url: "https://dlhd.pk/embed/stream-451.php"
+    },
+
+    {
+        name: "Canale 401",
+        url: "https://dlhd.pk/embed/stream-401.php"
+    }
+
+];
+
+
+
+/* =========================================================
+   VARIABILI
+   ========================================================= */
+
+let hideTimer;
+
+let currentIndex = 0;
+
+
+
+/* =========================================================
+   RIPRODUCI CANALE
+   ========================================================= */
+
+function playChannel(index) {
+
+    const player =
+        document.getElementById("player");
+
+    const currentChannel =
+        document.getElementById("currentChannel");
+
+    const buttons =
+        document.querySelectorAll(".channel");
+
+
+    currentIndex = index;
+
+
+    /* Cambia stream */
+
+    player.src =
+        channels[index].url;
+
+
+    /* Cambia nome */
+
+    currentChannel.textContent =
+        channels[index].name;
+
+
+    /* Aggiorna selezione */
+
+    buttons.forEach(function(button) {
+
+        button.classList.remove("active");
+
+    });
+
+
+    buttons[index].classList.add("active");
+
+
+    /* Nasconde menu dopo 3 secondi */
+
+    startHideTimer();
+
+}
+
+
+
+/* =========================================================
+   MOSTRA SIDEBAR
+   ========================================================= */
+
+function showSidebar() {
+
+    const sidebar =
+        document.getElementById("sidebar");
+
+    const topBar =
+        document.getElementById("topBar");
+
+
+    sidebar.classList.remove("hidden");
+
+    topBar.classList.remove("hidden");
+
+
+    startHideTimer();
+
+}
+
+
+
+/* =========================================================
+   NASCONDE SIDEBAR
+   ========================================================= */
+
+function hideSidebar() {
+
+    const sidebar =
+        document.getElementById("sidebar");
+
+    const topBar =
+        document.getElementById("topBar");
+
+
+    sidebar.classList.add("hidden");
+
+    topBar.classList.add("hidden");
+
+}
+
+
+
+/* =========================================================
+   TIMER 3 SECONDI
+   ========================================================= */
+
+function startHideTimer() {
+
+    clearTimeout(hideTimer);
+
+
+    hideTimer = setTimeout(function() {
+
+        hideSidebar();
+
+    }, 3000);
+
+}
+
+
+
+/* =========================================================
+   RIAPRI QUANDO IL MOUSE VA A SINISTRA
+   ========================================================= */
+
+document
+.getElementById("leftTrigger")
+.addEventListener("mouseenter", function() {
+
+    showSidebar();
+
+});
+
+
+
+/* =========================================================
+   MOUSE SULLA SIDEBAR
+   ========================================================= */
+
+document
+.getElementById("sidebar")
+.addEventListener("mouseenter", function() {
+
+    clearTimeout(hideTimer);
+
+});
+
+
+
+/* =========================================================
+   QUANDO ESCE DALLA SIDEBAR
+   ========================================================= */
+
+document
+.getElementById("sidebar")
+.addEventListener("mouseleave", function() {
+
+    startHideTimer();
+
+});
+
+
+
+/* =========================================================
+   TELECOMANDO / TASTIERA
+   ========================================================= */
+
+document.addEventListener("keydown", function(event) {
+
+    const buttons =
+        Array.from(
+            document.querySelectorAll(".channel")
+        );
+
+
+    const current =
+        document.activeElement;
+
+
+    const index =
+        buttons.indexOf(current);
+
+
+
+    /* ================================================
+       FRECCIA SINISTRA
+       ================================================ */
+
+    if (event.key === "ArrowLeft") {
+
+        event.preventDefault();
+
+        showSidebar();
+
+        buttons[currentIndex].focus();
+
+        return;
+
+    }
+
+
+
+    /* ================================================
+       FRECCIA GIÙ
+       ================================================ */
+
+    if (event.key === "ArrowDown") {
+
+        event.preventDefault();
+
+        showSidebar();
+
+
+        let next =
+            index + 1;
+
+
+        if (next <= 0 ||
+            next >= buttons.length) {
+
+            next = 0;
+
+        }
+
+
+        buttons[next].focus();
+
+        return;
+
+    }
+
+
+
+    /* ================================================
+       FRECCIA SU
+       ================================================ */
+
+    if (event.key === "ArrowUp") {
+
+        event.preventDefault();
+
+        showSidebar();
+
+
+        let previous =
+            index - 1;
+
+
+        if (previous < 0) {
+
+            previous =
+                buttons.length - 1;
+
+        }
+
+
+        buttons[previous].focus();
+
+        return;
+
+    }
+
+
+
+    /* ================================================
+       ENTER / OK
+       ================================================ */
+
+    if (
+        event.key === "Enter" ||
+        event.key === " "
+    ) {
+
+        if (index >= 0) {
+
+            event.preventDefault();
+
+            playChannel(index);
+
+        }
+
+    }
+
+
+});
+
+
+
+/* =========================================================
+   AVVIO
+   ========================================================= */
+
+window.addEventListener("load", function() {
+
+    const firstButton =
+        document.querySelector(".channel");
+
+
+    if (firstButton) {
+
+        firstButton.focus();
+
+    }
+
+
+    startHideTimer();
+
+});
+
+</script>
+
+
+</body>
+
+</html>
