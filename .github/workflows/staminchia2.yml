@@ -1,45 +1,109 @@
-name: Esegui Staminchia Manualmente
+name: Esegui Staminchia2 Manualmente
 
-# Configura il trigger solo per l'avvio manuale
 on:
   workflow_dispatch:
 
 jobs:
   run-scraper:
+
     runs-on: ubuntu-latest
 
     steps:
-    # 1. Scarica il codice del tuo repository
-    - name: Checkout del repository
-      uses: actions/checkout@v4
 
-    # 2. Configura Python sul server di GitHub
-    - name: Configura Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.x'
+      # =====================================================
+      # 1. SCARICA IL REPOSITORY
+      # =====================================================
 
-    # 3. Installa le librerie necessarie (BeautifulSoup4 e Requests)
-    - name: Installa le dipendenze
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests beautifulsoup4
+      - name: Checkout del repository
+        uses: actions/checkout@v4
 
-    # 4. Esegue lo script che genera JSON e HTML
-    - name: Esegui lo script staminchia2.py
-      run: python staminchia.py
 
-    # 5. Salva i file generati e fa il push automatico su GitHub
-    - name: Salva e pusha i file aggiornati
-      run: |
-        git config --local user.email "github-actions[bot]@://github.com"
-        git config --local user.name "github-actions[bot]"
-        git add eventi.json index.html
-        
-        # Verifica se ci sono modifiche prima di fare il commit per evitare errori
-        if ! git diff --cached --quiet; then
-          git commit -m "Aggiornamento palinsesto (Avvio Manuale)"
-          git push
-        else
-          echo "Nessuna modifica rilevata nei file."
-        fi
+      # =====================================================
+      # 2. CONFIGURA PYTHON
+      # =====================================================
+
+      - name: Configura Python
+        uses: actions/setup-python@v5
+
+        with:
+          python-version: '3.x'
+
+
+      # =====================================================
+      # 3. INSTALLA LE LIBRERIE
+      # =====================================================
+
+      - name: Installa dipendenze
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+
+      # =====================================================
+      # 4. ESEGUE LO SCRIPT PYTHON
+      # =====================================================
+
+      - name: Esegui staminchia2.py
+        run: |
+          python staminchia2.py
+
+
+      # =====================================================
+      # 5. CONTROLLA CHE INDEX.HTML SIA STATO CREATO
+      # =====================================================
+
+      - name: Controlla index.html
+        run: |
+          echo "Contenuto della cartella:"
+          ls -la
+
+          echo ""
+          echo "Controllo index.html..."
+
+          if [ ! -f index.html ]; then
+            echo "ERRORE: index.html NON è stato creato!"
+            exit 1
+          fi
+
+          echo "OK: index.html esiste."
+
+          echo ""
+          echo "Dimensione index.html:"
+          wc -c index.html
+
+
+      # =====================================================
+      # 6. COMMIT E PUSH SU GITHUB
+      # =====================================================
+
+      - name: Commit e push index.html
+        run: |
+
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          echo "Aggiungo index.html..."
+
+          git add index.html
+
+          echo ""
+          echo "Controllo modifiche..."
+
+          if git diff --cached --quiet; then
+
+            echo "Nessuna modifica rilevata."
+
+          else
+
+            echo "Modifiche rilevate."
+
+            git commit -m "Aggiornamento automatico palinsesto"
+
+            git push
+
+            echo ""
+            echo "======================================"
+            echo "PUSH COMPLETATO"
+            echo "======================================"
+
+          fi
