@@ -786,6 +786,11 @@
         "title": "⚽ 🇬🇷 UEFA Europa League : Benfica vs AGF",
         "channels": [
             {
+                "name": "SIC Portugal",
+                "id": "722",
+                "watch_url": "https://dlhd.pk/embed/stream-722.php"
+            },
+            {
                 "name": "TV Portugal",
                 "id": "3021",
                 "watch_url": "https://dlhd.pk/embed/stream-3021.php"
