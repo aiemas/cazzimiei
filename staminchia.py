@@ -52,7 +52,7 @@ for event_block in event_blocks:
         if match:
             channel_id = match.group(1)
             # URL convertito nel formato embed richiesto
-            final_url = f"https://dlhd.pk{channel_id}.php"
+            final_url = f"https://dlhd.pk/embed/stream-{channel_id}.php"
         else:
             channel_id = ""
             final_url = ""
