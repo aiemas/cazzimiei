@@ -1407,6 +1407,17 @@
         ]
     },
     {
+        "time": "19:00",
+        "title": "⚽ Bolivia Copa Bolivia : Always Ready vs Real Oruro",
+        "channels": [
+            {
+                "name": "Event SD Stream",
+                "id": "169",
+                "watch_url": "https://dlhd.pk/embed/stream-169.php"
+            }
+        ]
+    },
+    {
         "time": "18:15",
         "title": "⚽ Club Friendly : Real Madrid II vs Zamora",
         "channels": [
