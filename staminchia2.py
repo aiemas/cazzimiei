@@ -484,6 +484,42 @@ body {
 
 }
 
+#searchBox {
+
+    width: 100%;
+
+    padding: 12px;
+
+    margin-bottom: 15px;
+
+    background: #1f2937;
+
+    border: 2px solid #374151;
+
+    border-radius: 8px;
+
+    color: white;
+
+    font-size: 16px;
+
+    outline: none;
+
+}
+
+#searchBox:focus {
+
+    border-color: white;
+
+    background: #374151;
+
+}
+
+#searchBox::placeholder {
+
+    color: #9ca3af;
+
+}
+
 
 /* =========================================================
    EVENTO
@@ -744,8 +780,13 @@ body {
 
     <h1>📺 EVENTI</h1>
 
+<input
+    type="text"
+    id="searchBox"
+    placeholder="🔎 Cerca evento o canale..."
+    autocomplete="off">
 
-    <div id="channelList"></div>
+<div id="channelList"></div>
 
 
 </div>
@@ -801,6 +842,8 @@ const channels = [];
 
 const channelList =
     document.getElementById("channelList");
+const searchBox =
+    document.getElementById("searchBox");
 
 
 const player =
@@ -950,6 +993,46 @@ events.forEach(function(event) {
     );
 
 });
+
+searchBox.addEventListener(
+    "input",
+    function() {
+
+        const search =
+            searchBox.value
+                .toLowerCase()
+                .trim();
+
+        const eventsContainers =
+            document.querySelectorAll(".event");
+
+        eventsContainers.forEach(
+            function(container) {
+
+                const text =
+                    container.textContent
+                        .toLowerCase();
+
+                if (
+                    text.includes(search)
+                ) {
+
+                    container.style.display =
+                        "";
+
+                }
+                else {
+
+                    container.style.display =
+                        "none";
+
+                }
+
+            }
+        );
+
+    }
+);
 
 
 /* =========================================================
