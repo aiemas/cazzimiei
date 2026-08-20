@@ -322,10 +322,11 @@ for event in events:
     html_content += f'                <div class="title">{event["title"]}</div>\n'
     html_content += f'                <div class="channels-wrapper">\n'
     
-    for ch in valid_ch:
+        for ch in valid_ch:
         t_clean = event["title"].replace("'", " ").replace('"', ' ')
         c_clean = ch["name"].replace("'", " ").replace('"', ' ')
-        html_content += f'                    <button class="btn-channel" onclick="loadStream(\'{ch["watch_url"]}\', \'{t_clean} - {c_clean}\', event)">🔗 {ch["name"]}</button>\n'
+        # Raddrizzato l'uso degli apici esterni per evitare i conflitti con il backslash
+        html_content += """                    <button class="btn-channel" onclick="loadStream('""" + ch["watch_url"] + """', '""" + t_clean + " - " + c_clean + """', event)">🔗 """ + ch["name"] + """</button>\n"""
             
     html_content += f'                </div>\n'
     html_content += f'            </div>\n'
@@ -345,12 +346,13 @@ html_content += """        </div>
             document.querySelectorAll('.event-card').forEach(c => c.classList.remove('active'));
             if (!wasActive) card.classList.add('active');
         }
-        function loadStream(url, title, e) {
-            e.stopPropagation();
+                function loadStream(url, title) {
+            // Riferimenti corretti per lo svuotamento del placeholder e iniezione URL
             document.getElementById('placeholder').style.display = 'none';
             document.getElementById('live-player').src = url;
             document.getElementById('p-title').textContent = "🟢 In onda: " + title;
         }
+
         document.getElementById('search').addEventListener('input', function(e) {
             const q = e.target.value.toLowerCase();
             document.querySelectorAll('.event-card').forEach(card => {
