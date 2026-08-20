@@ -1,406 +1,1397 @@
-import requests
-from bs4 import BeautifulSoup
-import json
-import re
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>TV Player</title>
 
 
-# ============================================================
-# CONFIGURAZIONE
-# ============================================================
+<style>
 
-URL = "https://dlstreams.st"
-OUTPUT_FILE = "eventi.json"
-OUTPUT_HTML = "index.html"  # Nome ideale per GitHub Pages
+/* =========================================================
+   BASE
+   ========================================================= */
 
+* {
+    box-sizing: border-box;
+}
 
-# ============================================================
-# HEADERS
-# ============================================================
+html,
+body {
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/151.0.0.0 Safari/537.36"
-    )
+    margin: 0;
+    padding: 0;
+
+    width: 100%;
+    height: 100%;
+
+    background: #000;
+
+    color: white;
+
+    font-family: Arial, sans-serif;
+
+    overflow: hidden;
+
 }
 
 
-# ============================================================
-# SCARICA LA PAGINA
-# ============================================================
+/* =========================================================
+   PLAYER
+   ========================================================= */
 
-print("==========================================")
-print("Scaricamento pagina...")
-print("URL:", URL)
-print("==========================================")
+#playerContainer {
 
-try:
+    position: fixed;
 
-    response = requests.get(
-        URL,
-        headers=HEADERS,
-        timeout=30
-    )
+    left: 0;
+    top: 0;
 
-    response.raise_for_status()
+    width: 100%;
+    height: 100%;
 
-except Exception as e:
+    background: #000;
 
-    print()
-    print("ERRORE durante il download:")
-    print(e)
-    exit()
+    z-index: 1;
 
+}
 
-html = response.text
 
-print()
-print("Pagina scaricata correttamente.")
-print("Caratteri HTML:", len(html))
+#player {
 
+    width: 100%;
+    height: 100%;
 
-# ============================================================
-# PARSING HTML
-# ============================================================
+    border: 0;
 
-soup = BeautifulSoup(
-    html,
-    "html.parser"
-)
+    background: #000;
 
+}
 
-# ============================================================
-# TROVA GLI EVENTI
-# ============================================================
 
-events = []
+/* =========================================================
+   SIDEBAR
+   ========================================================= */
 
-event_blocks = soup.select(
-    "div.schedule__event"
-)
+#sidebar {
 
+    position: fixed;
 
-print()
-print("Eventi trovati:", len(event_blocks))
-print()
+    left: 0;
+    top: 0;
 
+    width: 270px;
+    height: 100vh;
 
-# ============================================================
-# ELABORA GLI EVENTI
-# ============================================================
+    background: rgba(15, 23, 42, 0.97);
 
-for event_block in event_blocks:
+    padding: 15px;
 
-    # --------------------------------------------------------
-    # ORARIO
-    # --------------------------------------------------------
+    overflow-y: auto;
 
-    time_element = event_block.select_one(
-        ".schedule__time"
-    )
+    z-index: 1000;
 
-    if time_element:
+    transform: translateX(0);
 
-        event_time = time_element.get_text(
-            " ",
-            strip=True
-        )
+    transition: transform 0.35s ease;
 
-    else:
+    box-shadow: 5px 0 20px rgba(0,0,0,0.5);
 
-        event_time = ""
+}
 
 
-    # --------------------------------------------------------
-    # NOME EVENTO
-    # --------------------------------------------------------
+/* Sidebar nascosta */
 
-    title_element = event_block.select_one(
-        ".schedule__eventTitle"
-    )
+#sidebar.hidden {
 
-    if title_element:
+    transform: translateX(-100%);
 
-        event_title = title_element.get_text(
-            " ",
-            strip=True
-        )
+}
 
-    else:
 
-        event_title = ""
+/* =========================================================
+   TITOLO
+   ========================================================= */
 
+#sidebar h1 {
 
-    # --------------------------------------------------------
-    # CANALI
-    # --------------------------------------------------------
+    margin: 5px 0 20px 0;
 
-    channels = []
+    text-align: center;
 
+    font-size: 22px;
 
-    channel_elements = event_block.select(
-        ".schedule__channels a"
-    )
+}
 
 
-    for channel_element in channel_elements:
+/* =========================================================
+   EVENTI
+   ========================================================= */
 
-        # ----------------------------------------------------
-        # NOME CANALE
-        # ----------------------------------------------------
+.event {
 
-        channel_name = channel_element.get_text(
-            " ",
-            strip=True
-        )
+    margin-bottom: 18px;
 
+}
 
-        # ----------------------------------------------------
-        # HREF
-        # ----------------------------------------------------
 
-        href = channel_element.get(
-            "href",
-            ""
-        )
+.eventTitle {
 
+    padding: 10px 8px;
 
-        # ----------------------------------------------------
-        # ID
-        # ----------------------------------------------------
+    margin-bottom: 8px;
 
-        match = re.search(
-            r"[?&]id=(\d+)",
-            href
-        )
+    background: #111827;
 
+    border-radius: 6px;
 
-        if match:
+    font-size: 15px;
 
-            channel_id = match.group(1)
-            # COSTRUISCE IL NUOVO URL EMBED RICHIESTO
-            final_url = f"https://dlhd.pk/embed/stream-{channel_id}.php"
+    font-weight: bold;
 
-        else:
+    line-height: 1.3;
 
-            channel_id = ""
-            final_url = ""
+}
 
 
-        # ----------------------------------------------------
-        # AGGIUNGI CANALE
-        # ----------------------------------------------------
+.eventTime {
 
-        channels.append({
+    color: #22c55e;
 
-            "name": channel_name,
+    margin-right: 5px;
 
-            "id": channel_id,
+}
 
-            "watch_url": final_url
-
-        })
-
-
-    # --------------------------------------------------------
-    # SALVA EVENTO
-    # --------------------------------------------------------
-
-    events.append({
-
-        "time": event_time,
-
-        "title": event_title,
-
-        "channels": channels
-
-    })
-
-
-# ============================================================
-# SALVA JSON
-# ============================================================
-
-with open(
-    OUTPUT_FILE,
-    "w",
-    encoding="utf-8"
-) as file:
-
-    json.dump(
-        events,
-        file,
-        ensure_ascii=False,
-        indent=4
-    )
-
-
-# ============================================================
-# GENERAZIONE STRUTTURA HTML CON BARRA E PLAYER INTEGRATO
-# ============================================================
-
-html_content = """<!DOCTYPE html>
-<html lang="it">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IPTV Dashboard</title>
-    <style>
-        :root {
-            --bg: #0b0f19; --sidebar: #131a2c; --card: #1e293b;
-            --text: #f8fafc; --muted: #94a3b8; --accent: #38bdf8;
-        }
-        * { box-sizing: border-box; margin: 0; padding: 0; }
-        body {
-            font-family: system-ui, -apple-system, sans-serif;
-            background: var(--bg); color: var(--text);
-            display: flex; height: 100vh; overflow: hidden;
-        }
-        .sidebar {
-            width: 360px; background: var(--sidebar);
-            border-right: 1px solid #223049; display: flex; flex-direction: column;
-        }
-        .sidebar-header { padding: 15px; border-bottom: 1px solid #223049; }
-        .sidebar-header h1 { font-size: 1.2rem; color: var(--accent); margin-bottom: 10px; }
-        .search-box {
-            width: 100%; padding: 8px 12px; background: #1e293b;
-            border: 1px solid #334155; border-radius: 6px; color: #fff; outline: none;
-        }
-        .events-list { flex: 1; overflow-y: auto; padding: 10px; }
-        .event-card {
-            background: var(--card); border-radius: 6px; padding: 10px;
-            margin-bottom: 8px; cursor: pointer; border: 1px solid transparent;
-        }
-        .event-card:hover { border-color: #334155; }
-        .time {
-            background: var(--accent); color: #0b0f19; padding: 2px 5px;
-            border-radius: 4px; font-weight: bold; font-size: 0.75rem; display: inline-block; margin-bottom: 4px;
-        }
-        .title { font-size: 0.9rem; font-weight: 600; }
-        .channels-wrapper {
-            margin-top: 8px; display: none; padding-top: 6px; border-top: 1px solid #334155; flex-direction: column; gap: 4px;
-        }
-        .event-card.active .channels-wrapper { display: flex; }
-        .btn-channel {
-            background: #334155; color: #fff; padding: 6px 10px; border-radius: 4px;
-            font-size: 0.8rem; text-align: left; border: none; cursor: pointer; width: 100%;
-        }
-        .btn-channel:hover { background: var(--accent); color: #0b0f19; }
-        .main-content { flex: 1; display: flex; flex-direction: column; background: #000; }
-        .player-header { background: var(--sidebar); padding: 12px 15px; border-bottom: 1px solid #223049; font-weight: bold; }
-        .player-container { flex: 1; position: relative; width: 100%; height: 100%; }
-        iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; background: #000; }
-        .no-video {
-            position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-            text-align: center; color: var(--muted); font-size: 1rem; width: 90%; pointer-events: none;
-        }
-        @media (max-width: 768px) {
-            body { flex-direction: column-reverse; }
-            .sidebar { width: 100%; height: 40vh; } .main-content { height: 60vh; }
-        }
-    </style>
+
+/* =========================================================
+   CANALI
+   ========================================================= */
+
+.channel {
+
+    width: 100%;
+
+    display: block;
+
+    margin-bottom: 7px;
+
+    padding: 12px 10px;
+
+    background: #1f2937;
+
+    border: 2px solid transparent;
+
+    border-radius: 8px;
+
+    color: white;
+
+    font-size: 15px;
+
+    cursor: pointer;
+
+    text-align: left;
+
+}
+
+
+.channel:hover {
+
+    background: #374151;
+
+}
+
+
+.channel:focus {
+
+    outline: none;
+
+    border-color: white;
+
+    background: #16a34a;
+
+}
+
+
+.channel.active {
+
+    background: #16a34a;
+
+    border-color: white;
+
+}
+
+
+/* =========================================================
+   MESSAGGI
+   ========================================================= */
+
+.message {
+
+    text-align: center;
+
+    color: #9ca3af;
+
+    padding: 20px 5px;
+
+    font-size: 14px;
+
+}
+
+
+.error {
+
+    color: #ef4444;
+
+}
+
+
+/* =========================================================
+   NOME CANALE
+   ========================================================= */
+
+#topBar {
+
+    position: fixed;
+
+    top: 15px;
+    left: 290px;
+
+    z-index: 900;
+
+    background: rgba(0,0,0,0.65);
+
+    padding: 8px 15px;
+
+    border-radius: 6px;
+
+    font-size: 18px;
+
+    font-weight: bold;
+
+    transition: opacity 0.3s ease;
+
+}
+
+
+#topBar.hidden {
+
+    opacity: 0;
+
+}
+
+
+/* =========================================================
+   ZONA INVISIBILE PER RIAPRIRE IL MENU
+   ========================================================= */
+
+#leftTrigger {
+
+    position: fixed;
+
+    left: 0;
+    top: 0;
+
+    width: 25px;
+    height: 100vh;
+
+    z-index: 800;
+
+}
+
+
+/* =========================================================
+   BOTTONE CHIUDI
+   ========================================================= */
+
+#closeMenu {
+
+    position: absolute;
+
+    top: 10px;
+    right: 10px;
+
+    background: #374151;
+
+    border: none;
+
+    color: white;
+
+    width: 35px;
+    height: 35px;
+
+    border-radius: 50%;
+
+    cursor: pointer;
+
+    font-size: 18px;
+
+}
+
+
+/* =========================================================
+   RESPONSIVE
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+    #sidebar {
+
+        width: 230px;
+
+    }
+
+    #topBar {
+
+        left: 250px;
+
+    }
+
+}
+
+</style>
+
 </head>
+
+
 <body>
-    <div class="sidebar">
-        <div class="sidebar-header">
-            <h1>📺 Palinsesto Live</h1>
-            <input type="text" id="search" class="search-box" placeholder="Cerca evento...">
+
+
+<!-- =========================================================
+     PLAYER
+     ========================================================= -->
+
+<div id="playerContainer">
+
+    <iframe
+        id="player"
+        src="about:blank"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen>
+    </iframe>
+
+</div>
+
+
+
+<!-- =========================================================
+     SIDEBAR
+     ========================================================= -->
+
+<div id="sidebar">
+
+    <button
+        id="closeMenu"
+        onclick="hideSidebar()">
+
+        ×
+
+    </button>
+
+
+    <h1>📺 EVENTI</h1>
+
+
+    <div id="channelList">
+
+        <div class="message">
+            Caricamento eventi...
         </div>
-        <div class="events-list">
-"""
 
-for event in events:
-    if not event["channels"]:
-        continue
-    valid_ch = [c for c in event["channels"] if c["watch_url"]]
-    if not valid_ch:
-        continue
-
-    html_content += f'            <div class="event-card" onclick="toggleCard(this)">\n'
-    html_content += f'                <div><span class="time">{event["time"]}</span></div>\n'
-    html_content += f'                <div class="title">{event["title"]}</div>\n'
-    html_content += f'                <div class="channels-wrapper">\n'
-    
-        for ch in valid_ch:
-        t_clean = event["title"].replace("'", " ").replace('"', ' ')
-        c_clean = ch["name"].replace("'", " ").replace('"', ' ')
-        # Raddrizzato l'uso degli apici esterni per evitare i conflitti con il backslash
-        html_content += """                    <button class="btn-channel" onclick="loadStream('""" + ch["watch_url"] + """', '""" + t_clean + " - " + c_clean + """', event)">🔗 """ + ch["name"] + """</button>\n"""
-            
-    html_content += f'                </div>\n'
-    html_content += f'            </div>\n'
-
-html_content += """        </div>
     </div>
-    <div class="main-content">
-        <div class="player-header" id="p-title">Nessun canale selezionato</div>
-        <div class="player-container">
-            <div class="no-video" id="placeholder">Scegli un evento e clicca su un canale per avviare il riproduttore</div>
-            <iframe id="live-player" src="" allowfullscreen allow="autoplay; encrypted-media"></iframe>
-        </div>
-    </div>
-    <script>
-        function toggleCard(card) {
-            const wasActive = card.classList.contains('active');
-            document.querySelectorAll('.event-card').forEach(c => c.classList.remove('active'));
-            if (!wasActive) card.classList.add('active');
-        }
-                function loadStream(url, title) {
-            // Riferimenti corretti per lo svuotamento del placeholder e iniezione URL
-            document.getElementById('placeholder').style.display = 'none';
-            document.getElementById('live-player').src = url;
-            document.getElementById('p-title').textContent = "🟢 In onda: " + title;
+
+
+</div>
+
+
+
+<!-- =========================================================
+     NOME CANALE
+     ========================================================= -->
+
+<div id="topBar">
+
+    <span id="currentChannel">
+        Nessun canale
+    </span>
+
+</div>
+
+
+
+<!-- =========================================================
+     ZONA PER RIAPRIRE IL MENU
+     ========================================================= -->
+
+<div id="leftTrigger"></div>
+
+
+
+<script>
+
+
+/* =========================================================
+   VARIABILI
+   ========================================================= */
+
+let channels = [];
+
+let hideTimer;
+
+let currentIndex = 0;
+
+
+/* =========================================================
+   ELEMENTI HTML
+   ========================================================= */
+
+const channelList =
+    document.getElementById("channelList");
+
+const player =
+    document.getElementById("player");
+
+const currentChannel =
+    document.getElementById("currentChannel");
+
+const sidebar =
+    document.getElementById("sidebar");
+
+const topBar =
+    document.getElementById("topBar");
+
+
+/* =========================================================
+   CARICA EVENTI.JSON
+   ========================================================= */
+
+async function loadEvents() {
+
+    try {
+
+        console.log("====================================");
+        console.log("Caricamento eventi.json...");
+        console.log("====================================");
+
+
+        const response =
+            await fetch(
+                "eventi.json?t=" + Date.now()
+            );
+
+
+        if (!response.ok) {
+
+            throw new Error(
+                "HTTP " + response.status
+            );
+
         }
 
-        document.getElementById('search').addEventListener('input', function(e) {
-            const q = e.target.value.toLowerCase();
-            document.querySelectorAll('.event-card').forEach(card => {
-                card.style.display = card.textContent.toLowerCase().includes(q) ? 'block' : 'none';
-            });
+
+        const events =
+            await response.json();
+
+
+        console.log(
+            "Eventi ricevuti:",
+            events.length
+        );
+
+
+        /* =================================================
+           CONTROLLA CHE CI SIANO EVENTI
+           ================================================= */
+
+        if (
+            !Array.isArray(events) ||
+            events.length === 0
+        ) {
+
+            channelList.innerHTML =
+                '<div class="message">' +
+                'Nessun evento trovato.' +
+                '</div>';
+
+            return;
+
+        }
+
+
+        /* =================================================
+           SVUOTA LA SIDEBAR
+           ================================================= */
+
+        channelList.innerHTML = "";
+
+
+        /* =================================================
+           INDICE CANALE
+           ================================================= */
+
+        let globalIndex = 0;
+
+
+        /* =================================================
+           ELABORA GLI EVENTI
+           ================================================= */
+
+        events.forEach(function(event) {
+
+
+            /* =============================================
+               CONTENITORE EVENTO
+               ============================================= */
+
+            const eventContainer =
+                document.createElement("div");
+
+            eventContainer.className =
+                "event";
+
+
+            /* =============================================
+               TITOLO EVENTO
+               ============================================= */
+
+            const eventTitle =
+                document.createElement("div");
+
+            eventTitle.className =
+                "eventTitle";
+
+
+            const time =
+                event.time || "";
+
+
+            const title =
+                event.title || "Evento";
+
+
+            eventTitle.innerHTML =
+                '<span class="eventTime">' +
+                escapeHtml(time) +
+                '</span>' +
+                escapeHtml(title);
+
+
+            eventContainer.appendChild(
+                eventTitle
+            );
+
+
+            /* =============================================
+               CONTROLLA I CANALI
+               ============================================= */
+
+            if (
+                !Array.isArray(event.channels) ||
+                event.channels.length === 0
+            ) {
+
+                const noChannels =
+                    document.createElement("div");
+
+                noChannels.className =
+                    "message";
+
+                noChannels.textContent =
+                    "Nessun canale disponibile";
+
+                eventContainer.appendChild(
+                    noChannels
+                );
+
+
+                channelList.appendChild(
+                    eventContainer
+                );
+
+
+                return;
+
+            }
+
+
+            /* =============================================
+               CREA I CANALI
+               ============================================= */
+
+            event.channels.forEach(
+                function(channel) {
+
+
+                    /* =====================================
+                       CONTROLLO URL
+                       ===================================== */
+
+                    if (
+                        !channel.watch_url
+                    ) {
+
+                        return;
+
+                    }
+
+
+                    /* =====================================
+                       SALVA CANALE
+                       ===================================== */
+
+                    const channelData = {
+
+                        name:
+                            channel.name ||
+                            "Canale",
+
+                        id:
+                            channel.id ||
+                            "",
+
+                        url:
+                            channel.watch_url,
+
+                        eventTitle:
+                            title,
+
+                        eventTime:
+                            time
+
+                    };
+
+
+                    channels.push(
+                        channelData
+                    );
+
+
+                    /* =====================================
+                       CREA BOTTONE
+                       ===================================== */
+
+                    const button =
+                        document.createElement(
+                            "button"
+                        );
+
+
+                    button.className =
+                        "channel";
+
+
+                    button.textContent =
+                        "▶ " +
+                        channelData.name;
+
+
+                    button.setAttribute(
+                        "tabindex",
+                        globalIndex + 1
+                    );
+
+
+                    /* =====================================
+                       INDICE
+                       ===================================== */
+
+                    const buttonIndex =
+                        globalIndex;
+
+
+                    /* =====================================
+                       CLICK
+                       ===================================== */
+
+                    button.onclick =
+                        function() {
+
+                            playChannel(
+                                buttonIndex
+                            );
+
+                        };
+
+
+                    /* =====================================
+                       AGGIUNGI ALL'EVENTO
+                       ===================================== */
+
+                    eventContainer.appendChild(
+                        button
+                    );
+
+
+                    globalIndex++;
+
+                }
+            );
+
+
+            /* =============================================
+               AGGIUNGI EVENTO ALLA SIDEBAR
+               ============================================= */
+
+            channelList.appendChild(
+                eventContainer
+            );
+
         });
-    </script>
+
+
+        /* =================================================
+           RISULTATO
+           ================================================= */
+
+        console.log(
+            "Canali caricati:",
+            channels.length
+        );
+
+
+        /* =================================================
+           SE NON CI SONO CANALI
+           ================================================= */
+
+        if (channels.length === 0) {
+
+            channelList.innerHTML =
+                '<div class="message">' +
+                'Nessun canale disponibile.' +
+                '</div>';
+
+            return;
+
+        }
+
+
+        /* =================================================
+           AVVIO
+           ================================================= */
+
+        currentIndex = 0;
+
+
+        const buttons =
+            document.querySelectorAll(
+                ".channel"
+            );
+
+
+        if (buttons[0]) {
+
+            buttons[0].focus();
+
+            buttons[0].scrollIntoView({
+
+                behavior: "instant",
+
+                block: "center"
+
+            });
+
+        }
+
+
+        /*
+           Non facciamo partire automaticamente
+           il primo canale.
+
+           Il player rimane vuoto finché l'utente
+           non seleziona un canale.
+        */
+
+
+        resetHideTimer();
+
+
+    }
+    catch (error) {
+
+
+        console.error(
+            "Errore caricamento eventi:",
+            error
+        );
+
+
+        channelList.innerHTML =
+            '<div class="message error">' +
+            'Errore nel caricamento degli eventi.<br><br>' +
+            escapeHtml(error.message) +
+            '</div>';
+
+    }
+
+}
+
+
+/* =========================================================
+   ESCAPE HTML
+   ========================================================= */
+
+function escapeHtml(text) {
+
+    const div =
+        document.createElement("div");
+
+    div.textContent =
+        text;
+
+    return div.innerHTML;
+
+}
+
+
+/* =========================================================
+   RIPRODUCI CANALE
+   ========================================================= */
+
+function playChannel(index) {
+
+
+    if (
+        index < 0 ||
+        index >= channels.length
+    ) {
+
+        return;
+
+    }
+
+
+    const channel =
+        channels[index];
+
+
+    /* =====================================================
+       AGGIORNA INDICE
+       ===================================================== */
+
+    currentIndex =
+        index;
+
+
+    /* =====================================================
+       CAMBIA STREAM
+       ===================================================== */
+
+    player.src =
+        channel.url;
+
+
+    /* =====================================================
+       CAMBIA NOME
+       ===================================================== */
+
+    currentChannel.textContent =
+        channel.name;
+
+
+    /* =====================================================
+       AGGIORNA SELEZIONE
+       ===================================================== */
+
+    const buttons =
+        document.querySelectorAll(
+            ".channel"
+        );
+
+
+    buttons.forEach(
+        function(button) {
+
+            button.classList.remove(
+                "active"
+            );
+
+        }
+    );
+
+
+    if (buttons[index]) {
+
+        buttons[index].classList.add(
+            "active"
+        );
+
+    }
+
+
+    /* =====================================================
+       PORTA IL CANALE NELLA ZONA VISIBILE
+       ===================================================== */
+
+    if (buttons[index]) {
+
+        buttons[index].scrollIntoView({
+
+            behavior: "smooth",
+
+            block: "center"
+
+        });
+
+    }
+
+
+    /* =====================================================
+       MOSTRA SIDEBAR
+       ===================================================== */
+
+    showSidebar();
+
+
+    console.log(
+        "Riproduzione:",
+        channel.name,
+        channel.url
+    );
+
+}
+
+
+/* =========================================================
+   MOSTRA SIDEBAR
+   ========================================================= */
+
+function showSidebar() {
+
+
+    sidebar.classList.remove(
+        "hidden"
+    );
+
+
+    topBar.classList.remove(
+        "hidden"
+    );
+
+
+    resetHideTimer();
+
+}
+
+
+/* =========================================================
+   NASCONDE SIDEBAR
+   ========================================================= */
+
+function hideSidebar() {
+
+
+    clearTimeout(
+        hideTimer
+    );
+
+
+    sidebar.classList.add(
+        "hidden"
+    );
+
+
+    topBar.classList.add(
+        "hidden"
+    );
+
+}
+
+
+/* =========================================================
+   RESET TIMER 3 SECONDI
+   ========================================================= */
+
+function resetHideTimer() {
+
+
+    clearTimeout(
+        hideTimer
+    );
+
+
+    hideTimer =
+        setTimeout(
+            function() {
+
+                hideSidebar();
+
+            },
+            3000
+        );
+
+}
+
+
+/* =========================================================
+   MOUSE / TOUCH SULLA SIDEBAR
+   ========================================================= */
+
+sidebar.addEventListener(
+    "mousemove",
+    function() {
+
+
+        if (
+            !sidebar.classList.contains(
+                "hidden"
+            )
+        ) {
+
+            resetHideTimer();
+
+        }
+
+    }
+);
+
+
+sidebar.addEventListener(
+    "wheel",
+    function() {
+
+        showSidebar();
+
+    }
+);
+
+
+sidebar.addEventListener(
+    "touchstart",
+    function() {
+
+        showSidebar();
+
+    }
+);
+
+
+sidebar.addEventListener(
+    "touchmove",
+    function() {
+
+        showSidebar();
+
+    }
+);
+
+
+/* =========================================================
+   RIAPRI QUANDO IL MOUSE VA A SINISTRA
+   ========================================================= */
+
+document
+    .getElementById("leftTrigger")
+    .addEventListener(
+        "mouseenter",
+        function() {
+
+            showSidebar();
+
+        }
+    );
+
+
+/* =========================================================
+   MOVIMENTO SULLA ZONA SINISTRA
+   ========================================================= */
+
+document
+    .getElementById("leftTrigger")
+    .addEventListener(
+        "mousemove",
+        function() {
+
+            showSidebar();
+
+        }
+    );
+
+
+/* =========================================================
+   TELECOMANDO / TASTIERA
+   ========================================================= */
+
+document.addEventListener(
+    "keydown",
+    function(event) {
+
+
+        /* =================================================
+           PRENDI TUTTI I CANALI
+           ================================================= */
+
+        const buttons =
+            Array.from(
+                document.querySelectorAll(
+                    ".channel"
+                )
+            );
+
+
+        if (
+            buttons.length === 0
+        ) {
+
+            return;
+
+        }
+
+
+        /* =================================================
+           ELEMENTO ATTUALMENTE FOCALIZZATO
+           ================================================= */
+
+        const current =
+            document.activeElement;
+
+
+        const index =
+            buttons.indexOf(
+                current
+            );
+
+
+        /* =================================================
+           QUALSIASI TASTO DI NAVIGAZIONE
+           ================================================= */
+
+        if (
+
+            event.key === "ArrowLeft" ||
+
+            event.key === "ArrowRight" ||
+
+            event.key === "ArrowUp" ||
+
+            event.key === "ArrowDown" ||
+
+            event.key === "Enter" ||
+
+            event.key === " "
+
+        ) {
+
+            showSidebar();
+
+        }
+
+
+        /* =================================================
+           FRECCIA SINISTRA
+           ================================================= */
+
+        if (
+            event.key === "ArrowLeft"
+        ) {
+
+            event.preventDefault();
+
+
+            if (index < 0) {
+
+                buttons[currentIndex].focus();
+
+            }
+            else {
+
+                buttons[index].focus();
+
+            }
+
+
+            return;
+
+        }
+
+
+        /* =================================================
+           FRECCIA DESTRA
+           ================================================= */
+
+        if (
+            event.key === "ArrowRight"
+        ) {
+
+            event.preventDefault();
+
+
+            hideSidebar();
+
+
+            return;
+
+        }
+
+
+        /* =================================================
+           FRECCIA GIÙ
+           ================================================= */
+
+        if (
+            event.key === "ArrowDown"
+        ) {
+
+            event.preventDefault();
+
+
+            let next;
+
+
+            if (index < 0) {
+
+                next =
+                    currentIndex + 1;
+
+            }
+            else {
+
+                next =
+                    index + 1;
+
+            }
+
+
+            if (
+                next >= buttons.length
+            ) {
+
+                next = 0;
+
+            }
+
+
+            currentIndex =
+                next;
+
+
+            buttons[next].focus();
+
+
+            buttons[next].scrollIntoView({
+
+                behavior: "smooth",
+
+                block: "nearest"
+
+            });
+
+
+            return;
+
+        }
+
+
+        /* =================================================
+           FRECCIA SU
+           ================================================= */
+
+        if (
+            event.key === "ArrowUp"
+        ) {
+
+            event.preventDefault();
+
+
+            let previous;
+
+
+            if (index < 0) {
+
+                previous =
+                    currentIndex - 1;
+
+            }
+            else {
+
+                previous =
+                    index - 1;
+
+            }
+
+
+            if (
+                previous < 0
+            ) {
+
+                previous =
+                    buttons.length - 1;
+
+            }
+
+
+            currentIndex =
+                previous;
+
+
+            buttons[previous].focus();
+
+
+            buttons[previous].scrollIntoView({
+
+                behavior: "smooth",
+
+                block: "nearest"
+
+            });
+
+
+            return;
+
+        }
+
+
+        /* =================================================
+           ENTER / OK
+           ================================================= */
+
+        if (
+
+            event.key === "Enter" ||
+
+            event.key === " "
+
+        ) {
+
+
+            if (
+                index >= 0
+            ) {
+
+                event.preventDefault();
+
+
+                playChannel(
+                    index
+                );
+
+            }
+
+        }
+
+    }
+);
+
+
+/* =========================================================
+   AVVIO
+   ========================================================= */
+
+window.addEventListener(
+    "load",
+    function() {
+
+        loadEvents();
+
+    }
+);
+
+</script>
+
+
 </body>
-</html>"""
 
-with open(OUTPUT_HTML, "w", encoding="utf-8") as html_file:
-    html_file.write(html_content)
-
-
-
-# ============================================================
-# STAMPA RISULTATO
-# ============================================================
-
-print("==========================================")
-print("RISULTATO")
-print("==========================================")
-print()
-
-
-for event in events:
-
-    print(
-        f'[{event["time"]}] {event["title"]}'
-    )
-
-
-    for channel in event["channels"]:
-
-        print(
-            f'    - {channel["name"]}'
-            f' | URL: {channel["watch_url"]}'
-        )
-
-
-    print()
-
-
-print("==========================================")
-print("FINE")
-print("==========================================")
-
-print()
-print("File creati correttamente:")
-print(f"- {OUTPUT_FILE}")
-print(f"- {OUTPUT_HTML}")
+</html>
