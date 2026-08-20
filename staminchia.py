@@ -41,7 +41,11 @@ for event_block in event_blocks:
     title_element = event_block.select_one(".schedule__eventTitle")
     event_title = title_element.get_text(" ", strip=True) if title_element else ""
 
-        for channel_element in channel_elements:
+    # Inizializza la lista canali per questo specifico blocco evento
+    channels = []
+    channel_elements = event_block.select(".schedule__channels a")
+
+    for channel_element in channel_elements:
         channel_name = channel_element.get_text(" ", strip=True)
         href = channel_element.get("href", "")
         
@@ -53,18 +57,12 @@ for event_block in event_blocks:
             # Genera l'URL embed pulito nel formato corretto
             final_url = f"https://dlhd.pk/embed/stream-{channel_id}.php"
         else:
-            # Se è un backup generico senza ID (es. "Backup Stream"), ricostruisce l'URL assoluto corretto
+            # Se è un backup generico senza ID, ricostruisce l'URL assoluto corretto
             channel_id = ""
             if href.startswith("/"):
                 final_url = f"https://dlstreams.st{href}"
             else:
                 final_url = href
-
-        channels.append({
-            "name": channel_name,
-            "id": channel_id,
-            "watch_url": final_url
-        })
 
         channels.append({
             "name": channel_name,
