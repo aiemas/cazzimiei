@@ -786,11 +786,6 @@
         "title": "⚽ 🇬🇷 UEFA Europa League : Benfica vs AGF",
         "channels": [
             {
-                "name": "SIC Portugal",
-                "id": "722",
-                "watch_url": "https://dlhd.pk/embed/stream-722.php"
-            },
-            {
                 "name": "TV Portugal",
                 "id": "3021",
                 "watch_url": "https://dlhd.pk/embed/stream-3021.php"
@@ -799,6 +794,11 @@
                 "name": "Backup Stream",
                 "id": "4125",
                 "watch_url": "https://dlhd.pk/embed/stream-4125.php"
+            },
+            {
+                "name": "Event SD Stream",
+                "id": "163",
+                "watch_url": "https://dlhd.pk/embed/stream-163.php"
             }
         ]
     },
@@ -1319,6 +1319,11 @@
                 "name": "Backup Stream",
                 "id": "4122",
                 "watch_url": "https://dlhd.pk/embed/stream-4122.php"
+            },
+            {
+                "name": "Event SD Stream",
+                "id": "158",
+                "watch_url": "https://dlhd.pk/embed/stream-158.php"
             }
         ]
     },
@@ -1340,6 +1345,11 @@
                 "name": "SuperSport 1 Digitalb",
                 "id": "3099",
                 "watch_url": "https://dlhd.pk/embed/stream-3099.php"
+            },
+            {
+                "name": "Event SD Stream",
+                "id": "159",
+                "watch_url": "https://dlhd.pk/embed/stream-159.php"
             }
         ]
     },
@@ -1356,6 +1366,11 @@
                 "name": "STV 1 Slovenia",
                 "id": "1",
                 "watch_url": "https://dlhd.pk/embed/stream-1.php"
+            },
+            {
+                "name": "Event SD Stream",
+                "id": "160",
+                "watch_url": "https://dlhd.pk/embed/stream-160.php"
             }
         ]
     },
@@ -1367,6 +1382,22 @@
                 "name": "Hajduk TV Croatia",
                 "id": "158",
                 "watch_url": "https://dlhd.pk/embed/stream-158.php"
+            },
+            {
+                "name": "Event SD Stream",
+                "id": "161",
+                "watch_url": "https://dlhd.pk/embed/stream-161.php"
+            }
+        ]
+    },
+    {
+        "time": "19:00",
+        "title": "⚽ 🇭🇷 UEFA Conference League : Shamrock Rovers vs KuPS",
+        "channels": [
+            {
+                "name": "Event SD Stream",
+                "id": "162",
+                "watch_url": "https://dlhd.pk/embed/stream-162.php"
             }
         ]
     },
@@ -1893,6 +1924,11 @@
                 "name": "Backup Stream",
                 "id": "4123",
                 "watch_url": "https://dlhd.pk/embed/stream-4123.php"
+            },
+            {
+                "name": "Event SD Stream",
+                "id": "164",
+                "watch_url": "https://dlhd.pk/embed/stream-164.php"
             }
         ]
     },
@@ -1969,6 +2005,11 @@
                 "name": "Backup Stream",
                 "id": "4101",
                 "watch_url": "https://dlhd.pk/embed/stream-4101.php"
+            },
+            {
+                "name": "Event SD Stream",
+                "id": "165",
+                "watch_url": "https://dlhd.pk/embed/stream-165.php"
             }
         ]
     },
