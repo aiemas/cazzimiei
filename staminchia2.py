@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+import os
 
 
 # ============================================================
@@ -1594,6 +1595,235 @@ except Exception as e:
 
 
 # ============================================================
+# CONTROLLA CHE INDEX.HTML ESISTA
+# ============================================================
+
+print()
+print("Controllo file...")
+
+if not os.path.isfile(OUTPUT_FILE):
+
+    print()
+    print("ERRORE:")
+    print("index.html NON è stato creato.")
+    print()
+    input("Premi INVIO per uscire...")
+    exit()
+
+
+print()
+print("index.html creato correttamente.")
+
+
+# ============================================================
+# GIT
+# ============================================================
+
+import subprocess
+
+
+def run_git(command):
+
+    print()
+    print(">>", " ".join(command))
+
+    result = subprocess.run(
+        command,
+        capture_output=True,
+        text=True
+    )
+
+    if result.stdout:
+        print(result.stdout)
+
+    if result.stderr:
+        print(result.stderr)
+
+    if result.returncode != 0:
+
+        print()
+        print("ERRORE GIT.")
+        print("Comando:", " ".join(command))
+        print("Codice:", result.returncode)
+
+        return False
+
+    return True
+
+
+# ============================================================
+# CARTELLA DELLO SCRIPT
+# ============================================================
+
+SCRIPT_DIR = os.path.dirname(
+    os.path.abspath(__file__)
+)
+
+
+os.chdir(
+    SCRIPT_DIR
+)
+
+
+print()
+print("Cartella repository:")
+print(SCRIPT_DIR)
+
+
+# ============================================================
+# VERIFICA REPOSITORY GIT
+# ============================================================
+
+print()
+print("Controllo repository Git...")
+
+
+if not os.path.isdir(
+    os.path.join(
+        SCRIPT_DIR,
+        ".git"
+    )
+):
+
+    print()
+    print("ERRORE:")
+    print(
+        "La cartella dello script non sembra essere "
+        "una repository Git."
+    )
+
+    print()
+    print(
+        "Devi mettere questo script nella cartella "
+        "del repository GitHub."
+    )
+
+    input("\nPremi INVIO per uscire...")
+
+    exit()
+
+
+# ============================================================
+# GIT STATUS
+# ============================================================
+
+if not run_git([
+    "git",
+    "status"
+]):
+
+    input("\nPremi INVIO per uscire...")
+
+    exit()
+
+
+# ============================================================
+# AGGIUNGE INDEX.HTML
+# ============================================================
+
+print()
+print("Aggiunta di index.html a Git...")
+
+if not run_git([
+    "git",
+    "add",
+    "index.html"
+]):
+
+    input("\nPremi INVIO per uscire...")
+
+    exit()
+
+
+# ============================================================
+# CONTROLLA SE CI SONO MODIFICHE
+# ============================================================
+
+result = subprocess.run(
+    [
+        "git",
+        "diff",
+        "--cached",
+        "--quiet"
+    ]
+)
+
+
+if result.returncode == 0:
+
+    print()
+    print("Nessuna modifica da pubblicare.")
+    print("index.html è già identico alla versione GitHub.")
+
+else:
+
+    # ========================================================
+    # COMMIT
+    # ========================================================
+
+    print()
+    print("Creazione commit...")
+
+    if not run_git([
+        "git",
+        "commit",
+        "-m",
+        "Aggiornamento automatico eventi"
+    ]):
+
+        input("\nPremi INVIO per uscire...")
+
+        exit()
+
+
+    # ========================================================
+    # PUSH
+    # ========================================================
+
+    print()
+    print("Invio a GitHub...")
+
+    if not run_git([
+        "git",
+        "push",
+        "origin",
+        "main"
+    ]):
+
+        print()
+        print("ATTENZIONE:")
+        print(
+            "Il file index.html è stato creato localmente "
+            "ma il push su GitHub non è riuscito."
+        )
+
+        input("\nPremi INVIO per uscire...")
+
+        exit()
+
+
+    # ========================================================
+    # DEPLOY
+    # ========================================================
+
+    print()
+    print("==========================================")
+    print("PUSH COMPLETATO")
+    print("==========================================")
+    print()
+
+    print(
+        "index.html è stato inviato a GitHub."
+    )
+
+    print()
+    print(
+        "Se GitHub Pages è configurato sul branch main, "
+        "partirà automaticamente il deploy."
+    )
+
+
+# ============================================================
 # FINE
 # ============================================================
 
@@ -1607,16 +1837,7 @@ print("Eventi:", len(events))
 print("Canali:", total_channels)
 
 print()
-
-print(
-    "File creato:",
-    OUTPUT_FILE
-)
-
-print()
-
-print("index.html contiene già tutti gli eventi.")
-print("Non è stato creato alcun file JSON.")
+print("File:", OUTPUT_FILE)
 
 print()
 print("==========================================")
