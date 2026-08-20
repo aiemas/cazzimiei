@@ -3,12 +3,19 @@ from bs4 import BeautifulSoup
 import json
 import re
 
+
 # ============================================================
 # CONFIGURAZIONE
 # ============================================================
+
 URL = "https://dlstreams.st"
-OUTPUT_JSON = "eventi.json"
+OUTPUT_FILE = "eventi.json"
 OUTPUT_HTML = "index.html"  # Nome ideale per GitHub Pages
+
+
+# ============================================================
+# HEADERS
+# ============================================================
 
 HEADERS = {
     "User-Agent": (
@@ -18,71 +25,221 @@ HEADERS = {
     )
 }
 
+
+# ============================================================
+# SCARICA LA PAGINA
+# ============================================================
+
 print("==========================================")
 print("Scaricamento pagina...")
+print("URL:", URL)
 print("==========================================")
 
 try:
-    response = requests.get(URL, headers=HEADERS, timeout=30)
+
+    response = requests.get(
+        URL,
+        headers=HEADERS,
+        timeout=30
+    )
+
     response.raise_for_status()
+
 except Exception as e:
-    print("ERRORE durante il download:", e)
+
+    print()
+    print("ERRORE durante il download:")
+    print(e)
     exit()
 
+
 html = response.text
-soup = BeautifulSoup(html, "html.parser")
-event_blocks = soup.select("div.schedule__event")
+
+print()
+print("Pagina scaricata correttamente.")
+print("Caratteri HTML:", len(html))
+
+
+# ============================================================
+# PARSING HTML
+# ============================================================
+
+soup = BeautifulSoup(
+    html,
+    "html.parser"
+)
+
+
+# ============================================================
+# TROVA GLI EVENTI
+# ============================================================
+
 events = []
 
+event_blocks = soup.select(
+    "div.schedule__event"
+)
+
+
+print()
+print("Eventi trovati:", len(event_blocks))
+print()
+
+
+# ============================================================
+# ELABORA GLI EVENTI
+# ============================================================
+
 for event_block in event_blocks:
-    time_element = event_block.select_one(".schedule__time")
-    event_time = time_element.get_text(" ", strip=True) if time_element else ""
 
-    title_element = event_block.select_one(".schedule__eventTitle")
-    event_title = title_element.get_text(" ", strip=True) if title_element else ""
+    # --------------------------------------------------------
+    # ORARIO
+    # --------------------------------------------------------
 
-    # Inizializza la lista canali per questo specifico blocco evento
+    time_element = event_block.select_one(
+        ".schedule__time"
+    )
+
+    if time_element:
+
+        event_time = time_element.get_text(
+            " ",
+            strip=True
+        )
+
+    else:
+
+        event_time = ""
+
+
+    # --------------------------------------------------------
+    # NOME EVENTO
+    # --------------------------------------------------------
+
+    title_element = event_block.select_one(
+        ".schedule__eventTitle"
+    )
+
+    if title_element:
+
+        event_title = title_element.get_text(
+            " ",
+            strip=True
+        )
+
+    else:
+
+        event_title = ""
+
+
+    # --------------------------------------------------------
+    # CANALI
+    # --------------------------------------------------------
+
     channels = []
-    channel_elements = event_block.select(".schedule__channels a")
+
+
+    channel_elements = event_block.select(
+        ".schedule__channels a"
+    )
+
 
     for channel_element in channel_elements:
-        channel_name = channel_element.get_text(" ", strip=True)
-        href = channel_element.get("href", "")
-        
-        # Cerca l'ID numerico preciso nel link dell'evento
-        match = re.search(r"id=(\d+)", href)
+
+        # ----------------------------------------------------
+        # NOME CANALE
+        # ----------------------------------------------------
+
+        channel_name = channel_element.get_text(
+            " ",
+            strip=True
+        )
+
+
+        # ----------------------------------------------------
+        # HREF
+        # ----------------------------------------------------
+
+        href = channel_element.get(
+            "href",
+            ""
+        )
+
+
+        # ----------------------------------------------------
+        # ID
+        # ----------------------------------------------------
+
+        match = re.search(
+            r"[?&]id=(\d+)",
+            href
+        )
+
 
         if match:
+
             channel_id = match.group(1)
-            # Genera l'URL embed pulito nel formato corretto
+            # COSTRUISCE IL NUOVO URL EMBED RICHIESTO
             final_url = f"https://dlhd.pk/embed/stream-{channel_id}.php"
+
         else:
-            # Se è un backup generico senza ID, ricostruisce l'URL assoluto corretto
+
             channel_id = ""
-            if href.startswith("/"):
-                final_url = f"https://dlstreams.st{href}"
-            else:
-                final_url = href
+            final_url = ""
+
+
+        # ----------------------------------------------------
+        # AGGIUNGI CANALE
+        # ----------------------------------------------------
 
         channels.append({
+
             "name": channel_name,
+
             "id": channel_id,
+
             "watch_url": final_url
+
         })
 
+
+    # --------------------------------------------------------
+    # SALVA EVENTO
+    # --------------------------------------------------------
+
     events.append({
+
         "time": event_time,
+
         "title": event_title,
+
         "channels": channels
+
     })
 
-# Salva JSON locale
-with open(OUTPUT_JSON, "w", encoding="utf-8") as file:
-    json.dump(events, file, ensure_ascii=False, indent=4)
+
+# ============================================================
+# SALVA JSON
+# ============================================================
+
+with open(
+    OUTPUT_FILE,
+    "w",
+    encoding="utf-8"
+) as file:
+
+    json.dump(
+        events,
+        file,
+        ensure_ascii=False,
+        indent=4
+    )
+
 
 # ============================================================
 # GENERAZIONE STRUTTURA HTML PER GITHUB
 # ============================================================
+
 html_content = """<!DOCTYPE html>
 <html lang="it">
 <head>
@@ -190,5 +347,40 @@ html_content += """    </div>
 with open(OUTPUT_HTML, "w", encoding="utf-8") as html_file:
     html_file.write(html_content)
 
-print("Processo completato!")
-print(f"File aggiornati sul computer: {OUTPUT_JSON} e {OUTPUT_HTML}")
+
+# ============================================================
+# STAMPA RISULTATO
+# ============================================================
+
+print("==========================================")
+print("RISULTATO")
+print("==========================================")
+print()
+
+
+for event in events:
+
+    print(
+        f'[{event["time"]}] {event["title"]}'
+    )
+
+
+    for channel in event["channels"]:
+
+        print(
+            f'    - {channel["name"]}'
+            f' | URL: {channel["watch_url"]}'
+        )
+
+
+    print()
+
+
+print("==========================================")
+print("FINE")
+print("==========================================")
+
+print()
+print("File creati correttamente:")
+print(f"- {OUTPUT_FILE}")
+print(f"- {OUTPUT_HTML}")
