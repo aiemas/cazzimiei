@@ -171,56 +171,26 @@ body {
 
 .event {
 
-    margin-bottom: 12px;
+    margin-bottom: 18px;
 
 }
 
 
 .eventTitle {
 
-    width: 100%;
-
-    display: block;
-
-    padding: 12px 10px;
+    padding: 10px;
 
     margin-bottom: 6px;
 
     background: #111827;
 
-    border: 2px solid transparent;
-
-    border-radius: 8px;
-
-    color: white;
+    border-radius: 6px;
 
     font-size: 15px;
 
     font-weight: bold;
 
     line-height: 1.3;
-
-    cursor: pointer;
-
-    text-align: left;
-
-}
-
-
-.eventTitle:hover {
-
-    background: #1f2937;
-
-}
-
-
-.eventTitle:focus {
-
-    outline: none;
-
-    border-color: white;
-
-    background: #16a34a;
 
 }
 
@@ -230,26 +200,6 @@ body {
     color: #22c55e;
 
     margin-right: 6px;
-
-}
-
-
-/* =========================================================
-   CONTENITORE CANALI
-   ========================================================= */
-
-.eventChannels {
-
-    display: block;
-
-    padding-left: 8px;
-
-}
-
-
-.eventChannels.hidden {
-
-    display: none;
 
 }
 
@@ -752,16 +702,19 @@ const events = [
 {time: '17:00', title: '⚽ 🇪🇬 Egypt - Egyptian Premier League : Ghazl El Mehalla 🇪🇬 vs Pyramids FC 🇪🇬', channels: [{name: 'ON Sport 1 Egypt', id: '611', url: 'https://dlhd.pk/embed/stream-611.php'}, {name: 'Event SD Stream', id: '174', url: 'https://dlhd.pk/embed/stream-174.php'}]},
 {time: '17:00', title: '⚽ 🇵🇹 Portugal - Liga 3 : Sporting Covilhã 🇵🇹 vs Atlético CP 🇵🇹', channels: [{name: 'Canal 11 Portugal', id: '540', url: 'https://dlhd.pk/embed/stream-540.php'}]},
 {time: '17:00', title: '⚽ 🇵🇹 Portugal - Primeira Liga : Estoril 🇵🇹 vs Rio Ave 🇵🇹', channels: [{name: 'Sport TV2 Portugal', id: '74', url: 'https://dlhd.pk/embed/stream-74.php'}, {name: 'Cosmote Sport 3 Greece', id: '624', url: 'https://dlhd.pk/embed/stream-624.php'}, {name: 'Sport TV2 Portugal', id: '3021', url: 'https://dlhd.pk/embed/stream-3021.php'}, {name: 'Backup Stream', id: '4119', url: 'https://dlhd.pk/embed/stream-4119.php'}, {name: 'Event SD Stream', id: '198', url: 'https://dlhd.pk/embed/stream-198.php'}]},
-{time: '17:15', title: '⚽ 🇷🇺 Russia - Russian Premier League : CSKA Moskva 🇷🇺 vs Lokomotiv Moskva 🇷🇺', channels: [{name: 'Match Premier Russia', id: '573', url: 'https://dlhd.pk/embed/stream-573.php'}, {name: 'Match TV Russia', id: '127', url: 'https://dlhd.pk/embed/stream-127.php'}, {name: 'Arena 5 Premium Serbia', id: '26', url: 'https://dlhd.pk/embed/stream-26.php'}, {name: 'Bandsports Brasil', id: '275', url: 'https://dlhd.pk/embed/stream-275.php'}]},
-{time: '17:30', title: '⚽ 🇪🇸 Spain - La Liga : Valencia 🇪🇸 vs Celta de Vigo 🇪🇸', channels: [{name: 'M+ LALIGA TV', id: '84', url: 'https://dlhd.pk/embed/stream-84.php'}, {name: 'Viaplay Sports 2 UK', id: '550', url: 'https://dlhd.pk/embed/stream-550.php'}, {name: 'Premier Sports 2 Ireland', id: '799', url: 'https://dlhd.pk/embed/stream-799.php'}, {name: 'DAZN1 DE', id: '426', url: 'https://dlhd.pk/embed/stream-426.php'}, {name: 'DAZN Eleven 3 Portugal', id: '457', url: 'https://dlhd.pk/embed/stream-457.php'}, {name: 'Canal+ Sport Poland', id: '48', url: 'https://dlhd.pk/embed/stream-48.php'}, {name: 'Ziggo Sport 5 NL', id: '383', url: 'https://dlhd.pk/embed/stream-383.php'}, {name: 'Nova Sport 5 SK', id: '1062', url: 'https://dlhd.pk/embed/stream-1062.php'}, {name: 'Nova Sport 5 CZ', id: '1025', url: 'https://dlhd.pk/embed/stream-1025.php'}, {name: 'beIN Sports Malaysia', id: '712', url: 'https://dlhd.pk/embed/stream-712.php'}, {name: 'ESPN Deportes', id: '375', url: 'https://dlhd.pk/embed/stream-375.php'}, {name: 'Prima Sport 2 Romania', id: '584', url: 'https://dlhd.pk/embed/stream-584.php'}, {name: 'Match! Football 2 Russia', id: '137', url: 'https://dlhd.pk/embed/stream-137.php'}, {name: 'Arena 4 Premium Serbia', id: '27', url: 'https://dlhd.pk/embed/stream-27.php'}, {name: 'Cosmote Sport 5 Greece', id: '626', url: 'https://dlhd.pk/embed/stream-626.php'}, {name: 'MAX Sport 4 Bulgaria', id: '475', url: 'https://dlhd.pk/embed/stream-475.php'}, {name: 'SuperSport Laliga', id: '415', url: 'https://dlhd.pk/embed/stream-415.php'}, {name: 'beIN Sports MENA 3', id: '93', url: 'https://dlhd.pk/embed/stream-93.php'}, {name: 'Sportklub 4 Croatia', id: '104', url: 'https://dlhd.pk/embed/stream-104.php'}, {name: 'ESPN Deportes', id: '3086', url: 'https://dlhd.pk/embed/stream-3086.php'}, {name: 'Viaplay Sports 2 UK', id: '3002', url: 'https://dlhd.pk/embed/stream-3002.php'}, {name: 'Backup Stream', id: '2001', url: 'https://dlhd.pk/embed/stream-2001.php'}, {name: 'Backup Stream', id: '4106', url: 'https://dlhd.pk/embed/stream-4106.php'}]},
-{time: '17:30', title: '⚽ 🇮🇱 Israel - Ligat Ha\'Al : Maccabi Haifa 🇮🇱 vs Hapoel Ramat Gan 🇮🇱', channels: [{name: 'Sport 4 Israel', id: '143', url: 'https://dlhd.pk/embed/stream-143.php'}]},
-{time: '17:30', title: '⚽ 🇦🇹 Austria - Bundesliga : Sturm Graz 🇦🇹 vs Austria Lustenau 🇦🇹', channels: [{name: 'Sky Sport Austria 1', id: '559', url: 'https://dlhd.pk/embed/stream-559.php'}, {name: 'Kanal 1 Sport Slovakia', id: '25', url: 'https://dlhd.pk/embed/stream-25.php'}, {name: 'Sky Sport Austria 1', id: '3099', url: 'https://dlhd.pk/embed/stream-3099.php'}]},
-{time: '18:00', title: '⚽ 🇨🇿 Czech Republic - 1. liga : Slavia Praha 🇨🇿 vs Bohemians 1905 🇨🇿', channels: [{name: 'Oneplay Sport 1 CZ', id: '1027', url: 'https://dlhd.pk/embed/stream-1027.php'}, {name: 'Polsat Sport 2 Poland', id: '50', url: 'https://dlhd.pk/embed/stream-50.php'}, {name: 'Oneplay Sport 1 CZ', id: '3041', url: 'https://dlhd.pk/embed/stream-3041.php'}]},
+{time: '17:15', title: '⚽ 🇷🇺 Russia - Russian Premier League : CSKA Moskva 🇷🇺 vs Lokomotiv Moskva 🇷🇺', channels: [{name: 'Match Premier Russia', id: '573', url: 'https://dlhd.pk/embed/stream-573.php'}, {name: 'Match TV Russia', id: '127', url: 'https://dlhd.pk/embed/stream-127.php'}, {name: 'Arena 5 Premium Serbia', id: '26', url: 'https://dlhd.pk/embed/stream-26.php'}, {name: 'Bandsports Brasil', id: '275', url: 'https://dlhd.pk/embed/stream-275.php'}, {name: 'Event SD Stream', id: '210', url: 'https://dlhd.pk/embed/stream-210.php'}]},
+{time: '17:30', title: '⚽ 🇪🇸 Spain - La Liga : Valencia 🇪🇸 vs Celta de Vigo 🇪🇸', channels: [{name: 'M+ LALIGA TV', id: '84', url: 'https://dlhd.pk/embed/stream-84.php'}, {name: 'Viaplay Sports 2 UK', id: '550', url: 'https://dlhd.pk/embed/stream-550.php'}, {name: 'Premier Sports 2 Ireland', id: '799', url: 'https://dlhd.pk/embed/stream-799.php'}, {name: 'DAZN1 DE', id: '426', url: 'https://dlhd.pk/embed/stream-426.php'}, {name: 'DAZN Eleven 3 Portugal', id: '457', url: 'https://dlhd.pk/embed/stream-457.php'}, {name: 'Canal+ Sport Poland', id: '48', url: 'https://dlhd.pk/embed/stream-48.php'}, {name: 'Ziggo Sport 5 NL', id: '383', url: 'https://dlhd.pk/embed/stream-383.php'}, {name: 'Nova Sport 5 SK', id: '1062', url: 'https://dlhd.pk/embed/stream-1062.php'}, {name: 'Nova Sport 5 CZ', id: '1025', url: 'https://dlhd.pk/embed/stream-1025.php'}, {name: 'beIN Sports Malaysia', id: '712', url: 'https://dlhd.pk/embed/stream-712.php'}, {name: 'ESPN Deportes', id: '375', url: 'https://dlhd.pk/embed/stream-375.php'}, {name: 'Prima Sport 2 Romania', id: '584', url: 'https://dlhd.pk/embed/stream-584.php'}, {name: 'Match! Football 2 Russia', id: '137', url: 'https://dlhd.pk/embed/stream-137.php'}, {name: 'Arena 4 Premium Serbia', id: '27', url: 'https://dlhd.pk/embed/stream-27.php'}, {name: 'Cosmote Sport 5 Greece', id: '626', url: 'https://dlhd.pk/embed/stream-626.php'}, {name: 'MAX Sport 4 Bulgaria', id: '475', url: 'https://dlhd.pk/embed/stream-475.php'}, {name: 'SuperSport Laliga', id: '415', url: 'https://dlhd.pk/embed/stream-415.php'}, {name: 'beIN Sports MENA 3', id: '93', url: 'https://dlhd.pk/embed/stream-93.php'}, {name: 'Sportklub 4 Croatia', id: '104', url: 'https://dlhd.pk/embed/stream-104.php'}, {name: 'ESPN Deportes', id: '3086', url: 'https://dlhd.pk/embed/stream-3086.php'}, {name: 'Viaplay Sports 2 UK', id: '3002', url: 'https://dlhd.pk/embed/stream-3002.php'}, {name: 'Backup Stream', id: '2001', url: 'https://dlhd.pk/embed/stream-2001.php'}, {name: 'Backup Stream', id: '4106', url: 'https://dlhd.pk/embed/stream-4106.php'}, {name: 'Event SD Stream', id: '214', url: 'https://dlhd.pk/embed/stream-214.php'}]},
+{time: '17:30', title: '⚽ 🇮🇱 Israel - Ligat Ha\'Al : Maccabi Haifa 🇮🇱 vs Hapoel Ramat Gan 🇮🇱', channels: [{name: 'Sport 4 Israel', id: '143', url: 'https://dlhd.pk/embed/stream-143.php'}, {name: 'Event SD Stream', id: '211', url: 'https://dlhd.pk/embed/stream-211.php'}]},
+{time: '17:30', title: '⚽ 🇦🇹 Austria - Bundesliga : Sturm Graz 🇦🇹 vs Austria Lustenau 🇦🇹', channels: [{name: 'Sky Sport Austria 1', id: '559', url: 'https://dlhd.pk/embed/stream-559.php'}, {name: 'Kanal 1 Sport Slovakia', id: '25', url: 'https://dlhd.pk/embed/stream-25.php'}, {name: 'Sky Sport Austria 1', id: '3099', url: 'https://dlhd.pk/embed/stream-3099.php'}, {name: 'Event SD Stream', id: '212', url: 'https://dlhd.pk/embed/stream-212.php'}]},
+{time: '17:30', title: '⚽ Tanzania Premier League : Geita Gold vs Kagera Sugar', channels: [{name: 'Event SD Stream', id: '215', url: 'https://dlhd.pk/embed/stream-215.php'}]},
+{time: '18:00', title: '⚽ Belgium Challenger Pro Leagu : Lierse vs Patro Eisden', channels: [{name: 'Event SD Stream', id: '217', url: 'https://dlhd.pk/embed/stream-217.php'}]},
+{time: '18:00', title: '⚽ 🇨🇿 Czech Republic - 1. liga : Slavia Praha 🇨🇿 vs Bohemians 1905 🇨🇿', channels: [{name: 'Oneplay Sport 1 CZ', id: '1027', url: 'https://dlhd.pk/embed/stream-1027.php'}, {name: 'Polsat Sport 2 Poland', id: '50', url: 'https://dlhd.pk/embed/stream-50.php'}, {name: 'Oneplay Sport 1 CZ', id: '3041', url: 'https://dlhd.pk/embed/stream-3041.php'}, {name: 'Event SD Stream', id: '218', url: 'https://dlhd.pk/embed/stream-218.php'}]},
 {time: '18:00', title: '⚽ 🇲🇪 Montenegro - Prva Crnogorska Liga : Mladost DG 🇲🇪 vs Petrovac 🇲🇪', channels: [{name: 'Arena Sport 7 Serbia', id: '942', url: 'https://dlhd.pk/embed/stream-942.php'}]},
 {time: '18:00', title: '⚽ 🇨🇦 Canada - Canadian Premier League : HFX Wanderers 🇨🇦 vs Vancouver FC 🇨🇦', channels: [{name: 'Fox Soccer Plus', id: '756', url: 'https://dlhd.pk/embed/stream-756.php'}, {name: 'Fox Soccer Plus', id: '3083', url: 'https://dlhd.pk/embed/stream-3083.php'}]},
-{time: '18:00', title: '⚽ 🇫🇷 France - Ligue 2 : Saint-Étienne 🇫🇷 vs Grenoble Foot 38 🇫🇷', channels: [{name: 'beIN Sports 1 France', id: '116', url: 'https://dlhd.pk/embed/stream-116.php'}, {name: 'Arena Sport 1x2 Serbia', id: '612', url: 'https://dlhd.pk/embed/stream-612.php'}, {name: '5Gold Israel', id: '148', url: 'https://dlhd.pk/embed/stream-148.php'}, {name: 'beIN Sports 1 France', id: '3051', url: 'https://dlhd.pk/embed/stream-3051.php'}]},
-{time: '18:00', title: '⚽ 🇸🇦 Saudi Arabia - Pro League : Al-Ahli 🇸🇦 vs Abha 🇸🇦', channels: [{name: 'Thmanyah 2', id: '20', url: 'https://dlhd.pk/embed/stream-20.php'}, {name: 'FOX Deportes', id: '643', url: 'https://dlhd.pk/embed/stream-643.php'}, {name: 'Sportklub 10 Croatia', id: '177', url: 'https://dlhd.pk/embed/stream-177.php'}, {name: 'FOX Deportes', id: '3087', url: 'https://dlhd.pk/embed/stream-3087.php'}]},
-{time: '18:00', title: '⚽ 🇸🇦 Saudi Arabia - Pro League : Al Khaleej 🇸🇦 vs Al Shabab 🇸🇦', channels: [{name: 'Thmanyah 3', id: '21', url: 'https://dlhd.pk/embed/stream-21.php'}]},
+{time: '18:00', title: '⚽ 🇫🇷 France - Ligue 2 : Saint-Étienne 🇫🇷 vs Grenoble Foot 38 🇫🇷', channels: [{name: 'beIN Sports 1 France', id: '116', url: 'https://dlhd.pk/embed/stream-116.php'}, {name: 'Arena Sport 1x2 Serbia', id: '612', url: 'https://dlhd.pk/embed/stream-612.php'}, {name: '5Gold Israel', id: '148', url: 'https://dlhd.pk/embed/stream-148.php'}, {name: 'beIN Sports 1 France', id: '3051', url: 'https://dlhd.pk/embed/stream-3051.php'}, {name: 'Event SD Stream', id: '219', url: 'https://dlhd.pk/embed/stream-219.php'}]},
+{time: '18:00', title: '⚽ Uruguay Liga AUF Uruguaya : Cerro Largo vs Defensor Sp', channels: [{name: 'Event SD Stream', id: '220', url: 'https://dlhd.pk/embed/stream-220.php'}]},
+{time: '18:00', title: '⚽ 🇸🇦 Saudi Arabia - Pro League : Al-Ahli 🇸🇦 vs Abha 🇸🇦', channels: [{name: 'Thmanyah 2', id: '20', url: 'https://dlhd.pk/embed/stream-20.php'}, {name: 'FOX Deportes', id: '643', url: 'https://dlhd.pk/embed/stream-643.php'}, {name: 'Sportklub 10 Croatia', id: '177', url: 'https://dlhd.pk/embed/stream-177.php'}, {name: 'FOX Deportes', id: '3087', url: 'https://dlhd.pk/embed/stream-3087.php'}, {name: 'Event SD Stream', id: '221', url: 'https://dlhd.pk/embed/stream-221.php'}]},
+{time: '18:00', title: '⚽ 🇸🇦 Saudi Arabia - Pro League : Al Khaleej 🇸🇦 vs Al Shabab 🇸🇦', channels: [{name: 'Thmanyah 3', id: '21', url: 'https://dlhd.pk/embed/stream-21.php'}, {name: 'Event SD Stream', id: '222', url: 'https://dlhd.pk/embed/stream-222.php'}]},
 {time: '18:15', title: '⚽ 🇸🇮 Slovenia - Prva Liga : Celje 🇸🇮 vs Radomlje 🇸🇮', channels: [{name: 'SportKlub 1 Slovenia', id: '13', url: 'https://dlhd.pk/embed/stream-13.php'}]},
 {time: '18:15', title: '⚽ 🇧🇬 Bulgaria - Parva Liga : Levski Sofia 🇧🇬 vs Spartak Varna 🇧🇬', channels: [{name: 'Diema Sport Bulgaria', id: '465', url: 'https://dlhd.pk/embed/stream-465.php'}, {name: 'Sportklub 7 Croatia', id: '182', url: 'https://dlhd.pk/embed/stream-182.php'}, {name: 'Diema Sport Bulgaria', id: '3048', url: 'https://dlhd.pk/embed/stream-3048.php'}]},
 {time: '18:15', title: '⚽ 🇵🇪 Peru - Primera Division : UTC Cajamarca 🇵🇪 vs Comerciantes Unidos 🇵🇪', channels: [{name: 'Liga 1 Max Peru', id: '30', url: 'https://dlhd.pk/embed/stream-30.php'}]},
@@ -771,7 +724,7 @@ const events = [
 {time: '18:30', title: '⚽ 🇨🇭 Switzerland - Super League : Zürich 🇨🇭 vs Basel 🇨🇭', channels: [{name: 'SRF zwei', id: '493', url: 'https://dlhd.pk/embed/stream-493.php'}, {name: 'SRF zwei', id: '3020', url: 'https://dlhd.pk/embed/stream-3020.php'}]},
 {time: '18:30', title: '⚽ 🇷🇴 Romania - Liga I : Dinamo Bucureşti 🇷🇴 vs Universitatea Cluj 🇷🇴', channels: [{name: 'Digi Sport 1 Romania', id: '400', url: 'https://dlhd.pk/embed/stream-400.php'}, {name: 'Prima Sport 1 Romania', id: '583', url: 'https://dlhd.pk/embed/stream-583.php'}]},
 {time: '18:30', title: '⚽ 🇬🇷 Greece - Super League : Olympiakos Piraeus 🇬🇷 vs Atromitos 🇬🇷', channels: [{name: 'Cosmote Sport 9 Greece', id: '630', url: 'https://dlhd.pk/embed/stream-630.php'}, {name: 'Arena Sport 6 Serbia', id: '941', url: 'https://dlhd.pk/embed/stream-941.php'}, {name: 'Sportklub 8 Croatia', id: '183', url: 'https://dlhd.pk/embed/stream-183.php'}, {name: 'Cosmote Sport 9 Greece', id: '3025', url: 'https://dlhd.pk/embed/stream-3025.php'}]},
-{time: '18:30', title: '⚽ 🇸🇰 Slovakia - Niké liga : FK Košice 🇸🇰 vs Slovan Bratislava 🇸🇰', channels: [{name: 'Dajto', id: '1051', url: 'https://dlhd.pk/embed/stream-1051.php'}]},
+{time: '18:30', title: '⚽ 🇸🇰 Slovakia - Niké liga : FK Košice 🇸🇰 vs Slovan Bratislava 🇸🇰', channels: [{name: 'Dajto', id: '1051', url: 'https://dlhd.pk/embed/stream-1051.php'}, {name: 'Event SD Stream', id: '224', url: 'https://dlhd.pk/embed/stream-224.php'}]},
 {time: '18:30', title: '⚽ 🇩🇪 DFL-Supercup : Borussia Dortmund 🇩🇪 vs Bayern München 🇩🇪', channels: [{name: 'Sky Sport Bundesliga 1', id: '558', url: 'https://dlhd.pk/embed/stream-558.php'}, {name: 'SAT.1 DE', id: '729', url: 'https://dlhd.pk/embed/stream-729.php'}, {name: 'Sky Sport Top Event DE', id: '556', url: 'https://dlhd.pk/embed/stream-556.php'}, {name: 'USA Network', id: '343', url: 'https://dlhd.pk/embed/stream-343.php'}, {name: 'DAZN Eleven 2 Portugal', id: '456', url: 'https://dlhd.pk/embed/stream-456.php'}, {name: 'Eleven Sports 1 Poland', id: '71', url: 'https://dlhd.pk/embed/stream-71.php'}, {name: 'beIN Sports 3 Malaysia', id: '714', url: 'https://dlhd.pk/embed/stream-714.php'}, {name: 'beIN Sports 2 France', id: '117', url: 'https://dlhd.pk/embed/stream-117.php'}, {name: 'Sky Sport Max IT', id: '460', url: 'https://dlhd.pk/embed/stream-460.php'}, {name: 'Canal+ Sport 2 Afrique', id: '487', url: 'https://dlhd.pk/embed/stream-487.php'}, {name: 'Telemundo', id: '131', url: 'https://dlhd.pk/embed/stream-131.php'}, {name: 'Nova Sport 3 SK', id: '1060', url: 'https://dlhd.pk/embed/stream-1060.php'}, {name: 'Nova Sport 3 CZ', id: '1023', url: 'https://dlhd.pk/embed/stream-1023.php'}, {name: 'ŠTV 1 Slovenia', id: '179', url: 'https://dlhd.pk/embed/stream-179.php'}, {name: 'Digi Sport 2 Romania', id: '401', url: 'https://dlhd.pk/embed/stream-401.php'}, {name: 'Arena 1 Premium Serbia', id: '134', url: 'https://dlhd.pk/embed/stream-134.php'}, {name: 'Nova Sports 3 Greece', id: '633', url: 'https://dlhd.pk/embed/stream-633.php'}, {name: 'ESPN2 Argentina', id: '150', url: 'https://dlhd.pk/embed/stream-150.php'}, {name: 'Diema Sport 3 Bulgaria', id: '467', url: 'https://dlhd.pk/embed/stream-467.php'}, {name: 'Sportklub 3 Croatia', id: '103', url: 'https://dlhd.pk/embed/stream-103.php'}, {name: 'Sport 1 Israel', id: '140', url: 'https://dlhd.pk/embed/stream-140.php'}, {name: 'Sky Sport News DE', id: '3011', url: 'https://dlhd.pk/embed/stream-3011.php'}, {name: 'USA Network', id: '3010', url: 'https://dlhd.pk/embed/stream-3010.php'}, {name: 'Backup Stream', id: '2028', url: 'https://dlhd.pk/embed/stream-2028.php'}, {name: 'Backup Stream', id: '4105', url: 'https://dlhd.pk/embed/stream-4105.php'}, {name: 'Backup Stream', id: '4103', url: 'https://dlhd.pk/embed/stream-4103.php'}]},
 {time: '18:30', title: '⚽ 🇹🇷 Turkey - Super Lig : Fenerbahçe 🇹🇷 vs Konyaspor 🇹🇷', channels: [{name: 'beIN Sports 1 Turkey', id: '62', url: 'https://dlhd.pk/embed/stream-62.php'}, {name: 'Sport TV2 Portugal', id: '74', url: 'https://dlhd.pk/embed/stream-74.php'}, {name: 'beIN Sports MAX 5 France', id: '495', url: 'https://dlhd.pk/embed/stream-495.php'}, {name: 'Match! Football 3 Russia', id: '138', url: 'https://dlhd.pk/embed/stream-138.php'}, {name: 'beIN Sports 2 Malaysia', id: '713', url: 'https://dlhd.pk/embed/stream-713.php'}, {name: 'Fox Sports 2 Argentina', id: '788', url: 'https://dlhd.pk/embed/stream-788.php'}, {name: 'Arena Sport 4 Serbia', id: '581', url: 'https://dlhd.pk/embed/stream-581.php'}, {name: 'beIN Sports MENA 8', id: '98', url: 'https://dlhd.pk/embed/stream-98.php'}, {name: 'beIN Sports MENA English 2', id: '90', url: 'https://dlhd.pk/embed/stream-90.php'}, {name: 'Sportklub 6 Croatia', id: '181', url: 'https://dlhd.pk/embed/stream-181.php'}, {name: 'beIN Sports 1 Turkey', id: '3091', url: 'https://dlhd.pk/embed/stream-3091.php'}, {name: 'Backup Stream', id: '4110', url: 'https://dlhd.pk/embed/stream-4110.php'}]},
 {time: '18:45', title: '⚽ 🇫🇷 France - Ligue 1 : Simulcast', channels: [{name: 'Ligue1+ France', id: '960', url: 'https://dlhd.pk/embed/stream-960.php'}, {name: 'Ligue1+ France', id: '3050', url: 'https://dlhd.pk/embed/stream-3050.php'}]},
@@ -881,17 +834,17 @@ const events = [
 {time: '20:30', title: '🎾 WTA 1000 Cincinnati : (Pairs) 1/2 Final B', channels: [{name: 'Sportklub 8 Croatia', id: '183', url: 'https://dlhd.pk/embed/stream-183.php'}]},
 {time: '23:00', title: '🎾 ATP Masters Cincinnati : 1/2 Final B', channels: [{name: 'Sportklub 1 Croatia', id: '101', url: 'https://dlhd.pk/embed/stream-101.php'}]},
 {time: '00:45', title: '🎾 WTA 1000 Cincinnati : 1/2 Final B', channels: [{name: 'Sportklub 1 Croatia', id: '101', url: 'https://dlhd.pk/embed/stream-101.php'}]},
-{time: '15:00', title: '🎾 ATP Cincinnati : 🇳🇱 Robin Haase/🇩🇪 Constantin Frantzen vs 🇦🇷 Horacio Zeballos/🇪🇸 Marcel Granollers', channels: [{name: 'Tennis Stream', id: '1551', url: 'https://dlhd.pk/embed/stream-1551.php'}, {name: 'Tennis HDStream', id: '1075', url: 'https://dlhd.pk/embed/stream-1075.php'}]},
-{time: '15:00', title: '🎾 WTA Cincinnati : 🇨🇿 Linda Noskova/🇨🇿 Marie Bouzkova vs 🇷🇺 Alexandra Panova/🇧🇪 Magali Kempen', channels: [{name: 'Tennis Stream', id: '1552', url: 'https://dlhd.pk/embed/stream-1552.php'}, {name: 'Tennis HDStream', id: '1076', url: 'https://dlhd.pk/embed/stream-1076.php'}]},
+{time: '15:00', title: '🎾 ATP Cincinnati : 🇳🇱 Robin Haase/🇩🇪 Constantin Frantzen vs 🇦🇷 Horacio Zeballos/🇪🇸 Marcel Granollers', channels: [{name: 'Tennis Stream', id: '1551', url: 'https://dlhd.pk/embed/stream-1551.php'}, {name: 'Tennis HD Stream', id: '1075', url: 'https://dlhd.pk/embed/stream-1075.php'}]},
+{time: '15:00', title: '🎾 WTA Cincinnati : 🇨🇿 Linda Noskova/🇨🇿 Marie Bouzkova vs 🇷🇺 Alexandra Panova/🇧🇪 Magali Kempen', channels: [{name: 'Tennis Stream', id: '1552', url: 'https://dlhd.pk/embed/stream-1552.php'}, {name: 'Tennis HD Stream', id: '1076', url: 'https://dlhd.pk/embed/stream-1076.php'}]},
 {time: '15:00', title: '🎾 ATP Winston-Salem : 🇫🇷 Pierre-Hugues Herbert vs 🇯🇵 Kenta Miyoshi', channels: [{name: 'Tennis Stream', id: '1553', url: 'https://dlhd.pk/embed/stream-1553.php'}]},
 {time: '15:00', title: '🎾 ATP Winston-Salem : 🇬🇧 Felix Balshaw vs 🇬🇧 Luca Pow', channels: [{name: 'Tennis Stream', id: '1554', url: 'https://dlhd.pk/embed/stream-1554.php'}]},
 {time: '15:00', title: '🎾 ATP Winston-Salem : 🇫🇷 Hugo Grenier vs 🇦🇹 Neil Oberleitner', channels: [{name: 'Tennis Stream', id: '1555', url: 'https://dlhd.pk/embed/stream-1555.php'}]},
-{time: '16:30', title: '🎾 ATP Cincinnati : 🇫🇷 Hugo Nys/🇫🇷 Edouard Roger Vasselin vs 🇧🇷 Orlando Luz/🇧🇷 Rafael Matos', channels: [{name: 'Tennis Stream', id: '1556', url: 'https://dlhd.pk/embed/stream-1556.php'}, {name: 'Tennis HDStream', id: '1077', url: 'https://dlhd.pk/embed/stream-1077.php'}]},
+{time: '16:30', title: '🎾 ATP Cincinnati : 🇫🇷 Hugo Nys/🇫🇷 Edouard Roger Vasselin vs 🇧🇷 Orlando Luz/🇧🇷 Rafael Matos', channels: [{name: 'Tennis Stream', id: '1556', url: 'https://dlhd.pk/embed/stream-1556.php'}, {name: 'Tennis HD Stream', id: '1077', url: 'https://dlhd.pk/embed/stream-1077.php'}]},
 {time: '16:30', title: '🎾 ATP Winston-Salem : 🇺🇸 Hunter Heck vs 🇳🇱 Mees Rottgering', channels: [{name: 'Tennis Stream', id: '1557', url: 'https://dlhd.pk/embed/stream-1557.php'}]},
 {time: '16:30', title: '🎾 ATP Winston-Salem : 🇺🇸 Sebastian Gorzny vs 🇦🇺 Marc Polmans', channels: [{name: 'Tennis Stream', id: '1558', url: 'https://dlhd.pk/embed/stream-1558.php'}]},
 {time: '16:30', title: '🎾 ATP Winston-Salem : 🇦🇺 Li Tu vs 🇺🇸 Quinn Vandecasteele', channels: [{name: 'Tennis Stream', id: '1576', url: 'https://dlhd.pk/embed/stream-1576.php'}]},
 {time: '17:00', title: '🎾 ATP Winston-Salem : 🇫🇷 Hugo Gaston vs 🇫🇷 Luca Van Assche', channels: [{name: 'Tennis Stream', id: '1559', url: 'https://dlhd.pk/embed/stream-1559.php'}]},
-{time: '17:30', title: '🎾 ATP Cincinnati : 🇮🇹 Flavio Cobolli vs 🇫🇷 Arthur Fils', channels: [{name: 'Tennis Stream', id: '1560', url: 'https://dlhd.pk/embed/stream-1560.php'}, {name: 'Tennis Stream', id: '1507', url: 'https://dlhd.pk/embed/stream-1507.php'}, {name: 'Tennis Stream', id: '1520', url: 'https://dlhd.pk/embed/stream-1520.php'}]},
+{time: '17:30', title: '🎾 ATP Cincinnati : 🇮🇹 Flavio Cobolli vs 🇫🇷 Arthur Fils', channels: [{name: 'Tennis Stream', id: '1560', url: 'https://dlhd.pk/embed/stream-1560.php'}, {name: 'Tennis Stream', id: '1507', url: 'https://dlhd.pk/embed/stream-1507.php'}, {name: 'Tennis Stream', id: '1520', url: 'https://dlhd.pk/embed/stream-1520.php'}, {name: 'Tennis HD Stream', id: '1071', url: 'https://dlhd.pk/embed/stream-1071.php'}]},
 {time: '18:00', title: '🎾 ATP Winston-Salem : 🇪🇸 Roger Pascual Ferra vs 🇮🇳 Dhakshineswar Suresh', channels: [{name: 'Tennis Stream', id: '1561', url: 'https://dlhd.pk/embed/stream-1561.php'}]},
 {time: '18:00', title: '🎾 ATP Winston-Salem : 🇯🇴 Abedallah Shelbayh vs 🇺🇸 Ryan Seggerman', channels: [{name: 'Tennis Stream', id: '1562', url: 'https://dlhd.pk/embed/stream-1562.php'}]},
 {time: '19:00', title: '🎾 WTA Cincinnati : 🇺🇸 Jessica Pegula vs 🇵🇱 Iga Swiatek', channels: [{name: 'Tennis Stream', id: '1563', url: 'https://dlhd.pk/embed/stream-1563.php'}, {name: 'Tennis Stream', id: '1501', url: 'https://dlhd.pk/embed/stream-1501.php'}, {name: 'Tennis Stream', id: '1524', url: 'https://dlhd.pk/embed/stream-1524.php'}, {name: 'Tennis Stream', id: '1520', url: 'https://dlhd.pk/embed/stream-1520.php'}]},
@@ -936,7 +889,7 @@ const events = [
 {time: '22:30', title: '🏎️ Supercars Championship', channels: [{name: 'Sky Sport 4 NZ', id: '591', url: 'https://dlhd.pk/embed/stream-591.php'}]},
 {time: '00:40', title: '🏎️ Supercars Championship', channels: [{name: 'Sky Sport 4 NZ', id: '591', url: 'https://dlhd.pk/embed/stream-591.php'}]},
 {time: '14:00', title: '🥊 RCC Boxing Night : Vartan Arutyunyan 🇷🇺 vs Basir Abakarov 🇷🇺', channels: [{name: 'МАТЧ! БОЕЦ Russia', id: '395', url: 'https://dlhd.pk/embed/stream-395.php'}]},
-{time: '18:00', title: '🥊 Boxing : George Liddard 🇬🇧 vs Dario Morello 🇮🇹', channels: [{name: 'DAZN PPV', id: '55', url: 'https://dlhd.pk/embed/stream-55.php'}, {name: 'DAZN 2 Spain', id: '446', url: 'https://dlhd.pk/embed/stream-446.php'}]},
+{time: '18:00', title: '🥊 Boxing : George Liddard 🇬🇧 vs Dario Morello 🇮🇹', channels: [{name: 'DAZN PPV', id: '55', url: 'https://dlhd.pk/embed/stream-55.php'}, {name: 'DAZN 2 Spain', id: '446', url: 'https://dlhd.pk/embed/stream-446.php'}, {name: 'Event SD Stream', id: '213', url: 'https://dlhd.pk/embed/stream-213.php'}]},
 {time: '01:00', title: '🥊 Boxing : Rolando Romero 🇺🇸 vs Teofimo Lopez 🇺🇸', channels: [{name: 'DAZN PPV', id: '59', url: 'https://dlhd.pk/embed/stream-59.php'}, {name: 'DAZN PPV', id: '9', url: 'https://dlhd.pk/embed/stream-9.php'}]},
 {time: '02:00', title: '🥊 TBL Team Boxing League : Second Semifinal', channels: [{name: 'MSG USA', id: '765', url: 'https://dlhd.pk/embed/stream-765.php'}, {name: 'Backup Stream', id: '2009', url: 'https://dlhd.pk/embed/stream-2009.php'}]},
 {time: '12:10', title: '🥋 RWS : Yothin 🇹🇭 vs Fairan 🇹🇭', channels: [{name: 'DAZN PPV', id: '77', url: 'https://dlhd.pk/embed/stream-77.php'}]},
@@ -990,7 +943,7 @@ const events = [
 {time: '19:00', title: '⚾ 2026 Little League Baseball World Series: 🇺🇸 Massachusetts vs. TBA', channels: [{name: 'ESPN USA', id: '44', url: 'https://dlhd.pk/embed/stream-44.php'}]},
 {time: '21:00', title: '⚾ 2026 Little League Baseball World Series: 🇩🇴 Dominican Republic vs. TBA', channels: [{name: 'ESPN USA', id: '44', url: 'https://dlhd.pk/embed/stream-44.php'}]},
 {time: '23:00', title: '⚾ 2026 Little League Baseball World Series: 🇺🇸 Alabama vs. TBA', channels: [{name: 'ESPN USA', id: '44', url: 'https://dlhd.pk/embed/stream-44.php'}]},
-{time: '17:35', title: '⚾ MLB : New York Yankees 🇺🇸 vs Toronto Blue Jays 🇨🇦', channels: [{name: 'MLB League Pass', id: '110', url: 'https://dlhd.pk/embed/stream-110.php'}, {name: 'YES USA', id: '763', url: 'https://dlhd.pk/embed/stream-763.php'}, {name: 'TVA SPORTS CA', id: '833', url: 'https://dlhd.pk/embed/stream-833.php'}, {name: 'Arena Sport 8 Serbia', id: '943', url: 'https://dlhd.pk/embed/stream-943.php'}, {name: 'Sport 5 Gold Israel', id: '148', url: 'https://dlhd.pk/embed/stream-148.php'}]},
+{time: '17:35', title: '⚾ MLB : New York Yankees 🇺🇸 vs Toronto Blue Jays 🇨🇦', channels: [{name: 'MLB League Pass', id: '110', url: 'https://dlhd.pk/embed/stream-110.php'}, {name: 'YES USA', id: '763', url: 'https://dlhd.pk/embed/stream-763.php'}, {name: 'TVA SPORTS CA', id: '833', url: 'https://dlhd.pk/embed/stream-833.php'}, {name: 'Arena Sport 8 Serbia', id: '943', url: 'https://dlhd.pk/embed/stream-943.php'}, {name: 'Sport 5 Gold Israel', id: '148', url: 'https://dlhd.pk/embed/stream-148.php'}, {name: 'Event SD Stream', id: '216', url: 'https://dlhd.pk/embed/stream-216.php'}]},
 {time: '18:10', title: '⚾ MLB : Milwaukee Brewers 🇺🇸 vs Atlanta Braves 🇺🇸', channels: [{name: 'MLB League Pass', id: '23', url: 'https://dlhd.pk/embed/stream-23.php'}, {name: 'TNT Sports 2 UK', id: '32', url: 'https://dlhd.pk/embed/stream-32.php'}, {name: 'MLB Network', id: '399', url: 'https://dlhd.pk/embed/stream-399.php'}]},
 {time: '20:10', title: '⚾ MLB : Miami Marlins 🇺🇸 vs Washington Nationals 🇺🇸', channels: [{name: 'MLB League Pass', id: '12', url: 'https://dlhd.pk/embed/stream-12.php'}, {name: 'FOX Sports 1 USA', id: '39', url: 'https://dlhd.pk/embed/stream-39.php'}]},
 {time: '22:05', title: '⚾ MLB : Philadelphia Phillies 🇺🇸 vs St. Louis Cardinals 🇺🇸', channels: [{name: 'MLB League Pass', id: '8', url: 'https://dlhd.pk/embed/stream-8.php'}, {name: 'NBCS Philadelphia USA', id: '777', url: 'https://dlhd.pk/embed/stream-777.php'}]},
@@ -1013,6 +966,7 @@ const events = [
 {time: '15:30', title: '🏀 Turkish Airlines Supercup third-place match : TBD vs TBD', channels: [{name: 'Magenta Sports 317', id: '105', url: 'https://dlhd.pk/embed/stream-105.php'}]},
 {time: '18:15', title: '🏀 Turkish Airlines Supercup Final : TBD vs TBD', channels: [{name: 'Magenta Sports 317', id: '105', url: 'https://dlhd.pk/embed/stream-105.php'}]},
 {time: '17:00', title: '🏀 BIG3 (3x3) : Power 🇺🇸 vs Ball Hogs 🇺🇸', channels: [{name: 'CBS USA', id: '52', url: 'https://dlhd.pk/embed/stream-52.php'}, {name: 'CBSNY USA', id: '767', url: 'https://dlhd.pk/embed/stream-767.php'}]},
+{time: '18:30', title: '⚽ Basketball Supercup : Croatia vs Germany', channels: [{name: 'Event SD Stream', id: '225', url: 'https://dlhd.pk/embed/stream-225.php'}]},
 {time: '23:00', title: '🏀 WNBA : New York Liberty W 🇺🇸 vs Indiana Fever W 🇺🇸', channels: [{name: 'Sky Sports Mix UK', id: '449', url: 'https://dlhd.pk/embed/stream-449.php'}]},
 {time: '01:00', title: '🏀 WNBA : Los Angeles Sparks W 🇺🇸 vs Connecticut Sun W 🇺🇸', channels: [{name: 'Spectrum SportsNet USA', id: '764', url: 'https://dlhd.pk/embed/stream-764.php'}]},
 {time: '02:00', title: '🏀 WNBA : Phoenix Mercury 🇺🇸 vs Atlanta Dream 🇺🇸', channels: [{name: 'WNBA League Pass', id: '178', url: 'https://dlhd.pk/embed/stream-178.php'}]},
@@ -1115,8 +1069,6 @@ const events = [
 
 const channels = [];
 
-const eventButtons = [];
-
 
 /* =========================================================
    ELEMENTI
@@ -1171,11 +1123,7 @@ events.forEach(function(event) {
        ===================================================== */
 
     const eventTitle =
-        document.createElement("button");
-
-
-    eventTitle.type =
-        "button";
+        document.createElement("div");
 
 
     eventTitle.className =
@@ -1183,54 +1131,13 @@ events.forEach(function(event) {
 
 
     eventTitle.innerHTML =
-        '<span class="eventArrow">▶</span>' +
         '<span class="eventTime">' +
         escapeHtml(event.time) +
         '</span>' +
         escapeHtml(event.title);
 
 
-    eventTitle.setAttribute(
-        "tabindex",
-        eventButtons.length + 1
-    );
-
-
-    /* =====================================================
-       CONTENITORE CANALI
-       ===================================================== */
-
-    const eventChannels =
-        document.createElement("div");
-
-
-    eventChannels.className =
-        "eventChannels hidden";
-
-
-    eventTitle.onclick =
-        function() {
-
-            toggleEvent(
-                eventContainer,
-                eventTitle,
-                eventChannels
-            );
-
-        };
-
-
     eventContainer.appendChild(
-        eventTitle
-    );
-
-
-    eventContainer.appendChild(
-        eventChannels
-    );
-
-
-    eventButtons.push(
         eventTitle
     );
 
@@ -1276,10 +1183,6 @@ events.forEach(function(event) {
                 );
 
 
-            button.type =
-                "button";
-
-
             button.className =
                 "channel";
 
@@ -1290,7 +1193,7 @@ events.forEach(function(event) {
 
             button.setAttribute(
                 "tabindex",
-                channelIndex + 1000
+                channelIndex + 1
             );
 
 
@@ -1304,7 +1207,7 @@ events.forEach(function(event) {
                 };
 
 
-            eventChannels.appendChild(
+            eventContainer.appendChild(
                 button
             );
 
@@ -1316,7 +1219,7 @@ events.forEach(function(event) {
 
 
     /* =====================================================
-       AGGIUNGE EVENTO ALLA SIDEBAR
+       AGGIUNGI EVENTO ALLA SIDEBAR
        ===================================================== */
 
     channelList.appendChild(
@@ -1324,80 +1227,6 @@ events.forEach(function(event) {
     );
 
 });
-
-/* =========================================================
-   APRI / CHIUDI EVENTO
-   ========================================================= */
-
-function toggleEvent(
-    eventContainer,
-    eventTitle,
-    eventChannels
-) {
-
-    const isOpen =
-        !eventChannels.classList.contains(
-            "hidden"
-        );
-
-
-    /* Chiude tutti gli altri eventi */
-
-    document
-        .querySelectorAll(".eventChannels")
-        .forEach(function(container) {
-
-            container.classList.add("hidden");
-
-        });
-
-
-    document
-        .querySelectorAll(".eventTitle")
-        .forEach(function(button) {
-
-            const arrow =
-                button.querySelector(".eventArrow");
-
-            if (arrow) {
-                arrow.textContent = "▶";
-            }
-
-        });
-
-
-    if (!isOpen) {
-
-        eventChannels.classList.remove(
-            "hidden"
-        );
-
-        const arrow =
-            eventTitle.querySelector(
-                ".eventArrow"
-            );
-
-        if (arrow) {
-            arrow.textContent = "▼";
-        }
-
-        const firstChannel =
-            eventChannels.querySelector(
-                ".channel"
-            );
-
-        if (firstChannel) {
-            setTimeout(function() {
-                firstChannel.focus();
-            }, 50);
-        }
-
-    }
-
-    showSidebar();
-
-}
-
 
 searchBox.addEventListener(
     "input",
@@ -1734,268 +1563,247 @@ document.addEventListener(
     function(event) {
 
 
-        /* Se stiamo scrivendo nella ricerca,
-           lasciamo gestire i tasti al campo */
+        const buttons =
+            Array.from(
+                document.querySelectorAll(
+                    ".channel"
+                )
+            );
 
-        if (document.activeElement === searchBox) {
 
-            if (event.key === "ArrowDown") {
-
-                event.preventDefault();
-
-                const visibleEvents =
-                    eventButtons.filter(function(button) {
-                        return button.closest(".event").style.display !== "none";
-                    });
-
-                if (visibleEvents.length > 0) {
-                    visibleEvents[0].focus();
-                }
-
-            }
+        if (
+            buttons.length === 0
+        ) {
 
             return;
 
         }
 
 
-        const eventButton =
-            document.activeElement &&
-            document.activeElement.classList.contains(
-                "eventTitle"
-            )
-                ? document.activeElement
-                : null;
+        const current =
+            document.activeElement;
 
 
-        const channelButton =
-            document.activeElement &&
-            document.activeElement.classList.contains(
-                "channel"
-            )
-                ? document.activeElement
-                : null;
+        const index =
+            buttons.indexOf(
+                current
+            );
 
 
         /* =================================================
-           SELEZIONE EVENTO
-           ================================================= */
-
-        if (eventButton) {
-
-            const visibleEvents =
-                eventButtons.filter(function(button) {
-                    return button.closest(".event").style.display !== "none";
-                });
-
-            const eventIndex =
-                visibleEvents.indexOf(eventButton);
-
-
-            if (
-                event.key === "ArrowDown"
-            ) {
-
-                event.preventDefault();
-
-                if (visibleEvents.length > 0) {
-
-                    const next =
-                        eventIndex < visibleEvents.length - 1
-                            ? eventIndex + 1
-                            : 0;
-
-                    visibleEvents[next].focus();
-
-                }
-
-                return;
-
-            }
-
-
-            if (
-                event.key === "ArrowUp"
-            ) {
-
-                event.preventDefault();
-
-                if (visibleEvents.length > 0) {
-
-                    const previous =
-                        eventIndex > 0
-                            ? eventIndex - 1
-                            : visibleEvents.length - 1;
-
-                    visibleEvents[previous].focus();
-
-                }
-
-                return;
-
-            }
-
-
-            if (
-                event.key === "Enter" ||
-                event.key === " " ||
-                event.key === "ArrowRight"
-            ) {
-
-                event.preventDefault();
-
-                eventButton.click();
-
-                return;
-
-            }
-
-
-            if (
-                event.key === "ArrowLeft"
-            ) {
-
-                event.preventDefault();
-                hideSidebar();
-                return;
-
-            }
-
-        }
-
-
-        /* =================================================
-           SELEZIONE CANALE
-           ================================================= */
-
-        if (channelButton) {
-
-            const parentChannels =
-                channelButton.closest(
-                    ".eventChannels"
-                );
-
-            const channelButtons =
-                Array.from(
-                    parentChannels.querySelectorAll(
-                        ".channel"
-                    )
-                );
-
-            const channelIndex =
-                channelButtons.indexOf(
-                    channelButton
-                );
-
-
-            if (
-                event.key === "ArrowDown"
-            ) {
-
-                event.preventDefault();
-
-                if (channelButtons.length > 0) {
-
-                    const next =
-                        channelIndex < channelButtons.length - 1
-                            ? channelIndex + 1
-                            : 0;
-
-                    channelButtons[next].focus();
-
-                }
-
-                return;
-
-            }
-
-
-            if (
-                event.key === "ArrowUp"
-            ) {
-
-                event.preventDefault();
-
-                if (channelButtons.length > 0) {
-
-                    const previous =
-                        channelIndex > 0
-                            ? channelIndex - 1
-                            : channelButtons.length - 1;
-
-                    channelButtons[previous].focus();
-
-                }
-
-                return;
-
-            }
-
-
-            if (
-                event.key === "ArrowLeft"
-            ) {
-
-                event.preventDefault();
-
-                const parentEvent =
-                    channelButton.closest(".event");
-
-                const parentTitle =
-                    parentEvent.querySelector(
-                        ".eventTitle"
-                    );
-
-                if (parentTitle) {
-                    parentTitle.focus();
-                }
-
-                return;
-
-            }
-
-
-            if (
-                event.key === "ArrowRight"
-            ) {
-
-                event.preventDefault();
-                hideSidebar();
-                return;
-
-            }
-
-
-            if (
-                event.key === "Enter" ||
-                event.key === " "
-            ) {
-
-                event.preventDefault();
-
-                channelButton.click();
-
-                return;
-
-            }
-
-        }
-
-
-        /* =================================================
-           ATTIVITÀ GENERALE
+           ATTIVITÀ
            ================================================= */
 
         if (
+
             event.key === "ArrowLeft" ||
+
             event.key === "ArrowRight" ||
+
             event.key === "ArrowUp" ||
+
             event.key === "ArrowDown" ||
+
             event.key === "Enter" ||
+
             event.key === " "
+
         ) {
 
             showSidebar();
+
+        }
+
+
+        /* =================================================
+           SINISTRA
+           ================================================= */
+
+        if (
+            event.key === "ArrowLeft"
+        ) {
+
+            event.preventDefault();
+
+
+            if (index < 0) {
+
+                buttons[currentIndex].focus();
+
+            }
+            else {
+
+                buttons[index].focus();
+
+            }
+
+
+            return;
+
+        }
+
+
+        /* =================================================
+           DESTRA
+           ================================================= */
+
+        if (
+            event.key === "ArrowRight"
+        ) {
+
+            event.preventDefault();
+
+
+            hideSidebar();
+
+
+            return;
+
+        }
+
+
+        /* =================================================
+           GIÙ
+           ================================================= */
+
+        if (
+            event.key === "ArrowDown"
+        ) {
+
+            event.preventDefault();
+
+
+            let next;
+
+
+            if (index < 0) {
+
+                next =
+                    currentIndex + 1;
+
+            }
+            else {
+
+                next =
+                    index + 1;
+
+            }
+
+
+            if (
+                next >= buttons.length
+            ) {
+
+                next = 0;
+
+            }
+
+
+            currentIndex =
+                next;
+
+
+            buttons[next].focus();
+
+
+            buttons[next].scrollIntoView({
+
+                behavior: "smooth",
+
+                block: "nearest"
+
+            });
+
+
+            return;
+
+        }
+
+
+        /* =================================================
+           SU
+           ================================================= */
+
+        if (
+            event.key === "ArrowUp"
+        ) {
+
+            event.preventDefault();
+
+
+            let previous;
+
+
+            if (index < 0) {
+
+                previous =
+                    currentIndex - 1;
+
+            }
+            else {
+
+                previous =
+                    index - 1;
+
+            }
+
+
+            if (
+                previous < 0
+            ) {
+
+                previous =
+                    buttons.length - 1;
+
+            }
+
+
+            currentIndex =
+                previous;
+
+
+            buttons[previous].focus();
+
+
+            buttons[previous].scrollIntoView({
+
+                behavior: "smooth",
+
+                block: "nearest"
+
+            });
+
+
+            return;
+
+        }
+
+
+        /* =================================================
+           ENTER / OK
+           ================================================= */
+
+        if (
+
+            event.key === "Enter" ||
+
+            event.key === " "
+
+        ) {
+
+
+            if (
+                index >= 0
+            ) {
+
+                event.preventDefault();
+
+
+                playChannel(
+                    index
+                );
+
+            }
 
         }
 
@@ -2025,14 +1833,24 @@ window.addEventListener(
 
 
         /* =================================================
-           METTE IL PRIMO EVENTO A FUOCO
+           METTE IL PRIMO CANALE A FUOCO
            ================================================= */
 
-        if (eventButtons.length > 0) {
+        const buttons =
+            document.querySelectorAll(
+                ".channel"
+            );
 
-            eventButtons[0].focus();
 
-            eventButtons[0].scrollIntoView({
+        if (buttons.length > 0) {
+
+            currentIndex = 0;
+
+
+            buttons[0].focus();
+
+
+            buttons[0].scrollIntoView({
 
                 behavior: "instant",
 
