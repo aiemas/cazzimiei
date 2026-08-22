@@ -527,56 +527,26 @@ body {
 
 .event {
 
-    margin-bottom: 12px;
+    margin-bottom: 18px;
 
 }
 
 
 .eventTitle {
 
-    width: 100%;
-
-    display: block;
-
-    padding: 12px 10px;
+    padding: 10px;
 
     margin-bottom: 6px;
 
     background: #111827;
 
-    border: 2px solid transparent;
-
-    border-radius: 8px;
-
-    color: white;
+    border-radius: 6px;
 
     font-size: 15px;
 
     font-weight: bold;
 
     line-height: 1.3;
-
-    cursor: pointer;
-
-    text-align: left;
-
-}
-
-
-.eventTitle:hover {
-
-    background: #1f2937;
-
-}
-
-
-.eventTitle:focus {
-
-    outline: none;
-
-    border-color: white;
-
-    background: #16a34a;
 
 }
 
@@ -586,26 +556,6 @@ body {
     color: #22c55e;
 
     margin-right: 6px;
-
-}
-
-
-/* =========================================================
-   CONTENITORE CANALI
-   ========================================================= */
-
-.eventChannels {
-
-    display: block;
-
-    padding-left: 8px;
-
-}
-
-
-.eventChannels.hidden {
-
-    display: none;
 
 }
 
@@ -885,8 +835,6 @@ html_output += r''';
 
 const channels = [];
 
-const eventButtons = [];
-
 
 /* =========================================================
    ELEMENTI
@@ -941,11 +889,7 @@ events.forEach(function(event) {
        ===================================================== */
 
     const eventTitle =
-        document.createElement("button");
-
-
-    eventTitle.type =
-        "button";
+        document.createElement("div");
 
 
     eventTitle.className =
@@ -953,54 +897,13 @@ events.forEach(function(event) {
 
 
     eventTitle.innerHTML =
-        '<span class="eventArrow">▶</span>' +
         '<span class="eventTime">' +
         escapeHtml(event.time) +
         '</span>' +
         escapeHtml(event.title);
 
 
-    eventTitle.setAttribute(
-        "tabindex",
-        eventButtons.length + 1
-    );
-
-
-    /* =====================================================
-       CONTENITORE CANALI
-       ===================================================== */
-
-    const eventChannels =
-        document.createElement("div");
-
-
-    eventChannels.className =
-        "eventChannels hidden";
-
-
-    eventTitle.onclick =
-        function() {
-
-            toggleEvent(
-                eventContainer,
-                eventTitle,
-                eventChannels
-            );
-
-        };
-
-
     eventContainer.appendChild(
-        eventTitle
-    );
-
-
-    eventContainer.appendChild(
-        eventChannels
-    );
-
-
-    eventButtons.push(
         eventTitle
     );
 
@@ -1046,10 +949,6 @@ events.forEach(function(event) {
                 );
 
 
-            button.type =
-                "button";
-
-
             button.className =
                 "channel";
 
@@ -1060,7 +959,7 @@ events.forEach(function(event) {
 
             button.setAttribute(
                 "tabindex",
-                channelIndex + 1000
+                channelIndex + 1
             );
 
 
@@ -1074,7 +973,7 @@ events.forEach(function(event) {
                 };
 
 
-            eventChannels.appendChild(
+            eventContainer.appendChild(
                 button
             );
 
@@ -1086,7 +985,7 @@ events.forEach(function(event) {
 
 
     /* =====================================================
-       AGGIUNGE EVENTO ALLA SIDEBAR
+       AGGIUNGI EVENTO ALLA SIDEBAR
        ===================================================== */
 
     channelList.appendChild(
@@ -1094,80 +993,6 @@ events.forEach(function(event) {
     );
 
 });
-
-/* =========================================================
-   APRI / CHIUDI EVENTO
-   ========================================================= */
-
-function toggleEvent(
-    eventContainer,
-    eventTitle,
-    eventChannels
-) {
-
-    const isOpen =
-        !eventChannels.classList.contains(
-            "hidden"
-        );
-
-
-    /* Chiude tutti gli altri eventi */
-
-    document
-        .querySelectorAll(".eventChannels")
-        .forEach(function(container) {
-
-            container.classList.add("hidden");
-
-        });
-
-
-    document
-        .querySelectorAll(".eventTitle")
-        .forEach(function(button) {
-
-            const arrow =
-                button.querySelector(".eventArrow");
-
-            if (arrow) {
-                arrow.textContent = "▶";
-            }
-
-        });
-
-
-    if (!isOpen) {
-
-        eventChannels.classList.remove(
-            "hidden"
-        );
-
-        const arrow =
-            eventTitle.querySelector(
-                ".eventArrow"
-            );
-
-        if (arrow) {
-            arrow.textContent = "▼";
-        }
-
-        const firstChannel =
-            eventChannels.querySelector(
-                ".channel"
-            );
-
-        if (firstChannel) {
-            setTimeout(function() {
-                firstChannel.focus();
-            }, 50);
-        }
-
-    }
-
-    showSidebar();
-
-}
-
 
 searchBox.addEventListener(
     "input",
@@ -1504,268 +1329,247 @@ document.addEventListener(
     function(event) {
 
 
-        /* Se stiamo scrivendo nella ricerca,
-           lasciamo gestire i tasti al campo */
+        const buttons =
+            Array.from(
+                document.querySelectorAll(
+                    ".channel"
+                )
+            );
 
-        if (document.activeElement === searchBox) {
 
-            if (event.key === "ArrowDown") {
-
-                event.preventDefault();
-
-                const visibleEvents =
-                    eventButtons.filter(function(button) {
-                        return button.closest(".event").style.display !== "none";
-                    });
-
-                if (visibleEvents.length > 0) {
-                    visibleEvents[0].focus();
-                }
-
-            }
+        if (
+            buttons.length === 0
+        ) {
 
             return;
 
         }
 
 
-        const eventButton =
-            document.activeElement &&
-            document.activeElement.classList.contains(
-                "eventTitle"
-            )
-                ? document.activeElement
-                : null;
+        const current =
+            document.activeElement;
 
 
-        const channelButton =
-            document.activeElement &&
-            document.activeElement.classList.contains(
-                "channel"
-            )
-                ? document.activeElement
-                : null;
+        const index =
+            buttons.indexOf(
+                current
+            );
 
 
         /* =================================================
-           SELEZIONE EVENTO
-           ================================================= */
-
-        if (eventButton) {
-
-            const visibleEvents =
-                eventButtons.filter(function(button) {
-                    return button.closest(".event").style.display !== "none";
-                });
-
-            const eventIndex =
-                visibleEvents.indexOf(eventButton);
-
-
-            if (
-                event.key === "ArrowDown"
-            ) {
-
-                event.preventDefault();
-
-                if (visibleEvents.length > 0) {
-
-                    const next =
-                        eventIndex < visibleEvents.length - 1
-                            ? eventIndex + 1
-                            : 0;
-
-                    visibleEvents[next].focus();
-
-                }
-
-                return;
-
-            }
-
-
-            if (
-                event.key === "ArrowUp"
-            ) {
-
-                event.preventDefault();
-
-                if (visibleEvents.length > 0) {
-
-                    const previous =
-                        eventIndex > 0
-                            ? eventIndex - 1
-                            : visibleEvents.length - 1;
-
-                    visibleEvents[previous].focus();
-
-                }
-
-                return;
-
-            }
-
-
-            if (
-                event.key === "Enter" ||
-                event.key === " " ||
-                event.key === "ArrowRight"
-            ) {
-
-                event.preventDefault();
-
-                eventButton.click();
-
-                return;
-
-            }
-
-
-            if (
-                event.key === "ArrowLeft"
-            ) {
-
-                event.preventDefault();
-                hideSidebar();
-                return;
-
-            }
-
-        }
-
-
-        /* =================================================
-           SELEZIONE CANALE
-           ================================================= */
-
-        if (channelButton) {
-
-            const parentChannels =
-                channelButton.closest(
-                    ".eventChannels"
-                );
-
-            const channelButtons =
-                Array.from(
-                    parentChannels.querySelectorAll(
-                        ".channel"
-                    )
-                );
-
-            const channelIndex =
-                channelButtons.indexOf(
-                    channelButton
-                );
-
-
-            if (
-                event.key === "ArrowDown"
-            ) {
-
-                event.preventDefault();
-
-                if (channelButtons.length > 0) {
-
-                    const next =
-                        channelIndex < channelButtons.length - 1
-                            ? channelIndex + 1
-                            : 0;
-
-                    channelButtons[next].focus();
-
-                }
-
-                return;
-
-            }
-
-
-            if (
-                event.key === "ArrowUp"
-            ) {
-
-                event.preventDefault();
-
-                if (channelButtons.length > 0) {
-
-                    const previous =
-                        channelIndex > 0
-                            ? channelIndex - 1
-                            : channelButtons.length - 1;
-
-                    channelButtons[previous].focus();
-
-                }
-
-                return;
-
-            }
-
-
-            if (
-                event.key === "ArrowLeft"
-            ) {
-
-                event.preventDefault();
-
-                const parentEvent =
-                    channelButton.closest(".event");
-
-                const parentTitle =
-                    parentEvent.querySelector(
-                        ".eventTitle"
-                    );
-
-                if (parentTitle) {
-                    parentTitle.focus();
-                }
-
-                return;
-
-            }
-
-
-            if (
-                event.key === "ArrowRight"
-            ) {
-
-                event.preventDefault();
-                hideSidebar();
-                return;
-
-            }
-
-
-            if (
-                event.key === "Enter" ||
-                event.key === " "
-            ) {
-
-                event.preventDefault();
-
-                channelButton.click();
-
-                return;
-
-            }
-
-        }
-
-
-        /* =================================================
-           ATTIVITÀ GENERALE
+           ATTIVITÀ
            ================================================= */
 
         if (
+
             event.key === "ArrowLeft" ||
+
             event.key === "ArrowRight" ||
+
             event.key === "ArrowUp" ||
+
             event.key === "ArrowDown" ||
+
             event.key === "Enter" ||
+
             event.key === " "
+
         ) {
 
             showSidebar();
+
+        }
+
+
+        /* =================================================
+           SINISTRA
+           ================================================= */
+
+        if (
+            event.key === "ArrowLeft"
+        ) {
+
+            event.preventDefault();
+
+
+            if (index < 0) {
+
+                buttons[currentIndex].focus();
+
+            }
+            else {
+
+                buttons[index].focus();
+
+            }
+
+
+            return;
+
+        }
+
+
+        /* =================================================
+           DESTRA
+           ================================================= */
+
+        if (
+            event.key === "ArrowRight"
+        ) {
+
+            event.preventDefault();
+
+
+            hideSidebar();
+
+
+            return;
+
+        }
+
+
+        /* =================================================
+           GIÙ
+           ================================================= */
+
+        if (
+            event.key === "ArrowDown"
+        ) {
+
+            event.preventDefault();
+
+
+            let next;
+
+
+            if (index < 0) {
+
+                next =
+                    currentIndex + 1;
+
+            }
+            else {
+
+                next =
+                    index + 1;
+
+            }
+
+
+            if (
+                next >= buttons.length
+            ) {
+
+                next = 0;
+
+            }
+
+
+            currentIndex =
+                next;
+
+
+            buttons[next].focus();
+
+
+            buttons[next].scrollIntoView({
+
+                behavior: "smooth",
+
+                block: "nearest"
+
+            });
+
+
+            return;
+
+        }
+
+
+        /* =================================================
+           SU
+           ================================================= */
+
+        if (
+            event.key === "ArrowUp"
+        ) {
+
+            event.preventDefault();
+
+
+            let previous;
+
+
+            if (index < 0) {
+
+                previous =
+                    currentIndex - 1;
+
+            }
+            else {
+
+                previous =
+                    index - 1;
+
+            }
+
+
+            if (
+                previous < 0
+            ) {
+
+                previous =
+                    buttons.length - 1;
+
+            }
+
+
+            currentIndex =
+                previous;
+
+
+            buttons[previous].focus();
+
+
+            buttons[previous].scrollIntoView({
+
+                behavior: "smooth",
+
+                block: "nearest"
+
+            });
+
+
+            return;
+
+        }
+
+
+        /* =================================================
+           ENTER / OK
+           ================================================= */
+
+        if (
+
+            event.key === "Enter" ||
+
+            event.key === " "
+
+        ) {
+
+
+            if (
+                index >= 0
+            ) {
+
+                event.preventDefault();
+
+
+                playChannel(
+                    index
+                );
+
+            }
 
         }
 
@@ -1795,14 +1599,24 @@ window.addEventListener(
 
 
         /* =================================================
-           METTE IL PRIMO EVENTO A FUOCO
+           METTE IL PRIMO CANALE A FUOCO
            ================================================= */
 
-        if (eventButtons.length > 0) {
+        const buttons =
+            document.querySelectorAll(
+                ".channel"
+            );
 
-            eventButtons[0].focus();
 
-            eventButtons[0].scrollIntoView({
+        if (buttons.length > 0) {
+
+            currentIndex = 0;
+
+
+            buttons[0].focus();
+
+
+            buttons[0].scrollIntoView({
 
                 behavior: "instant",
 
