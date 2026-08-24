@@ -1,3 +1,4 @@
+```python
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -93,7 +94,6 @@ print()
 
 for event_block in event_blocks:
 
-
     # --------------------------------------------------------
     # ORARIO
     # --------------------------------------------------------
@@ -140,14 +140,12 @@ for event_block in event_blocks:
 
     channels = []
 
-
     channel_elements = event_block.select(
         ".schedule__channels a"
     )
 
 
     for channel_element in channel_elements:
-
 
         # ----------------------------------------------------
         # NOME CANALE
@@ -486,6 +484,7 @@ body {
 
 }
 
+
 #searchBox {
 
     width: 100%;
@@ -508,6 +507,7 @@ body {
 
 }
 
+
 #searchBox:focus {
 
     border-color: white;
@@ -515,6 +515,7 @@ body {
     background: #374151;
 
 }
+
 
 #searchBox::placeholder {
 
@@ -778,14 +779,13 @@ body {
 
     <h1>📺 EVENTI</h1>
 
-<input
-    type="text"
-    id="searchBox"
-    placeholder="🔎 Cerca evento o canale..."
-    autocomplete="off">
+    <input
+        type="text"
+        id="searchBox"
+        placeholder="🔎 Cerca evento o canale..."
+        autocomplete="off">
 
-<div id="channelList"></div>
-
+    <div id="channelList"></div>
 
 </div>
 
@@ -840,21 +840,18 @@ const channels = [];
 
 const channelList =
     document.getElementById("channelList");
+
 const searchBox =
     document.getElementById("searchBox");
-
 
 const player =
     document.getElementById("player");
 
-
 const currentChannel =
     document.getElementById("currentChannel");
 
-
 const sidebar =
     document.getElementById("sidebar");
-
 
 const topBar =
     document.getElementById("topBar");
@@ -992,6 +989,11 @@ events.forEach(function(event) {
 
 });
 
+
+/* =========================================================
+   RICERCA
+   ========================================================= */
+
 searchBox.addEventListener(
     "input",
     function() {
@@ -1003,6 +1005,7 @@ searchBox.addEventListener(
 
         const eventsContainers =
             document.querySelectorAll(".event");
+
 
         eventsContainers.forEach(
             function(container) {
@@ -1031,11 +1034,6 @@ searchBox.addEventListener(
 
     }
 );
-
-
-/* =========================================================
-   TIMER
-   ========================================================= */
 
 
 /* =========================================================
@@ -1149,10 +1147,10 @@ function playChannel(index) {
 
 
     /* =====================================================
-       MOSTRA SIDEBAR
+       NASCONDE LA SIDEBAR
        ===================================================== */
 
-    showSidebar();
+    hideSidebar();
 
 }
 
@@ -1180,94 +1178,15 @@ function showSidebar() {
 
 function hideSidebar() {
 
-
-    clearTimeout(
-        hideTimer
-    );
-
-
     sidebar.classList.add(
         "hidden"
     );
-
 
     topBar.classList.add(
         "hidden"
     );
 
 }
-
-
-/* =========================================================
-   RESET TIMER
-   ========================================================= */
-
-
-/* =========================================================
-   MOUSE SULLA SIDEBAR
-   ========================================================= */
-
-sidebar.addEventListener(
-    "mousemove",
-    function() {
-
-        if (
-            !sidebar.classList.contains(
-                "hidden"
-            )
-        ) {
-
-            resetHideTimer();
-
-        }
-
-    }
-);
-
-
-/* =========================================================
-   SCROLL
-   ========================================================= */
-
-sidebar.addEventListener(
-    "wheel",
-    function() {
-
-        showSidebar();
-
-    }
-);
-
-
-/* =========================================================
-   TOUCH
-   ========================================================= */
-
-
-/* =====================================================
-   NASCONDE SIDEBAR DOPO LA SELEZIONE
-   ===================================================== */
-
-hideSidebar();   
-
-sidebar.addEventListener(
-    "touchstart",
-    function() {
-
-        showSidebar();
-
-    }
-);
-
-
-sidebar.addEventListener(
-    "touchmove",
-    function() {
-
-        showSidebar();
-
-    }
-);
 
 
 /* =========================================================
@@ -1324,6 +1243,51 @@ document.addEventListener(
         }
 
 
+        /* =================================================
+           SE LA SIDEBAR È NASCOSTA
+           
+           QUALSIASI TASTO LA RIAPRE
+           ================================================= */
+
+        if (
+            sidebar.classList.contains(
+                "hidden"
+            )
+        ) {
+
+            showSidebar();
+
+
+            /* =============================================
+               RIPORTA IL FOCUS SUL CANALE CORRENTE
+               ============================================= */
+
+            if (
+                buttons[currentIndex]
+            ) {
+
+                buttons[currentIndex].focus();
+
+                buttons[currentIndex].scrollIntoView({
+
+                    behavior: "instant",
+
+                    block: "center"
+
+                });
+
+            }
+
+
+            return;
+
+        }
+
+
+        /* =================================================
+           DA QUI IN POI LA SIDEBAR È VISIBILE
+           ================================================= */
+
         const current =
             document.activeElement;
 
@@ -1332,31 +1296,6 @@ document.addEventListener(
             buttons.indexOf(
                 current
             );
-
-
-        /* =================================================
-           ATTIVITÀ
-           ================================================= */
-
-        if (
-
-            event.key === "ArrowLeft" ||
-
-            event.key === "ArrowRight" ||
-
-            event.key === "ArrowUp" ||
-
-            event.key === "ArrowDown" ||
-
-            event.key === "Enter" ||
-
-            event.key === " "
-
-        ) {
-
-            showSidebar();
-
-        }
 
 
         /* =================================================
@@ -1577,7 +1516,7 @@ window.addEventListener(
 
 
         /* =================================================
-           METTE IL PRIMO CANALE A FUOCO
+           PRIMO CANALE A FUOCO
            ================================================= */
 
         const buttons =
@@ -1603,6 +1542,13 @@ window.addEventListener(
             });
 
         }
+
+
+        /* =================================================
+           SIDEBAR VISIBILE ALL'AVVIO
+           ================================================= */
+
+        showSidebar();
 
     }
 );
@@ -1667,3 +1613,4 @@ if not os.path.isfile(OUTPUT_FILE):
 
 print()
 print("index.html creato correttamente.")
+```
