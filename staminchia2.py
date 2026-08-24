@@ -441,7 +441,7 @@ body {
     left: 0;
     top: 0;
 
-    width: 300px;
+    width: 400px;
     height: 100vh;
 
     background: rgba(15, 23, 42, 0.45);
@@ -646,7 +646,7 @@ body {
     position: fixed;
 
     top: 15px;
-    left: 320px;
+    left: 400px;
 
     z-index: 900;
 
@@ -727,15 +727,11 @@ body {
 @media (max-width: 700px) {
 
     #sidebar {
-
-        width: 240px;
-
+        width: 320px;
     }
 
     #topBar {
-
-        left: 260px;
-
+        left: 340px;
     }
 
 }
