@@ -1243,6 +1243,13 @@ sidebar.addEventListener(
    TOUCH
    ========================================================= */
 
+
+/* =====================================================
+   NASCONDE SIDEBAR DOPO LA SELEZIONE
+   ===================================================== */
+
+hideSidebar();   
+
 sidebar.addEventListener(
     "touchstart",
     function() {
