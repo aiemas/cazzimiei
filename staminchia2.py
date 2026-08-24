@@ -1297,6 +1297,44 @@ document.addEventListener(
 
 
         /* =================================================
+           SINISTRA
+           
+           CHIUDE LA SIDEBAR
+           ================================================= */
+
+        if (
+            event.key === "ArrowLeft"
+        ) {
+
+            event.preventDefault();
+
+            hideSidebar();
+
+            return;
+
+        }
+
+
+        /* =================================================
+           DESTRA
+           
+           CHIUDE LA SIDEBAR
+           ================================================= */
+
+        if (
+            event.key === "ArrowRight"
+        ) {
+
+            event.preventDefault();
+
+            hideSidebar();
+
+            return;
+
+        }
+
+
+        /* =================================================
            FRECCIA SU
            ================================================= */
 
