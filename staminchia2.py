@@ -444,7 +444,7 @@ body {
     width: 300px;
     height: 100vh;
 
-    background: rgba(15, 23, 42, 0.97);
+    background: rgba(15, 23, 42, 0.60);
 
     padding: 15px;
 
