@@ -1037,7 +1037,6 @@ searchBox.addEventListener(
    TIMER
    ========================================================= */
 
-let hideTimer;
 
 
 /* =========================================================
@@ -1154,7 +1153,7 @@ function playChannel(index) {
        MOSTRA SIDEBAR
        ===================================================== */
 
-    showSidebar();
+    hideSidebar();
 
 }
 
@@ -1165,18 +1164,13 @@ function playChannel(index) {
 
 function showSidebar() {
 
-
     sidebar.classList.remove(
         "hidden"
     );
 
-
     topBar.classList.remove(
         "hidden"
     );
-
-
-    resetHideTimer();
 
 }
 
@@ -1201,31 +1195,6 @@ function hideSidebar() {
     topBar.classList.add(
         "hidden"
     );
-
-}
-
-
-/* =========================================================
-   RESET TIMER
-   ========================================================= */
-
-function resetHideTimer() {
-
-
-    clearTimeout(
-        hideTimer
-    );
-
-
-    hideTimer =
-        setTimeout(
-            function() {
-
-                hideSidebar();
-
-            },
-            3000
-        );
 
 }
 
@@ -1621,15 +1590,6 @@ window.addEventListener(
                 block: "center"
 
             });
-
-        }
-
-
-        /* =================================================
-           TIMER SIDEBAR
-           ================================================= */
-
-        resetHideTimer();
 
     }
 );
