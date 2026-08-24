@@ -444,7 +444,9 @@ body {
     width: 300px;
     height: 100vh;
 
-    background: rgba(15, 23, 42, 0.60);
+    background: rgba(15, 23, 42, 0.45);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 
     padding: 15px;
 
