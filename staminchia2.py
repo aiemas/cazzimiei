@@ -1612,4 +1612,3 @@ if not os.path.isfile(OUTPUT_FILE):
 
 print()
 print("index.html creato correttamente.")
-```
