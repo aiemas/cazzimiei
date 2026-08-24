@@ -1224,7 +1224,6 @@ document.addEventListener(
     "keydown",
     function(event) {
 
-
         const buttons =
             Array.from(
                 document.querySelectorAll(
@@ -1243,9 +1242,9 @@ document.addEventListener(
 
 
         /* =================================================
-           SE LA SIDEBAR È NASCOSTA
+           SIDEBAR NASCOSTA
            
-           QUALSIASI TASTO LA RIAPRE
+           QUALSIASI TASTO RIAPRE IL MENU
            ================================================= */
 
         if (
@@ -1284,7 +1283,7 @@ document.addEventListener(
 
 
         /* =================================================
-           DA QUI IN POI LA SIDEBAR È VISIBILE
+           SIDEBAR VISIBILE
            ================================================= */
 
         const current =
@@ -1298,101 +1297,7 @@ document.addEventListener(
 
 
         /* =================================================
-           SINISTRA
-           ================================================= */
-
-        if (
-            event.key === "ArrowLeft"
-        ) {
-
-            event.preventDefault();
-
-            hideSidebar();
-
-            return;
-
-        }
-
-
-        /* =================================================
-           DESTRA
-           ================================================= */
-
-        if (
-            event.key === "ArrowRight"
-        ) {
-
-            event.preventDefault();
-
-
-            hideSidebar();
-
-
-            return;
-
-        }
-
-
-        /* =================================================
-           GIÙ
-           ================================================= */
-
-        if (
-            event.key === "ArrowDown"
-        ) {
-
-            event.preventDefault();
-
-
-            let next;
-
-
-            if (index < 0) {
-
-                next =
-                    currentIndex + 1;
-
-            }
-            else {
-
-                next =
-                    index + 1;
-
-            }
-
-
-            if (
-                next >= buttons.length
-            ) {
-
-                next = 0;
-
-            }
-
-
-            currentIndex =
-                next;
-
-
-            buttons[next].focus();
-
-
-            buttons[next].scrollIntoView({
-
-                behavior: "smooth",
-
-                block: "nearest"
-
-            });
-
-
-            return;
-
-        }
-
-
-        /* =================================================
-           SU
+           FRECCIA SU
            ================================================= */
 
         if (
@@ -1451,17 +1356,71 @@ document.addEventListener(
 
 
         /* =================================================
+           FRECCIA GIÙ
+           ================================================= */
+
+        if (
+            event.key === "ArrowDown"
+        ) {
+
+            event.preventDefault();
+
+
+            let next;
+
+
+            if (index < 0) {
+
+                next =
+                    currentIndex + 1;
+
+            }
+            else {
+
+                next =
+                    index + 1;
+
+            }
+
+
+            if (
+                next >= buttons.length
+            ) {
+
+                next = 0;
+
+            }
+
+
+            currentIndex =
+                next;
+
+
+            buttons[next].focus();
+
+
+            buttons[next].scrollIntoView({
+
+                behavior: "smooth",
+
+                block: "nearest"
+
+            });
+
+
+            return;
+
+        }
+
+
+        /* =================================================
            ENTER / OK
            ================================================= */
 
         if (
-
             event.key === "Enter" ||
-
             event.key === " "
-
         ) {
-
 
             if (
                 index >= 0
