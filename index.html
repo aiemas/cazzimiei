@@ -517,12 +517,14 @@ const events = [
 {time: '02:00', title: '📺 Somebody Knows Something S1, E4', channels: [{name: 'Freeform USA', id: '301', url: 'https://dlhd.pk/embed/stream-301.php'}]},
 {time: '02:00', title: '📺 For My Man S9, E39', channels: [{name: 'TV ONE USA', id: '660', url: 'https://dlhd.pk/embed/stream-660.php'}]},
 {time: '03:35', title: '📺 Jimmy Kimmel Live! S24, E154', channels: [{name: 'ABC NY USA', id: '766', url: 'https://dlhd.pk/embed/stream-766.php'}]},
+{time: '12:15', title: '⚽ Malaysia Super League : 🇲🇾 Sabah vs Star City 🇲🇾', channels: [{name: 'Event SD Stream', id: '76', url: 'https://dlhd.pk/embed/stream-76.php'}]},
 {time: '14:00', title: '⚽ Serbian Women\'s Super League : 🇷🇸 ŽFK Vojvodina vs ŽFK Crvena zvezda 🇷🇸', channels: [{name: 'Arena 5 Premium Serbia', id: '8', url: 'https://dlhd.pk/embed/stream-8.php'}]},
 {time: '14:30', title: '⚽ Russia - FNL : 🇷🇺 KAMAZ vs Sochi 🇷🇺', channels: [{name: 'MATCH! Premier Russia', id: '573', url: 'https://dlhd.pk/embed/stream-573.php'}, {name: 'MATCH TV Russia', id: '127', url: 'https://dlhd.pk/embed/stream-127.php'}]},
 {time: '15:00', title: '⚽ Serbia - Prva Liga : 🇷🇸 Naftagas vs Grafičar 🇷🇸', channels: [{name: 'Arena Sport 10 Serbia', id: '945', url: 'https://dlhd.pk/embed/stream-945.php'}]},
 {time: '15:00', title: '⚽ Slovakia - 2. Futbalová Liga : 🇸🇰 Lokomotíva Zvolen vs Petržalka akadémia 🇸🇰', channels: [{name: 'RTVS Sport Slovakia', id: '1', url: 'https://dlhd.pk/embed/stream-1.php'}]},
 {time: '15:00', title: '⚽ Football: Slovenian Youth League 🇸🇮', channels: [{name: 'Sportklub 3 Croatia', id: '103', url: 'https://dlhd.pk/embed/stream-103.php'}]},
-{time: '15:30', title: '⚽ Romania - Liga I : 🇷🇴 Botoşani vs Csikszereda 🇷🇴', channels: [{name: 'Digi Sport 1 Romania', id: '400', url: 'https://dlhd.pk/embed/stream-400.php'}, {name: 'Prima Sport 1 Romania', id: '583', url: 'https://dlhd.pk/embed/stream-583.php'}, {name: 'Arena Sport 2 Croatia', id: '433', url: 'https://dlhd.pk/embed/stream-433.php'}]},
+{time: '15:30', title: '⚽ Romania - Liga I : 🇷🇴 Botoşani vs Csikszereda 🇷🇴', channels: [{name: 'Digi Sport 1 Romania', id: '400', url: 'https://dlhd.pk/embed/stream-400.php'}, {name: 'Event SD Stream', id: '68', url: 'https://dlhd.pk/embed/stream-68.php'}, {name: 'Prima Sport 1 Romania', id: '583', url: 'https://dlhd.pk/embed/stream-583.php'}, {name: 'Arena Sport 2 Croatia', id: '433', url: 'https://dlhd.pk/embed/stream-433.php'}]},
+{time: '15:45', title: '⚽ Lithuania Toplyga : 🇱🇹 Transinvest vs FA Siauliai 🇱🇹', channels: [{name: 'Event SD Stream', id: '105', url: 'https://dlhd.pk/embed/stream-105.php'}]},
 {time: '16:00', title: '⚽ Bulgaria - Parva Liga : 🇧🇬 Botev Vratsa vs Botev Plovdiv 🇧🇬', channels: [{name: 'Diema Sport Bulgaria', id: '465', url: 'https://dlhd.pk/embed/stream-465.php'}, {name: 'Sportklub 6 Croatia', id: '23', url: 'https://dlhd.pk/embed/stream-23.php'}, {name: 'Diema Sport Bulgaria', id: '3048', url: 'https://dlhd.pk/embed/stream-3048.php'}]},
 {time: '16:00', title: '⚽ Israel - Liga Leumit : 🇮🇱 Ironi Kiryat Gat vs Hapoel Rishon LeZion 🇮🇱', channels: [{name: '5 Live Israel', id: '146', url: 'https://dlhd.pk/embed/stream-146.php'}]},
 {time: '16:00', title: '⚽ Israel - Liga Leumit : 🇮🇱 Maccabi Ahi Nazareth vs Hapoel Afula 🇮🇱', channels: [{name: '5Plus Israel', id: '145', url: 'https://dlhd.pk/embed/stream-145.php'}]},
@@ -1231,6 +1233,44 @@ document.addEventListener(
             buttons.indexOf(
                 current
             );
+
+
+        /* =================================================
+           SINISTRA
+           
+           CHIUDE LA SIDEBAR
+           ================================================= */
+
+        if (
+            event.key === "ArrowLeft"
+        ) {
+
+            event.preventDefault();
+
+            hideSidebar();
+
+            return;
+
+        }
+
+
+        /* =================================================
+           DESTRA
+           
+           CHIUDE LA SIDEBAR
+           ================================================= */
+
+        if (
+            event.key === "ArrowRight"
+        ) {
+
+            event.preventDefault();
+
+            hideSidebar();
+
+            return;
+
+        }
 
 
         /* =================================================
