@@ -1307,18 +1307,7 @@ document.addEventListener(
 
             event.preventDefault();
 
-
-            if (index < 0) {
-
-                buttons[currentIndex].focus();
-
-            }
-            else {
-
-                buttons[index].focus();
-
-            }
-
+            hideSidebar();
 
             return;
 
