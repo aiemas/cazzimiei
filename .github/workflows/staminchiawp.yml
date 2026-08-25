@@ -26,8 +26,8 @@ jobs:
         pip install requests beautifulsoup4
 
     # 4. Esegue lo script che genera JSON e HTML
-    - name: Esegui lo script staminchia.py
-      run: python staminchia.py
+    - name: Esegui lo script staminchiawp.py
+      run: python staminchiawp.py
 
     # 5. Salva i file generati e fa il push automatico su GitHub
     - name: Salva e pusha i file aggiornati
