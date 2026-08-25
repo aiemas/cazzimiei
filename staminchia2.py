@@ -720,12 +720,10 @@ body {
     left: 0;
     top: 0;
 
-    width: 400px;
+    width: 300px;
     height: 100vh;
 
-    background: rgba(15, 23, 42, 0.45);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    background: rgba(15, 23, 42, 0.40);
 
     padding: 15px;
 
@@ -740,7 +738,6 @@ body {
     box-shadow: 5px 0 20px rgba(0,0,0,0.5);
 
 }
-
 
 
 /* =========================================================
