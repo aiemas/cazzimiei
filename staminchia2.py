@@ -720,7 +720,7 @@ body {
     left: 0;
     top: 0;
 
-    width: 300px;
+    width: 380px;
     height: 100vh;
 
     background: rgba(15, 23, 42, 0.40);
