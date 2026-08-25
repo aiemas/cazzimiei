@@ -4,13 +4,17 @@ import re
 import os
 
 
+
 # ============================================================
 # CONFIGURAZIONE
 # ============================================================
 
 URL = "https://dlstreams.st"
 
+CHANNELS_URL = "https://dlstreams.st/24-7-channels.php"
+
 OUTPUT_FILE = "index.html"
+
 
 
 # ============================================================
@@ -26,12 +30,28 @@ HEADERS = {
 }
 
 
+
 # ============================================================
-# SCARICA LA PAGINA
+# FUNZIONE COSTRUZIONE URL PLAYER
+# ============================================================
+
+def build_player_url(channel_id):
+
+    return (
+        "https://dlhd.pk/embed/"
+        "stream-"
+        + channel_id
+        + ".php"
+    )
+
+
+
+# ============================================================
+# SCARICA LA PAGINA DEGLI EVENTI
 # ============================================================
 
 print("==========================================")
-print("Scaricamento pagina...")
+print("SCARICAMENTO PAGINA EVENTI...")
 print("URL:", URL)
 print("==========================================")
 
@@ -48,27 +68,30 @@ try:
 except Exception as e:
 
     print()
-    print("ERRORE durante il download:")
+    print("ERRORE durante il download della pagina eventi:")
     print(e)
     input("\nPremi INVIO per uscire...")
     exit()
 
 
+
 html = response.text
 
 print()
-print("Pagina scaricata correttamente.")
+print("Pagina eventi scaricata correttamente.")
 print("Caratteri HTML:", len(html))
 
 
+
 # ============================================================
-# PARSING HTML
+# PARSING PAGINA EVENTI
 # ============================================================
 
 soup = BeautifulSoup(
     html,
     "html.parser"
 )
+
 
 
 # ============================================================
@@ -82,9 +105,11 @@ event_blocks = soup.select(
 )
 
 
+
 print()
 print("Eventi trovati:", len(event_blocks))
 print()
+
 
 
 # ============================================================
@@ -113,6 +138,7 @@ for event_block in event_blocks:
         event_time = ""
 
 
+
     # --------------------------------------------------------
     # NOME EVENTO
     # --------------------------------------------------------
@@ -133,6 +159,7 @@ for event_block in event_blocks:
         event_title = ""
 
 
+
     # --------------------------------------------------------
     # CANALI
     # --------------------------------------------------------
@@ -142,6 +169,7 @@ for event_block in event_blocks:
     channel_elements = event_block.select(
         ".schedule__channels a"
     )
+
 
 
     for channel_element in channel_elements:
@@ -156,6 +184,7 @@ for event_block in event_blocks:
         )
 
 
+
         # ----------------------------------------------------
         # HREF
         # ----------------------------------------------------
@@ -164,6 +193,7 @@ for event_block in event_blocks:
             "href",
             ""
         )
+
 
 
         # ----------------------------------------------------
@@ -176,21 +206,21 @@ for event_block in event_blocks:
         )
 
 
+
         if match:
 
             channel_id = match.group(1)
+
 
 
             # ------------------------------------------------
             # COSTRUISCE URL PLAYER
             # ------------------------------------------------
 
-            final_url = (
-                "https://dlhd.pk/embed/"
-                "stream-"
-                + channel_id
-                + ".php"
+            final_url = build_player_url(
+                channel_id
             )
+
 
 
         else:
@@ -198,6 +228,7 @@ for event_block in event_blocks:
             channel_id = ""
 
             final_url = ""
+
 
 
         # ----------------------------------------------------
@@ -217,6 +248,7 @@ for event_block in event_blocks:
             })
 
 
+
     # --------------------------------------------------------
     # SALVA EVENTO
     # --------------------------------------------------------
@@ -234,8 +266,173 @@ for event_block in event_blocks:
         })
 
 
+
 # ============================================================
-# RISULTATI SCRAPING
+# SCARICA LA PAGINA CANALI 24/7
+# ============================================================
+
+print()
+print("==========================================")
+print("SCARICAMENTO PAGINA CANALI 24/7...")
+print("URL:", CHANNELS_URL)
+print("==========================================")
+
+try:
+
+    response_channels = requests.get(
+        CHANNELS_URL,
+        headers=HEADERS,
+        timeout=30
+    )
+
+    response_channels.raise_for_status()
+
+except Exception as e:
+
+    print()
+    print("ERRORE durante il download dei canali 24/7:")
+    print(e)
+    input("\nPremi INVIO per uscire...")
+    exit()
+
+
+
+channels_html = response_channels.text
+
+print()
+print("Pagina canali 24/7 scaricata correttamente.")
+print("Caratteri HTML:", len(channels_html))
+
+
+
+# ============================================================
+# PARSING PAGINA CANALI 24/7
+# ============================================================
+
+channels_soup = BeautifulSoup(
+    channels_html,
+    "html.parser"
+)
+
+
+
+# ============================================================
+# TROVA I CANALI 24/7
+# ============================================================
+
+channels_247 = []
+
+channel_cards = channels_soup.select(
+    "div.grid a.card"
+)
+
+
+
+print()
+print("Canali 24/7 trovati:", len(channel_cards))
+print()
+
+
+
+# ============================================================
+# ELABORA I CANALI 24/7
+# ============================================================
+
+for card in channel_cards:
+
+    # --------------------------------------------------------
+    # NOME CANALE
+    # --------------------------------------------------------
+
+    title_element = card.select_one(
+        ".card__title"
+    )
+
+    if title_element:
+
+        channel_name = title_element.get_text(
+            " ",
+            strip=True
+        )
+
+    else:
+
+        channel_name = ""
+
+
+
+    # --------------------------------------------------------
+    # HREF
+    # --------------------------------------------------------
+
+    href = card.get(
+        "href",
+        ""
+    )
+
+
+
+    # --------------------------------------------------------
+    # ID
+    # --------------------------------------------------------
+
+    match = re.search(
+        r"[?&]id=(\d+)",
+        href
+    )
+
+
+
+    if match:
+
+        channel_id = match.group(1)
+
+
+
+        # ----------------------------------------------------
+        # URL PLAYER
+        # ----------------------------------------------------
+
+        final_url = build_player_url(
+            channel_id
+        )
+
+
+
+    else:
+
+        channel_id = ""
+
+        final_url = ""
+
+
+
+    # --------------------------------------------------------
+    # SALVA CANALE
+    # --------------------------------------------------------
+
+    if (
+        channel_name
+        and
+        channel_id
+        and
+        final_url
+    ):
+
+        channels_247.append({
+
+            "name": channel_name,
+
+            "id": channel_id,
+
+            "url": final_url
+
+        })
+
+
+
+# ============================================================
+# RISULTATI SCRAPING EVENTI
 # ============================================================
 
 print("==========================================")
@@ -243,7 +440,8 @@ print("EVENTI ELABORATI")
 print("==========================================")
 print()
 
-total_channels = 0
+total_event_channels = 0
+
 
 
 for event in events:
@@ -254,6 +452,7 @@ for event in events:
     )
 
 
+
     for channel in event["channels"]:
 
         print(
@@ -262,17 +461,55 @@ for event in events:
             f' | URL: {channel["watch_url"]}'
         )
 
-        total_channels += 1
+        total_event_channels += 1
+
 
 
     print()
 
 
+
 print("==========================================")
 print("TOTALE EVENTI:", len(events))
-print("TOTALE CANALI:", total_channels)
+print(
+    "TOTALE CANALI EVENTI:",
+    total_event_channels
+)
 print("==========================================")
 print()
+
+
+
+# ============================================================
+# RISULTATI SCRAPING CANALI 24/7
+# ============================================================
+
+print("==========================================")
+print("CANALI 24/7 ELABORATI")
+print("==========================================")
+print()
+
+
+
+for channel in channels_247:
+
+    print(
+        f'    - {channel["name"]}'
+        f' | ID: {channel["id"]}'
+        f' | URL: {channel["url"]}'
+    )
+
+
+
+print()
+print("==========================================")
+print(
+    "TOTALE CANALI 24/7:",
+    len(channels_247)
+)
+print("==========================================")
+print()
+
 
 
 # ============================================================
@@ -286,21 +523,24 @@ def js_escape(text):
     text = text.replace("\\", "\\\\")
     text = text.replace("'", "\\'")
     text = text.replace("\r", "")
-    text = text.replace("\n", "\\n")
+    text = text.replace("\n", "\\\n")
 
     return text
 
 
+
 # ============================================================
-# COSTRUISCE ARRAY JAVASCRIPT
+# COSTRUISCE ARRAY JAVASCRIPT EVENTI
 # ============================================================
 
 javascript_events = []
 
 
+
 for event in events:
 
     javascript_channels = []
+
 
 
     for channel in event["channels"]:
@@ -320,6 +560,7 @@ for event in events:
         )
 
 
+
     event_js = (
         "{"
         "time: '" +
@@ -335,9 +576,11 @@ for event in events:
     )
 
 
+
     javascript_events.append(
         event_js
     )
+
 
 
 events_javascript = (
@@ -345,6 +588,41 @@ events_javascript = (
     ",\n".join(javascript_events) +
     "\n]"
 )
+
+
+
+# ============================================================
+# COSTRUISCE ARRAY JAVASCRIPT CANALI 24/7
+# ============================================================
+
+javascript_247_channels = []
+
+
+
+for channel in channels_247:
+
+    javascript_247_channels.append(
+        "{"
+        "name: '" +
+        js_escape(channel["name"]) +
+        "', "
+        "id: '" +
+        js_escape(channel["id"]) +
+        "', "
+        "url: '" +
+        js_escape(channel["url"]) +
+        "'"
+        "}"
+    )
+
+
+
+channels_247_javascript = (
+    "[\n" +
+    ",\n".join(javascript_247_channels) +
+    "\n]"
+)
+
 
 
 # ============================================================
@@ -362,6 +640,7 @@ html_output = r'''<!DOCTYPE html>
       content="width=device-width, initial-scale=1.0">
 
 <title>TV Player</title>
+
 
 
 <style>
@@ -394,6 +673,7 @@ body {
 }
 
 
+
 /* =========================================================
    PLAYER
    ========================================================= */
@@ -415,6 +695,7 @@ body {
 }
 
 
+
 #player {
 
     width: 100%;
@@ -425,6 +706,7 @@ body {
     background: #000;
 
 }
+
 
 
 /* =========================================================
@@ -460,7 +742,10 @@ body {
 }
 
 
-/* Sidebar nascosta */
+
+/* =========================================================
+   SIDEBAR NASCOSTA
+   ========================================================= */
 
 #sidebar.hidden {
 
@@ -469,13 +754,14 @@ body {
 }
 
 
+
 /* =========================================================
    TITOLO
    ========================================================= */
 
 #sidebar h1 {
 
-    margin: 5px 0 20px 0;
+    margin: 5px 0 15px 0;
 
     text-align: center;
 
@@ -483,6 +769,81 @@ body {
 
 }
 
+
+
+/* =========================================================
+   NAVIGAZIONE EVENTI / CANALI
+   ========================================================= */
+
+#menuTabs {
+
+    display: flex;
+
+    width: 100%;
+
+    gap: 6px;
+
+    margin-bottom: 12px;
+
+}
+
+
+
+.menuTab {
+
+    flex: 1;
+
+    padding: 11px 8px;
+
+    background: #1f2937;
+
+    border: 2px solid transparent;
+
+    border-radius: 8px;
+
+    color: white;
+
+    font-size: 14px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+}
+
+
+
+.menuTab:hover {
+
+    background: #374151;
+
+}
+
+
+
+.menuTab:focus {
+
+    outline: none;
+
+    border-color: white;
+
+}
+
+
+
+.menuTab.active {
+
+    background: #16a34a;
+
+    border-color: white;
+
+}
+
+
+
+/* =========================================================
+   RICERCA
+   ========================================================= */
 
 #searchBox {
 
@@ -507,6 +868,7 @@ body {
 }
 
 
+
 #searchBox:focus {
 
     border-color: white;
@@ -516,11 +878,13 @@ body {
 }
 
 
+
 #searchBox::placeholder {
 
     color: #9ca3af;
 
 }
+
 
 
 /* =========================================================
@@ -532,6 +896,7 @@ body {
     margin-bottom: 18px;
 
 }
+
 
 
 .eventTitle {
@@ -553,6 +918,7 @@ body {
 }
 
 
+
 .eventTime {
 
     color: #22c55e;
@@ -562,8 +928,9 @@ body {
 }
 
 
+
 /* =========================================================
-   CANALI
+   CANALI EVENTI
    ========================================================= */
 
 .channel {
@@ -593,11 +960,13 @@ body {
 }
 
 
+
 .channel:hover {
 
     background: #374151;
 
 }
+
 
 
 .channel:focus {
@@ -611,6 +980,7 @@ body {
 }
 
 
+
 .channel.active {
 
     background: #16a34a;
@@ -618,6 +988,90 @@ body {
     border-color: white;
 
 }
+
+
+
+/* =========================================================
+   CANALI 24/7
+   ========================================================= */
+
+.channel247 {
+
+    width: 100%;
+
+    display: block;
+
+    margin-bottom: 7px;
+
+    padding: 12px 10px;
+
+    background: #1f2937;
+
+    border: 2px solid transparent;
+
+    border-radius: 8px;
+
+    color: white;
+
+    font-size: 15px;
+
+    cursor: pointer;
+
+    text-align: left;
+
+}
+
+
+
+.channel247:hover {
+
+    background: #374151;
+
+}
+
+
+
+.channel247:focus {
+
+    outline: none;
+
+    border-color: white;
+
+    background: #16a34a;
+
+}
+
+
+
+.channel247.active {
+
+    background: #16a34a;
+
+    border-color: white;
+
+}
+
+
+
+/* =========================================================
+   CONTENITORI LISTE
+   ========================================================= */
+
+#eventList,
+#channel247List {
+
+    width: 100%;
+
+}
+
+
+
+.hiddenList {
+
+    display: none;
+
+}
+
 
 
 /* =========================================================
@@ -635,6 +1089,7 @@ body {
     font-size: 14px;
 
 }
+
 
 
 /* =========================================================
@@ -665,11 +1120,13 @@ body {
 }
 
 
+
 #topBar.hidden {
 
     opacity: 0;
 
 }
+
 
 
 /* =========================================================
@@ -689,6 +1146,7 @@ body {
     z-index: 800;
 
 }
+
 
 
 /* =========================================================
@@ -720,6 +1178,7 @@ body {
 }
 
 
+
 /* =========================================================
    RESPONSIVE
    ========================================================= */
@@ -727,11 +1186,15 @@ body {
 @media (max-width: 700px) {
 
     #sidebar {
+
         width: 320px;
+
     }
 
     #topBar {
+
         left: 340px;
+
     }
 
 }
@@ -741,7 +1204,9 @@ body {
 </head>
 
 
+
 <body>
+
 
 
 <!-- =========================================================
@@ -776,7 +1241,46 @@ body {
     </button>
 
 
-    <h1>📺 EVENTI</h1>
+
+    <h1 id="sidebarTitle">📺 EVENTI</h1>
+
+
+
+    <!-- =====================================================
+         MENU EVENTI / CANALI
+         ===================================================== -->
+
+    <div id="menuTabs">
+
+        <button
+            id="eventsTab"
+            class="menuTab active"
+            tabindex="1"
+            onclick="showEvents()">
+
+            📅 EVENTI
+
+        </button>
+
+
+
+        <button
+            id="channelsTab"
+            class="menuTab"
+            tabindex="2"
+            onclick="showChannels()">
+
+            📺 CANALI
+
+        </button>
+
+    </div>
+
+
+
+    <!-- =====================================================
+         RICERCA
+         ===================================================== -->
 
     <input
         type="text"
@@ -784,7 +1288,24 @@ body {
         placeholder="🔎 Cerca evento o canale..."
         autocomplete="off">
 
-    <div id="channelList"></div>
+
+
+    <!-- =====================================================
+         LISTA EVENTI
+         ===================================================== -->
+
+    <div id="eventList"></div>
+
+
+
+    <!-- =====================================================
+         LISTA CANALI 24/7
+         ===================================================== -->
+
+    <div
+        id="channel247List"
+        class="hiddenList">
+    </div>
 
 </div>
 
@@ -815,6 +1336,7 @@ body {
 <script>
 
 
+
 /* =========================================================
    DATI GENERATI AUTOMATICAMENTE DAL PYTHON
    ========================================================= */
@@ -826,19 +1348,32 @@ html_output += events_javascript
 html_output += r''';
 
 
+
+const channels247 = '''
+
+html_output += channels_247_javascript
+
+html_output += r''';
+
+
+
 /* =========================================================
-   CANALI
+   CANALI EVENTI
    ========================================================= */
 
 const channels = [];
+
 
 
 /* =========================================================
    ELEMENTI
    ========================================================= */
 
-const channelList =
-    document.getElementById("channelList");
+const eventList =
+    document.getElementById("eventList");
+
+const channel247List =
+    document.getElementById("channel247List");
 
 const searchBox =
     document.getElementById("searchBox");
@@ -855,27 +1390,47 @@ const sidebar =
 const topBar =
     document.getElementById("topBar");
 
+const sidebarTitle =
+    document.getElementById("sidebarTitle");
+
+const eventsTab =
+    document.getElementById("eventsTab");
+
+const channelsTab =
+    document.getElementById("channelsTab");
+
+
 
 /* =========================================================
-   CREA LISTA EVENTI E CANALI
+   STATO
+   ========================================================= */
+
+let currentIndex = 0;
+
+let currentMode = "events";
+
+
+
+/* =========================================================
+   CREA LISTA EVENTI
    ========================================================= */
 
 let globalIndex = 0;
 
 
+
 events.forEach(function(event) {
 
 
-    /* =====================================================
-       CONTENITORE EVENTO
-       ===================================================== */
 
     const eventContainer =
         document.createElement("div");
 
 
+
     eventContainer.className =
         "event";
+
 
 
     /* =====================================================
@@ -886,8 +1441,10 @@ events.forEach(function(event) {
         document.createElement("div");
 
 
+
     eventTitle.className =
         "eventTitle";
+
 
 
     eventTitle.innerHTML =
@@ -897,25 +1454,25 @@ events.forEach(function(event) {
         escapeHtml(event.title);
 
 
+
     eventContainer.appendChild(
         eventTitle
     );
 
 
+
     /* =====================================================
-       CANALI
+       CANALI EVENTO
        ===================================================== */
 
     event.channels.forEach(
         function(channel) {
 
 
-            /* =============================================
-               SALVA CANALE
-               ============================================= */
 
             const channelIndex =
                 globalIndex;
+
 
 
             channels.push({
@@ -933,9 +1490,6 @@ events.forEach(function(event) {
             });
 
 
-            /* =============================================
-               CREA PULSANTE
-               ============================================= */
 
             const button =
                 document.createElement(
@@ -943,33 +1497,39 @@ events.forEach(function(event) {
                 );
 
 
+
             button.className =
                 "channel";
+
 
 
             button.textContent =
                 "▶ " + channel.name;
 
 
+
             button.setAttribute(
                 "tabindex",
-                channelIndex + 1
+                "0"
             );
+
 
 
             button.onclick =
                 function() {
 
-                    playChannel(
+                    playEventChannel(
                         channelIndex
                     );
 
                 };
 
 
+
             eventContainer.appendChild(
                 button
             );
+
 
 
             globalIndex++;
@@ -978,15 +1538,66 @@ events.forEach(function(event) {
     );
 
 
-    /* =====================================================
-       AGGIUNGI EVENTO ALLA SIDEBAR
-       ===================================================== */
 
-    channelList.appendChild(
+    eventList.appendChild(
         eventContainer
     );
 
 });
+
+
+
+/* =========================================================
+   CREA LISTA CANALI 24/7
+   ========================================================= */
+
+channels247.forEach(
+    function(channel, index) {
+
+
+
+        const button =
+            document.createElement(
+                "button"
+            );
+
+
+
+        button.className =
+            "channel247";
+
+
+
+        button.textContent =
+            "▶ " + channel.name;
+
+
+
+        button.setAttribute(
+            "tabindex",
+            "0"
+        );
+
+
+
+        button.onclick =
+            function() {
+
+                play247Channel(
+                    index
+                );
+
+            };
+
+
+
+        channel247List.appendChild(
+            button
+        );
+
+    }
+);
+
 
 
 /* =========================================================
@@ -1002,44 +1613,82 @@ searchBox.addEventListener(
                 .toLowerCase()
                 .trim();
 
-        const eventsContainers =
-            document.querySelectorAll(".event");
 
 
-        eventsContainers.forEach(
-            function(container) {
+        if (currentMode === "events") {
 
-                const text =
-                    container.textContent
-                        .toLowerCase();
+            const eventContainers =
+                document.querySelectorAll(
+                    "#eventList .event"
+                );
 
-                if (
-                    text.includes(search)
-                ) {
 
-                    container.style.display =
-                        "";
+
+            eventContainers.forEach(
+                function(container) {
+
+                    const text =
+                        container.textContent
+                            .toLowerCase();
+
+                    if (
+                        text.includes(search)
+                    ) {
+
+                        container.style.display =
+                            "";
+
+                    }
+                    else {
+
+                        container.style.display =
+                            "none";
+
+                    }
 
                 }
-                else {
+            );
 
-                    container.style.display =
-                        "none";
+        }
+        else {
+
+            const buttons =
+                document.querySelectorAll(
+                    "#channel247List .channel247"
+                );
+
+
+
+            buttons.forEach(
+                function(button) {
+
+                    const text =
+                        button.textContent
+                            .toLowerCase();
+
+                    if (
+                        text.includes(search)
+                    ) {
+
+                        button.style.display =
+                            "";
+
+                    }
+                    else {
+
+                        button.style.display =
+                            "none";
+
+                    }
 
                 }
+            );
 
-            }
-        );
+        }
 
     }
 );
 
-
-/* =========================================================
-   INDICE CORRENTE
-   ========================================================= */
-
-let currentIndex = 0;
 
 
 /* =========================================================
@@ -1052,8 +1701,10 @@ function escapeHtml(text) {
         document.createElement("div");
 
 
+
     div.textContent =
         text;
+
 
 
     return div.innerHTML;
@@ -1061,12 +1712,187 @@ function escapeHtml(text) {
 }
 
 
+
 /* =========================================================
-   RIPRODUCI CANALE
+   MOSTRA EVENTI
    ========================================================= */
 
-function playChannel(index) {
+function showEvents() {
 
+    currentMode =
+        "events";
+
+
+
+    sidebarTitle.textContent =
+        "📺 EVENTI";
+
+
+
+    eventList.classList.remove(
+        "hiddenList"
+    );
+
+
+
+    channel247List.classList.add(
+        "hiddenList"
+    );
+
+
+
+    eventsTab.classList.add(
+        "active"
+    );
+
+
+
+    channelsTab.classList.remove(
+        "active"
+    );
+
+
+
+    searchBox.value =
+        "";
+
+
+
+    const eventContainers =
+        document.querySelectorAll(
+            "#eventList .event"
+        );
+
+
+
+    eventContainers.forEach(
+        function(container) {
+
+            container.style.display =
+                "";
+
+        }
+    );
+
+
+
+    const buttons =
+        document.querySelectorAll(
+            "#eventList .channel"
+        );
+
+
+
+    if (buttons.length > 0) {
+
+        if (
+            buttons[currentIndex]
+        ) {
+
+            buttons[currentIndex].focus();
+
+            buttons[currentIndex].scrollIntoView({
+
+                behavior: "instant",
+
+                block: "center"
+
+            });
+
+        }
+
+    }
+
+}
+
+
+
+/* =========================================================
+   MOSTRA CANALI
+   ========================================================= */
+
+function showChannels() {
+
+    currentMode =
+        "channels";
+
+
+
+    sidebarTitle.textContent =
+        "📺 CANALI 24/7";
+
+
+
+    eventList.classList.add(
+        "hiddenList"
+    );
+
+
+
+    channel247List.classList.remove(
+        "hiddenList"
+    );
+
+
+
+    eventsTab.classList.remove(
+        "active"
+    );
+
+
+
+    channelsTab.classList.add(
+        "active"
+    );
+
+
+
+    searchBox.value =
+        "";
+
+
+
+    const buttons =
+        document.querySelectorAll(
+            "#channel247List .channel247"
+        );
+
+
+
+    buttons.forEach(
+        function(button) {
+
+            button.style.display =
+                "";
+
+        }
+    );
+
+
+
+    if (buttons.length > 0) {
+
+        buttons[0].focus();
+
+        buttons[0].scrollIntoView({
+
+            behavior: "instant",
+
+            block: "center"
+
+        });
+
+    }
+
+}
+
+
+
+/* =========================================================
+   RIPRODUCI CANALE EVENTO
+   ========================================================= */
+
+function playEventChannel(index) {
 
     if (
         index < 0 ||
@@ -1078,34 +1904,27 @@ function playChannel(index) {
     }
 
 
+
     currentIndex =
         index;
 
 
-    /* =====================================================
-       CAMBIA STREAM
-       ===================================================== */
 
     player.src =
         channels[index].url;
 
 
-    /* =====================================================
-       CAMBIA NOME
-       ===================================================== */
 
     currentChannel.textContent =
         channels[index].name;
 
 
-    /* =====================================================
-       AGGIORNA SELEZIONE
-       ===================================================== */
 
     const buttons =
         document.querySelectorAll(
-            ".channel"
+            "#eventList .channel"
         );
+
 
 
     buttons.forEach(
@@ -1119,6 +1938,7 @@ function playChannel(index) {
     );
 
 
+
     if (buttons[index]) {
 
         buttons[index].classList.add(
@@ -1128,9 +1948,6 @@ function playChannel(index) {
     }
 
 
-    /* =====================================================
-       SCROLL
-       ===================================================== */
 
     if (buttons[index]) {
 
@@ -1145,13 +1962,87 @@ function playChannel(index) {
     }
 
 
-    /* =====================================================
-       NASCONDE LA SIDEBAR
-       ===================================================== */
 
     hideSidebar();
 
 }
+
+
+
+/* =========================================================
+   RIPRODUCI CANALE 24/7
+   ========================================================= */
+
+function play247Channel(index) {
+
+    if (
+        index < 0 ||
+        index >= channels247.length
+    ) {
+
+        return;
+
+    }
+
+
+
+    player.src =
+        channels247[index].url;
+
+
+
+    currentChannel.textContent =
+        channels247[index].name;
+
+
+
+    const buttons =
+        document.querySelectorAll(
+            "#channel247List .channel247"
+        );
+
+
+
+    buttons.forEach(
+        function(button) {
+
+            button.classList.remove(
+                "active"
+            );
+
+        }
+    );
+
+
+
+    if (buttons[index]) {
+
+        buttons[index].classList.add(
+            "active"
+        );
+
+    }
+
+
+
+    if (buttons[index]) {
+
+        buttons[index].scrollIntoView({
+
+            behavior: "smooth",
+
+            block: "center"
+
+        });
+
+    }
+
+
+
+    hideSidebar();
+
+}
+
 
 
 /* =========================================================
@@ -1171,6 +2062,7 @@ function showSidebar() {
 }
 
 
+
 /* =========================================================
    NASCONDE SIDEBAR
    ========================================================= */
@@ -1186,6 +2078,7 @@ function hideSidebar() {
     );
 
 }
+
 
 
 /* =========================================================
@@ -1204,6 +2097,7 @@ document
     );
 
 
+
 document
     .getElementById("leftTrigger")
     .addEventListener(
@@ -1216,6 +2110,7 @@ document
     );
 
 
+
 /* =========================================================
    TELECOMANDO / TASTIERA
    ========================================================= */
@@ -1224,26 +2119,9 @@ document.addEventListener(
     "keydown",
     function(event) {
 
-        const buttons =
-            Array.from(
-                document.querySelectorAll(
-                    ".channel"
-                )
-            );
-
-
-        if (
-            buttons.length === 0
-        ) {
-
-            return;
-
-        }
-
-
         /* =================================================
            SIDEBAR NASCOSTA
-           
+
            QUALSIASI TASTO RIAPRE IL MENU
            ================================================= */
 
@@ -1256,25 +2134,64 @@ document.addEventListener(
             showSidebar();
 
 
-            /* =============================================
-               RIPORTA IL FOCUS SUL CANALE CORRENTE
-               ============================================= */
 
             if (
-                buttons[currentIndex]
+                currentMode === "events"
             ) {
 
-                buttons[currentIndex].focus();
+                const buttons =
+                    Array.from(
+                        document.querySelectorAll(
+                            "#eventList .channel"
+                        )
+                    );
 
-                buttons[currentIndex].scrollIntoView({
 
-                    behavior: "instant",
 
-                    block: "center"
+                if (
+                    buttons[currentIndex]
+                ) {
 
-                });
+                    buttons[currentIndex].focus();
+
+                    buttons[currentIndex].scrollIntoView({
+
+                        behavior: "instant",
+
+                        block: "center"
+
+                    });
+
+                }
 
             }
+            else {
+
+                const buttons =
+                    Array.from(
+                        document.querySelectorAll(
+                            "#channel247List .channel247"
+                        )
+                    );
+
+
+
+                if (buttons.length > 0) {
+
+                    buttons[0].focus();
+
+                    buttons[0].scrollIntoView({
+
+                        behavior: "instant",
+
+                        block: "center"
+
+                    });
+
+                }
+
+            }
+
 
 
             return;
@@ -1282,12 +2199,135 @@ document.addEventListener(
         }
 
 
+
         /* =================================================
-           SIDEBAR VISIBILE
+           TAB ATTIVI
            ================================================= */
+
+        if (
+            document.activeElement === eventsTab ||
+            document.activeElement === channelsTab
+        ) {
+
+            if (
+                event.key === "ArrowLeft"
+            ) {
+
+                event.preventDefault();
+
+                eventsTab.focus();
+
+                return;
+
+            }
+
+
+
+            if (
+                event.key === "ArrowRight"
+            ) {
+
+                event.preventDefault();
+
+                channelsTab.focus();
+
+                return;
+
+            }
+
+
+
+            if (
+                event.key === "ArrowDown"
+            ) {
+
+                event.preventDefault();
+
+                if (
+                    currentMode === "events"
+                ) {
+
+                    const buttons =
+                        document.querySelectorAll(
+                            "#eventList .channel"
+                        );
+
+                    if (buttons.length > 0) {
+
+                        buttons[0].focus();
+
+                    }
+
+                }
+                else {
+
+                    const buttons =
+                        document.querySelectorAll(
+                            "#channel247List .channel247"
+                        );
+
+                    if (buttons.length > 0) {
+
+                        buttons[0].focus();
+
+                    }
+
+                }
+
+                return;
+
+            }
+
+        }
+
+
+
+        /* =================================================
+           CANALE ATTIVO
+           ================================================= */
+
+        let buttons;
+
+
+
+        if (
+            currentMode === "events"
+        ) {
+
+            buttons =
+                Array.from(
+                    document.querySelectorAll(
+                        "#eventList .channel"
+                    )
+                );
+
+        }
+        else {
+
+            buttons =
+                Array.from(
+                    document.querySelectorAll(
+                        "#channel247List .channel247"
+                    )
+                );
+
+        }
+
+
+
+        if (
+            buttons.length === 0
+        ) {
+
+            return;
+
+        }
+
+
 
         const current =
             document.activeElement;
+
 
 
         const index =
@@ -1296,10 +2336,9 @@ document.addEventListener(
             );
 
 
+
         /* =================================================
            SINISTRA
-           
-           CHIUDE LA SIDEBAR
            ================================================= */
 
         if (
@@ -1315,10 +2354,9 @@ document.addEventListener(
         }
 
 
+
         /* =================================================
            DESTRA
-           
-           CHIUDE LA SIDEBAR
            ================================================= */
 
         if (
@@ -1334,8 +2372,9 @@ document.addEventListener(
         }
 
 
+
         /* =================================================
-           FRECCIA SU
+           SU
            ================================================= */
 
         if (
@@ -1345,13 +2384,15 @@ document.addEventListener(
             event.preventDefault();
 
 
+
             let previous;
+
 
 
             if (index < 0) {
 
                 previous =
-                    currentIndex - 1;
+                    buttons.length - 1;
 
             }
             else {
@@ -1360,6 +2401,7 @@ document.addEventListener(
                     index - 1;
 
             }
+
 
 
             if (
@@ -1372,11 +2414,9 @@ document.addEventListener(
             }
 
 
-            currentIndex =
-                previous;
-
 
             buttons[previous].focus();
+
 
 
             buttons[previous].scrollIntoView({
@@ -1388,13 +2428,15 @@ document.addEventListener(
             });
 
 
+
             return;
 
         }
 
 
+
         /* =================================================
-           FRECCIA GIÙ
+           GIÙ
            ================================================= */
 
         if (
@@ -1404,13 +2446,14 @@ document.addEventListener(
             event.preventDefault();
 
 
+
             let next;
+
 
 
             if (index < 0) {
 
-                next =
-                    currentIndex + 1;
+                next = 0;
 
             }
             else {
@@ -1419,6 +2462,7 @@ document.addEventListener(
                     index + 1;
 
             }
+
 
 
             if (
@@ -1430,11 +2474,9 @@ document.addEventListener(
             }
 
 
-            currentIndex =
-                next;
-
 
             buttons[next].focus();
+
 
 
             buttons[next].scrollIntoView({
@@ -1446,9 +2488,11 @@ document.addEventListener(
             });
 
 
+
             return;
 
         }
+
 
 
         /* =================================================
@@ -1467,9 +2511,23 @@ document.addEventListener(
                 event.preventDefault();
 
 
-                playChannel(
-                    index
-                );
+
+                if (
+                    currentMode === "events"
+                ) {
+
+                    playEventChannel(
+                        index
+                    );
+
+                }
+                else {
+
+                    play247Channel(
+                        index
+                    );
+
+                }
 
             }
 
@@ -1477,6 +2535,7 @@ document.addEventListener(
 
     }
 );
+
 
 
 /* =========================================================
@@ -1487,27 +2546,36 @@ window.addEventListener(
     "load",
     function() {
 
-
         console.log(
             "Eventi caricati:",
             events.length
         );
 
 
+
         console.log(
-            "Canali caricati:",
+            "Canali eventi caricati:",
             channels.length
         );
 
 
+
+        console.log(
+            "Canali 24/7 caricati:",
+            channels247.length
+        );
+
+
+
         /* =================================================
-           PRIMO CANALE A FUOCO
+           PRIMO CANALE EVENTO A FUOCO
            ================================================= */
 
         const buttons =
             document.querySelectorAll(
-                ".channel"
+                "#eventList .channel"
             );
+
 
 
         if (buttons.length > 0) {
@@ -1515,7 +2583,9 @@ window.addEventListener(
             currentIndex = 0;
 
 
+
             buttons[0].focus();
+
 
 
             buttons[0].scrollIntoView({
@@ -1529,6 +2599,7 @@ window.addEventListener(
         }
 
 
+
         /* =================================================
            SIDEBAR VISIBILE ALL'AVVIO
            ================================================= */
@@ -1539,13 +2610,16 @@ window.addEventListener(
 );
 
 
+
 </script>
+
 
 
 </body>
 
 </html>
 '''
+
 
 
 # ============================================================
@@ -1579,6 +2653,7 @@ except Exception as e:
     exit()
 
 
+
 # ============================================================
 # CONTROLLA CHE INDEX.HTML ESISTA
 # ============================================================
@@ -1592,9 +2667,19 @@ if not os.path.isfile(OUTPUT_FILE):
     print("ERRORE:")
     print("index.html NON è stato creato.")
     print()
+
     input("Premi INVIO per uscire...")
+
     exit()
 
 
+
 print()
+print("==========================================")
 print("index.html creato correttamente.")
+print("==========================================")
+print()
+print("Eventi:", len(events))
+print("Canali eventi:", total_event_channels)
+print("Canali 24/7:", len(channels_247))
+print()
