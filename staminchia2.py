@@ -792,7 +792,7 @@ body {
 
     padding: 11px 8px;
 
-    background: #1f2937;
+    background: rgba(31, 41, 55, 0.35);
 
     border: 2px solid transparent;
 
@@ -850,7 +850,7 @@ body {
 
     margin-bottom: 15px;
 
-    background: #1f2937;
+    background: rgba(31, 41, 55, 0.35);
 
     border: 2px solid #374151;
 
@@ -940,7 +940,7 @@ body {
 
     padding: 12px 10px;
 
-    background: #1f2937;
+    background: rgba(31, 41, 55, 0.35);
 
     border: 2px solid transparent;
 
@@ -1002,7 +1002,7 @@ body {
 
     padding: 12px 10px;
 
-    background: #1f2937;
+    background: rgba(31, 41, 55, 0.35);
 
     border: 2px solid transparent;
 
