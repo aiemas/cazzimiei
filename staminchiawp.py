@@ -532,5 +532,3 @@ print("==========================================")
 print()
 print("Il file M3U è pronto per Wiseplay.")
 print()
-
-input("Premi INVIO per uscire...")
