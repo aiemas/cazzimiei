@@ -1402,6 +1402,9 @@ const channelsTab =
 
 let currentIndex = 0;
 
+let currentEventIndex = 0;
+let current247Index = 0;
+
 let currentMode = "events";
 
 
@@ -1898,29 +1901,23 @@ function playEventChannel(index) {
 
     }
 
+    // Salva l'indice del canale evento
+    currentEventIndex = index;
 
-
-    currentIndex =
-        index;
-
-
+    // Manteniamo currentIndex sincronizzato
+    // per la modalità eventi
+    currentIndex = index;
 
     player.src =
         channels[index].url;
 
-
-
     currentChannel.textContent =
         channels[index].name;
-
-
 
     const buttons =
         document.querySelectorAll(
             "#eventList .channel"
         );
-
-
 
     buttons.forEach(
         function(button) {
@@ -1932,19 +1929,11 @@ function playEventChannel(index) {
         }
     );
 
-
-
     if (buttons[index]) {
 
         buttons[index].classList.add(
             "active"
         );
-
-    }
-
-
-
-    if (buttons[index]) {
 
         buttons[index].scrollIntoView({
 
@@ -1955,8 +1944,6 @@ function playEventChannel(index) {
         });
 
     }
-
-
 
     hideSidebar();
 
@@ -1979,31 +1966,22 @@ function play247Channel(index) {
 
     }
 
-    // AGGIUNGI QUESTA RIGA PER SALVARE L'INDICE ATTUALE:
+    // Salva separatamente l'indice dei canali 24/7
+    current247Index = index;
+
+    // currentIndex viene usato dalla modalità corrente
     currentIndex = index;
 
     player.src =
         channels247[index].url;
 
-
-
-
-    player.src =
-        channels247[index].url;
-
-
-
     currentChannel.textContent =
         channels247[index].name;
-
-
 
     const buttons =
         document.querySelectorAll(
             "#channel247List .channel247"
         );
-
-
 
     buttons.forEach(
         function(button) {
@@ -2015,19 +1993,11 @@ function play247Channel(index) {
         }
     );
 
-
-
     if (buttons[index]) {
 
         buttons[index].classList.add(
             "active"
         );
-
-    }
-
-
-
-    if (buttons[index]) {
 
         buttons[index].scrollIntoView({
 
@@ -2038,8 +2008,6 @@ function play247Channel(index) {
         });
 
     }
-
-
 
     hideSidebar();
 
@@ -2513,49 +2481,96 @@ document.addEventListener(
            ================================================= */
 
         if (
-            event.key === "Enter" ||
-            event.key === " "
+    event.key === "Enter" ||
+    event.key === " "
+) {
+
+    if (
+        index >= 0
+    ) {
+
+        event.preventDefault();
+
+        const targetElement =
+            buttons[index];
+
+        // ==========================================
+        // EVENTI
+        // ==========================================
+
+        if (
+            currentMode === "events"
         ) {
 
+            // --------------------------------------
+            // È UN TITOLO EVENTO
+            // --------------------------------------
+
             if (
-                index >= 0
+                targetElement.classList.contains(
+                    "eventTitle"
+                )
             ) {
 
-                event.preventDefault();
+                targetElement.click();
+
+                return;
+
+            }
+
+            // --------------------------------------
+            // È UN CANALE EVENTO
+            // --------------------------------------
+
+            if (
+                targetElement.classList.contains(
+                    "channel"
+                )
+            ) {
+
+                const allChannels =
+                    Array.from(
+                        document.querySelectorAll(
+                            "#eventList .channel"
+                        )
+                    );
+
+                const channelIndex =
+                    allChannels.indexOf(
+                        targetElement
+                    );
 
                 if (
-                    currentMode === "events"
+                    channelIndex >= 0
                 ) {
 
-                    const targetElement = buttons[index];
-
-                    // Se l'elemento corrente è un Titolo, esegue l'apertura ma NON chiude la barra
-                    if (targetElement.classList.contains("eventTitle")) {
-                        targetElement.click(); 
-                    } 
-                    // Se invece è un Canale, avvia lo streaming e chiude la barra
-                    else {
-                        // Per i canali dobbiamo trovare il loro indice logico corretto
-                        const allChannels = Array.from(document.querySelectorAll("#eventList .channel"));
-                        const channelIndex = allChannels.indexOf(targetElement);
-                        if (channelIndex >= 0) {
-                            playEventChannel(channelIndex);
-                        }
-                    }
-
-                }
-                else {
-
-                    play247Channel(
-                        index
+                    playEventChannel(
+                        channelIndex
                     );
 
                 }
+
+                return;
 
             }
 
         }
 
+        // ==========================================
+        // CANALI 24/7
+        // ==========================================
+
+        else {
+
+            play247Channel(
+                index
+            );
+
+        }
+
+    }
+
+}
     }
 );
 
