@@ -1498,12 +1498,14 @@ events.forEach(function(event) {
         }
     );
 
-    // FUNZIONE INTERNA PER MOSTRARE/NASCONDERE I CANALI DI QUESTO EVENTO
+        // FUNZIONE INTERNA PER MOSTRARE/NASCONDERE I CANALI DI QUESTO EVENTO
     function toggleEvent() {
+        // CORRETTO: Controlliamo lo stile del primo bottone reale [0] della lista
         const isCurrentlyHidden = eventButtons.length > 0 && (eventButtons[0].style.display === "" || eventButtons[0].style.display === "none");
         const indicator = eventTitle.querySelector(".arrow-indicator");
 
         eventButtons.forEach(function(button) {
+            // CORRETTO: Rimosso il doppio ".style.style"
             button.style.display = isCurrentlyHidden ? "block" : "none";
         });
 
@@ -1511,6 +1513,7 @@ events.forEach(function(event) {
             indicator.textContent = isCurrentlyHidden ? "▲" : "▼";
         }
     }
+
 
     // Collega la funzione al click del mouse e alla pressione dei tasti OK/Enter
     eventTitle.onclick = toggleEvent;
