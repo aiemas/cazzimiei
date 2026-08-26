@@ -2041,21 +2041,6 @@ events.forEach(function(event) {
         // AGGIUNTA SBLOCCO TELECOMANDO FIRESTICK:
         // Forza il telecomando ad aggiornare la mappa dei pulsanti visibili
         // per sincronizzare all'istante l'indice di navigazione (currentIndex)
-        if (typeof document.activeElement !== "undefined") {
-            const currentActive = document.activeElement;
-            const updatedButtons = Array.from(
-                document.querySelectorAll("#eventList .eventTitle, #eventList .channel")
-            ).filter(function(el) {
-                if (el.classList.contains("channel")) {
-                    return el.style.display === "block";
-                }
-                return true;
-            });
-            const newIndex = updatedButtons.indexOf(currentActive);
-            if (newIndex >= 0) {
-                currentIndex = newIndex;
-            }
-        }
     }
 
 
