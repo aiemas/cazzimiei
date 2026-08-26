@@ -159,15 +159,15 @@ body {
 
     flex: 1;
 
-    padding: 11px 8px;
+    padding: 12px 8px;
 
-    background: rgba(31, 41, 55, 0.35);
+    background: rgba(255, 255, 255, 0.04);
 
     border: 2px solid transparent;
 
-    border-radius: 8px;
+    border-radius: 10px;
 
-    color: white;
+    color: #94a3b8;
 
     font-size: 14px;
 
@@ -175,35 +175,41 @@ body {
 
     cursor: pointer;
 
+    /* Transizione fluida e cinematografica */
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+
 }
 
+/* Scheda attualmente attiva/selezionata */
+.menuTab.active {
 
+    background: rgba(255, 255, 255, 0.15);
 
+    border-color: rgba(255, 255, 255, 0.4);
+
+    color: #ffffff;
+
+}
+
+/* Quando passi sopra con il telecomando o il mouse (Glow cinematografico) */
+.menuTab:focus,
 .menuTab:hover {
-
-    background: #374151;
-
-}
-
-
-
-.menuTab:focus {
 
     outline: none;
 
-    border-color: white;
+    background: #ffffff;
+
+    color: #000000;
+
+    border-color: #ffffff;
+
+    /* Effetto zoom leggero e bagliore soffuso */
+    transform: scale(1.03);
+
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.4);
 
 }
 
-
-
-.menuTab.active {
-
-    background: #16a34a;
-
-    border-color: white;
-
-}
 
 
 
