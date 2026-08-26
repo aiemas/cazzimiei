@@ -2406,17 +2406,17 @@ document.addEventListener(
 
 
 
-        /* =================================================
-           SU
+                /* =================================================
+           SU (GESTIONE RISALITA SUI TAB SE SI È SUL PRIMO CANALE)
            ================================================= */
 
-                if (
+        if (
             event.key === "ArrowUp"
         ) {
 
             event.preventDefault();
 
-            // NUOVO: Se ti trovi sul primo elemento della lista, sali sui Tab in alto!
+            // Se l'utente si trova sul primo canale della lista, sale sulla scheda attiva
             if (index === 0) {
                 if (currentMode === "events") {
                     eventsTab.focus();
@@ -2427,15 +2427,6 @@ document.addEventListener(
             }
 
             let previous;
-
-
-            event.preventDefault();
-
-
-
-            let previous;
-
-
 
             if (index < 0) {
 
@@ -2450,8 +2441,6 @@ document.addEventListener(
 
             }
 
-
-
             if (
                 previous < 0
             ) {
@@ -2461,11 +2450,7 @@ document.addEventListener(
 
             }
 
-
-
             buttons[previous].focus();
-
-
 
             buttons[previous].scrollIntoView({
 
@@ -2475,16 +2460,12 @@ document.addEventListener(
 
             });
 
-
-
             return;
 
         }
 
-
-
         /* =================================================
-           GIÙ
+           GIÙ (SCORRIMENTO FLUIDO DELLA LISTA CANALI)
            ================================================= */
 
         if (
@@ -2493,11 +2474,7 @@ document.addEventListener(
 
             event.preventDefault();
 
-
-
             let next;
-
-
 
             if (index < 0) {
 
@@ -2511,8 +2488,6 @@ document.addEventListener(
 
             }
 
-
-
             if (
                 next >= buttons.length
             ) {
@@ -2521,11 +2496,7 @@ document.addEventListener(
 
             }
 
-
-
             buttons[next].focus();
-
-
 
             buttons[next].scrollIntoView({
 
@@ -2534,8 +2505,6 @@ document.addEventListener(
                 block: "nearest"
 
             });
-
-
 
             return;
 
