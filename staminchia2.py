@@ -2278,7 +2278,7 @@ document.addEventListener(
 
 
 
-            if (
+                        if (
                 event.key === "ArrowDown"
             ) {
 
@@ -2314,6 +2314,7 @@ document.addEventListener(
                 return;
 
             }
+
 
         }
 
