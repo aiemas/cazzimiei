@@ -2504,8 +2504,8 @@ document.addEventListener(
 
 
 
-        /* =================================================
-           ENTER / OK
+                /* =================================================
+           ENTER / OK (GESTIONE SELEZIONE TITOLO O CANALE)
            ================================================= */
 
         if (
@@ -2519,15 +2519,25 @@ document.addEventListener(
 
                 event.preventDefault();
 
-
-
                 if (
                     currentMode === "events"
                 ) {
 
-                    playEventChannel(
-                        index
-                    );
+                    const targetElement = buttons[index];
+
+                    // Se l'elemento corrente è un Titolo, esegue l'apertura ma NON chiude la barra
+                    if (targetElement.classList.contains("eventTitle")) {
+                        targetElement.click(); 
+                    } 
+                    // Se invece è un Canale, avvia lo streaming e chiude la barra
+                    else {
+                        // Per i canali dobbiamo trovare il loro indice logico corretto
+                        const allChannels = Array.from(document.querySelectorAll("#eventList .channel"));
+                        const channelIndex = allChannels.indexOf(targetElement);
+                        if (channelIndex >= 0) {
+                            playEventChannel(channelIndex);
+                        }
+                    }
 
                 }
                 else {
