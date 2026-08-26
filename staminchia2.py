@@ -939,6 +939,7 @@ body {
 .channel, 
 .channel247 {
 
+
     width: 100%;
 
     display: block;
@@ -971,6 +972,8 @@ body {
     overflow: hidden;
 
 }
+
+.channel { display: none; }
 
 /* Canale attualmente in riproduzione (Active) */
 .channel.active, 
@@ -1394,133 +1397,121 @@ let currentMode = "events";
 
 let globalIndex = 0;
 
-
-
 events.forEach(function(event) {
-
-
 
     const eventContainer =
         document.createElement("div");
 
-
-
     eventContainer.className =
         "event";
 
-
-
     /* =====================================================
-       TITOLO EVENTO
+       TITOLO EVENTO (Cliccabile per espandere/comprimere)
        ===================================================== */
-
     const eventTitle =
         document.createElement("div");
-
-
 
     eventTitle.className =
         "eventTitle";
 
-
+    // Rende il titolo selezionabile tramite telecomando/tastiera
+    eventTitle.setAttribute("tabindex", "0");
+    eventTitle.style.cursor = "pointer";
 
     eventTitle.innerHTML =
         '<span class="eventTime">' +
         escapeHtml(event.time) +
         '</span>' +
-        escapeHtml(event.title);
-
-
+        escapeHtml(event.title) +
+        ' <span class="arrow-indicator" style="float: right;">▼</span>';
 
     eventContainer.appendChild(
         eventTitle
     );
 
-
+    // Array per memorizzare i bottoni dei canali di QUESTO specifico evento
+    const eventButtons = [];
 
     /* =====================================================
        CANALI EVENTO
        ===================================================== */
-
     event.channels.forEach(
         function(channel) {
-
-
 
             const channelIndex =
                 globalIndex;
 
-
-
             channels.push({
-
                 name: channel.name,
-
                 id: channel.id,
-
                 url: channel.url,
-
                 eventTitle: event.title,
-
                 eventTime: event.time
-
             });
-
-
 
             const button =
                 document.createElement(
                     "button"
                 );
 
-
-
             button.className =
                 "channel";
 
-
-
             button.textContent =
                 "▶ " + channel.name;
-
-
 
             button.setAttribute(
                 "tabindex",
                 "0"
             );
 
-
-
             button.onclick =
                 function() {
-
                     playEventChannel(
                         channelIndex
                     );
-
                 };
-
-
 
             eventContainer.appendChild(
                 button
             );
 
-
-
+            // Salviamo il bottone nell'elenco locale di questo evento
+            eventButtons.push(button);
             globalIndex++;
 
         }
     );
 
+    // FUNZIONE INTERNA PER MOSTRARE/NASCONDERE I CANALI DI QUESTO EVENTO
+    function toggleEvent() {
+        const isCurrentlyHidden = eventButtons.length > 0 && (eventButtons[0].style.display === "" || eventButtons[0].style.display === "none");
+        const indicator = eventTitle.querySelector(".arrow-indicator");
 
+        eventButtons.forEach(function(button) {
+            button.style.display = isCurrentlyHidden ? "block" : "none";
+        });
+
+        if (indicator) {
+            indicator.textContent = isCurrentlyHidden ? "▲" : "▼";
+        }
+    }
+
+    // Collega la funzione al click del mouse e alla pressione dei tasti OK/Enter
+    eventTitle.onclick = toggleEvent;
+    eventTitle.onkeydown = function(e) {
+        if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            toggleEvent();
+        }
+    };
 
     eventList.appendChild(
         eventContainer
     );
 
 });
+
 
 
 
