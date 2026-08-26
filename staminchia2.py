@@ -2576,28 +2576,28 @@ window.addEventListener(
 
 
 
-        /* =================================================
-           PRIMO CANALE EVENTO A FUOCO
+                /* =================================================
+           PRIMO TITOLO EVENTO A FUOCO ALL'AVVIO
            ================================================= */
 
-        const buttons =
-            document.querySelectorAll(
-                "#eventList .channel"
+        const firstTitle =
+            document.querySelector(
+                "#eventList .eventTitle"
             );
 
 
 
-        if (buttons.length > 0) {
+        if (firstTitle) {
 
             currentIndex = 0;
 
 
 
-            buttons[0].focus();
+            firstTitle.focus();
 
 
 
-            buttons[0].scrollIntoView({
+            firstTitle.scrollIntoView({
 
                 behavior: "instant",
 
@@ -2606,6 +2606,7 @@ window.addEventListener(
             });
 
         }
+
 
 
 
