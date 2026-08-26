@@ -1867,11 +1867,15 @@ function showChannels() {
 
 
 
+        // Trova questo blocco dentro showChannels() e modificalo così:
     if (buttons.length > 0) {
+        
+        // Sostituisci buttons[0] con la gestione di currentIndex:
+        let indexToFocus = (currentIndex < buttons.length) ? currentIndex : 0;
 
-        buttons[0].focus();
+        buttons[indexToFocus].focus();
 
-        buttons[0].scrollIntoView({
+        buttons[indexToFocus].scrollIntoView({
 
             behavior: "instant",
 
@@ -1880,6 +1884,7 @@ function showChannels() {
         });
 
     }
+
 
 }
 
@@ -1981,6 +1986,13 @@ function play247Channel(index) {
 
     }
 
+    // AGGIUNGI QUESTA RIGA PER SALVARE L'INDICE ATTUALE:
+    currentIndex = index;
+
+    player.src =
+        channels247[index].url;
+
+
 
 
     player.src =
@@ -2058,10 +2070,15 @@ function showSidebar() {
 
     setTimeout(function() {
 
-        const buttons =
-            document.querySelectorAll(".channel");
+        // MODIFICA QUESTO BLOCCO:
+        let buttons;
+        if (currentMode === "events") {
+            buttons = document.querySelectorAll("#eventList .channel");
+        } else {
+            buttons = document.querySelectorAll("#channel247List .channel247");
+        }
 
-        if (buttons[currentIndex]) {
+        if (buttons && buttons[currentIndex]) {
 
             buttons[currentIndex].focus();
 
@@ -2075,6 +2092,7 @@ function showSidebar() {
     }, 50);
 
 }
+
 
 
 
