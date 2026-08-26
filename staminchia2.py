@@ -920,6 +920,21 @@ body {
 
 }
 
+.eventTitle:focus,
+.eventTitle:hover {
+
+    outline: none;
+
+    background: #ffffff !important;
+
+    color: #000000 !important;
+
+    transform: scale(1.02);
+
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.4);
+
+}
+
 
 
 .eventTime {
@@ -2294,18 +2309,24 @@ document.addEventListener(
 
 
 
-        if (
+                if (
             currentMode === "events"
         ) {
 
-            buttons =
-                Array.from(
-                    document.querySelectorAll(
-                        "#eventList .channel"
-                    )
-                );
+            // Prende sia i titoli che i canali, ma filtra tenendo solo i canali visibili
+            buttons = Array.from(
+                document.querySelectorAll(
+                    "#eventList .eventTitle, #eventList .channel"
+                )
+            ).filter(function(el) {
+                if (el.classList.contains("channel")) {
+                    return el.style.display === "block";
+                }
+                return true;
+            });
 
         }
+
         else {
 
             buttons =
