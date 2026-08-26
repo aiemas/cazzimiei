@@ -296,124 +296,98 @@ body {
 
 
 /* =========================================================
-   CANALI EVENTI
+   STILE CINEMATOGRAFICO CANALI (EVENTI E 24/7)
    ========================================================= */
 
-.channel {
-
-    width: 100%;
-
-    display: block;
-
-    margin-bottom: 7px;
-
-    padding: 12px 10px;
-
-    background: rgba(31, 41, 55, 0.35);
-
-    border: 2px solid transparent;
-
-    border-radius: 8px;
-
-    color: white;
-
-    font-size: 15px;
-
-    cursor: pointer;
-
-    text-align: left;
-
-}
-
-
-
-.channel:hover {
-
-    background: #374151;
-
-}
-
-
-
-.channel:focus {
-
-    outline: none;
-
-    border-color: white;
-
-    background: #16a34a;
-
-}
-
-
-
-.channel.active {
-
-    background: #16a34a;
-
-    border-color: white;
-
-}
-
-
-
-/* =========================================================
-   CANALI 24/7
-   ========================================================= */
-
+.channel, 
 .channel247 {
 
     width: 100%;
 
     display: block;
 
-    margin-bottom: 7px;
+    margin-bottom: 8px;
 
-    padding: 12px 10px;
+    padding: 14px 16px;
 
-    background: rgba(31, 41, 55, 0.35);
+    background: rgba(255, 255, 255, 0.04);
 
     border: 2px solid transparent;
 
-    border-radius: 8px;
+    border-radius: 10px;
 
-    color: white;
+    color: #e2e8f0;
 
     font-size: 15px;
+
+    font-weight: 500;
 
     cursor: pointer;
 
     text-align: left;
 
+    /* Transizione fluida per l'effetto illuminazione */
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+
+    position: relative;
+
+    overflow: hidden;
+
 }
 
+/* Canale attualmente in riproduzione (Active) */
+.channel.active, 
+.channel247.active {
 
+    background: rgba(255, 255, 255, 0.1);
 
+    border-color: rgba(255, 255, 255, 0.3);
+
+    color: #ffffff;
+
+}
+
+/* Indicatore laterale per il canale attivo */
+.channel.active::before,
+.channel247.active::before {
+
+    content: "";
+
+    position: absolute;
+
+    left: 0;
+    top: 25%;
+
+    width: 4px;
+    height: 50%;
+
+    background: #ffffff;
+
+    border-radius: 0 4px 4px 0;
+
+}
+
+/* Selezione con telecomando o Mouse Hover (Glow cinematografico) */
+.channel:focus, 
+.channel247:focus,
+.channel:hover,
 .channel247:hover {
-
-    background: #374151;
-
-}
-
-
-
-.channel247:focus {
 
     outline: none;
 
-    border-color: white;
+    background: #ffffff;
 
-    background: #16a34a;
+    color: #000000;
 
-}
+    border-color: #ffffff;
 
+    /* Effetto zoom leggero per dare profondità */
+    transform: scale(1.02);
 
+    /* Bagliore d'ombra soffuso (Glow) */
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.4);
 
-.channel247.active {
-
-    background: #16a34a;
-
-    border-color: white;
+    font-weight: bold;
 
 }
 
