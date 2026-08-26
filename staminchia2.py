@@ -2056,6 +2056,24 @@ function showSidebar() {
         "hidden"
     );
 
+    setTimeout(function() {
+
+        const buttons =
+            document.querySelectorAll(".channel");
+
+        if (buttons[currentIndex]) {
+
+            buttons[currentIndex].focus();
+
+            buttons[currentIndex].scrollIntoView({
+                behavior: "instant",
+                block: "center"
+            });
+
+        }
+
+    }, 50);
+
 }
 
 
