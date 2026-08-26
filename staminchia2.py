@@ -1498,21 +1498,41 @@ events.forEach(function(event) {
         }
     );
 
-        // FUNZIONE INTERNA PER MOSTRARE/NASCONDERE I CANALI DI QUESTO EVENTO
+            // FUNZIONE INTERNA PER MOSTRARE/NASCONDERE I CANALI DI QUESTO EVENTO
     function toggleEvent() {
-        // CORRETTO: Controlliamo lo stile del primo bottone reale [0] della lista
         const isCurrentlyHidden = eventButtons.length > 0 && (eventButtons[0].style.display === "" || eventButtons[0].style.display === "none");
         const indicator = eventTitle.querySelector(".arrow-indicator");
 
         eventButtons.forEach(function(button) {
-            // CORRETTO: Rimosso il doppio ".style.style"
             button.style.display = isCurrentlyHidden ? "block" : "none";
         });
 
         if (indicator) {
             indicator.textContent = isCurrentlyHidden ? "▲" : "▼";
         }
+
+        // AGGIUNTA FONDAMENTALE PER TELECOMANDO:
+        // Ogni volta che apriamo o chiudiamo un menu, forziamo il ricalcolo 
+        // immediato della lista dei pulsanti disponibili per le frecce Su/Giù
+        if (typeof document.activeElement !== "undefined") {
+            const currentActive = document.activeElement;
+            // Generiamo la lista aggiornata dei bottoni visibili
+            const updatedButtons = Array.from(
+                document.querySelectorAll("#eventList .eventTitle, #eventList .channel")
+            ).filter(function(el) {
+                if (el.classList.contains("channel")) {
+                    return el.style.display === "block";
+                }
+                return true;
+            });
+            // Aggiorniamo l'indice globale con la nuova posizione effettiva del cursore
+            const newIndex = updatedButtons.indexOf(currentActive);
+            if (newIndex >= 0) {
+                currentIndex = newIndex;
+            }
+        }
     }
+
 
 
     // Collega la funzione al click del mouse e alla pressione dei tasti OK/Enter
@@ -2259,7 +2279,7 @@ document.addEventListener(
 
 
 
-            if (
+                        if (
                 event.key === "ArrowDown"
             ) {
 
@@ -2268,16 +2288,11 @@ document.addEventListener(
                 if (
                     currentMode === "events"
                 ) {
-
-                    const buttons =
-                        document.querySelectorAll(
-                            "#eventList .channel"
-                        );
-
-                    if (buttons.length > 0) {
-
-                        buttons[0].focus();
-
+                    // CORRETTO: Scende sul primo TITOLO dell'evento (visto che i canali sono chiusi)
+                    const firstTitle = document.querySelector("#eventList .eventTitle");
+                    if (firstTitle) {
+                        firstTitle.focus();
+                        currentIndex = 0;
                     }
 
                 }
@@ -2291,6 +2306,7 @@ document.addEventListener(
                     if (buttons.length > 0) {
 
                         buttons[0].focus();
+                        currentIndex = 0;
 
                     }
 
