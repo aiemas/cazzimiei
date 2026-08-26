@@ -2410,9 +2410,24 @@ document.addEventListener(
            SU
            ================================================= */
 
-        if (
+                if (
             event.key === "ArrowUp"
         ) {
+
+            event.preventDefault();
+
+            // NUOVO: Se ti trovi sul primo elemento della lista, sali sui Tab in alto!
+            if (index === 0) {
+                if (currentMode === "events") {
+                    eventsTab.focus();
+                } else {
+                    channelsTab.focus();
+                }
+                return;
+            }
+
+            let previous;
+
 
             event.preventDefault();
 
