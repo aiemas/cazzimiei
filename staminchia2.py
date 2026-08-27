@@ -1522,14 +1522,15 @@ events.forEach(function(event) {
 
 
 
-    // Collega la funzione al click del mouse e alla pressione dei tasti OK/Enter
-    eventTitle.onclick = toggleEvent;
-    eventTitle.onkeydown = function(e) {
-        if (e.key === "Enter" || e.key === " ") {
-            e.preventDefault();
-            toggleEvent();
-        }
-    };
+    // =====================================================
+// CLICK DEL MOUSE SUL TITOLO EVENTO
+// =====================================================
+
+eventTitle.onclick = function() {
+
+    toggleEvent();
+
+};
 
     eventList.appendChild(
         eventContainer
