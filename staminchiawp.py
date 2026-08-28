@@ -289,31 +289,31 @@ for event_block in event_blocks:
 
         if href.startswith("http://"):
 
-    final_url = href
+            final_url = href
 
-elif href.startswith("https://"):
+        elif href.startswith("https://"):
 
-    final_url = href
+            final_url = href
 
-elif href.startswith("//"):
+        elif href.startswith("//"):
 
-    final_url = "https:" + href
+            final_url = "https:" + href
 
-else:
+        else:
 
-    if href.startswith("/"):
+            if href.startswith("/"):
 
-        final_url = (
-            "https://dlstreams.st"
-            + href
-        )
+                final_url = (
+                    "https://dlstreams.st"
+                    + href
+                )
 
-    else:
+            else:
 
-        final_url = (
-            "https://dlstreams.st/"
-            + href
-        )
+                final_url = (
+                    "https://dlstreams.st/"
+                    + href
+                )
 
         # ====================================================
         # NOME COMPLETO DEL CANALE
