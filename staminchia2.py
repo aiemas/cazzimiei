@@ -169,21 +169,19 @@ for event_block in event_blocks:
         ".schedule__time"
     )
 
-   if time_element:
+    if time_element:
 
         event_time = time_element.get_text(
             " ",
             strip=True
         )
 
-    # Aggiunge automaticamente 2 ore
-        event_time = add_two_hours(
-            event_time
-        )
-
     else:
 
         event_time = ""
+
+    # Aggiunge 2 ore all'orario
+    event_time = add_two_hours(event_time)
 
 
 
