@@ -9,7 +9,7 @@ import os
 # CONFIGURAZIONE
 # ============================================================
 
-URL = "https://dlstreams.st"
+URL = "https://dlstreams.st/index.php?cat=All+Soccer+Events+%E2%9A%BD"
 
 CHANNELS_URL = "https://dlstreams.st/24-7-channels.php"
 
