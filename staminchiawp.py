@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import os
+from datetime import datetime, timedelta
 
 
 # ============================================================
@@ -24,6 +25,49 @@ HEADERS = {
         "Chrome/151.0.0.0 Safari/537.36"
     )
 }
+
+
+# ============================================================
+# AGGIUNGE 2 ORE ALL'ORARIO DELL'EVENTO
+# ============================================================
+
+def add_two_hours(time_text):
+
+    try:
+
+        # Cerca un orario nel formato HH:MM
+        match = re.search(
+            r"\b(\d{1,2}):(\d{2})\b",
+            time_text
+        )
+
+        if not match:
+            return time_text
+
+        original_time = match.group(0)
+
+        time_obj = datetime.strptime(
+            original_time,
+            "%H:%M"
+        )
+
+        new_time = time_obj + timedelta(hours=2)
+
+        new_time_text = new_time.strftime(
+            "%H:%M"
+        )
+
+        # Sostituisce solo l'orario trovato
+        return time_text.replace(
+            original_time,
+            new_time_text,
+            1
+        )
+
+    except Exception:
+
+        # Se qualcosa non va, mantiene l'orario originale
+        return time_text
 
 
 # ============================================================
@@ -137,6 +181,12 @@ for event_block in event_blocks:
     else:
 
         event_time = ""
+
+    # --------------------------------------------------------
+    # AGGIUNGE 2 ORE ALL'ORARIO
+    # --------------------------------------------------------
+
+    event_time = add_two_hours(event_time)
 
 
     # --------------------------------------------------------
