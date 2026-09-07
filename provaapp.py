@@ -37,13 +37,8 @@ HEADERS = {
 # ============================================================
 
 def build_player_url(channel_id):
-
-    return (
-        "https://dlhd.pk/embed/"
-        "stream-"
-        + channel_id
-        + ".php"
-    )
+    # Sostituito il vecchio link embed con quello della pagina di navigazione nativa
+    return "https://dlstreams.st/watch.php?id=" + channel_id
 
 # ============================================================
 # AGGIUNGE 2 ORE ALL'ORARIO DELL'EVENTO
@@ -471,7 +466,7 @@ for card in channel_cards:
 
             "id": channel_id,
 
-            "url": final_url
+            "watch_url": final_url
 
         })
 
