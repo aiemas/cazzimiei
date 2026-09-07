@@ -537,7 +537,7 @@ for channel in channels_247:
     print(
         f'    - {channel["name"]}'
         f' | ID: {channel["id"]}'
-        f' | URL: {channel["url"]}'
+        f' | URL: {channel["watch_url"]}'
     )
 
 
