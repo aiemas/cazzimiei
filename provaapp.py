@@ -671,7 +671,7 @@ for channel in channels_247:
         js_escape(channel["id"]) +
         "', "
         "url: '" +
-        js_escape(channel["url"]) +
+        js_escape(channel["watch_url"]) +
         "'"
         "}"
     )
