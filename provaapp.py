@@ -558,20 +558,20 @@ print()
 
 import json
 
-# Raggruppiamo tutti i dati utili in un unico dizionario pulito
 dati_per_app = {
     "eventi": events,
     "canali_247": channels_247
 }
 
-# Salviamo il file in formato .json invece di .html
 output_json_file = "dati_streaming.json"
 
 try:
+    # Usando il blocco "with", Python gestisce da solo la chiusura corretta del file
     with open(output_json_file, "w", encoding="utf-8") as file:
-        # json.dump trasforma le liste Python in testo JSON perfetto per Android
-        json.dump(dati_per_app, file, ensure_ascii=False, indent=4)
-    print(f"\n[OK] File JSON creato correttamente: {output_json_file}")
+        # Rimuoviamo l'indentazione (indent=4) che raddoppiava inutilmente la dimensione del file
+        json.dump(dati_per_app, file, ensure_ascii=False)
+        file.flush() # Forziamo la scrittura immediata dei dati sul disco
+    print(f"\n[OK] File JSON compresso e creato correttamente: {output_json_file}")
 except Exception as e:
     print(f"\n[ERRORE] Impossibile creare il file JSON: {e}")
 
