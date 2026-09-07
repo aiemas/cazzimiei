@@ -1,0 +1,39 @@
+name: Avvio Manuale Scraping Live
+
+# Questo comando abilita il pulsante "Run workflow" per farlo partire solo quando vuoi tu manuale
+on:
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Copia i file del tuo progetto sul server virtuale
+    - name: Checkout del codice
+      uses: actions/checkout@v4
+
+    # 2. Configura l'ambiente Python sul server
+    - name: Configura Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    # 3. Installa le librerie che usi nel tuo script (requests e beautifulsoup4)
+    - name: Installa le librerie richieste
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    # 4. Esegue il tuo nuovo file Python che genera il JSON
+    - name: Esegui lo script provaapp.py
+      run: python provaapp.py
+
+    # 5. Prende il file dati_streaming.json appena creato e lo salva nel tuo archivio GitHub
+    - name: Salva il file JSON modificato su GitHub
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "actions@github.com"
+        git add dati_streaming.json
+        git commit -m "Aggiornato elenco partite (Manuale)" || echo "Nessuna modifica rilevata"
+        git push
