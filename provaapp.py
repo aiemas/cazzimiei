@@ -14,6 +14,8 @@ URL = "https://dlstreams.st/index.php?cat=All+Soccer+Events+%E2%9A%BD"
 
 CHANNELS_URL = "https://dlstreams.st/24-7-channels.php"
 
+VAVOO_URL = "https://vavoo.to/mediahubmx-catalog.json"
+
 OUTPUT_FILE = "index.html"
 
 
@@ -470,6 +472,192 @@ for card in channel_cards:
 
         })
 
+# ============================================================
+# SCARICA CANALI VAVOO ITALIA
+# ============================================================
+
+print()
+print("==========================================")
+print("SCARICAMENTO CANALI VAVOO ITALIA...")
+print("URL:", VAVOO_URL)
+print("==========================================")
+
+VAVOO_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/151.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/json; charset=utf-8",
+    "Origin": "https://vavoo.to",
+    "Referer": "https://vavoo.to/live"
+}
+
+VAVOO_PAYLOAD = {
+    "catalogId": "iptv",
+    "id": "",
+    "adult": False,
+    "search": "",
+    "sort": "trending-region",
+    "filter": {
+        "group": "Italy"
+    },
+    "cursor": None,
+    "language": "de",
+    "region": "DE"
+}
+
+try:
+
+    vavoo_response = requests.post(
+        VAVOO_URL,
+        headers=VAVOO_HEADERS,
+        json=VAVOO_PAYLOAD,
+        timeout=30
+    )
+
+    vavoo_response.raise_for_status()
+
+    vavoo_data = vavoo_response.json()
+
+except Exception as e:
+
+    print()
+    print("ERRORE durante il download dei canali VAVOO:")
+    print(e)
+
+    vavoo_data = {}
+
+
+
+# ============================================================
+# PARSING CANALI VAVOO
+# ============================================================
+
+vavoo = []
+
+vavoo_items = vavoo_data.get(
+    "items",
+    []
+)
+
+print()
+print("Canali VAVOO trovati:", len(vavoo_items))
+print()
+
+
+
+for item in vavoo_items:
+
+    # --------------------------------------------------------
+    # ID
+    # --------------------------------------------------------
+
+    ids = item.get(
+        "ids",
+        {}
+    )
+
+    channel_id = str(
+        ids.get(
+            "id",
+            ""
+        )
+    )
+
+
+
+    # --------------------------------------------------------
+    # NOME
+    # --------------------------------------------------------
+
+    channel_name = item.get(
+        "name",
+        ""
+    )
+
+
+
+    # --------------------------------------------------------
+    # GROUP
+    # --------------------------------------------------------
+
+    channel_group = item.get(
+        "group",
+        ""
+    )
+
+
+
+    # --------------------------------------------------------
+    # WATCH URL
+    # --------------------------------------------------------
+
+    if channel_id:
+
+        watch_url = (
+            "https://vavoo.to/watch?live="
+            + channel_id
+        )
+
+    else:
+
+        watch_url = ""
+
+
+
+    # --------------------------------------------------------
+    # SALVA CANALE
+    # --------------------------------------------------------
+
+    if (
+        channel_id
+        and channel_name
+    ):
+
+        vavoo.append({
+
+            "name": channel_name,
+
+            "id": channel_id,
+
+            "watch_url": watch_url
+
+        })
+
+
+
+# ============================================================
+# RISULTATI VAVOO
+# ============================================================
+
+print("==========================================")
+print("CANALI VAVOO ELABORATI")
+print("==========================================")
+print()
+
+
+
+for channel in vavoo:
+
+    print(
+        f'    - {channel["name"]}'
+        f' | ID: {channel["id"]}'
+        f' | URL: {channel["watch_url"]}'
+    )
+
+
+
+print()
+print("==========================================")
+print(
+    "TOTALE CANALI VAVOO:",
+    len(vavoo)
+)
+print("==========================================")
+print()
+
 
 
 # ============================================================
@@ -555,7 +743,8 @@ import json
 
 dati_per_app = {
     "eventi": events,
-    "canali_247": channels_247
+    "canali_247": channels_247,
+    "vavoo": vavoo
 }
 
 output_json_file = "dati_streaming.json"
