@@ -921,6 +921,68 @@ VAVOO_CANALI_DESIDERATI_NORMALIZZATI = {
 
 vavoo = []
 
+# ============================================================
+# LOGHI CANALI VAVOO
+# ============================================================
+
+VAVOO_LOGHI = {
+    "SKY CINEMA ACTION": "https://pixel.disco.nowtv.it/logo/skychb_206_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY CINEMA COLLECTION": "https://pixel.disco.nowtv.it/logo/skychb_204_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY CINEMA COMEDY": "https://pixel.disco.nowtv.it/logo/skychb_30_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY CINEMA DRAMA": "https://pixel.disco.nowtv.it/logo/skychb_769_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY CINEMA DUE": "https://pixel.disco.nowtv.it/logo/skychb_564_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY CINEMA FAMILY": "https://pixel.disco.nowtv.it/logo/skychb_255_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY CINEMA ROMANCE": "https://pixel.disco.nowtv.it/logo/skychb_231_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY CINEMA SUSPENSE": "https://pixel.disco.nowtv.it/logo/skychb_47_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY CINEMA UNO": "https://pixel.disco.nowtv.it/logo/skychb_202_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+
+    "SKY UNO": "https://pixel.disco.nowtv.it/logo/skychb_477_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY ARTE": "https://pixel.disco.nowtv.it/logo/skychb_74_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY ATLANTIC": "https://pixel.disco.nowtv.it/logo/skychb_226_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY SERIE": "https://pixel.disco.nowtv.it/logo/skychb_684_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY INVESTIGATION": "https://pixel.disco.nowtv.it/logo/skychb_686_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY CRIME": "https://pixel.disco.nowtv.it/logo/skychb_249_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY DOCUMENTARIES": "https://pixel.disco.nowtv.it/logo/skychb_226_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "HISTORY": "https://pixel.disco.nowtv.it/logo/skychb_513_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "COMEDY CENTRAL": "https://pixel.disco.nowtv.it/logo/skychb_404_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+
+    "SKY SPORT UNO": "https://pixel.disco.nowtv.it/logo/skychb_23_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY SPORT TENNIS": "https://pixel.disco.nowtv.it/logo/skychb_559_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY SPORT 24": "https://pixel.disco.nowtv.it/logo/skychb_35_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY SPORT ARENA": "https://pixel.disco.nowtv.it/logo/skychb_24_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY SPORT CALCIO": "https://pixel.disco.nowtv.it/logo/skychb_209_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY SPORT F1": "https://pixel.disco.nowtv.it/logo/skychb_478_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY SPORT MOTOGP": "https://pixel.disco.nowtv.it/logo/skychb_483_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY SPORT MAX": "https://pixel.disco.nowtv.it/logo/skychb_248_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "SKY SPORT BASKET": "https://pixel.disco.nowtv.it/logo/skychb_764_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+
+    "CARTOON NETWORK": "https://pixel.disco.nowtv.it/logo/skychb_258_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "NICK JR": "https://pixel.disco.nowtv.it/logo/skychb_424_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "NICKELODEON": "https://pixel.disco.nowtv.it/logo/skychb_320_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+    "BOOMERANG": "https://pixel.disco.nowtv.it/logo/skychb_367_darknow/LOGO_CHANNEL_LIGHT/4000?language=it-IT&proposition=NOWOTT",
+
+    # Tutti i canali Sky Primafila usano lo stesso logo
+    "SKY PRIMAFILA 1": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 2": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 3": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 4": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 5": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 6": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 7": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 8": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 9": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 10": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 11": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 12": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 13": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 14": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 15": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 16": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA 18": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA PREMIERE 01": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+    "SKY PRIMAFILA PREMIERE 02": "https://iconape.com/wp-content/files/ry/282239/png/sky-primafila-logo.png",
+}
+
 vavoo_items = vavoo_data.get(
     "items",
     []
@@ -1031,14 +1093,12 @@ for item in vavoo_items:
         channel_name
     ):
 
+        nome_normalizzato = normalizza_nome_vavoo(channel_name)
         vavoo.append({
-
             "name": channel_name,
-
             "id": channel_id,
-
-            "watch_url": watch_url
-
+            "watch_url": watch_url,
+            "logo": VAVOO_LOGHI.get(nome_normalizzato, "")
         })
 
         vavoo_filtrati += 1
