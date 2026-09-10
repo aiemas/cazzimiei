@@ -532,6 +532,390 @@ except Exception as e:
 
 
 # ============================================================
+# FILTRO CANALI VAVOO INTERESSANTI
+# ============================================================
+
+# Questi sono SOLO i nomi dei canali che vogliamo prendere
+# dalla lista M3U di riferimento.
+#
+# IMPORTANTE:
+# La M3U NON viene utilizzata durante lo scraping.
+# Questi nomi sono diventati una configurazione interna
+# dello scraper.
+
+VAVOO_CANALI_DESIDERATI = {
+
+    "SKY CINEMA ACTION",
+    "SKY CINEMA COLLECTION",
+    "SKY CINEMA COMEDY",
+    "SKY CINEMA DRAMA",
+    "SKY CINEMA DUE",
+    "SKY CINEMA FAMILY",
+    "SKY CINEMA ROMANCE",
+    "SKY CINEMA SUSPENSE",
+    "SKY CINEMA UNO",
+
+    "SKY UNO",
+    "SKY ARTE",
+    "SKY ATLANTIC",
+    "SKY SERIE",
+    "SKY INVESTIGATION",
+    "SKY CRIME",
+    "SKY DOCUMENTARIES",
+
+    "HISTORY",
+    "COMEDY CENTRAL",
+
+    "SKY SPORT UNO",
+    "SKY SPORT TENNIS",
+    "SKY SPORT 24",
+    "SKY SPORT ARENA",
+    "SKY SPORT CALCIO",
+    "SKY SPORT F1",
+    "SKY SPORT MOTOGP",
+    "SKY SPORT MAX",
+    "SKY SPORT BASKET",
+
+    "CARTOON NETWORK",
+    "NICK JR",
+    "NICKELODEON",
+    "BOOMERANG",
+
+    "SKY PRIMAFILA 1",
+    "SKY PRIMAFILA 2",
+    "SKY PRIMAFILA 3",
+    "SKY PRIMAFILA 4",
+    "SKY PRIMAFILA 5",
+    "SKY PRIMAFILA 6",
+    "SKY PRIMAFILA 7",
+    "SKY PRIMAFILA 8",
+    "SKY PRIMAFILA 9",
+    "SKY PRIMAFILA 10",
+    "SKY PRIMAFILA 11",
+    "SKY PRIMAFILA 12",
+    "SKY PRIMAFILA 13",
+    "SKY PRIMAFILA 14",
+    "SKY PRIMAFILA 15",
+    "SKY PRIMAFILA 16",
+    "SKY PRIMAFILA 18",
+
+    "SKY PRIMAFILA PREMIERE 01",
+    "SKY PRIMAFILA PREMIERE 02"
+}
+
+
+# ============================================================
+# NORMALIZZA NOME CANALE VAVOO
+# ============================================================
+
+def normalizza_nome_vavoo(nome):
+
+    nome = str(nome).strip()
+
+    # Rimuove i suffissi utilizzati da VAVOO
+    nome = re.sub(
+        r"\s*\.(c|s)\s*$",
+        "",
+        nome,
+        flags=re.IGNORECASE
+    )
+
+    # Rimuove E/H utilizzati nella M3U
+    nome = re.sub(
+        r"\s*\|[EH]\s*$",
+        "",
+        nome,
+        flags=re.IGNORECASE
+    )
+
+    # Rimuove diciture BACKUP
+    nome = re.sub(
+        r"\s*\(BACKUP\)\s*$",
+        "",
+        nome,
+        flags=re.IGNORECASE
+    )
+
+    # Rimuove spazi multipli
+    nome = re.sub(
+        r"\s+",
+        " ",
+        nome
+    )
+
+    return nome.strip().upper()
+
+
+# ============================================================
+# CREA SET NORMALIZZATO DEI CANALI DESIDERATI
+# ============================================================
+
+VAVOO_CANALI_DESIDERATI_NORMALIZZATI = {
+
+    normalizza_nome_vavoo(nome)
+
+    for nome in VAVOO_CANALI_DESIDERATI
+
+}
+
+
+# ============================================================
+# FILTRO CANALI VAVOO INTERESSANTI
+# ============================================================
+
+# Questi sono SOLO i nomi dei canali che vogliamo prendere
+# dalla lista M3U di riferimento.
+#
+# IMPORTANTE:
+# La M3U NON viene utilizzata durante lo scraping.
+# Questi nomi sono diventati una configurazione interna
+# dello scraper.
+
+VAVOO_CANALI_DESIDERATI = {
+
+    "SKY CINEMA ACTION",
+    "SKY CINEMA COLLECTION",
+    "SKY CINEMA COMEDY",
+    "SKY CINEMA DRAMA",
+    "SKY CINEMA DUE",
+    "SKY CINEMA FAMILY",
+    "SKY CINEMA ROMANCE",
+    "SKY CINEMA SUSPENSE",
+    "SKY CINEMA UNO",
+
+    "SKY UNO",
+    "SKY ARTE",
+    "SKY ATLANTIC",
+    "SKY SERIE",
+    "SKY INVESTIGATION",
+    "SKY CRIME",
+    "SKY DOCUMENTARIES",
+
+    "HISTORY",
+    "COMEDY CENTRAL",
+
+    "SKY SPORT UNO",
+    "SKY SPORT TENNIS",
+    "SKY SPORT 24",
+    "SKY SPORT ARENA",
+    "SKY SPORT CALCIO",
+    "SKY SPORT F1",
+    "SKY SPORT MOTOGP",
+    "SKY SPORT MAX",
+    "SKY SPORT BASKET",
+
+    "CARTOON NETWORK",
+    "NICK JR",
+    "NICKELODEON",
+    "BOOMERANG",
+
+    "SKY PRIMAFILA 1",
+    "SKY PRIMAFILA 2",
+    "SKY PRIMAFILA 3",
+    "SKY PRIMAFILA 4",
+    "SKY PRIMAFILA 5",
+    "SKY PRIMAFILA 6",
+    "SKY PRIMAFILA 7",
+    "SKY PRIMAFILA 8",
+    "SKY PRIMAFILA 9",
+    "SKY PRIMAFILA 10",
+    "SKY PRIMAFILA 11",
+    "SKY PRIMAFILA 12",
+    "SKY PRIMAFILA 13",
+    "SKY PRIMAFILA 14",
+    "SKY PRIMAFILA 15",
+    "SKY PRIMAFILA 16",
+    "SKY PRIMAFILA 18",
+
+    "SKY PRIMAFILA PREMIERE 01",
+    "SKY PRIMAFILA PREMIERE 02"
+}
+
+
+# ============================================================
+# NORMALIZZA NOME CANALE VAVOO
+# ============================================================
+
+def normalizza_nome_vavoo(nome):
+
+    nome = str(nome).strip()
+
+    # Rimuove i suffissi utilizzati da VAVOO
+    nome = re.sub(
+        r"\s*\.(c|s)\s*$",
+        "",
+        nome,
+        flags=re.IGNORECASE
+    )
+
+    # Rimuove E/H utilizzati nella M3U
+    nome = re.sub(
+        r"\s*\|[EH]\s*$",
+        "",
+        nome,
+        flags=re.IGNORECASE
+    )
+
+    # Rimuove diciture BACKUP
+    nome = re.sub(
+        r"\s*\(BACKUP\)\s*$",
+        "",
+        nome,
+        flags=re.IGNORECASE
+    )
+
+    # Rimuove spazi multipli
+    nome = re.sub(
+        r"\s+",
+        " ",
+        nome
+    )
+
+    return nome.strip().upper()
+
+
+# ============================================================
+# CREA SET NORMALIZZATO DEI CANALI DESIDERATI
+# ============================================================
+
+VAVOO_CANALI_DESIDERATI_NORMALIZZATI = {
+
+    normalizza_nome_vavoo(nome)
+
+    for nome in VAVOO_CANALI_DESIDERATI
+
+}
+
+
+# ============================================================
+# FILTRO CANALI VAVOO INTERESSANTI
+# ============================================================
+
+# Questi sono SOLO i nomi dei canali che vogliamo prendere
+# dalla lista M3U di riferimento.
+#
+# IMPORTANTE:
+# La M3U NON viene utilizzata durante lo scraping.
+# Questi nomi sono diventati una configurazione interna
+# dello scraper.
+
+VAVOO_CANALI_DESIDERATI = {
+
+    "SKY CINEMA ACTION",
+    "SKY CINEMA COLLECTION",
+    "SKY CINEMA COMEDY",
+    "SKY CINEMA DRAMA",
+    "SKY CINEMA DUE",
+    "SKY CINEMA FAMILY",
+    "SKY CINEMA ROMANCE",
+    "SKY CINEMA SUSPENSE",
+    "SKY CINEMA UNO",
+
+    "SKY UNO",
+    "SKY ARTE",
+    "SKY ATLANTIC",
+    "SKY SERIE",
+    "SKY INVESTIGATION",
+    "SKY CRIME",
+    "SKY DOCUMENTARIES",
+
+    "HISTORY",
+    "COMEDY CENTRAL",
+
+    "SKY SPORT UNO",
+    "SKY SPORT TENNIS",
+    "SKY SPORT 24",
+    "SKY SPORT ARENA",
+    "SKY SPORT CALCIO",
+    "SKY SPORT F1",
+    "SKY SPORT MOTOGP",
+    "SKY SPORT MAX",
+    "SKY SPORT BASKET",
+
+    "CARTOON NETWORK",
+    "NICK JR",
+    "NICKELODEON",
+    "BOOMERANG",
+
+    "SKY PRIMAFILA 1",
+    "SKY PRIMAFILA 2",
+    "SKY PRIMAFILA 3",
+    "SKY PRIMAFILA 4",
+    "SKY PRIMAFILA 5",
+    "SKY PRIMAFILA 6",
+    "SKY PRIMAFILA 7",
+    "SKY PRIMAFILA 8",
+    "SKY PRIMAFILA 9",
+    "SKY PRIMAFILA 10",
+    "SKY PRIMAFILA 11",
+    "SKY PRIMAFILA 12",
+    "SKY PRIMAFILA 13",
+    "SKY PRIMAFILA 14",
+    "SKY PRIMAFILA 15",
+    "SKY PRIMAFILA 16",
+    "SKY PRIMAFILA 18",
+
+    "SKY PRIMAFILA PREMIERE 01",
+    "SKY PRIMAFILA PREMIERE 02"
+}
+
+
+# ============================================================
+# NORMALIZZA NOME CANALE VAVOO
+# ============================================================
+
+def normalizza_nome_vavoo(nome):
+
+    nome = str(nome).strip()
+
+    # Rimuove i suffissi utilizzati da VAVOO
+    nome = re.sub(
+        r"\s*\.(c|s)\s*$",
+        "",
+        nome,
+        flags=re.IGNORECASE
+    )
+
+    # Rimuove E/H utilizzati nella M3U
+    nome = re.sub(
+        r"\s*\|[EH]\s*$",
+        "",
+        nome,
+        flags=re.IGNORECASE
+    )
+
+    # Rimuove diciture BACKUP
+    nome = re.sub(
+        r"\s*\(BACKUP\)\s*$",
+        "",
+        nome,
+        flags=re.IGNORECASE
+    )
+
+    # Rimuove spazi multipli
+    nome = re.sub(
+        r"\s+",
+        " ",
+        nome
+    )
+
+    return nome.strip().upper()
+
+
+# ============================================================
+# CREA SET NORMALIZZATO DEI CANALI DESIDERATI
+# ============================================================
+
+VAVOO_CANALI_DESIDERATI_NORMALIZZATI = {
+
+    normalizza_nome_vavoo(nome)
+
+    for nome in VAVOO_CANALI_DESIDERATI
+
+}
+
+
+# ============================================================
 # PARSING CANALI VAVOO
 # ============================================================
 
@@ -542,11 +926,25 @@ vavoo_items = vavoo_data.get(
     []
 )
 
+
 print()
 print("Canali VAVOO trovati:", len(vavoo_items))
 print()
+print("Applicazione filtro canali interessanti...")
+print()
 
 
+# ============================================================
+# CONTATORI
+# ============================================================
+
+vavoo_filtrati = 0
+vavoo_scartati = 0
+
+
+# ============================================================
+# ELABORA CANALI VAVOO
+# ============================================================
 
 for item in vavoo_items:
 
@@ -567,7 +965,6 @@ for item in vavoo_items:
     )
 
 
-
     # --------------------------------------------------------
     # NOME
     # --------------------------------------------------------
@@ -576,7 +973,6 @@ for item in vavoo_items:
         "name",
         ""
     )
-
 
 
     # --------------------------------------------------------
@@ -588,6 +984,25 @@ for item in vavoo_items:
         ""
     )
 
+
+    # --------------------------------------------------------
+    # NORMALIZZA NOME
+    # --------------------------------------------------------
+
+    nome_normalizzato = normalizza_nome_vavoo(
+        channel_name
+    )
+
+
+    # --------------------------------------------------------
+    # CONTROLLA SE È UN CANALE INTERESSANTE
+    # --------------------------------------------------------
+
+    if nome_normalizzato not in VAVOO_CANALI_DESIDERATI_NORMALIZZATI:
+
+        vavoo_scartati += 1
+
+        continue
 
 
     # --------------------------------------------------------
@@ -606,14 +1021,14 @@ for item in vavoo_items:
         watch_url = ""
 
 
-
     # --------------------------------------------------------
     # SALVA CANALE
     # --------------------------------------------------------
 
     if (
         channel_id
-        and channel_name
+        and
+        channel_name
     ):
 
         vavoo.append({
@@ -626,17 +1041,17 @@ for item in vavoo_items:
 
         })
 
+        vavoo_filtrati += 1
 
 
 # ============================================================
-# RISULTATI VAVOO
+# RISULTATI FILTRO VAVOO
 # ============================================================
 
 print("==========================================")
-print("CANALI VAVOO ELABORATI")
+print("CANALI VAVOO DOPO IL FILTRO")
 print("==========================================")
 print()
-
 
 
 for channel in vavoo:
@@ -648,17 +1063,22 @@ for channel in vavoo:
     )
 
 
-
 print()
 print("==========================================")
 print(
-    "TOTALE CANALI VAVOO:",
+    "VAVOO ORIGINALI:",
+    len(vavoo_items)
+)
+print(
+    "VAVOO SELEZIONATI:",
     len(vavoo)
+)
+print(
+    "VAVOO SCARTATI:",
+    vavoo_scartati
 )
 print("==========================================")
 print()
-
-
 
 # ============================================================
 # RISULTATI SCRAPING EVENTI
