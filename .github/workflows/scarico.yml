@@ -28,6 +28,8 @@ jobs:
           pip install requests
 
       - name: Scarica lista Vix
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           python scarico.py
 
