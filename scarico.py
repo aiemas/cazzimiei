@@ -55,7 +55,7 @@ def scarica_listone():
 
 
 # ============================================================
-# CREA VOD.JSON CON I DATI TMDB
+# CREA / AGGIORNA VOD.JSON
 # ============================================================
 
 def crea_vod(data):
@@ -67,30 +67,105 @@ def crea_vod(data):
             "TMDB_API_KEY non trovata nelle variabili d'ambiente"
         )
 
-    film = []
+    # --------------------------------------------------------
+    # Carica vod.json esistente, se presente
+    # --------------------------------------------------------
 
-    totale = len(data)
+    percorso_vod = Path(OUTPUT_VOD)
+
+    if percorso_vod.exists():
+
+        print()
+        print(f"Carico {OUTPUT_VOD} esistente...")
+
+        try:
+            film = json.loads(
+                percorso_vod.read_text(
+                    encoding="utf-8"
+                )
+            )
+
+            if not isinstance(film, list):
+                print("vod.json non contiene una lista. Lo ricreo.")
+                film = []
+
+        except Exception as errore:
+
+            print(
+                f"Errore nella lettura di {OUTPUT_VOD}: {errore}"
+            )
+
+            film = []
+
+    else:
+
+        print()
+        print(
+            f"{OUTPUT_VOD} non esiste. "
+            "Verrà creato da zero."
+        )
+
+        film = []
+
+    # --------------------------------------------------------
+    # Crea indice degli ID già presenti
+    # --------------------------------------------------------
+
+    ids_esistenti = {
+        elemento.get("tmdb_id")
+        for elemento in film
+        if elemento.get("tmdb_id")
+    }
+
+    # --------------------------------------------------------
+    # Trova solamente i nuovi film
+    # --------------------------------------------------------
+
+    nuovi_film = []
+
+    for elemento in data:
+
+        tmdb_id = elemento.get("tmdb_id")
+
+        if not tmdb_id:
+            continue
+
+        if tmdb_id not in ids_esistenti:
+            nuovi_film.append(elemento)
 
     print()
-    print(f"Film presenti in listone.json: {totale}")
-    print("Inizio recupero dati TMDB...")
+    print(f"Film presenti in listone Vix: {len(data)}")
+    print(f"Film già presenti in vod.json: {len(ids_esistenti)}")
+    print(f"Nuovi film da scaricare: {len(nuovi_film)}")
     print()
 
-    for indice, elemento in enumerate(data, start=1):
+    # --------------------------------------------------------
+    # Se non ci sono nuovi film, non interroga TMDB
+    # --------------------------------------------------------
+
+    if not nuovi_film:
+
+        print("Nessun nuovo film.")
+        print("vod.json rimane invariato.")
+
+        return
+
+    # --------------------------------------------------------
+    # Scarica da TMDB solamente i nuovi film
+    # --------------------------------------------------------
+
+    print("Inizio recupero dati TMDB per i nuovi film...")
+    print()
+
+    totale_nuovi = len(nuovi_film)
+
+    for indice, elemento in enumerate(nuovi_film, start=1):
 
         tmdb_id = elemento.get("tmdb_id")
         imdb_id = elemento.get("imdb_id")
 
-        # Ignora gli elementi senza TMDB ID
-        if not tmdb_id:
-            print(
-                f"[{indice}/{totale}] "
-                f"SKIP - nessun tmdb_id"
-            )
-            continue
-
         print(
-            f"[{indice}/{totale}] "
+            f"[{indice}/{totale_nuovi}] "
             f"TMDB ID: {tmdb_id}"
         )
 
@@ -160,12 +235,13 @@ def crea_vod(data):
                 f"    ERRORE TMDB {tmdb_id}: {errore}"
             )
 
-        # Piccola pausa per non martellare TMDB
         time.sleep(0.1)
 
-    # Salva il risultato finale
+    # --------------------------------------------------------
+    # Salva vod.json aggiornato
+    # --------------------------------------------------------
 
-    Path(OUTPUT_VOD).write_text(
+    percorso_vod.write_text(
         json.dumps(
             film,
             ensure_ascii=False,
@@ -176,8 +252,8 @@ def crea_vod(data):
 
     print()
     print(
-        f"Creato {OUTPUT_VOD} "
-        f"con {len(film)} film."
+        f"Aggiornato {OUTPUT_VOD} "
+        f"con {len(film)} film totali."
     )
 
 
