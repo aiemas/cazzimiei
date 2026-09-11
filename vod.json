@@ -208798,5 +208798,35 @@
       "Commedia",
       "Dramma"
     ]
+  },
+  {
+    "tmdb_id": 64883,
+    "imdb_id": "tt0223268",
+    "title": "Faust",
+    "original_title": "Faust: Love of the Damned",
+    "year": "2000",
+    "poster": "https://image.tmdb.org/t/p/w500/qewddAmFcD2XoGc4w1YwNdw8YXy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/plp70Zqq1HQMJiN743F8IKmFdXU.jpg",
+    "rating": 4.761,
+    "overview": "John Jaspers è un giovane pittore in una grande città statunitense nel XXI secolo. Una banda di criminali aggredisce lui e la sua compagna, che resta uccisa. Sul punto di togliersi la vita, John viene avvicinato da M., capo di una setta chiamata \"la Mano\", che gli offre la possibilità di vendicarsi conferendogli un grande potere. Ma in cambio John dovrà dargli la sua anima, e la sua umanità... Lo spunto non è certo dei più nuovi, visto che il film è esplicitamente ispirato al mito del Faust, sebbene vada chiarito che Love of the damned non è tratto da Goethe ma dall'omonima graphic novel di Tim Vigil e David Quinn, un vero cult del fumetto underground degli anni 90. Del fumetto, il film richiama tutta l'atmosfera cupa e sanguinolenta, ma ne limita fortemente la componente ultra-violenta e semi-pornografica.",
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 77334,
+    "imdb_id": "tt0081616",
+    "title": "La terrazza",
+    "original_title": "La terrazza",
+    "year": "1980",
+    "poster": "https://image.tmdb.org/t/p/w500/9VQpe6Olw355r0PmxmgBBs5BFSk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rjEoEfJDhDlYW0bMdeIntKFuSkS.jpg",
+    "rating": 7.17,
+    "overview": "Una cena su una terrazza romana è occasione di incontro per un gruppo di intellettuali che parlano, discutono, litigano anche. Da questa cornice si sviluppano poi le storie di uno sceneggiatore a corto di idee, di un giornalista incapace di rinnovarsi, di un consigliere Rai incline alla depressione, di un volgarotto produttore cinematografico e di un deputato comunista dubbioso e adultero. Un anno dopo, quando il tempo avrà cambiato qualche equilibrio, si rincontrano nello stesso luogo, forse più consapevoli.",
+    "genres": [
+      "Dramma"
+    ]
   }
 ]
