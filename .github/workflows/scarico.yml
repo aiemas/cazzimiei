@@ -33,12 +33,7 @@ jobs:
         run: |
           python scarico.py
 
-      - name: Salva listone nella repository
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-                - name: Salva listone e vod nella repository
+      - name: Salva listone e vod nella repository
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -46,9 +41,5 @@ jobs:
           git add listone.json vod.json
 
           git diff --cached --quiet || git commit -m "Aggiorna listone e vod"
-
-          git push
-
-          git diff --cached --quiet || git commit -m "Aggiorna listone"
 
           git push
