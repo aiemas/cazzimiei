@@ -1,0 +1,43 @@
+name: Aggiorna listone
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 3 * * *"
+
+jobs:
+  aggiorna-listone:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Installa dipendenze
+        run: |
+          pip install requests
+
+      - name: Scarica lista Vix
+        run: |
+          python scarico.py
+
+      - name: Salva listone nella repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add listone.json
+
+          git diff --cached --quiet || git commit -m "Aggiorna listone"
+
+          git push
