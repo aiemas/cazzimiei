@@ -1,13 +1,27 @@
 import requests
 import json
+import os
+import time
 from pathlib import Path
 
 
+# ============================================================
+# CONFIGURAZIONE
+# ============================================================
+
 URL = "https://vixsrc.to/api/list/movie/?lang=it"
-OUTPUT_FILE = "listone.json"
+
+OUTPUT_LISTONE = "listone.json"
+OUTPUT_VOD = "vod.json"
+
+TMDB_API_URL = "https://api.themoviedb.org/3/movie"
 
 
-def main():
+# ============================================================
+# SCARICA LISTA VIX
+# ============================================================
+
+def scarica_listone():
 
     print(f"Scarico: {URL}")
 
@@ -24,11 +38,9 @@ def main():
     print(f"HTTP: {response.status_code}")
     print(f"Dimensione risposta: {len(response.content)} byte")
 
-    # Verifichiamo che la risposta sia effettivamente JSON
     data = response.json()
 
-    # Salviamo il contenuto così come viene restituito dall'API
-    Path(OUTPUT_FILE).write_text(
+    Path(OUTPUT_LISTONE).write_text(
         json.dumps(
             data,
             ensure_ascii=False,
@@ -37,7 +49,147 @@ def main():
         encoding="utf-8"
     )
 
-    print(f"Creato: {OUTPUT_FILE}")
+    print(f"Creato: {OUTPUT_LISTONE}")
+
+    return data
+
+
+# ============================================================
+# CREA VOD.JSON CON I DATI TMDB
+# ============================================================
+
+def crea_vod(data):
+
+    api_key = os.environ.get("TMDB_API_KEY")
+
+    if not api_key:
+        raise RuntimeError(
+            "TMDB_API_KEY non trovata nelle variabili d'ambiente"
+        )
+
+    film = []
+
+    totale = len(data)
+
+    print()
+    print(f"Film presenti in listone.json: {totale}")
+    print("Inizio recupero dati TMDB...")
+    print()
+
+    for indice, elemento in enumerate(data, start=1):
+
+        tmdb_id = elemento.get("tmdb_id")
+        imdb_id = elemento.get("imdb_id")
+
+        # Ignora gli elementi senza TMDB ID
+        if not tmdb_id:
+            print(
+                f"[{indice}/{totale}] "
+                f"SKIP - nessun tmdb_id"
+            )
+            continue
+
+        print(
+            f"[{indice}/{totale}] "
+            f"TMDB ID: {tmdb_id}"
+        )
+
+        try:
+
+            response = requests.get(
+                f"{TMDB_API_URL}/{tmdb_id}",
+                params={
+                    "api_key": api_key,
+                    "language": "it-IT"
+                },
+                timeout=30,
+                headers={
+                    "User-Agent": "Mozilla/5.0"
+                }
+            )
+
+            if response.status_code == 404:
+
+                print(
+                    f"    Film non trovato su TMDB: {tmdb_id}"
+                )
+
+                continue
+
+            response.raise_for_status()
+
+            dati = response.json()
+
+            film.append({
+                "tmdb_id": tmdb_id,
+                "imdb_id": imdb_id,
+                "title": dati.get("title"),
+                "original_title": dati.get("original_title"),
+                "year": (
+                    dati.get("release_date", "")[:4]
+                    if dati.get("release_date")
+                    else None
+                ),
+                "poster": (
+                    f"https://image.tmdb.org/t/p/w500"
+                    f"{dati['poster_path']}"
+                    if dati.get("poster_path")
+                    else None
+                ),
+                "backdrop": (
+                    f"https://image.tmdb.org/t/p/w1280"
+                    f"{dati['backdrop_path']}"
+                    if dati.get("backdrop_path")
+                    else None
+                ),
+                "rating": dati.get("vote_average"),
+                "overview": dati.get("overview"),
+                "genres": [
+                    genere.get("name")
+                    for genere in dati.get("genres", [])
+                ]
+            })
+
+            print(
+                f"    OK: {dati.get('title')}"
+            )
+
+        except Exception as errore:
+
+            print(
+                f"    ERRORE TMDB {tmdb_id}: {errore}"
+            )
+
+        # Piccola pausa per non martellare TMDB
+        time.sleep(0.1)
+
+    # Salva il risultato finale
+
+    Path(OUTPUT_VOD).write_text(
+        json.dumps(
+            film,
+            ensure_ascii=False,
+            indent=2
+        ),
+        encoding="utf-8"
+    )
+
+    print()
+    print(
+        f"Creato {OUTPUT_VOD} "
+        f"con {len(film)} film."
+    )
+
+
+# ============================================================
+# MAIN
+# ============================================================
+
+def main():
+
+    data = scarica_listone()
+
+    crea_vod(data)
 
 
 if __name__ == "__main__":
