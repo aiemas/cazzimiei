@@ -208769,5 +208769,34 @@
       "Azione",
       "Thriller"
     ]
+  },
+  {
+    "tmdb_id": 1616400,
+    "imdb_id": "tt39368489",
+    "title": "#SKYKING",
+    "original_title": "#SKYKING",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/4uXL16pegV9mccBeUqB9VGos5hv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nBO0TV1N3BbY25BWLRUqLrefxe8.jpg",
+    "rating": 7.2,
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1380651,
+    "imdb_id": "tt34383359",
+    "title": "La riunione di condominio",
+    "original_title": "Votemos",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/mbiOeQqTOKds8SySjhuIkwc2y6A.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dumTOViXdC1B4E7ss2qw9bwa2r2.jpg",
+    "rating": 6.465,
+    "overview": "Una “semplice” riunione di condominio a Madrid in cui si discute della sostituzione dell'ascensore. Tutto fila liscio finché quello che doveva essere un incontro ordinario e pacifico, si trasforma nell’incubo temuto da tutti: viene annunciato l’arrivo di un nuovo inquilino con problemi di salute mentale. Tutto ciò scatenerà una serie di reazioni inaspettate, scontri e ipocrisie, mettendo in luce pregiudizi e paure nei confronti del possibile nuovo arrivato.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
   }
 ]
