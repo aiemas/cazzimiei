@@ -524,6 +524,30 @@ def crea_tv(data):
         time.sleep(0.1)
 
     # --------------------------------------------------------
+    # Porta tutte le nuove serie in cima
+    # mantenendo il loro ordine originale
+    # --------------------------------------------------------
+
+    nuovi_ids = {
+        elemento.get("tmdb_id")
+        for elemento in nuove_serie
+    }
+
+    nuove_aggiunte = [
+        elemento
+        for elemento in serie
+        if elemento.get("tmdb_id") in nuovi_ids
+    ]
+
+    vecchie_serie = [
+        elemento
+        for elemento in serie
+        if elemento.get("tmdb_id") not in nuovi_ids
+    ]
+
+    serie = nuove_aggiunte + vecchie_serie
+
+    # --------------------------------------------------------
     # Salva tv.json aggiornato
     # --------------------------------------------------------
 
