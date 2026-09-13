@@ -274,6 +274,30 @@ def crea_vod(data):
 
         time.sleep(0.1)
 
+        # --------------------------------------------------------
+    # Porta tutti i nuovi film in cima
+    # mantenendo il loro ordine originale
+    # --------------------------------------------------------
+
+    nuovi_ids = {
+        elemento.get("tmdb_id")
+        for elemento in nuovi_film
+    }
+
+    nuovi_aggiunti = [
+        elemento
+        for elemento in film
+        if elemento.get("tmdb_id") in nuovi_ids
+    ]
+
+    vecchi_film = [
+        elemento
+        for elemento in film
+        if elemento.get("tmdb_id") not in nuovi_ids
+    ]
+
+    film = nuovi_aggiunti + vecchi_film
+
     # --------------------------------------------------------
     # Salva vod.json aggiornato
     # --------------------------------------------------------
