@@ -235,6 +235,7 @@ def crea_vod(data):
             film.append({
                 "tmdb_id": tmdb_id,
                 "imdb_id": imdb_id,
+                "recent_until": int(time.time() * 1000) + (48 * 60 * 60 * 1000),
                 "title": dati.get("title"),
                 "original_title": dati.get("original_title"),
                 "year": (
@@ -481,6 +482,7 @@ def crea_tv(data):
             serie.append({
                 "tmdb_id": tmdb_id,
                 "imdb_id": imdb_id,
+                "recent_until": int(time.time() * 1000) + (48 * 60 * 60 * 1000),
                 "type": "tv",
                 "title": dati.get("name"),
                 "original_title": dati.get("original_name"),
