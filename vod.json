@@ -1,5 +1,97 @@
 [
   {
+    "tmdb_id": 833335,
+    "imdb_id": "tt14081460",
+    "title": "Futura",
+    "original_title": "Futura",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/1dk5fzCG0NUWJEoNHY0rQ44T5WB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fvjezFqeYJvHp3PMcGRXpR0Opw5.jpg",
+    "rating": 7.357,
+    "overview": "Futura è un’inchiesta collettiva svolta da Pietro Marcello, Francesco Munzi e Alice Rohrwacher che ha lo scopo di esplorare l’idea di futuro di ragazze e ragazzi tra i 15 e i 20 anni incontrati nel corso di un lungo viaggio attraverso l’Italia. Un ritratto del Paese osservato attraverso gli occhi di adolescenti che raccontano i luoghi in cui abitano, i propri sogni e le proprie aspettative tra desideri e paure.",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 14522,
+    "imdb_id": "tt0109279",
+    "title": "Black Beauty",
+    "original_title": "Black Beauty",
+    "year": "1994",
+    "poster": "https://image.tmdb.org/t/p/w500/5uH60FBDPQoyAnc4uvU0fIB8JXv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o9AEP2Z8Ez1DlbYIrxJl2URj4L8.jpg",
+    "rating": 6.724,
+    "overview": "Il film è una sorta di autobiografia del cavallo Black Beauty, come il romanzo da cui è tratto; Alan Cumming fornisce la voce narrante di \"Black Beauty\", seguito dalla nascita fino alla maturità come cavallo da lavoro, passando per vari padroni, alcuni crudeli, alcuni gentili.",
+    "genres": [
+      "Famiglia",
+      "Avventura",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 421456,
+    "imdb_id": "tt7169514",
+    "title": "Dilili a Parigi",
+    "original_title": "Dilili à Paris",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/7WnxjsDVDRuSuT0CyZs3BogaKCe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zhEWuu6H6Gzv5weG7znoL6J8GtZ.jpg",
+    "rating": 6.624,
+    "overview": "Con l'aiuto del suo ragazzo di consegna, Dilili, un giovane Kanak, indaga su una serie di misteriosi rapimenti di ragazze che affliggono Belle Epoque Paris. Nel corso della sua indagine incontra una serie di personaggi straordinari, ognuno dei quali le fornisce indizi che la aiuteranno nella sua ricerca.",
+    "genres": [
+      "Animazione",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 544814,
+    "imdb_id": "tt6479534",
+    "title": "Miss Baek",
+    "original_title": "미쓰백",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/tc7yFafglAE6VoxYvnefGm8ExcA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eR7tL0uH2sgeq6he9vTnvdWtnTE.jpg",
+    "rating": 7.4,
+    "overview": "Una donna vittima di abusi un giorno incontra una bambina vittima di violenza domestica, e decide di proteggerla dal mondo e donarle una vita migliore.",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 675568,
+    "imdb_id": "tt8883660",
+    "title": "You Die - scarica l'app, poi muori",
+    "original_title": "You Die - scarica l'app, poi muori",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/cvG8wGq7AjoifP44JItQbRYzAP8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3TOvTpGotc4wI5p4lC25tgDhBHH.jpg",
+    "rating": 5.4,
+    "overview": "Asia è una studentessa che trova sul suo cellulare una misteriosa app in realtà aumentata. Ben presto la ragazza si accorgerà di essere in possesso di una app maledetta, che uccide entro 24 ore il proprietario del dispositivo sulla quale è stata installata, a meno che questi non la scarichi a sua volta a un'altra persona.",
+    "genres": [
+      "Horror",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 554175,
+    "imdb_id": "tt9077188",
+    "title": "Derren Brown: Sacrifice",
+    "original_title": "Derren Brown: Sacrifice",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/rMaVBzNauRw8BXqqBnSf90YyH8j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dUbfgTJQYXPOiWM3KzWnwGS0lw9.jpg",
+    "rating": 7.19,
+    "overview": "",
+    "genres": [
+      "Documentario",
+      "Mistero"
+    ]
+  },
+  {
     "tmdb_id": 108553,
     "imdb_id": "tt0100611",
     "title": "Scappatella con il morto",
