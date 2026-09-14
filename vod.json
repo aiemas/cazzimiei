@@ -1,5 +1,133 @@
 [
   {
+    "tmdb_id": 73065,
+    "imdb_id": "tt0080058",
+    "recent_until": 1789548356123,
+    "title": "L'umanoide",
+    "original_title": "L'umanoide",
+    "year": "1979",
+    "poster": "https://image.tmdb.org/t/p/w500/x5W9QMs2fv11y5at7IjGqeYm40S.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eMDc7DYW2J331gU9xis2EPDer6W.jpg",
+    "rating": 3.7,
+    "overview": "",
+    "genres": [
+      "Fantasy",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 49365,
+    "imdb_id": "tt0095484",
+    "recent_until": 1789548356339,
+    "title": "Scarlatti - Il thriller",
+    "original_title": "Lady in White",
+    "year": "1988",
+    "poster": "https://image.tmdb.org/t/p/w500/kcrrQA3fgZdjbTW1nZ1F4Sp7SMj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tMNCR3JQ7AsjmQ9ovUU0Ohg3RPB.jpg",
+    "rating": 6.094,
+    "overview": "Halloween, 1962. Frankie Scarlatti viene chiuso per scherzo dai compagni nello spogliatoio della scuola. Costretto a passare tutta la notte in attesa dei soccorsi ha delle visioni. Gli appare Melissa una bambina assassinata, in circostanze misteriose, alcuni anni prima.",
+    "genres": [
+      "Mistero",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 265189,
+    "imdb_id": "tt2121382",
+    "recent_until": 1789548356547,
+    "title": "Forza maggiore",
+    "original_title": "Turist",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/7UHMndiKxO2gHUZ6nSKWYIcCiqh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oZp8CLwvRXgBAYGhn8P0pKOD4Ho.jpg",
+    "rating": 6.832,
+    "overview": "Una famiglia svedese si reca sulle Alpi francesi per godersi un paio di giorni di vacanza e di sci. Il sole splende e le piste sono spettacolari, ma durante un pranzo in un ristorante di montagna, una slavina travolge ogni cosa. I commensali fuggono in tutte le direzioni, anche Tomas, il capofamiglia, preso dal panico, fugge e abbandona la moglie ed entrambi i figli...",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1024621,
+    "imdb_id": "tt21825858",
+    "recent_until": 1789548356760,
+    "title": "Chihiro",
+    "original_title": "ちひろさん",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/aF0CmJl2rP7MvKxgNzKdKOk03rJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xOlEdqLMwf1OakIC1sokact3Piq.jpg",
+    "rating": 7.149,
+    "overview": "",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 233470,
+    "imdb_id": "tt1673734",
+    "recent_until": 1789548356968,
+    "title": "Jamesy Boy",
+    "original_title": "Jamesy Boy",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/fJCMNxUnYfOmej5FhXSOeMX2jSD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1htkRUQozHR1n5pD1yDhUXGV3xA.jpg",
+    "rating": 6.392,
+    "overview": "",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 68053,
+    "imdb_id": "tt0070641",
+    "recent_until": 1789548357188,
+    "title": "Sbatti il mostro in prima pagina",
+    "original_title": "Sbatti il mostro in prima pagina",
+    "year": "1972",
+    "poster": "https://image.tmdb.org/t/p/w500/6md5Qi325LRVx17KAhHj8PAZ39b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3OsXhM3WJJKTk77a2RttvP042jp.jpg",
+    "rating": 7.66,
+    "overview": "Durante alcuni dei giorni più drammatici della storia italiana, successivi all'attentato in Piazza Fontana a Milano, il redattore-capo di un importante quotidiano nazionale manipola e strumentalizza a fini politici la cronaca di un reato a sfondo sessuale.",
+    "genres": [
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 129564,
+    "imdb_id": "tt0070568",
+    "recent_until": 1789548357396,
+    "title": "La proprietà non è più un furto",
+    "original_title": "La proprietà non è più un furto",
+    "year": "1973",
+    "poster": "https://image.tmdb.org/t/p/w500/wUw9Jfx8AkdGMGD3Zg07yFfLZnC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/q0tNmJxAqf46VswkJw2XQW91OkT.jpg",
+    "rating": 7.3,
+    "overview": "Un giovane impiegato di banca, letteralmente allergico alla carta moneta, diventa il peggiore incubo del miglior cliente della banca, un ricco macellaio che gestisce i suoi affari senza scrupoli.",
+    "genres": [
+      "Commedia",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1288445,
+    "imdb_id": "tt32338669",
+    "recent_until": 1789548357602,
+    "title": "Mutiny - Inverti la rotta",
+    "original_title": "Mutiny",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+    "rating": 6.416,
+    "overview": "Jason Statham, nei panni dell’ex soldato Cole Reed, si arruola clandestinamente a bordo di una nave mercantile per rintracciare l’assassino del suo facoltoso datore di lavoro. In una spietata caccia all’uomo Reed scopre che dietro l’omicidio si nasconde molto di più di un semplice regolamento di conti. Per arrivare alla verità, dovrà affrontare una complessa cospirazione internazionale e una vecchia minaccia che riaffiora dal suo passato.",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 26973,
     "imdb_id": "tt0078111",
     "recent_until": 1789459870355,
