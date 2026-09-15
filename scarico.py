@@ -251,6 +251,7 @@ def crea_vod(data):
                 "tmdb_id": tmdb_id,
                 "imdb_id": imdb_id,
                 "recent_until": int(time.time() * 1000) + (48 * 60 * 60 * 1000),
+                "pegi": pegi,
                 "title": dati.get("title"),
                 "original_title": dati.get("original_title"),
                 "year": (
