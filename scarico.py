@@ -181,7 +181,7 @@ def crea_vod(data):
     # --------------------------------------------------------
 
     if not nuovi_film:
-    print("Nessun nuovo film.")
+        print("Nessun nuovo film.")
 
     # --------------------------------------------------------
     # Aggiorna PEGI dei film già presenti
