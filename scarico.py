@@ -212,11 +212,12 @@ def crea_vod(data):
                 f"{TMDB_API_URL}/{tmdb_id}",
                 params={
                     "api_key": api_key,
-                    "language": "it-IT"
+                    "language": "it-IT",
+                    "append_to_response": "release_dates"
                 },
                 timeout=30,
                 headers={
-                    "User-Agent": "Mozilla/5.0"
+                   "User-Agent": "Mozilla/5.0"
                 }
             )
 
@@ -231,6 +232,20 @@ def crea_vod(data):
             response.raise_for_status()
 
             dati = response.json()
+
+            # Certificazione italiana
+            pegi = ""
+
+            release_dates = dati.get("release_dates", {}).get("results", [])
+
+            for paese in release_dates:
+                if paese.get("iso_3166_1") == "IT":
+                    for release in paese.get("release_dates", []):
+                        certificazione = release.get("certification")
+                        if certificazione:
+                            pegi = certificazione
+                            break
+                    break
 
             film.append({
                 "tmdb_id": tmdb_id,
