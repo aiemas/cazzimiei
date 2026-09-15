@@ -1,5 +1,136 @@
 [
   {
+    "tmdb_id": 1244244,
+    "imdb_id": "tt32828123",
+    "recent_until": 1789630184715,
+    "title": "Cloud",
+    "original_title": "Cloud クラウド",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/9ITiBErvNL9ZPvyXNZd8pQQaVl8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sAnpF9jooAGWA8pwuMK4aX2uLvA.jpg",
+    "rating": 6.728,
+    "overview": "Ryusuke Yoshii accumula una piccola fortuna rivendendo in rete, a prezzo maggiorato, merci di varia natura, da borselli a macchinari medici, spesso contraffatte. Per farlo utilizza lo pseudonimo di Ratel, che tra i forum di acquirenti comincia a circolare con una sinistra nomea di truffatore. Il suo mentore, Muraoka, gli propone di investire su una piattaforma di aste online e abbandonare il reselling, ma Yoshii si rifiuta, per dedicarsi totalmente alla profittevole attività di Ratel. Dopo che Yoshii si licenzia dal lavoro regolare in fabbrica e si trasferisce fuori Tokyo per avere più spazio, cominciano a moltiplicarsi episodi minacciosi ai suoi danni, sino ad assumere i contorni di una vera e propria caccia all'uomo.",
+    "genres": [
+      "Azione",
+      "Dramma",
+      "Crime",
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 1577457,
+    "imdb_id": "tt38892001",
+    "recent_until": 1789630184861,
+    "title": "Franco Battiato: Il lungo viaggio",
+    "original_title": "Franco Battiato: Il lungo viaggio",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/3090IzGzstklsl19mCqzl5q2W5G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/18fSntMRMhS1JMuK2VnJBkUgN5q.jpg",
+    "rating": 7.167,
+    "overview": "Il percorso del giovane Franco Battiato, dalla Sicilia al suo arrivo a Milano, esplorando gli incontri e i momenti cruciali del cammino verso il successo, fino al ritorno nell'amata Sicilia. Il racconto di un viaggio interiore in cui la natura dell'artista, già incline alla spiritualità, si trasforma in una ricerca più consapevole.",
+    "genres": [
+      "Dramma",
+      "televisione film"
+    ]
+  },
+  {
+    "tmdb_id": 927594,
+    "imdb_id": "tt18235306",
+    "recent_until": 1789630185009,
+    "title": "Love Life",
+    "original_title": "LOVE LIFE",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/rPJhr355gQm6jrgTmDBLhbRifK3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8FgFpyqpm5XZ8JpYXv6iHyQ7lKa.jpg",
+    "rating": 7.2,
+    "overview": "Taeko vive felicemente con il giovane sposo Jiro e il piccolo Keita, nato da una relazione precedente. Tutto ciò che desidera è l'approvazione di suo suocero, che stenta ad arrivare. Un incidente domestico riscrive però improvvisamente la vita di Taeko e di chi le sta vicino e determina il ritorno del padre biologico di Keita, Park, di cui la donna non aveva notizie da anni.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 176707,
+    "imdb_id": "tt0450836",
+    "recent_until": 1789630185171,
+    "title": "Una rosa de Francia",
+    "original_title": "Una rosa de Francia",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/eUKekLMuG8Ylz1EBFH3LGjRuTzb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vVuPPOt5OKAPlsJ5aFQ8Tr3r7Ps.jpg",
+    "rating": 4.8,
+    "overview": "",
+    "genres": [
+      "Dramma",
+      "Crime",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 159474,
+    "imdb_id": "tt0056657",
+    "recent_until": 1789630185322,
+    "title": "La viaccia",
+    "original_title": "La viaccia",
+    "year": "1961",
+    "poster": "https://image.tmdb.org/t/p/w500/x0kjfRJHgeKexlg4xrwB0uiwudw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7L9qGEtj2L04LmOwiuoND0oWyUW.jpg",
+    "rating": 6.298,
+    "overview": "Fine Ottocento: il giovane campagnolo Amerigo s'innamora di Bianca, incontrata in un bordello di Firenze, e per frequentarla deruba lo zio. Ferito di coltello, cerca di rivederla.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 42220,
+    "imdb_id": "tt0076185",
+    "recent_until": 1789630185475,
+    "title": "In nome del Papa re",
+    "original_title": "In nome del Papa re",
+    "year": "1977",
+    "poster": "https://image.tmdb.org/t/p/w500/U67gLOBL54TxvkSWKC6wgolnef.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kIWQ0gFkgREAgNvs49J71Y8CW4X.jpg",
+    "rating": 6.658,
+    "overview": "Il potere temporale dei papi sta per terminare: fra tre anni, a Roma, entreranno i bersaglieri da Porta Pia. Un gruppo di giovani complotta contro il papa. Donna Flaminia, madre di Cesare, uno dei rivoluzionari, pur di salvare il figlio, rivela a monsignor Colombo, giudice del tribunale, che il ragazzo è suo figlio. Il prelato riesce a far liberare il figlio naturale e a nasconderlo. Ma il giovane morirà ugualmente, ucciso da un uomo che lo crede l'amante della moglie. Monsignor Colombo finirà in galera.",
+    "genres": [
+      "Storia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 489925,
+    "imdb_id": "tt7014006",
+    "recent_until": 1789630185633,
+    "title": "Eighth Grade - Terza Media",
+    "original_title": "Eighth Grade",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/jzOy1VxHChi21E6JZsLZRwnDkTS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nDfZN2q1IPGaLiwAgr9sU209MU5.jpg",
+    "rating": 7.143,
+    "overview": "La tredicenne Kayla affronta i problemi legati alla sua vita da adolescente di periferia durante l'ultima settimana dell'ultimo disastroso anno delle scuole medie.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1101383,
+    "imdb_id": "tt27165187",
+    "recent_until": 1789630185782,
+    "title": "La fine di Oak Street",
+    "original_title": "The End of Oak Street",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+    "rating": 6.349,
+    "overview": "Quando un misterioso evento cosmico strappa Oak Street dalla periferia e trasporta l’intero quartiere in un luogo sconosciuto, la famiglia Platt si rende presto conto che la propria sopravvivenza dipende dalla capacità di restare uniti cercando di orientarsi in un ambiente ormai irriconoscibile.",
+    "genres": [
+      "Fantascienza",
+      "Mistero",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 73065,
     "imdb_id": "tt0080058",
     "recent_until": 1789548356123,
