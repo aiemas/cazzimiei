@@ -271,7 +271,6 @@ def crea_vod(data):
 
     print()
     print("PEGI film aggiornati.")
-    return
 
     # --------------------------------------------------------
     # Scarica da TMDB solamente i nuovi film
@@ -510,11 +509,98 @@ def crea_tv(data):
     # --------------------------------------------------------
 
     if not nuove_serie:
-
         print("Nessuna nuova serie.")
-        print("tv.json rimane invariato.")
 
-        return
+        # --------------------------------------------------------
+    # Aggiorna PEGI delle serie già presenti
+    # --------------------------------------------------------
+
+    serie_da_aggiornare = [
+        elemento
+        for elemento in serie
+        if "pegi" not in elemento
+    ]
+
+    print(
+        f"Serie senza PEGI da aggiornare: "
+        f"{len(serie_da_aggiornare)}"
+    )
+
+    for indice, elemento in enumerate(
+        serie_da_aggiornare,
+        start=1
+    ):
+
+        tmdb_id = elemento.get("tmdb_id")
+
+        if not tmdb_id:
+            continue
+
+        print(
+            f"[PEGI TV {indice}/{len(serie_da_aggiornare)}] "
+            f"TMDB ID: {tmdb_id}"
+        )
+
+        try:
+
+            response = requests.get(
+                f"{TMDB_TV_API_URL}/{tmdb_id}/content_ratings",
+                params={
+                    "api_key": api_key
+                },
+                timeout=30,
+                headers={
+                    "User-Agent": "Mozilla/5.0"
+                }
+            )
+
+            response.raise_for_status()
+
+            dati_rating = response.json()
+
+            pegi = ""
+
+            for paese in dati_rating.get("results", []):
+
+                if paese.get("iso_3166_1") == "IT":
+
+                    rating = paese.get("rating")
+
+                    if rating:
+                        pegi = rating
+
+                    break
+
+            elemento["pegi"] = pegi
+
+            print(
+                f"    PEGI: {pegi or 'non disponibile'}"
+            )
+
+        except Exception as errore:
+
+            print(
+                f"    ERRORE PEGI TV {tmdb_id}: {errore}"
+            )
+
+        time.sleep(0.1)
+
+    # --------------------------------------------------------
+    # Salva tv.json dopo l'aggiornamento PEGI
+    # --------------------------------------------------------
+
+    percorso_tv.write_text(
+        json.dumps(
+            serie,
+            ensure_ascii=False,
+            indent=2
+        ),
+        encoding="utf-8"
+    )
+
+    print()
+    print("PEGI serie TV aggiornati.")
+    print()
 
     # --------------------------------------------------------
     # Scarica da TMDB solamente le nuove serie
@@ -541,12 +627,15 @@ def crea_tv(data):
                 f"{TMDB_TV_API_URL}/{tmdb_id}",
                 params={
                     "api_key": api_key,
-                    "language": "it-IT"
+                    "language": "it-IT",
+                    "append_to_response": "content_ratings"
                 },
                 timeout=30,
                 headers={
                     "User-Agent": "Mozilla/5.0"
                 }
+
+
             )
 
             if response.status_code == 404:
@@ -560,6 +649,19 @@ def crea_tv(data):
             response.raise_for_status()
 
             dati = response.json()
+
+            pegi = ""
+
+            for paese in dati.get("content_ratings", {}).get("results", []):
+
+                if paese.get("iso_3166_1") == "IT":
+
+                    rating = paese.get("rating")
+
+                    if rating:
+                        pegi = rating
+
+                    break
 
             stagioni = []
 
@@ -606,6 +708,7 @@ def crea_tv(data):
                     else None
                 ),
                 "rating": dati.get("vote_average"),
+                "pegi": pegi,
                 "overview": dati.get("overview"),
                 "genres": [
                     genere.get("name")
