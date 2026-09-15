@@ -181,11 +181,97 @@ def crea_vod(data):
     # --------------------------------------------------------
 
     if not nuovi_film:
+    print("Nessun nuovo film.")
 
-        print("Nessun nuovo film.")
-        print("vod.json rimane invariato.")
+    # --------------------------------------------------------
+    # Aggiorna PEGI dei film già presenti
+    # --------------------------------------------------------
 
-        return
+    film_da_aggiornare = [
+        elemento
+        for elemento in film
+        if "pegi" not in elemento
+    ]
+
+    print(
+        f"Film senza PEGI da aggiornare: "
+        f"{len(film_da_aggiornare)}"
+    )
+
+    for indice, elemento in enumerate(
+        film_da_aggiornare,
+        start=1
+    ):
+        tmdb_id = elemento.get("tmdb_id")
+
+        if not tmdb_id:
+            continue
+
+        print(
+            f"[PEGI FILM {indice}/{len(film_da_aggiornare)}] "
+            f"TMDB ID: {tmdb_id}"
+        )
+
+        try:
+            response = requests.get(
+                f"{TMDB_API_URL}/{tmdb_id}/release_dates",
+                params={
+                    "api_key": api_key
+                },
+                timeout=30,
+                headers={
+                    "User-Agent": "Mozilla/5.0"
+                }
+            )
+
+            response.raise_for_status()
+
+            dati_release = response.json()
+
+            pegi = ""
+
+            for paese in dati_release.get("results", []):
+                if paese.get("iso_3166_1") == "IT":
+                    for release in paese.get(
+                        "release_dates",
+                        []
+                    ):
+                        certificazione = release.get(
+                            "certification"
+                        )
+
+                        if certificazione:
+                            pegi = certificazione
+                            break
+
+                    break
+
+            elemento["pegi"] = pegi
+
+            print(
+                f"    PEGI: {pegi or 'non disponibile'}"
+            )
+
+        except Exception as errore:
+            print(
+                f"    ERRORE PEGI FILM {tmdb_id}: "
+                f"{errore}"
+            )
+
+        time.sleep(0.1)
+
+    percorso_vod.write_text(
+        json.dumps(
+            film,
+            ensure_ascii=False,
+            indent=2
+        ),
+        encoding="utf-8"
+    )
+
+    print()
+    print("PEGI film aggiornati.")
+    return
 
     # --------------------------------------------------------
     # Scarica da TMDB solamente i nuovi film
