@@ -1,5 +1,101 @@
 [
   {
+    "tmdb_id": 332657,
+    "imdb_id": "tt32132697",
+    "recent_until": 1789730669996,
+    "type": "tv",
+    "title": "Route 187",
+    "original_title": "Route 187",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/yfP9A3IaKE00U1ap1y7wAoZRzeC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/Agx8RmlBBDJrlH9MyUOd5JYYZPS.jpg",
+    "rating": 10.0,
+    "pegi": "",
+    "overview": "",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 4
+      }
+    ]
+  },
+  {
+    "tmdb_id": 239385,
+    "imdb_id": "tt36188448",
+    "recent_until": 1789730670147,
+    "type": "tv",
+    "title": "The Manipulated",
+    "original_title": "조각도시",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/pwin3qnVXs9tD3nU5hkl70wO1dx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
+    "rating": 8.384,
+    "pegi": "",
+    "overview": "La vita ordinaria di Taejoong va a pezzi quando viene incastrato e imprigionato per un orrendo crimine. Avendo scoperto che il tutto è stato orchestrato da Yohan, intraprende una rocambolesca missione per vendicarsi. Preparatevi alll'azione!",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 12
+      }
+    ]
+  },
+  {
+    "tmdb_id": 332401,
+    "imdb_id": "tt32642114",
+    "recent_until": 1789730670285,
+    "type": "tv",
+    "title": "City of Blood",
+    "original_title": "City of Blood",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/uDrW8sRRkh8P7N0l19BNrCrG6CW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nAEIr2b9M9ya8SXOTA1bDDMjhCA.jpg",
+    "rating": 10.0,
+    "pegi": "",
+    "overview": "",
+    "genres": [
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 273207,
+    "imdb_id": "tt33539520",
+    "recent_until": 1789730670431,
+    "type": "tv",
+    "title": "Neagley",
+    "original_title": "Neagley",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/20ivBYm3H9MbGtRISGdhjydll9L.jpg",
+    "rating": 6.2,
+    "pegi": "",
+    "overview": "Dal mondo di REACHER, inizia un nuovo capitolo. Frances Neagley è un'investigatrice privata a Chicago ed ex collega militare di Jack Reacher nella 110ª Unità Investigativa Speciale dell'esercito. Quando scopre che un suo caro amico del suo passato è stato ucciso in un incidente sospetto, decide ostinatamente di ottenere giustizia.",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
     "tmdb_id": 327414,
     "imdb_id": "tt12924420",
     "recent_until": 1789711188313,
