@@ -1,5 +1,285 @@
 [
   {
+    "tmdb_id": 42425,
+    "imdb_id": "tt0115446",
+    "recent_until": 1789711182761,
+    "pegi": "T",
+    "title": "A spasso nel tempo",
+    "original_title": "A spasso nel tempo",
+    "year": "1996",
+    "poster": "https://image.tmdb.org/t/p/w500/iMKjxF3LfJnWXqZN76PDZPDKiN7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/s3eOnLXmUNqP5CsVjZu4yUGMab3.jpg",
+    "rating": 5.195,
+    "overview": "23 settembre 1996. A Hollywood in visita turistica il milanese Walter Boso e il romano principe Ascanio Orsini Varaldo di Villa Ermosa non fanno altro che battibeccare. Quando però si trovano entrambi sulla macchina del tempo inventata da un certo professor Mortimer si vedono costretti a condividere, a causa di un cattivo funzionamento della stessa, una serie di avventure nel passato. Si comincia con la Preistoria per passare poi al Rinascimento, alla Venezia del Settecento, alla Roma del 1944 e alla Capri degli Anni Sessanta. Ad aspettarli c'è ancora il futuro. E non solo…",
+    "genres": [
+      "Avventura",
+      "Commedia",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 33613,
+    "imdb_id": "tt1343097",
+    "recent_until": 1789711182978,
+    "pegi": "VM14",
+    "title": "La regina dei castelli di carta",
+    "original_title": "Luftslottet som sprängdes",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/s1fYuOLG0Z5OiwyPoZd9qIzcS0t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qhohCrCs4sv1M4H9NIRlhgl0lcE.jpg",
+    "rating": 7.1,
+    "overview": "Sopravvissuta al confronto col padre e alla furia dell'esagerato fratellastro, Lisbeth Salander viene ricoverata in ospedale con una pallottola in testa. A un passo dalla morte e a due camere dalla stanza di Alexander Zalachenko, la ragazza che odia gli uomini e su tutti il genitore disertore è una minaccia per la Sezione, ramo deviato e criminale della SÄPO (i servizi segreti svedesi). Sfinita dagli abusi e dai soprusi, Lisbeth è decisa a rivelare al mondo le mostruosità commesse dal padre e dallo spregevole dottor Teleborian, disposto di nuovo a redigere a suo danno una falsa perizia psichiatrica. Per salvaguardare Zalachenko, preziosa fonte di informazioni, e il loro circolo corrotto operativo dagli anni Settanta i \"servizi\" organizzeranno una violenta rappresaglia. A difesa della verità e della vita di Lisbeth ancora una volta interverrà Mikael Blomkvist. La sua inchiesta denuncerà i colpevoli, riportando al centro dell'attenzione e del suo cuore la problematica Lisbeth.",
+    "genres": [
+      "Azione",
+      "Thriller",
+      "Crime",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 34655,
+    "imdb_id": "tt0792992",
+    "recent_until": 1789711183196,
+    "pegi": "",
+    "title": "Lucky Luke e la più grande fuga dei Dalton",
+    "original_title": "Tous à l'ouest : Une aventure de Lucky Luke",
+    "year": "2007",
+    "poster": "https://image.tmdb.org/t/p/w500/oWFQ0CzJUn6An7SVa9hqaXuwn2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gI00Sa5jUNRY4GCgwJ4qcGkHYPI.jpg",
+    "rating": 6.2,
+    "overview": "New York, 1880. I fratelli dalton sono stati trasferiti a New York per essere processati. Mamma Dalton gli ha però fatto avere una pistola che hanno usato per evadere. I fratelli dalton sono così tornati alle loro vecchie abitudini: svaligiare le banche di tutta New York. Lucky Luke, che gli aveva condotti a New York, si mette subito sulle loro tracce ...",
+    "genres": [
+      "Avventura",
+      "Animazione",
+      "Commedia",
+      "Western"
+    ]
+  },
+  {
+    "tmdb_id": 10368,
+    "imdb_id": "tt0120857",
+    "recent_until": 1789711183420,
+    "pegi": "",
+    "title": "Un tè con Mussolini",
+    "original_title": "Tea with Mussolini",
+    "year": "1999",
+    "poster": "https://image.tmdb.org/t/p/w500/6J0DrlAaJtxLZlUjlgycJIEIIDp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/w5AkUNcQP5FtEhEBeU3yioZOczN.jpg",
+    "rating": 6.438,
+    "overview": "Firenze. Anni Trenta. Il bambino Luca (Zeffirelli nella sua infanzia) è figlio illegittimo di un ricco mercante di tessuti e di una sarta. Resta orfano di madre e viene allevato da un gruppo di raffinate signore della comunità inglese che ammirano Mussolini fino a quando verranno confinate a San Gimignano. Grandi interpreti femminili per un difficile affresco storico.",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 26014,
+    "imdb_id": "tt0243931",
+    "recent_until": 1789711183647,
+    "pegi": "",
+    "title": "Posta del cuore",
+    "original_title": "Good Advice",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/w500/5RDn658gFZiz9iVD3QonTufuZh4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7Q6Zy7LJKqrHXFfmCNHm9qOj3aP.jpg",
+    "rating": 5.893,
+    "overview": "",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 27728,
+    "imdb_id": "tt0388365",
+    "recent_until": 1789711183883,
+    "pegi": "",
+    "title": "Cappuccetto Rosso",
+    "original_title": "Red Riding Hood",
+    "year": "2003",
+    "poster": "https://image.tmdb.org/t/p/w500/sR3UJXfz5k2SFs1Fz7nmJCi2B7p.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o78P7BIor7MNMC5s8VrvJksja8j.jpg",
+    "rating": 4.842,
+    "overview": "Jenny McKenzie ha avuto un'infanzia molto difficile. È ancora troppo piccola quando suo padre, membro della Suprema Corte degli Stati Uniti, viene ucciso. L'uomo perseguiva un solo obbiettivo: ripristinare la giustizia e la moralità, valori sempre più trascurati dalla società moderna. La madre, viceversa, è troppo occupata a frequentare amanti più giovani, ma è proprio la scielta di inseguire un nuovo fidanzato a trasformare la vita noiosa e frustrante di Jenny. Trascinata a Roma dalla madre, la ragazza si trova in completa libertà con una carta di credito e un bellissimo appartamento nel centro della città. Finalmente Jenny può curare i propri interessi: migliorare la propria istruzione e portare avanti la missione del padre, applicare la giustizia... costi qul che costi!",
+    "genres": [
+      "Horror",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1329660,
+    "imdb_id": "tt39373034",
+    "recent_until": 1789711184109,
+    "pegi": "",
+    "title": "Willie Peyote - Elegia Sabauda",
+    "original_title": "Willie Peyote - Elegia Sabauda",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/dOr9QRJ5UNkEELfkqPbAbB9Dxx0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tzMaOAYT89fI5cga6nVA12NcekF.jpg",
+    "rating": 0.0,
+    "overview": "Willie Peyote si definisce “nichilista, torinese e disoccupato perchè dire cantautore fa subito festa dell'unità e dire rapper fa subito bimbominkia”. Un ritratto caleidoscopico dell’artista attraverso la sua quotidianità. Fatta di musica, di amicizie, incontri, pensieri e prese di posizioni scomode. Nella sua Torino che vive con un amore reciproco. Un film intimo, non celebrativo, che rappresenta un modo autentico e coerente di stare nello showbusiness. Una speranza che è già gioia per i giovani fan.",
+    "genres": [
+      "Documentario",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 56978,
+    "imdb_id": "tt0060538",
+    "recent_until": 1789711184325,
+    "pegi": "",
+    "title": "Incompreso - Vita col figlio",
+    "original_title": "Incompreso (Vita col figlio)",
+    "year": "1967",
+    "poster": "https://image.tmdb.org/t/p/w500/fUu8cy7TVLOoQanGruAj9IvHrU1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1miU2XTKzZSbd18qOnCSKXH3CJD.jpg",
+    "rating": 7.5,
+    "overview": "Un console britannico in servizio a Roma rimane vedovo e deve prendersi cura dei suoi due bambini. Andrea, il maggiore, soffre terribilmente per le scarse attenzioni che il padre gli dedica il quale sembra dedicarsi unicamente al piccolo Milo.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 11144,
+    "imdb_id": "tt0077864",
+    "recent_until": 1789711184565,
+    "pegi": "T",
+    "title": "Lo chiamavano Bulldozer",
+    "original_title": "Lo chiamavano Bulldozer",
+    "year": "1978",
+    "poster": "https://image.tmdb.org/t/p/w500/68OVqIvg1yMW4gliOgpWZ8ReN11.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/a7m4NkcKcN6ancZdIs3jBCvNIBU.jpg",
+    "rating": 6.876,
+    "overview": "Un ex giocatore professionista di football americano, soprannominato Bulldozer, ritiratosi dopo aver scoperto imbrogli nel mondo dello sport, è costretto a fermarsi nel porto di Livorno per un danno al motore della sua barca. Qui, i militari della vicina base USA di Camp Darby fanno i prepotenti con i ragazzotti del paese, i quali stanno organizzando una squadra di football.Scoperta l'identità di Bulldozer i ragazzi lo convincono ad allenarli, anche perché il pezzo di ricambio per il motore della barca è di proprietà del comando USA ed il comandante, capitano della squadra di football, vuole vendicarsi di Bulldozer che anni addietro gli ha fatto perdere tutti i risparmi che aveva scommesso su una partita, proprio quella che Bulldozer non giocò a causa del suo ritiro.Nonostante le difficoltà, nella partita finale i ragazzi riescono a segnare l'unico punto che gli avrebbe dato la vittoria, non senza l'aiuto determinante di Bulldozer.",
+    "genres": [
+      "Azione",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 25167,
+    "imdb_id": "tt0056891",
+    "recent_until": 1789711184797,
+    "pegi": "",
+    "title": "Ciao ciao Birdie",
+    "original_title": "Bye Bye Birdie",
+    "year": "1963",
+    "poster": "https://image.tmdb.org/t/p/w500/3ICMqM4egKaIaxKFsd7y2xExTof.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8Tt1KVGDMc7l6CgWSENruPdt6Pl.jpg",
+    "rating": 5.924,
+    "overview": "Quando la rock star e idolo delle adolescenti Conrad Birdie, viene arruolato, le adolescenti di tutta la nazione impazziscono e il manager di Conrad, Albert rischia di perdere il lavoro. Ed è così che Albert e la sua fidanzata decidono di organizzare un concorso a livello nazionale nel quale una fortunata ragazza vince il bacio di addio da parte di Conrad al The Ed Sullivan Show. Kim McAfee è la fortunata ragazza e l'intera squadra di Conrad si trasferisce a casa sua, con grande dispiacere del suo irritabile padre e del suo geloso fidanzato. Il risultato è il caos più totale ed una serie di divertenti complicazioni sentimentali.",
+    "genres": [
+      "Commedia",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 571123,
+    "imdb_id": "tt9435952",
+    "recent_until": 1789711185015,
+    "pegi": "",
+    "title": "Natalie Wood: What Remains Behind",
+    "original_title": "Natalie Wood: What Remains Behind",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/w500/wLpsJrV0lgXMICPjlpQVHngP7Pg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7cVJ1tLLnQhy9Vd3EG7DGGDFofk.jpg",
+    "rating": 6.515,
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 10911,
+    "imdb_id": "tt0054953",
+    "recent_until": 1789711185236,
+    "pegi": "",
+    "title": "I cannoni di Navarone",
+    "original_title": "The Guns of Navarone",
+    "year": "1961",
+    "poster": "https://image.tmdb.org/t/p/w500/2wW9LS5vhjYfAA5w8iUVLmFI8nB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hgFyxEtHCMDJQc2TdXSl3FGIs2.jpg",
+    "rating": 7.295,
+    "overview": "Durante la seconda Guerra Mondiale, la piccola isola di Keros, nelle acque della Grecia, è presidiata da duemila soldati inglesi. I tedeschi decidono di attaccarla. Gli alleati vogliono inviare navi di rinforzo ma è un compito arduo, perchè la flotta deve passare davanti all'isola di Navarone, controllata da due micidiali cannoni nazisti.",
+    "genres": [
+      "Avventura",
+      "Dramma",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 6552,
+    "imdb_id": "tt0138510",
+    "recent_until": 1789711185586,
+    "pegi": "",
+    "title": "Giovani diavoli",
+    "original_title": "Idle Hands",
+    "year": "1999",
+    "poster": "https://image.tmdb.org/t/p/w500/ecarDic1DTvdeygcgm0jdP3HrCk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vSX4JjjifAUnF4PD5J9czE4Fz0C.jpg",
+    "rating": 6.2,
+    "overview": "La mattina del 31 ottobre Anton si sveglia, fa un po di zapping, rovista nel frigorifero e scopre che i suoi genitori sono stati ridotti a due pupazzi senza testa. Rubato qualche spicciolo esce di casa per andare a trovare i suoi degni compagni, Mick e Pnub. Una volta riunitosi a loro, Anton, che rifugge dai telegiornali viene comunque a sapere degli omicidi che hanno sconvolto la cittadina di Bolan. Quando i tre amici provano a mettere insieme gli indizi, ad Anton viene il dubbio di essere lui il responsabile degli efferati crimini. In realtà è la sua mano destra, animata da una volontà indipendente, a commettere gli omicidi.",
+    "genres": [
+      "Commedia",
+      "Horror",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 12107,
+    "imdb_id": "tt0144528",
+    "recent_until": 1789711185808,
+    "pegi": "T",
+    "title": "La famiglia del professore matto",
+    "original_title": "Nutty Professor II: The Klumps",
+    "year": "2000",
+    "poster": "https://image.tmdb.org/t/p/w500/lMR7z5IUjC7oCVwdTvzpQae2zU4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i3oT0v1KVDZEq8oOZdAAqy78Vub.jpg",
+    "rating": 5.019,
+    "overview": "Il professor Klump, obeso insegnante di genetica alla Wellman University, ha trovato conforto ai suoi problemi di peso nell'amore di Denise Gaines, la sensibile collega che, conquistata dalla sua gentilezza d'animo, intende sposarlo. Alla vigilia del matrimonio, quando tutto sembra procedere per il meglio, riappare, improvvisamente, Buddy Love - l'alter ego che lo stesso Klump aveva malauguratamente creato in un precedente esperimento - che, deciso più che mai ad imporre la propria personalità e a vivere una vita propria, pensa di arricchirsi sfruttando commercialmente un elisir della giovinezza appena inventato da Denise. Klump tenta disperatamente di eliminare il suo doppio manipolando il proprio DNA, ma il farmaco al quale avventatamente ricorre appanna progressivamente la sua intelligenza esponendolo allo scherno della sua famiglia e di quella di Denise.",
+    "genres": [
+      "Commedia",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1819,
+    "imdb_id": "tt0463034",
+    "recent_until": 1789711186032,
+    "pegi": "",
+    "title": "Tu, io e Dupree",
+    "original_title": "You, Me and Dupree",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/neQl40sDAU6rV9SDE87EqErgWkE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/muMAXHW2RknY5kA9VCmFhVHLkYh.jpg",
+    "rating": 5.6,
+    "overview": "Per la neo coppia di sposini, Carl e Molly, la vita si prospetta meravigliosa ed idilliaca, una bella casa, due belle carriere avviate, ma quando il migliore amico di Carl, nonché testimone delle loro nozze, si ritrova senza lavoro, i due non gli negano ospitalità. Come si può ben capire però la pace e la pazienza nello strano terzetto non durerà a lungo...",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 16558,
+    "imdb_id": "tt1135487",
+    "recent_until": 1789711186249,
+    "pegi": "",
+    "title": "Duplicity",
+    "original_title": "Duplicity",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/qc5IjIEuhEvfo1lvCw6xByl1rmy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nmElbl3SyII4gJ8uo1jYYHFjmlK.jpg",
+    "rating": 5.895,
+    "overview": "Claire Stenwick è un'avvenente agente della CIA con licenza di sedurre, Ray Koval è un agente dei servizi segreti britannici sedotto (drogato e gabbato) dal fascino della concorrenza. A New York, cinque anni dopo, Claire e Ray si ritrovano loro malgrado occupati per la stessa multinazionale, che vorrebbe entrare in possesso della formula di un prodotto rivoluzionario in anticipo sull'azienda rivale. Innamorati con riserva, diffidenti per mestiere, i due amanti depongono le armi, praticano l'amore, bevono champagne, bruciano di passione e pianificano di imbrogliare i magnati delle industrie concorrenti. Tra Dubai e Miami, tra Cleveland e Roma, tra salti temporali e sentimenti senza fine, Claire e Ray getteranno la maschera e berranno alla salute di una sfida inaugurata con un Margarita e finita \"in bollicine\".",
+    "genres": [
+      "Romance",
+      "Commedia",
+      "Crime"
+    ]
+  },
+  {
     "tmdb_id": 1705729,
     "imdb_id": "tt34584846",
     "recent_until": 1789636445236,

@@ -1,5 +1,102 @@
 [
   {
+    "tmdb_id": 327414,
+    "imdb_id": "tt12924420",
+    "recent_until": 1789711188313,
+    "type": "tv",
+    "title": "Monkey Wrench",
+    "original_title": "Monkey Wrench",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/bZZnN2Mf9hcpCZStK0xbZ7zabYU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1PN5sX1ihIuBnmG6YSsaU9oGl5S.jpg",
+    "rating": 8.0,
+    "pegi": "",
+    "overview": "Una sgangherata squadra di cacciatori di taglie insegue pericolosi criminali in tutta la galassia. Non sono gli eroi che vorremmo, ma sono gli unici che abbiamo.",
+    "genres": [
+      "Animazione",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 4
+      },
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 39483,
+    "imdb_id": "tt1936532",
+    "recent_until": 1789711188664,
+    "type": "tv",
+    "title": "Major Crimes",
+    "original_title": "Major Crimes",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/fZ502JXujnxVtprmigTO2jA205P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8AkvTlCLmGipNEGL9wYVfWMiPLd.jpg",
+    "rating": 7.369,
+    "pegi": "",
+    "overview": "Sharon Raydor , capitano della Major Crimes, una divisione del Dipartimento di Polizia di Los Angeles, ha il compito di guidare i suoi uomini lungo la linea del dovere e della giustizia. Un'impresa diventata difficile da quando la detective Brenda Leigh Johnson ha lasciato il distretto, rendendo più evidente la poca stima e fiducia che la squadra nutre nei confronti di Raydor, per quelle accuse che la donna mosse in passato contro la divisione e il precedente capitano. A soffrire è soprattutto Provenza, che non intende prendere ordini da una donna che non lo conosce.La serie mostra come i sistemi legale e giudiziario americani lavorino fianco a fianco per ottenere giustizia dopo che la polizia ha finalmente messo in manette i criminali.",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 19
+      },
+      {
+        "season": 3,
+        "episodes": 19
+      },
+      {
+        "season": 4,
+        "episodes": 23
+      },
+      {
+        "season": 5,
+        "episodes": 21
+      },
+      {
+        "season": 6,
+        "episodes": 13
+      }
+    ]
+  },
+  {
+    "tmdb_id": 83462,
+    "imdb_id": "tt6775816",
+    "recent_until": 1789711188890,
+    "type": "tv",
+    "title": "Terrorism Close Calls",
+    "original_title": "Terrorism Close Calls",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/bLYSR6qHtt2kLxpgqRQ2hYUuVel.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7UfNHbZo917Nm8GlzQaEh4KgOzU.jpg",
+    "rating": 6.9,
+    "pegi": "",
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
     "tmdb_id": 314939,
     "imdb_id": "tt43736405",
     "type": "tv",
