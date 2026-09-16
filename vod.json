@@ -1,5 +1,130 @@
 [
   {
+    "tmdb_id": 13006,
+    "imdb_id": "tt0105459",
+    "recent_until": 1789720050076,
+    "pegi": "",
+    "title": "Detective Stone",
+    "original_title": "Split Second",
+    "year": "1992",
+    "poster": "https://image.tmdb.org/t/p/w500/gvI6pqRQyQQvULbC6QF7Ohd5bdz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oCjnXawymfIn4sBog5a9nEQGxfX.jpg",
+    "rating": 5.956,
+    "overview": "Londra 2008: Un poliziotto, radiato dal servizio per i suoi metodi di lavoro, si mette alla caccia di un pericoloso criminale che mangia il cuore delle proprie vittime...",
+    "genres": [
+      "Fantascienza",
+      "Azione",
+      "Crime",
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 8831,
+    "imdb_id": "tt0111438",
+    "recent_until": 1789720050228,
+    "pegi": "T",
+    "title": "Timecop - Indagine dal futuro",
+    "original_title": "Timecop",
+    "year": "1994",
+    "poster": "https://image.tmdb.org/t/p/w500/gKDImt2uon6s91zy2ipcjH5Mb51.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iNfDwioDBzqodomLbMfV8ZXj0yL.jpg",
+    "rating": 6.04,
+    "overview": "Nel 2004 viaggiare nel tempo è possibile. L'organizzazione governativa che controlla i viaggi ha il preciso scopo di mandare i suoi agenti indietro nel tempo alla ricerca di criminali che, impadronitosi della tecnologia, viaggiano per modificare gli eventi a loro piacimento. Max Walker, inviato in missione nel 1994, viene a scontrarsi con i loschi affari del Senatore McComb, mettendo in pericolo sé stesso e la moglie, assassinata infatti proprio dieci anni prima in circostanze non chiare. Venuto a conoscenza del fatto che anche l'omicidio dell'amata era un evento provocato da un'incursione dal futuro, Max si impegna per modificare gli eventi.",
+    "genres": [
+      "Thriller",
+      "Fantascienza",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 23535,
+    "imdb_id": "tt0099277",
+    "recent_until": 1789720050381,
+    "pegi": "",
+    "title": "Classe 1999",
+    "original_title": "Class of 1999",
+    "year": "1990",
+    "poster": "https://image.tmdb.org/t/p/w500/j4AaCqkAGLlRbJqhjYPEFisgnWV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aSNagpdVCD9UFI1PWrH8jOLnRN1.jpg",
+    "rating": 6.0,
+    "overview": "In un futuro (non troppo lontano) i ragazzi del Liceo Kennedy di Seattle sono abituati ad andare a scuola armati e con intenzioni non proprio amichevoli. Per frenare le crescenti violenze gli insegnanti, ormai esausti, vengono sostituiti da dei cyborg progettati dal dr. Forrest per conto della Mega-Tech.",
+    "genres": [
+      "Fantascienza",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 2899,
+    "imdb_id": "tt0250223",
+    "recent_until": 1789720050586,
+    "pegi": "",
+    "title": "Asterix & Obelix - Missione Cleopatra",
+    "original_title": "Astérix & Obélix : Mission Cléopâtre",
+    "year": "2002",
+    "poster": "https://image.tmdb.org/t/p/w500/vQXW2POKkxf2meQJW8SxcxBSn4d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2kpPVHLvkHfsc9uurzmEB1PoC6R.jpg",
+    "rating": 7.367,
+    "overview": "Antico Egitto: la bellissima Cleopatra dovrà far costruire in suo onore e in soli tre mesi il più sontuoso palazzo mai visto. Affiderà l'opera all' architetto Numérobis che si troverà costretto, per non diventare cibo per coccodrilli, a chiedere l'aiuto di Asterix ed Obelix.",
+    "genres": [
+      "Famiglia",
+      "Fantasy",
+      "Commedia",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 5125,
+    "imdb_id": "tt0804522",
+    "recent_until": 1789720050743,
+    "pegi": "T",
+    "title": "Rendition - Detenzione illegale",
+    "original_title": "Rendition",
+    "year": "2007",
+    "poster": "https://image.tmdb.org/t/p/w500/wxFxMdLHFiQXm8egBfgncUL2XCl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hVgbeqLYbbrT23pryiR0Oz009CM.jpg",
+    "rating": 6.421,
+    "overview": "Anwar El-Ibrahimi, ingegnere chimico di origine egiziana, scompare misteriosamente durante un volo diretto dal Sudafrica a Washington D.C, dove risiede ormai da tempo. Mentre sua moglie Isabella, cittadina americana, lo cerca disperatamente, l’analista della CIA Douglas Freeman, si ritrova coinvolto in uno spietato interrogatorio ai danni dell’uomo, sequestrato dagli agenti federali e trasferito in una prigione segreta oltreoceano. L’accusa è di presunta complicità con pericolosi terroristi, ma qualcosa non quadra e l’ostaggio potrebbe essere innocente. Come riuscire a liberarlo?",
+    "genres": [
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 8054,
+    "imdb_id": "tt1054606",
+    "recent_until": 1789720050901,
+    "pegi": "",
+    "title": "Parnassus - L'uomo che voleva ingannare il diavolo",
+    "original_title": "The Imaginarium of Doctor Parnassus",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/tY3jugwp5jqYCZRJ0icvRlzX74S.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vBw4z7l3NI32th7nR34zqRgdvXS.jpg",
+    "rating": 6.386,
+    "overview": "Il Dottor Parnassus gira per le strade con il suo carrozzone dalle qualità particolari. In compagnia di un giovane, una fanciulla (sua figlia Valentina) e un nano mette in scena ovunque uno spettacolo che ha al suo centro uno specchio. Chi lo oltrepassa si trova in un mondo in cui puo' realizzare i suoi desideri piu' fantasiosi. Parnassus e' immortale ma ha conquistato questa dote grazie a una scommessa vinta con il Diavolo che ha assunto le sembianze del perfido Mr. Nick. Sono trascorsi i secoli e, nel momento in cui ha trovato il vero amore, il Dottore ha stipulato un nuovo patto con Mr. Nick il quale vuole che Valentina sia sua al compimento del sedicesimo anno di età. La data è ormai prossima.",
+    "genres": [
+      "Avventura",
+      "Fantasy",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 76489,
+    "imdb_id": "tt0383010",
+    "recent_until": 1789720051057,
+    "pegi": "",
+    "title": "I tre marmittoni",
+    "original_title": "The Three Stooges",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/tUrznQGbXjy4UOat9Nvp0iBhb5M.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pCPXnddyDtsHAZVzVumuRpDN1vO.jpg",
+    "rating": 5.827,
+    "overview": "I fratelli Farrelly alle prese con un'attualizzazione delle avventure del trio comico (Larry, Moe e Curly) noto in Italia come \"I tre marmittoni\", protagonisti della comicità americana per oltre quarant'anni. Racconta la storia dei tre marmittoni a partire da quando sono ancora in fasce e vengono abbandonati in un orfanotrofio.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
     "tmdb_id": 42425,
     "imdb_id": "tt0115446",
     "recent_until": 1789711182761,
