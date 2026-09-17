@@ -1,5 +1,173 @@
 [
   {
+    "tmdb_id": 139567,
+    "imdb_id": "tt1925431",
+    "recent_until": 1789822906421,
+    "pegi": "",
+    "title": "Fire with Fire",
+    "original_title": "Fire with Fire",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/uKc8D3Nyk0l2uu5Qygyu8KB8iTU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6ZNqWfUXdxiNVqwgO2doLlkmgQc.jpg",
+    "rating": 5.668,
+    "overview": "Jeremy Coleman è un vigile del fuoco, senza famiglia ma con due grandi amici da sempre al fianco. Ha finito il turno insieme a loro quando si ferma in un piccolo spaccio e assiste all'ingresso di Neil Hagan, boss di una gang che inneggia alla supremazia ariana, il quale uccide a sangue freddo il gestore del negozio e suo figlio, un ragazzino. Jeremy riesce a scappare ma la sua sicurezza è compromessa, ragion per cui viene inserito in un programma di protezione dei testimoni. Trasferito da Long Beach a New Orleans, in attesa del processo a Hagan, s'innamora dell'agente federale Talia, ma viene raggiunto dagli uomini del boss. Per proteggere la sua donna, Jeremy rinuncia all'ennesimo trasferimento e si mette sulle tracce di Hagan, per eliminarlo definitivamente.",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 39979,
+    "imdb_id": "tt0074586",
+    "recent_until": 1789822906639,
+    "pegi": "",
+    "title": "Il grande racket",
+    "original_title": "Il grande racket",
+    "year": "1976",
+    "poster": "https://image.tmdb.org/t/p/w500/9E9N7FS6Z8go5xec1MuBkkvMHG3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zZ33CrryvkEqTKJDpbBCRkAyltx.jpg",
+    "rating": 6.907,
+    "overview": "A Roma, il racket colpisce spietato chi non paga il pizzo. I bravacci della mala hanno avuto mano libera: violenza e morte per chi sgarra. Di fronte all'impotenza della Legge, il maresciallo Nico Palmieri organizza una squadra di vigilantes violenti quanto i cattivi.",
+    "genres": [
+      "Crime",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 1767077,
+    "imdb_id": null,
+    "recent_until": 1789822906865,
+    "pegi": "14+",
+    "title": "Maurizio Merluzzo: ...E se facessi uno spettacolo!?",
+    "original_title": "Maurizio Merluzzo: ...E se facessi uno spettacolo!?",
+    "year": null,
+    "poster": "https://image.tmdb.org/t/p/w500/MB6oEgacMCJU6ZRa4ed1LA5EaF.jpg",
+    "backdrop": null,
+    "rating": 6.5,
+    "overview": "Cosa succede quando metti insieme un doppiatore, un influencer, un wrestler e... una drag queen? Maurizio Merluzzo porta a teatro il suo \"esperimento sociale\" definitivo, tra aneddoti imbarazzanti da commesso e incontri ravvicinati con divinità distratte. Tre cazzate e si va a casa? Forse, ma prima c'è un'intera vita di passioni da frullare insieme!",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 137182,
+    "imdb_id": "tt2024519",
+    "recent_until": 1789822907091,
+    "pegi": "",
+    "title": "Alabama Monroe - Una storia d'amore",
+    "original_title": "The Broken Circle Breakdown",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/9kozq6PSE0jqIIO5xPcvpydzV4n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gjoZgt6jErl2p3VXIzBvvZY7Taw.jpg",
+    "rating": 7.673,
+    "overview": "Elise e Didier vivono una travolgente e appassionata storia d’amore, al ritmo dalla musica bluegrass. Elise gestisce uno studio di tatuaggi, sua grande passione. Per lei “c’è sempre qualcosa nella vita che vale la pena mettere sul proprio corpo”: ogni tatuaggio accompagna il suo cuore e le sue emozioni ed Elise lo sfoggia con orgoglio sul suo corpo delicato. Didier è invece da sempre innamorato dell’America, che identifica come la terra delle infinite opportunità. Per lui è un Paese per sognatori ma, soprattutto, la patria della sua amatissima musica bluegrass, “il country nella versione più pura”, che Didier interpreta suonando il banjo in un gruppo musicale. Ed è proprio questa comune passione per la musica ad esaltare l’unione di Elise e Didier: insieme si esibiscono in irresistibili performance dove ogni interpretazione trasuda amore, complicità e passione. A coronare questo cerchio perfetto di felicità è l’arrivo di Maybelle, la loro bellissima bambina.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 38535,
+    "imdb_id": "tt0128933",
+    "recent_until": 1789822907394,
+    "pegi": "T",
+    "title": "Anni 90",
+    "original_title": "Anni 90",
+    "year": "1992",
+    "poster": "https://image.tmdb.org/t/p/w500/dperiEKRxNMAeAo5UfX7SZ1Mofw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fXgN69cYMza4Fg1JRBPRSDtB1XX.jpg",
+    "rating": 5.5,
+    "overview": "Tutti gli episodi fotografano causticamente un modo di pensare, una consuetudine, un'usanza del popolo italiano nei primi anni novanta:  L'avventura di una notte di sesso rovinata dalle eccessive obiezioni sanitarie della ragazza; una telefonata conclusa con un tamponamento; un bambino le prende dal padre e anche dall'ispettore dell'associazione per la protezione dell'infanzia; un anniversario di matrimonio guastato; una curiosa terapia sessuologica di gruppo; una fine di carnevale ingloriosa; la psicosi collettiva della paura.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 193372,
+    "imdb_id": "tt0041627",
+    "recent_until": 1789822907609,
+    "pegi": "",
+    "title": "The Man in Black",
+    "original_title": "The Man in Black",
+    "year": "1950",
+    "poster": "https://image.tmdb.org/t/p/w500/w5hT5HjDICWavEBc4z7pJeBJXKp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iPFFm4hExoZ3vJkJe6S84XCqags.jpg",
+    "rating": 5.958,
+    "overview": "",
+    "genres": [
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 273194,
+    "imdb_id": "tt0106597",
+    "recent_until": 1789822907873,
+    "pegi": "",
+    "title": "Condannato a nozze",
+    "original_title": "Condannato a nozze",
+    "year": "1993",
+    "poster": "https://image.tmdb.org/t/p/w500/b6Ioyk3lpFwG6HexvD0JF5qTaqH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5bdJ4XZHspoDIqb25r8j2869B1x.jpg",
+    "rating": 4.5,
+    "overview": "Un brillante avvocato (Sergio Rubini) prossimo al matrimonio con Sandra (Margherita Buy) ha una doppia vita: non sa resistere alla voglia di avventura con altre donne, ma una in particolare, Olivia, (una giovanissima Asia Argento) lo colpirà più delle altre. Le sue storie parallele e pericolosamente emozionanti, rischieranno di essere scoperte e di far saltare il suo matrimonio con la futura moglie.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 8922,
+    "imdb_id": "tt0263488",
+    "recent_until": 1789822908214,
+    "pegi": "",
+    "title": "Jeepers Creepers - Il canto del diavolo",
+    "original_title": "Jeepers Creepers",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/w500/efvf4uJbQICuJkBViPhmv1oMIDB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/m0yTFeh8vrsMP0fQDdYGSh4xthX.jpg",
+    "rating": 6.489,
+    "overview": "Patricia e suo fratello Darry stanno tornando a casa dal college, ma il viaggio è solo apparentemente tranquillo. Lungo il percorso infatti incontrano The Creeper, un mostro demoniaco che torna sulla terra ogni 23esima primavera,e per 23 giorni deve nutrirsi di esseri umani al fine di rigenerarsi e che ha adocchiato loro come prossimo pasto.",
+    "genres": [
+      "Horror",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 121824,
+    "imdb_id": "tt1389096",
+    "recent_until": 1789822908442,
+    "pegi": "T",
+    "title": "Uomini di parola",
+    "original_title": "Stand Up Guys",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/8zJWxFsdVKbKm6K6Y5yLO7icSXJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1izLoqNuHTECe25rMcgAcYnMjsr.jpg",
+    "rating": 6.031,
+    "overview": "Ventotto anni prima Val, rispettabile mafioso, ha rifiutato di fare la spia e tradire i suoi amici. Dopo aver finito di scontare la pena detentiva, esce dal carcere e si ricongiunge con l’ex socio e miglior amico Doc. In cerca di divertimento, emozioni e qualche guaio, i due decidono di mettersi sulle tracce di Hirsch, l’altro ex compagno del gruppo. Ad insaputa di Val, però, c’è una taglia sulla sua testa e la prima notte di libertà potrebbe essere anche l’ultima della sua vita quando Doc è chiamato a fare una scelta tra i legami di amicizia e la salvezza per se stesso.",
+    "genres": [
+      "Thriller",
+      "Commedia",
+      "Azione",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 355008,
+    "imdb_id": "tt4181052",
+    "recent_until": 1789822908658,
+    "pegi": "",
+    "title": "Special Correspondents",
+    "original_title": "Special Correspondents",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/sQPkqwW4qh5fKbSI8V12wc8ZMlJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qVW2ofY6GaD41mS1bNHqXUik9rS.jpg",
+    "rating": 5.78,
+    "overview": "Per incrementare gli indici di ascolto del suo programma radiofonico, un giornalista escogita un piano con il suo tecnico del suono: i due decidono di inscenare il loro sequestro durante una rivolta in un paese sudamericano. Per mettere in atto ciò, si nascondono a New York. Le cose però prendono una piega molto differente da quella che avevano prospettato.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
     "tmdb_id": 50820,
     "imdb_id": "tt0197924",
     "recent_until": 1789806767524,
