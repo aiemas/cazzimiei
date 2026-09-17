@@ -1,5 +1,75 @@
 [
   {
+    "tmdb_id": 298008,
+    "imdb_id": "tt37884325",
+    "recent_until": 1789806771965,
+    "type": "tv",
+    "title": "ダウンタイム",
+    "original_title": "ダウンタイム",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/zUp3F7qtpJIUMsf31DDLNx1xOdS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "overview": "",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 299939,
+    "imdb_id": "tt13207736",
+    "recent_until": 1789806772120,
+    "type": "tv",
+    "title": "Monster: La storia di Lizzie Borden",
+    "original_title": "Monster: The Lizzie Borden Story",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/unEtLaqVmShnmzKMDTZz569cgQm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3JVjgaqfX5MhxxHKpGWz05QV7Dz.jpg",
+    "rating": 7.0,
+    "pegi": "",
+    "overview": "",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 252105,
+    "imdb_id": "tt32149571",
+    "recent_until": 1789806772277,
+    "type": "tv",
+    "title": "Golden Axe",
+    "original_title": "Golden Axe",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
+    "rating": 10.0,
+    "pegi": "",
+    "overview": "Il classico gioco arcade Sega prende vita in una nuova serie animata originale. Ax Battler, Gilius Thunderhead e Tyris Flare tornano per un'avventura epica tra magia, mostri e battaglie leggendarie.",
+    "genres": [
+      "Animazione",
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
     "tmdb_id": 332657,
     "imdb_id": "tt32132697",
     "recent_until": 1789730669996,
