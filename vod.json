@@ -1,5 +1,274 @@
 [
   {
+    "tmdb_id": 1224440,
+    "imdb_id": "tt38778566",
+    "recent_until": 1789891356500,
+    "pegi": "6+",
+    "title": "Smart Working",
+    "original_title": "Smart Working",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/qim9z1ZZWoGh5iDGicKgmrnfiXg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oJPOVGHKzC0lBFjIE7Z4uvKuARl.jpg",
+    "rating": 7.667,
+    "overview": "Da quando l’azienda per cui lavora ha adottato lo smart working, Giuliano ha scoperto il paradiso: meno lavoro ma più redditività, più famiglia e tempo per le sue passioni. Sua moglie Laura, aspirante scrittrice, è incinta del secondo figlio e i due sono in cerca di una casa più grande. Intanto però l’azienda minaccia di riportare tutti in ufficio perché i suoi colleghi, invece, lavorano ma rendono pochissimo! Deciso a motivare e spronare i colleghi per non perdere il lavoro da casa, Giuliano riallaccia così i rapporti con alcuni di questi tra cui lo sbadato Stefano, romano fuori sede, e Gianni, un office manager ultrasettantenne in pensione da anni. Uno dopo l’altro, tutti i colleghi si trasferiscono in smart working a casa di Giuliano, tanto da coinvolgerlo, insieme a Laura e al piccolo Luca, in una serie di assurde disavventure, progetti strampalati e disastri continui. Giuliano dovrà capire se riuscirà a salvare lavoro, famiglia… e sanità mentale.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1450527,
+    "imdb_id": "tt30691214",
+    "recent_until": 1789891356717,
+    "pegi": "",
+    "title": "Frutti proibiti",
+    "original_title": "Forbidden Fruits",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jAOpZDgy4eMY6o6oGdUiXk4SqvE.jpg",
+    "rating": 5.842,
+    "overview": "Dopo la chiusura pomeridiana del Free Eden, Apple governa con Cherry e Fig una setta di streghe con rituali, veti e confessioni. L'arrivo di Pumpkin incrina l'equilibrio: la sorellanza è controllo mascherato da cura? Quando la complicità tra donne diventa abuso? Quanto costa appartenere? E fin dove si spinge la leadership per conservare il trono?",
+    "genres": [
+      "Horror",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1359375,
+    "imdb_id": "tt35350087",
+    "recent_until": 1789891356936,
+    "pegi": "",
+    "title": "Nottefonda",
+    "original_title": "Nottefonda",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/8Vp0zCZwp26MoVBWb4cgWvbsBkM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6wjOfLYeYzG89tgkaFvXq6fIK4Y.jpg",
+    "rating": 7.5,
+    "overview": "Ciro è un uomo allo sbando dopo la perdita della moglie. Vuole trovare chi l’ha investita e uccisa sulla strada di notte. Ogni notte. In questa ricerca ha perduto sé stesso, il senso del tempo e la possibilità di far vivere una vita normale al figlio Luigi, tredicenne, un ragazzino costretto a crescere in fretta per trattenere il padre dalla discesa negli inferi.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 57389,
+    "imdb_id": "tt1646975",
+    "recent_until": 1789891357154,
+    "pegi": "T",
+    "title": "Le quattro volte",
+    "original_title": "Le quattro volte",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/hCgtAYG53uRdvET4O482paUGMuK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rCUI25z0DwcMVBMfZ5MOmMWazkG.jpg",
+    "rating": 7.471,
+    "overview": "Sulle montagne della Calabria un vecchio pastore guida il suo gregge sui trattori ormai in disuso. Ogni mattina il custode di una chiesa scambia un po' di latte con della polvere \"santa\" della chiesa, che il pastore beve ogni sera per curare i propri dolori. Un giorno il pastore non si presenta per il suo baratto: è morto nel suo letto e le sue capre vegliano il suo trapasso. Un nuovo pastore guiderà il gregge.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 752880,
+    "imdb_id": "tt13259900",
+    "recent_until": 1789891357377,
+    "pegi": "",
+    "title": "Tinsman Road",
+    "original_title": "Tinsman Road",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/x9Yt3fxEl5ITDK1BZCxhwpIsXSD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zmz7DYqNrDDLZUT83RVjxsY8rEj.jpg",
+    "rating": 7.5,
+    "overview": "",
+    "genres": [
+      "Dramma",
+      "Horror",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 29702,
+    "imdb_id": "tt0084777",
+    "recent_until": 1789891357595,
+    "pegi": "18+",
+    "title": "Tenebre",
+    "original_title": "Tenebre",
+    "year": "1982",
+    "poster": "https://image.tmdb.org/t/p/w500/AhY5T88mB9yS2WVf5SQTFi0JE12.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/toYJpo6mezPMzO91hWfH8TU6kPF.jpg",
+    "rating": 6.8,
+    "overview": "Peter Neal è un scrittore americano di gialli che sbancano in vendite. Giunto a Roma per la presentazione del suo ultimo libro “Tenebre”, Peter verrà coinvolto in una serie di brutali omicidi commessi da un serial killer che sembra imitare proprio la trama del suo libro. Insieme alla sua fidata assistente Anne, e all’amico ed agente Bullmer, lo scrittore inizierà una propria indagine sempre sotto i vigili occhi del detective Germani.",
+    "genres": [
+      "Horror",
+      "Mistero",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 32352,
+    "imdb_id": "tt0063751",
+    "recent_until": 1789891357814,
+    "pegi": "",
+    "title": "L'urlo",
+    "original_title": "L'urlo",
+    "year": "1970",
+    "poster": "https://image.tmdb.org/t/p/w500/zJl75mD8IliG06Me31Cwa4JgrJQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/elA5PD6ybAkDjW37bxhfgzbws32.jpg",
+    "rating": 4.786,
+    "overview": "Avventurose peregrinazioni di una ragazza che respinge il fidanzato borghese e il mondo che rappresenta, fuggendo, prima delle nozze, per un viaggio stravagante attraverso le istituzioni della società. Ovvero quando Brass faceva ancora della sana sperimentazione, sconvolgendo la struttura narrativa e del linguaggio cinematografico, con gusto acceso della provocazione, estro satirico, aggressività orgiastica. È un film del ’68 (dissequestrato nel ’74). La voce di T. Aumont è quella di Mariangela Melato.",
+    "genres": [
+      "Commedia",
+      "Fantasy",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 14510,
+    "imdb_id": "tt0091083",
+    "recent_until": 1789891358037,
+    "pegi": "",
+    "title": "From beyond - Terrore dall'ignoto",
+    "original_title": "From Beyond",
+    "year": "1986",
+    "poster": "https://image.tmdb.org/t/p/w500/y89yFptjFaC4wNt6kzXEokC7IaR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sKcdPHvsGCNdDOD7LJdOibZuvUQ.jpg",
+    "rating": 6.476,
+    "overview": "Uno scienziato piuttosto ambiguo e il suo assistente inventano una macchina che permette di guardare in un'altra dimensione.",
+    "genres": [
+      "Horror",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 75513,
+    "imdb_id": "tt0418825",
+    "recent_until": 1789891358252,
+    "pegi": "",
+    "title": "Il Latitante",
+    "original_title": "Il Latitante",
+    "year": "2003",
+    "poster": "https://image.tmdb.org/t/p/w500/ijyQ9feUXfUJmWM5F9pybrp3Jjb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sibKYm460XQSXdx0fqDfQbCIRwN.jpg",
+    "rating": 5.0,
+    "overview": "Nicola, per problemi economici, si trova suo malgrade coinvolto in un giro di mafiosi, capeggiati dal boss Cantalamessa. Durante una retata della polizia un agente rimane ucciso. Inseguito dalla polizia, Nicola si sposta tra Napoli, Roma, Caserta e Palermo e incotra Claudia, boss emergente della mafia...",
+    "genres": [
+      "Azione",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 109453,
+    "imdb_id": "tt2395339",
+    "recent_until": 1789891358471,
+    "pegi": "",
+    "title": "Mothers and Daughters",
+    "original_title": "Mothers and Daughters",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/hxxM8Lpn9eHbvRk7WRe19Hr3ElS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3t1ntXTE8G50j9uiKsgYhKjDY3D.jpg",
+    "rating": 5.3,
+    "overview": "Diverse storie sulla maternità ruotano intorno alla figura di Rigby Gray, una fotografa al culmine della sua carriera la cui vita è sconvolta da una gravidanza inattesa. Mentre fa i conti sull'essere una mamma, Rigby si impegna a ricucire il rapporto con la propria madre, interrotto da troppo tempo.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1495699,
+    "imdb_id": "tt31617935",
+    "recent_until": 1789891358710,
+    "pegi": "",
+    "title": "Il primo figlio",
+    "original_title": "Il primo figlio",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/vxQkbh5MEOEkFAGviLjSxW7feg1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qwpPp3vrkkD1DxBdSxbTwO2gTTg.jpg",
+    "rating": 0.0,
+    "overview": "Incinta del suo secondo figlio, Ada è sconvolta dall'apparizione del figlio defunto che minaccia il bambino non ancora nato. La storia di una madre accecata dall'amore e di un figlio che teme l'abbandono.",
+    "genres": [
+      "Horror",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 459954,
+    "imdb_id": "tt6798422",
+    "recent_until": 1789891358942,
+    "pegi": "",
+    "title": "Agnelli",
+    "original_title": "Agnelli",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/9oBEjzlb2QatT2xQBszik2LTGfN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9Iw9SaL4yPxSb8ZJNuGqah70dza.jpg",
+    "rating": 7.241,
+    "overview": "Lo stile, le passioni, la dinastia. Il pubblico e il privato. Tutto in un documentario che è il racconto di un'epoca. Domenica 21 gennaio alle ore 21.15, per il ciclo \"Il Racconto del Reale\", va in onda in esclusiva su Sky Atlantic HD “Agnelli”; il biopic prodotto da HBO in collaborazione con Consolidated Documentaries dedicato alla vita dell'Avvocato.",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1762506,
+    "imdb_id": "tt33510831",
+    "recent_until": 1789891359164,
+    "pegi": "",
+    "title": "Band of Brothers: Legacy",
+    "original_title": "Band of Brothers: Legacy",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mMLVXM8UOKSxVSxnXcmuBPMiHsC.jpg",
+    "rating": 8.778,
+    "overview": "",
+    "genres": [
+      "Documentario",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 14171,
+    "imdb_id": "tt0763840",
+    "recent_until": 1789891359508,
+    "pegi": "",
+    "title": "Home of the Brave - Eroi senza gloria",
+    "original_title": "Home of the Brave",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/dDgAoT5ZRltxtdgu6UULpd9ZQSz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6xZ0cRsPfAAmOG56wLJlPqsBif0.jpg",
+    "rating": 5.433,
+    "overview": "Tre soldati cercano di ritornare alla vita normale dopo una lunga e traumatica permanenza in Iraq.",
+    "genres": [
+      "Guerra",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 240916,
+    "imdb_id": "tt2304953",
+    "recent_until": 1789891359734,
+    "pegi": "T",
+    "title": "Un ragionevole dubbio",
+    "original_title": "Reasonable Doubt",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/jaWgpds0dalWC3g7yfy4esE9itV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xBAgzFMlbqvvhelo4lckeBdbCwI.jpg",
+    "rating": 5.8,
+    "overview": "Un affermato procuratore distrettuale investe accidentalmente un passante: Quando un altro uomo è arrestato per il crimine da lui commesso sarà costretto a scendere a pericolosi compromessi.",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1353263,
+    "imdb_id": "tt33338697",
+    "recent_until": 1789891360561,
+    "pegi": "",
+    "title": "The Bibi Files",
+    "original_title": "The Bibi Files",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/aZTt7g857dGU9YUIIMHd5yNSKnY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xUVwlnl1zXcL04z857q8o0kY14k.jpg",
+    "rating": 7.078,
+    "overview": "Utilizzando filmati di interrogatori mai visti prima, questa indagine su Benjamin Netanyahu e la sua cerchia ristretta fornisce uno sguardo risoluto sul mondo privato dietro i titoli dei giornali. La meschina vanità e il senso di diritto portano alla corruzione e alla riluttanza dei Netanyahu a rinunciare al potere. L’estrema destra intuisce un’opportunità nella debolezza di Bibi, e le tessere del domino cadono.",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
     "tmdb_id": 139567,
     "imdb_id": "tt1925431",
     "recent_until": 1789822906421,

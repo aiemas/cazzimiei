@@ -1,5 +1,28 @@
 [
   {
+    "tmdb_id": 332282,
+    "imdb_id": "tt39390479",
+    "recent_until": 1789891361912,
+    "type": "tv",
+    "title": "Physical Messico: da 100 a 1",
+    "original_title": "Habilidad física: 100-México",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/1XlmHy8pD2XQg0cttKA5xHt5sYh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg",
+    "rating": 7.0,
+    "pegi": "",
+    "overview": "Cento concorrenti provenienti dagli ambienti più disparati affrontano estenuanti sfide fisiche per decidere chi sarà il più grande guerriero del Messico.",
+    "genres": [
+      "Reality"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 9
+      }
+    ]
+  },
+  {
     "tmdb_id": 298008,
     "imdb_id": "tt37884325",
     "recent_until": 1789806771965,
