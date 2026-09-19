@@ -38,9 +38,20 @@ HEADERS = {
 # FUNZIONE COSTRUZIONE URL PLAYER
 # ============================================================
 
-def build_player_url(channel_id):
-    # Sostituito il vecchio link embed con quello della pagina di navigazione nativa
-    return "https://dlstreams.st/watch.php?id=" + channel_id
+def build_player_urls(channel_id):
+
+    watch_url = (
+        "https://dlive.sx/watch.php?id=" +
+        channel_id
+    )
+
+    fallback_url = (
+        "https://dlhd.pk/embed/stream-" +
+        channel_id +
+        ".php"
+    )
+
+    return watch_url, fallback_url
 
 # ============================================================
 # AGGIUNGE 2 ORE ALL'ORARIO DELL'EVENTO
@@ -254,23 +265,21 @@ for event_block in event_blocks:
 
             channel_id = match.group(1)
 
+    # ------------------------------------------------
+    # COSTRUISCE I 2 URL PLAYER
+    # ------------------------------------------------
 
-
-            # ------------------------------------------------
-            # COSTRUISCE URL PLAYER
-            # ------------------------------------------------
-
-            final_url = build_player_url(
+            watch_url, fallback_url = build_player_urls(
                 channel_id
             )
-
-
 
         else:
 
             channel_id = ""
 
-            final_url = ""
+            watch_url = ""
+
+            fallback_url = ""
 
 
 
@@ -278,7 +287,7 @@ for event_block in event_blocks:
         # AGGIUNGE CANALE
         # ----------------------------------------------------
 
-        if final_url:
+        if watch_url:
 
             channels.append({
 
@@ -286,7 +295,9 @@ for event_block in event_blocks:
 
                 "id": channel_id,
 
-                "watch_url": final_url
+                "watch_url": watch_url,
+
+                "fallback_url": fallback_url
 
             })
 
@@ -426,51 +437,33 @@ for card in channel_cards:
 
 
 
-    if match:
-
-        channel_id = match.group(1)
-
-
-
-        # ----------------------------------------------------
-        # URL PLAYER
-        # ----------------------------------------------------
-
-        final_url = build_player_url(
-            channel_id
-        )
-
-
-
-    else:
-
-        channel_id = ""
-
-        final_url = ""
+    
 
 
 
     # --------------------------------------------------------
-    # SALVA CANALE
-    # --------------------------------------------------------
+# SALVA CANALE
+# --------------------------------------------------------
 
-    if (
-        channel_name
-        and
-        channel_id
-        and
-        final_url
-    ):
+if (
+    channel_name
+    and
+    channel_id
+    and
+    watch_url
+):
 
-        channels_247.append({
+    channels_247.append({
 
-            "name": channel_name,
+        "name": channel_name,
 
-            "id": channel_id,
+        "id": channel_id,
 
-            "watch_url": final_url
+        "watch_url": watch_url,
 
-        })
+        "fallback_url": fallback_url
+
+    })
 
 # ============================================================
 # SCARICA CANALI VAVOO ITALIA
