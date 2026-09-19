@@ -389,6 +389,7 @@ print()
 
 
 # ============================================================
+# ============================================================
 # ELABORA I CANALI 24/7
 # ============================================================
 
@@ -414,7 +415,6 @@ for card in channel_cards:
         channel_name = ""
 
 
-
     # --------------------------------------------------------
     # HREF
     # --------------------------------------------------------
@@ -423,7 +423,6 @@ for card in channel_cards:
         "href",
         ""
     )
-
 
 
     # --------------------------------------------------------
@@ -436,34 +435,50 @@ for card in channel_cards:
     )
 
 
+    if match:
 
-    
+        channel_id = match.group(1)
 
+        # ------------------------------------------------
+        # COSTRUISCE I 2 URL PLAYER
+        # ------------------------------------------------
+
+        watch_url, fallback_url = build_player_urls(
+            channel_id
+        )
+
+    else:
+
+        channel_id = ""
+
+        watch_url = ""
+
+        fallback_url = ""
 
 
     # --------------------------------------------------------
-# SALVA CANALE
-# --------------------------------------------------------
+    # AGGIUNGE CANALE
+    # --------------------------------------------------------
 
-if (
-    channel_name
-    and
-    channel_id
-    and
-    watch_url
-):
+    if (
+        channel_name
+        and
+        channel_id
+        and
+        watch_url
+    ):
 
-    channels_247.append({
+        channels_247.append({
 
-        "name": channel_name,
+            "name": channel_name,
 
-        "id": channel_id,
+            "id": channel_id,
 
-        "watch_url": watch_url,
+            "watch_url": watch_url,
 
-        "fallback_url": fallback_url
+            "fallback_url": fallback_url
 
-    })
+        })
 
 # ============================================================
 # SCARICA CANALI VAVOO ITALIA
