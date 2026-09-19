@@ -1,5 +1,137 @@
 [
   {
+    "tmdb_id": 9921,
+    "imdb_id": "tt0857277",
+    "recent_until": 1789977417241,
+    "type": "tv",
+    "title": "Barnyard - Ritorno al cortile",
+    "original_title": "Back at the Barnyard",
+    "year": "2007",
+    "poster": "https://image.tmdb.org/t/p/w500/kPz0egBHxlhbJp8458w6yqysVrh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bZwU0IGdCXeaans9nrPwkHONZe5.jpg",
+    "rating": 6.849,
+    "pegi": "T",
+    "overview": "Serie televisiva tratta dal film Barnyard - Il cortile del 2006. La trama ruota attorno ad Otis, una mucca, e ai suoi amici del cortile dove vive. Otis deve superare molti ostacoli nella vita tra i quali anche il cercare di tenere nascosto che sappia parlare e comprendere gli esseri umani.",
+    "genres": [
+      "Animazione",
+      "Commedia",
+      "Kids"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 49
+      },
+      {
+        "season": 2,
+        "episodes": 48
+      },
+      {
+        "season": 3,
+        "episodes": 0
+      }
+    ]
+  },
+  {
+    "tmdb_id": 295089,
+    "imdb_id": "tt37578538",
+    "recent_until": 1789977417383,
+    "type": "tv",
+    "title": "Lalka",
+    "original_title": "Lalka",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/vIfM0x2zl4sjj6UYaQR5uUeZXIh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg",
+    "rating": 5.2,
+    "pegi": "",
+    "overview": "",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 59427,
+    "imdb_id": "tt2455546",
+    "recent_until": 1789977417566,
+    "type": "tv",
+    "title": "Avengers Assemble",
+    "original_title": "Marvel's Avengers",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/aVYPq7FSvsdNQOXVIFnndXJPCXn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hutyHRPoY0woAZCJtLmosJHuTjQ.jpg",
+    "rating": 7.54,
+    "pegi": "T",
+    "overview": "Dopo tanto tempo dallo scioglimento dei Vendicatori, gli Avengers (Iron Man, Captain America, Vedova Nera, Occhio di Falco, Falcon, Thor e Hulk) si riuniscono per affrontare pericolosi nemici: nella prima stagione Teschio Rosso, MODOK e la Cabala, nella seconda lo Squadrone Supremo, Thanos e Ultron e nella terza il ritorno di Ultron, il Barone Zemo e Kang il Conquistatore e nella quarta stagione la nuova Cabala, Ares e Taskmaster e nella quinta stagione Erik Killmonger e il Consiglio d'Ombra.",
+    "genres": [
+      "Action & Adventure",
+      "Animazione",
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 6
+      },
+      {
+        "season": 1,
+        "episodes": 26
+      },
+      {
+        "season": 2,
+        "episodes": 26
+      },
+      {
+        "season": 3,
+        "episodes": 26
+      },
+      {
+        "season": 4,
+        "episodes": 25
+      },
+      {
+        "season": 5,
+        "episodes": 23
+      }
+    ]
+  },
+  {
+    "tmdb_id": 255055,
+    "imdb_id": "tt26748321",
+    "recent_until": 1789977417710,
+    "type": "tv",
+    "title": "DOC - USA",
+    "original_title": "Doc",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
+    "rating": 7.3,
+    "pegi": "",
+    "overview": "Primario di Medicina interna al Westside Hospital di Minneapolis, la dottoressa Amy Larsen ha competenze professionali eccezionali ma è molto poco empatica coi pazienti: la perdita di un figlio qualche anno prima ha causato la fine del suo matrimonio e l'ha portata a concentrarsi solo sulla propria carriera, diventando una donna chiusa e scostante.",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 22
+      },
+      {
+        "season": 3,
+        "episodes": 3
+      }
+    ]
+  },
+  {
     "tmdb_id": 332282,
     "imdb_id": "tt39390479",
     "recent_until": 1789891361912,
