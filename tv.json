@@ -1,5 +1,78 @@
 [
   {
+    "tmdb_id": 335651,
+    "imdb_id": "tt45017187",
+    "recent_until": 1790065685684,
+    "type": "tv",
+    "title": "Saman: La verità nascosta",
+    "original_title": "Saman: La verità nascosta",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6D29DxNuXQszdafrjEvBJ2V4eRL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9Oku7k4ga0hwmtJL9s9LaK3plOo.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "overview": "",
+    "genres": [],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
+    "tmdb_id": 312663,
+    "imdb_id": "tt39495239",
+    "recent_until": 1790065685880,
+    "type": "tv",
+    "title": "黑白清道夫",
+    "original_title": "黑白清道夫",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/mZ0rPTMe9XfrWRUAeoJzr62cyIa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
+    "rating": 6.0,
+    "pegi": "",
+    "overview": "",
+    "genres": [
+      "Action & Adventure",
+      "Commedia",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "tmdb_id": 289980,
+    "imdb_id": "tt32024266",
+    "recent_until": 1790065686172,
+    "type": "tv",
+    "title": "Destination X - Scopri la meta",
+    "original_title": "Destination X",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/srKrtD3BWCYDar3IEZlXbQh5YEl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2mPpsMo3g49QKs1FhEmrhKqUp2f.jpg",
+    "rating": 7.458,
+    "pegi": "",
+    "overview": "Un gruppo di concorrenti intraprende un misterioso viaggio su strada. A bordo di un autobus al buio, devono affrontare delle sfide, fornendo indizi sulla posizione ma venendo depistati, trasformando il viaggio in un vero e proprio gioco per scoprire la loro destinazione. Tra prove immersive, location iconiche e colpi di scena, solo uno arriverà alla destinazione finale, aggiudicandosi il premio di 250.000 dollari.",
+    "genres": [
+      "Reality"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      }
+    ]
+  },
+  {
     "tmdb_id": 9921,
     "imdb_id": "tt0857277",
     "recent_until": 1789977417241,

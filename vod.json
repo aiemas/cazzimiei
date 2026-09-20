@@ -1,5 +1,279 @@
 [
   {
+    "tmdb_id": 1075,
+    "imdb_id": "tt0118843",
+    "recent_until": 1790065680861,
+    "pegi": "",
+    "title": "Gatto nero, gatto bianco",
+    "original_title": "Crna mačka, beli mačor",
+    "year": "1998",
+    "poster": "https://image.tmdb.org/t/p/w500/i8JAwAxSNl6cE8ZhEUnJLAhB5NI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vx5Mla7OfNzibnVat2HQuqGrUkc.jpg",
+    "rating": 7.64,
+    "overview": "La trama è grottesca e fitta di personaggi gitani caratteristici ed episodi espressivi di dinamismo e gaiezza. Un filo delle vicende è il desiderio di quattro giovani di fuggire il promesso matrimonio rincorrendo l'anima gemella attraverso un carosello di avventure buffonesche.",
+    "genres": [
+      "Commedia",
+      "Romance",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 63068,
+    "imdb_id": "tt0118814",
+    "recent_until": 1790065681060,
+    "pegi": "",
+    "title": "Camere da letto",
+    "original_title": "Camere da letto",
+    "year": "1997",
+    "poster": "https://image.tmdb.org/t/p/w500/nN1yfGi17M64kOJvrfUHrYfnV1f.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1cQF8ext4QI9LOQQEEEKeGRzUcR.jpg",
+    "rating": 6.25,
+    "overview": "Dario e Maddalena sono una coppia affiatata che deve affrontare difficoltà economiche e ripicche familiari, Sandro un uomo solo e avaro che vive nel ricordo di un amore giovanile. Margherita e Fabrizio, invece, sono una coppia di artisti in crisi coniugale. Sullo sfondo le vicende del giovane nipote di Dario, alle prese con il suo primo amore.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 103216,
+    "imdb_id": "tt0095866",
+    "recent_until": 1790065681261,
+    "pegi": "T",
+    "title": "I picari",
+    "original_title": "I picari",
+    "year": "1987",
+    "poster": "https://image.tmdb.org/t/p/w500/u6wTr0g540FlEdcmlOvtrptsfk4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yvwXL7U34hgTxvxdCxLGaJBNkFh.jpg",
+    "rating": 5.485,
+    "overview": "In Spagna nel XVI secolo, due vagabondi, Lazzarillo De Tormes e Guzmán De Alfarache, entrambi amanti della libertà e della vita randagia, assolutamente privi di ambizioni e di volontà di migliorare, con l'unico stimolo di una fame atavica, hanno una preoccupazione continua di procurarsi da mangiare e di trovare un tetto sotto cui riposarsi.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 55204,
+    "imdb_id": "tt0489342",
+    "recent_until": 1790065681464,
+    "pegi": "",
+    "title": "Which Way Home",
+    "original_title": "Which Way Home",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/3V6f3vwAkWPMs0wuj7nuhKL1XPT.jpg",
+    "backdrop": null,
+    "rating": 7.9,
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 11902,
+    "imdb_id": "tt0114787",
+    "recent_until": 1790065681661,
+    "pegi": "",
+    "title": "Underground",
+    "original_title": "Подземље",
+    "year": "1995",
+    "poster": "https://image.tmdb.org/t/p/w500/ezHMQbXy45XbYgJhXy8v9LHwQ6w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2nerKhF40OzjnGGOyzHcsAw8T53.jpg",
+    "rating": 7.7,
+    "overview": "Durante l'occupazione nazista della Jugoslavia Marko e Blacky si arricchiscono praticando ogni genere di traffico e rifornendo di armi la Resistenza. Quando Blacky deve sparire dalla circolazione, Marko lo nasconde in una cantina dove sono rifugiati anche altri rivoltosi e diventa il loro unico tramite con l'esterno. Per non dividere con l'amico l'amore di Natalija, Marko anche dopo la liberazione continua a far credere che la guerra vada avanti.",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 35320,
+    "imdb_id": "tt0340331",
+    "recent_until": 1790065681859,
+    "pegi": "",
+    "title": "Maestro dell'Anno",
+    "original_title": "School of Life",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/5Ijkc9nYZvpqxtOLNItTFjPf7Bj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/allvJZKXH3PVzXcQVpmM3TUMSrf.jpg",
+    "rating": 6.359,
+    "overview": "Matt Warner insegna biologia in una scuola media. Il suo sogno più grande è quello di ripetere i grandi successi del padre che, prima di scomparire a causa di un tragico attacco cardiaco, è stato eletto dagli studenti come miglior insegnante per 44 anni di fila. Sfortuna vuole che, nonostante l'impegno, Matt non sia neanche lontanamente popolare come il padre. Oltretutto deve subire la spietata concorrenza del nuovo arrivato, Michael D'Angelo, che si presenta alla scuola con un discorso trascinante e nei giorni successivi, con i suoi metodi poco ortodossi e il suo fascino, riesce a conquistare in un batter d'occhio i favori della maggior parte degli studenti...",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Famiglia",
+      "televisione film"
+    ]
+  },
+  {
+    "tmdb_id": 2652,
+    "imdb_id": "tt0424136",
+    "recent_until": 1790065682154,
+    "pegi": "",
+    "title": "Hard Candy",
+    "original_title": "Hard Candy",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/gimV8YHMISY4ixpJX3xled3RzGt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9uYq1A9mx4wvQ8J6OF8BXUntciQ.jpg",
+    "rating": 6.803,
+    "overview": "La storia provocatoria e drammatica di un uomo di trentadue anni che accoglie a casa una quattordicenne conosciuta su internet, con conseguenze sorprendenti. Jeff è un fotografo trentenne. Hayley una ragazzina di quattordici anni ma molto, molto più sveglia di quanto la sua età potrebbe far credere. I due, dopo lunghe sessioni di chat in internet decidono di incontrarsi. Dopo un drink e una fetta di torta si recano a casa di Jeff, ma quella che poteva diventare una giornata allegra e piacevole si trasforma per il fotografo in un incubo senza fine... Inquietante e teso, Hard Candy rovescia la favola di Cappuccetto Rosso: stavolta a subire è il lupo, mentre la potenziale vittima si palesa come il più feroce dei carnefici. Tanta la carne al fuoco in questo splendido thriller che procede di minuto in minuto come un equilibrista in bilico sul filo che rischia di cadere a ogni istante.",
+    "genres": [
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 16608,
+    "imdb_id": "tt0421238",
+    "recent_until": 1790065682363,
+    "pegi": "VM18",
+    "title": "La proposta",
+    "original_title": "The Proposition",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/403XmH33nDqlrhweAJ0vaYZSlg3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5ndWXHSKcdN6uYSPOLlxnSMuAEE.jpg",
+    "rating": 7.004,
+    "overview": "Nella calda e polverosa Australia del 1880, tre fratelli, membri di una banda di fuorilegge, dettano legge nei selvaggi territori degli aborigeni. I tre vengono incriminati per lo stupro e l'uccisione di una giovane donna incinta, ma solo due di loro vengono catturati, Charles e il fratello minore Mike, affetto da ritardo mentale. Il capitano Stanley tiene in ostaggio Mike e propone a Charles una proposta, se lui gli porterà il fratello Arthur, il vero leader della gang e responsabile degli ultimi fatti di sangue, terrà in vita il fratello minore.",
+    "genres": [
+      "Western",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 9035,
+    "imdb_id": "tt0439815",
+    "recent_until": 1790065682563,
+    "pegi": "",
+    "title": "Slither – Una fame da paura",
+    "original_title": "Slither",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/dP6ip744s58mbfmzBUGxIwr4W5h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kUpD6EnpnQBi3mjYxmiM4xvuh8g.jpg",
+    "rating": 6.551,
+    "overview": "Un piccolo asteroide cade nei pressi di una cittadina americana: ospita una creatura mostruosa che per crescere e riprodursi deve essere incubata da un corpo umano, corpo che stavolta ha le non troppo rassicuranti fattezze del redivivo Michael Rooker. Il contagio si diffonde e gli \"eroi per caso\" della situazione devono cercare di scappare dalla città. Ma non sarà facile...",
+    "genres": [
+      "Horror",
+      "Fantascienza",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 15189,
+    "imdb_id": "tt0785006",
+    "recent_until": 1790065682761,
+    "pegi": "",
+    "title": "Hotel Bau",
+    "original_title": "Hotel for Dogs",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/AblKFHD1oAgWQR0DPZuJcSJXv0t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hovfur18TPFABZIuJYvgjLpln8V.jpg",
+    "rating": 6.064,
+    "overview": "La sedicenne Andi e il suo fratellino Bruce sono due orfani in difficoltà: nella nuova casa dove sono ospitati i cani non sono accettati. E così il loro cucciolo, Friday, non ha più un posto dove stare. Ma i due sono intraprendenti e trovano una soluzione: si impadroniscono di un vecchio hotel abbandonato e lo trasformano pian piano in una pensione per cani, dando ospitalità ad alcuni randagi.",
+    "genres": [
+      "Commedia",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 37534,
+    "imdb_id": "tt0951335",
+    "recent_until": 1790065682963,
+    "pegi": "",
+    "title": "The New Daughter",
+    "original_title": "The New Daughter",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/2gSh9nKNB92agvZ8ZHNYBpkIZR0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rKaX8ery6hhQn8LT8FWdFyOBQSy.jpg",
+    "rating": 5.353,
+    "overview": "Un padre single si trasferisce con i due figli in una casa in campagna. La figlia Louise inizia ad avere un comportamento inquietante.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 426426,
+    "imdb_id": "tt6155172",
+    "recent_until": 1790065683164,
+    "pegi": "T",
+    "title": "Roma",
+    "original_title": "Roma",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/mbk7wHbQbIMO3Wf1QeVoOV86xMb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+    "rating": 7.614,
+    "overview": "Messico, 1970. Roma è un quartiere medioborghese di Mexico City che affronta una stagione di grande instabilità economico-politica. Cleo è la domestica tuttofare di una famiglia benestante che accudisce marito, moglie, nonna, quattro figli e un cane. Cleo è india, mentre la famiglia che l'ha ingaggiata è di discendenza spagnola e frequenta gringos altolocati. I compiti della giovane domestica non finiscono mai, e passano senza soluzione di continuità dal dare il bacio della buonanotte ai bambini al ripulire la cacca del cane dal cortiletto di ingresso della casa: quello in cui il macchinone comprato dal capofamiglia entra a stento, pestando i suddetti escrementi.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 490214,
+    "imdb_id": "tt2993848",
+    "recent_until": 1790065683359,
+    "pegi": "",
+    "title": "Iceman - I cancelli del tempo",
+    "original_title": "冰封侠：时空行者",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/7qzTVHy3SEOgB0AqSyuimDDigwv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uvB2fJixr2VcKGzd0N1uoWiNLg2.jpg",
+    "rating": 6.5,
+    "overview": "La guardia imperiale Ho Yin e tre suoi amici d'infanzia traditori, incaricati di dargli la caccia, vengono accidentalmente sepolti e congelati nel tempo. Dopo 400 anni, vengono scongelati e continuano la battaglia lasciata in sospeso. Saranno però costretti ad allearsi per riuscire a salvare il mondo dalla distruzione.",
+    "genres": [
+      "Azione",
+      "Commedia",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 559700,
+    "imdb_id": "tt7099566",
+    "recent_until": 1790065683565,
+    "pegi": "",
+    "title": "Alcatraz",
+    "original_title": "Alcatraz",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/2cMu9wCWA3pqQxF4H7s11Pqlf3w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yNk13DQNfgZjb8oPVX5fVIMpflf.jpg",
+    "rating": 4.176,
+    "overview": "",
+    "genres": [
+      "Azione",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 556574,
+    "imdb_id": "tt8503618",
+    "recent_until": 1790065683886,
+    "pegi": "",
+    "title": "Hamilton",
+    "original_title": "Hamilton",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uWVkEo9PWHu9algZsiLPi6sRU64.jpg",
+    "rating": 7.896,
+    "overview": "Hamilton combina i migliori elmenti del del teatro, del cinema e dello streaming in una stupefacente miscela di hip-hop, jazz, R&B e Broadway. Una rivoluzione teatreale che narra la vita del padre fondatore americano Alexander Hamilton: la storia dell'America di un tempo raccontata dall'America di oggi.",
+    "genres": [
+      "Storia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1151272,
+    "imdb_id": "tt32298285",
+    "recent_until": 1790065684381,
+    "pegi": "10+",
+    "title": "Sirāt",
+    "original_title": "Sirāt",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/8efaBs8Ovt21zgbkDoR9eZqorp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
+    "rating": 6.849,
+    "overview": "Luis con il giovane figlio Esteban si aggira in un rave party mostrando una foto della figlia Mar della quale ha perso da alcuni mesi le tracce e che vorrebbe trovare. Nessuno la conosce ma, nel corso della ricerca, l'uomo fa delle conoscenze che, dopo la chiusura della festa da parte dei militari, lo indirizzano verso un altro rave. Il viaggio non sarà dei più facili e non solo per le asperità del terreno.",
+    "genres": [
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 23759,
     "imdb_id": "tt1020558",
     "recent_until": 1789984362656,
