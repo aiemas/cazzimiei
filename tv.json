@@ -1,5 +1,108 @@
 [
   {
+    "tmdb_id": 285418,
+    "imdb_id": "tt35949226",
+    "recent_until": 1790153246635,
+    "type": "tv",
+    "title": "Youth",
+    "original_title": "Youth",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
+    "rating": 5.5,
+    "pegi": "",
+    "overview": "",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 239618,
+    "imdb_id": "tt30051064",
+    "recent_until": 1790153246789,
+    "type": "tv",
+    "title": "American Hostage",
+    "original_title": "American Hostage",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+    "rating": 7.8,
+    "pegi": "",
+    "overview": "Fred Heckman, un amato giornalista radiofonico di Indianapolis, si trova nel mezzo di una crisi tra la vita e la morte quando il sequestratore Tony Kiritsis chiede di essere intervistato nel suo popolare programma radiofonico.",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 312046,
+    "imdb_id": "tt39314120",
+    "recent_until": 1790153246998,
+    "type": "tv",
+    "title": "Glitter & Gold - La danza sul ghiaccio",
+    "original_title": "Glitter & Gold: Ice Dancing",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/aDiOcFK4leJl8qGT4wYM5yyv2fb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7oBYd2DIzxW1wtLa2pPl8FF9TPI.jpg",
+    "rating": 7.5,
+    "pegi": "",
+    "overview": "In vista dei Giochi olimpici invernali 2026, entra nel mondo della danza su ghiaccio, dove i rischi e i drammi sono massimi e le coppie più forti lottano per l'oro e la gloria.",
+    "genres": [
+      "Documentario",
+      "Reality"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
+    "tmdb_id": 61617,
+    "imdb_id": "tt3718778",
+    "recent_until": 1790153247153,
+    "type": "tv",
+    "title": "Over the Garden Wall - Avventura nella foresta dei misteri",
+    "original_title": "Over the Garden Wall",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/8uHxhk6ey9EgFqWavj9jAa1JKIH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hozufHEzqIRpqJrlyGDqnsyFrAQ.jpg",
+    "rating": 8.566,
+    "pegi": "T",
+    "overview": "\"Over the Garden Wall - Avventura nella foresta dei misteri\" narra la storia di due fratelli, Wirt e Greg, che si ritrovano sperduti alla deriva del tempo in una strana foresta chiamata Ignoto. Sperando di ritrovare la strada di casa, Wirt e Greg sono costretti a vagare in questo strano luogo, aiutati da un vecchio saggio taglialegna e da Beatrice, un uccellino azzurro dal carattere impossibile.",
+    "genres": [
+      "Mistero",
+      "Sci-Fi & Fantasy",
+      "Animazione",
+      "Famiglia",
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 6
+      },
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
     "tmdb_id": 335651,
     "imdb_id": "tt45017187",
     "recent_until": 1790065685684,

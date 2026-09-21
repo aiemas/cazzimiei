@@ -1,5 +1,150 @@
 [
   {
+    "tmdb_id": 25913,
+    "imdb_id": "tt0281634",
+    "recent_until": 1790153244433,
+    "pegi": "",
+    "title": "Balto 2 - Il mistero del lupo",
+    "original_title": "Balto: Wolf Quest",
+    "year": "2002",
+    "poster": "https://image.tmdb.org/t/p/w500/jQrDOU52OddV1LFaIfPscMnafQc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/c9yWoqYOB0dA10CpsdEr5i9vK3R.jpg",
+    "rating": 6.366,
+    "overview": "Balto e Jenna diventano genitori. Quando i loro cuccioli raggiungono l'età di otto settimane li portano in paese per darli in adozione. Tutti i cuccioli vengono adottati tranne una cucciolotta di nome Aleu, perché assomiglia ad un lupo, come il padre. Dopo l'incontro con un cacciatore, Aleu si rende conto che non verrà mai accettata per la sua somiglianza ad un animale selvatico. Sconvolta, scappa e inizia così per lei un viaggio alla scoperta del senso della vita. Alla fine Aleu si unirà ad un clan di lupi e ne diventerà il capo, guidandoli nell'oceano per condurli ai caribù che se n'erano andati l'anno precedente e Balto tornerà a casa da Jenna e dai suoi amici.",
+    "genres": [
+      "Famiglia",
+      "Animazione",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 18252,
+    "imdb_id": "tt0089652",
+    "recent_until": 1790153244588,
+    "pegi": "",
+    "title": "Ritorno dalla 4ª dimensione",
+    "original_title": "My Science Project",
+    "year": "1985",
+    "poster": "https://image.tmdb.org/t/p/w500/9gce0dT47QbPZWAWF958829FfsQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2KDfY3QCRz23Xdi21Ey6ATa7Oe8.jpg",
+    "rating": 6.271,
+    "overview": "Mike Arlan è un giovane studente di scienze che deve presentare una relazione al suo professore, altrimenti rischia di non passare l'esame. Insieme ad una sua compagna, penetra di nascosto in un vecchio deposito militare dove trova uno strano oggetto di metallo che attira la sua attenzione e decide così di farlo passare per la sua ricerca.Collegandolo ad una presa di corrente, si accorge, insieme ad un suo amico, che questo particolare congegno può materializzare oggetti provenienti da epoche diverse. Non solo, mostrandolo al loro professore di scienze Bob, egli viene risucchiato dalla strana macchina, scomparendo davanti ai loro occhi.I ragazzi capiscono di avere tra le mani una specie di macchina del tempo capace di abbattere le barriere dimensionali, che per funzionare ha bisogno continuamente di corrente elettrica.",
+    "genres": [
+      "Commedia",
+      "Famiglia",
+      "Fantasy",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 15067,
+    "imdb_id": "tt0901487",
+    "recent_until": 1790153244742,
+    "pegi": "",
+    "title": "Il buono, il matto, il cattivo",
+    "original_title": "좋은 놈, 나쁜 놈, 이상한 놈",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/w500/hrbj07VHayIbTbmVqSYOHkAJSmD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gec3e76TRGUBx1Ut0c6yuSahVDp.jpg",
+    "rating": 7.155,
+    "overview": "Manciuria, anni '30. Chang-yi (Lee Byung-heon), un killer dandy che ha perennemente stampato in faccia un sogghigno ironico, viene assoldato per recuperare una mappa in mano a un banchiere giapponese. Intanto, a sua insaputa, l’infallibile cacciatore di taglie Do-won (Jung Woosung) viene incaricato della stessa missione dall’esercito indipendentista coreano. La mappa però, dopo un’esplosiva rapina ad un treno, è finita nelle mani di un ladro, Tae-gu (Song Kang-ho), convinto che essa conduca ai favolosi tesori della dinastia Qing. Comincia una lotta serrata tra i tre, disposti a tutto per non restare fuori dal gioco!",
+    "genres": [
+      "Azione",
+      "Avventura",
+      "Commedia",
+      "Western"
+    ]
+  },
+  {
+    "tmdb_id": 1430077,
+    "imdb_id": "tt35672862",
+    "recent_until": 1790153244897,
+    "pegi": "",
+    "title": "Hokum",
+    "original_title": "Hokum",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qY7zVZ7liULhfRoXg4c9Xl83LcR.jpg",
+    "rating": 6.9,
+    "overview": "Quando lo scrittore Ohm Bauman si ritira in una locanda isolata per spargere le ceneri dei suoi genitori, viene ossessionato dai racconti di una strega che infesta la suite nuziale. Visioni inquietanti e una scioccante scomparsa lo costringono a confrontarsi con gli angoli oscuri del suo passato.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 21991,
+    "imdb_id": "tt0120202",
+    "recent_until": 1790153245115,
+    "pegi": "",
+    "title": "Hollywood, Vermont",
+    "original_title": "State and Main",
+    "year": "2000",
+    "poster": "https://image.tmdb.org/t/p/w500/x0lUkVvI59WxmWNShWNsA2wYCK8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tuerGhZ1lA8wpBjUCEUpeTWDT5B.jpg",
+    "rating": 6.283,
+    "overview": "Una troupe cinematografica lascia il New Hampshire e si trasferisce a Waterford, una graziosa cittadina del Vermont. Motivo: girare un film ispirato alla storia di un vecchio mulino. Peccato che l’edificio non esista più, il regista incontri ogni tipo di problema con gli attori, gli abitanti del luogo interferiscano con la lavorazione e lo sceneggiatore abbia perso la macchina da scrivere...",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 41515,
+    "imdb_id": "tt1302067",
+    "recent_until": 1790153245272,
+    "pegi": "",
+    "title": "L'orso Yoghi",
+    "original_title": "Yogi Bear",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/8zA7OK9JwuBNHI3WFAhHExCV4ka.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/olt6xjI8QvrTmm1GTH6VtX6ROCl.jpg",
+    "rating": 5.563,
+    "overview": "Nel bucolico parco di Jellystone la vita scorre tranquilla per il ranger Smith (Tom Canavagh) e il suo vice, tranne che per qualche campeggiatore a cui viene scippato il cestino da pic-nic, furti reiterati messi in atto da un ingegnoso, estroverso e rarissimo orso bruno parlante di nome Yoghi assistito come sempre dall’amico di sempre Bubu.L’arrivo nel parco di Rachel (Anna Faris) una bella documentarista intenzionata a girare un documentario proprio su Yoghi, coinciderà con l’attuazione di un diabolico piano da parte del vanesio ed avido sindaco della città, che dopo aver dato fondo alle casse comunali è intenzionato a disboscare Jellystone per ricavarne una grossa somma di denaro con cui rimpinguare le proprie tasche e finanziare la campagna elettorale che lo vedrà in corsa come governatore.",
+    "genres": [
+      "Commedia",
+      "Famiglia",
+      "Animazione",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 393877,
+    "imdb_id": "tt3823672",
+    "recent_until": 1790153245429,
+    "pegi": "",
+    "title": "A.R.C.H.I.E. - Un robot a quattro zampe",
+    "original_title": "A.R.C.H.I.E.",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/sCMxe5hfRZT11OgQ8W1ygl7Uxq2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/w1JRQogNHtpXLLWCM6mJJgQVsfl.jpg",
+    "rating": 6.0,
+    "overview": "La quindicenne Isabel Sullivan si trasferisce in una piccola cittadina per vivere con lo zio Paul, il sindaco del posto. Rimasta da poco senza genitori a causa di un incidente d'auto, Isabel si sente molto sola quando fa amicizia con un cane robot di nome Archie, dotato di straordinari poteri e creato appositamente per dare una mano a chi ha bisogno di aiuto. Con l'avanzare dell'estate, all'orizzonte si profileranno nuove sfide da superare.",
+    "genres": [
+      "Famiglia",
+      "Fantascienza",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1549292,
+    "imdb_id": "tt38607240",
+    "recent_until": 1790153245659,
+    "pegi": "",
+    "title": "LEGO Disney Frozen: Operazione Pulcinella di mare",
+    "original_title": "LEGO Frozen: Operation Puffins",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/40BJAJXABBWmt37CZCZW8fPpaRT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gbAcTyVtPfzCBs58xs6NYKHiPCp.jpg",
+    "rating": 6.327,
+    "overview": "Dopo gli eventi di \"Frozen\", Anna ed Elsa vogliono ricominciare da capo ad Arendelle e rendere il castello un po' più accogliente. Mentre lottano per liberarsi dai vincoli della tradizione, il Duca di Weselton ha altri progetti per la loro amata dimora, insieme a uno stormo di minacciose pulcinelle di mare.",
+    "genres": [
+      "Animazione",
+      "Famiglia",
+      "Fantasy"
+    ]
+  },
+  {
     "tmdb_id": 15014,
     "imdb_id": "tt0085240",
     "recent_until": 1790068411501,
