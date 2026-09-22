@@ -480,54 +480,137 @@ for card in channel_cards:
 
         })
 
-# ============================================================
-# SCARICA CANALI VAVOO ITALIA
-# ============================================================
-
 print()
 print("==========================================")
 print("SCARICAMENTO CANALI VAVOO ITALIA...")
-print("URL:", VAVOO_URL)
 print("==========================================")
 
-VAVOO_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/151.0.0.0 Safari/537.36"
-    ),
-    "Accept": "application/json, text/plain, */*",
-    "Content-Type": "application/json; charset=utf-8",
-    "Origin": "https://vavoo.to",
-    "Referer": "https://vavoo.to/live"
-}
+VAVOO_PING_URL = "https://www.vavoo.tv/api/app/ping"
+VAVOO_CATALOG_URL = "https://vavoo.to/mediahubmx-catalog.json"
 
-VAVOO_PAYLOAD = {
-    "catalogId": "iptv",
-    "id": "",
-    "adult": False,
-    "search": "",
-    "sort": "trending-region",
-    "filter": {
-        "group": "Italy"
-    },
-    "cursor": None,
-    "language": "de",
-    "region": "DE"
+VAVOO_HEADERS = {
+    "User-Agent": "MediaHubMX/2",
+    "Accept": "*/*",
+    "Content-Type": "application/json; charset=utf-8",
+    "Accept-Language": "de",
+    "Accept-Encoding": "gzip, deflate",
 }
 
 try:
 
-    vavoo_response = requests.post(
-        VAVOO_URL,
+    # -------------------------------------------------
+    # 1) OTTIENI LA FIRMA VAVOO
+    # -------------------------------------------------
+
+    ping_payload = {
+        "appFocusTime": 0,
+        "playerActive": False,
+        "playDuration": 0,
+        "devMode": False,
+        "hasAddon": True,
+        "castConnected": False,
+        "package": "tv.vavoo.app",
+        "version": "3.1.8",
+        "process": "app",
+        "firstAppStart": 0,
+        "lastAppStart": 0,
+        "ipLocation": None,
+        "adblockEnabled": True,
+        "proxy": {
+            "supported": ["ss"],
+            "engine": "Mu",
+            "enabled": False,
+            "autoServer": True
+        },
+        "iap": {
+            "supported": False
+        }
+    }
+
+    print("Richiesta addonSig...")
+
+    ping_response = requests.post(
+        VAVOO_PING_URL,
         headers=VAVOO_HEADERS,
-        json=VAVOO_PAYLOAD,
+        json=ping_payload,
         timeout=30
     )
 
-    vavoo_response.raise_for_status()
+    ping_response.raise_for_status()
 
-    vavoo_data = vavoo_response.json()
+    ping_data = ping_response.json()
+
+    addon_sig = ping_data.get("addonSig")
+
+    if not addon_sig:
+        raise Exception(
+            "VAVOO non ha restituito addonSig: "
+            + str(ping_data)
+        )
+
+    print("addonSig ottenuta.")
+
+    # -------------------------------------------------
+    # 2) RICHIESTA CATALOGO
+    # -------------------------------------------------
+
+    catalog_headers = {
+        "User-Agent": "MediaHubMX/2",
+        "Accept": "*/*",
+        "Content-Type": "application/json; charset=utf-8",
+        "Accept-Language": "de",
+        "Accept-Encoding": "gzip, deflate",
+        "mediahubmx-signature": addon_sig,
+    }
+
+    vavoo_data = {
+        "items": []
+    }
+
+    cursor = None
+
+    while True:
+
+        catalog_payload = {
+            "language": "de",
+            "region": "DE",
+            "catalogId": "iptv",
+            "id": "iptv",
+            "adult": False,
+            "search": "",
+            "sort": "",
+            "filter": {},
+            "cursor": cursor,
+            "clientVersion": "3.0.2"
+        }
+
+        print("Scaricamento catalogo VAVOO...")
+
+        catalog_response = requests.post(
+            VAVOO_CATALOG_URL,
+            headers=catalog_headers,
+            json=catalog_payload,
+            timeout=30
+        )
+
+        catalog_response.raise_for_status()
+
+        catalog_page = catalog_response.json()
+
+        items = catalog_page.get("items", [])
+
+        print("Canali ricevuti:", len(items))
+
+        vavoo_data["items"].extend(items)
+
+        cursor = catalog_page.get("nextCursor")
+
+        if not cursor:
+            break
+
+    print()
+    print("Totale elementi VAVOO ricevuti:",
+          len(vavoo_data["items"]))
 
 except Exception as e:
 
