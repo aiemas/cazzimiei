@@ -14,7 +14,7 @@ URL = "https://dlstreams.st/index.php?cat=All+Soccer+Events+%E2%9A%BD"
 
 CHANNELS_URL = "https://dlstreams.st/24-7-channels.php"
 
-VAVOO_URL = "https://vavoo.to/mediahubmx-catalog.json"
+VAVOO_URL = "https://vavoo.to/#/channels"
 
 OUTPUT_FILE = "index.html"
 
