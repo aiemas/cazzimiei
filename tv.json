@@ -1,5 +1,29 @@
 [
   {
+    "tmdb_id": 312557,
+    "imdb_id": "tt28765828",
+    "recent_until": 1790238321872,
+    "type": "tv",
+    "title": "Minerva - La scuola",
+    "original_title": "Minerva - La scuola",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/cTTXRklz5tJWX6wrN3XrjHo34H1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "overview": "I protagonisti della serie sono Salvo (Ciro Minopoli), un ragazzo di una casa famiglia entrato nella scuola per scoprire la verità sulle sorti del suo migliore amico; Vincenzo (Biagio Venditti), che vuole emulare la carriera militare del padre; e Camilla (Margherita Buoncristiani), viziata ragazza milanese che è stata messa lì dentro dal padre per essere riformata.",
+    "genres": [
+      "Dramma",
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
     "tmdb_id": 285418,
     "imdb_id": "tt35949226",
     "recent_until": 1790153246635,
