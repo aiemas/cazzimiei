@@ -16,7 +16,7 @@ CHANNELS_URL = "https://dlstreams.st/24-7-channels.php"
 
 VAVOO_URL = "https://vavoo.to/#/channels"
 
-OUTPUT_FILE = "index2.html"
+OUTPUT_FILE = "index.html"
 
 
 
