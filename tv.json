@@ -1,5 +1,120 @@
 [
   {
+    "tmdb_id": 308963,
+    "imdb_id": "tt39369819",
+    "recent_until": 1790324836308,
+    "type": "tv",
+    "title": "Habeas Corpus",
+    "original_title": "Habeas Corpus",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/8JP8OXWufxAXFLfOOj4XU2SEhvV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "overview": "",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 1
+      }
+    ]
+  },
+  {
+    "tmdb_id": 250203,
+    "imdb_id": "tt6773088",
+    "recent_until": 1790324836459,
+    "type": "tv",
+    "title": "Brothers",
+    "original_title": "Brothers",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/7Q9aUMSVkMJxpeUVCVzWIFFgMMh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/snowLqDdNTDyHo8yTYGht3a3TyN.jpg",
+    "rating": 10.0,
+    "pegi": "VM14",
+    "overview": "Gli attori di Hollywood Matthew McConaughey e Woody Harrelson sono migliori amici da anni, ma uno scioccante segreto di famiglia suggerisce che il loro legame potrebbe essere più stretto.",
+    "genres": [
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 214945,
+    "imdb_id": "tt22776032",
+    "recent_until": 1790324836611,
+    "type": "tv",
+    "title": "Fallen",
+    "original_title": "Fallen",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/pXALS4b7W5yEwlGHQ5ThE4ZXRmJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4M3YD2byrOcY4Eo2zNvGdW7Hmgh.jpg",
+    "rating": 6.589,
+    "pegi": "",
+    "overview": "Condannata per un crimine che crede di non aver commesso, Lucinda Price viene imprigionata in un istituto remoto e sinistro. Qui incontra un gruppo di ragazzi che condivide il suo stesso destino. Insieme scoprono che su di loro grava un'antica profezia.",
+    "genres": [
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 275102,
+    "imdb_id": null,
+    "recent_until": 1790324836762,
+    "type": "tv",
+    "title": "Scandalo e passione",
+    "original_title": "스캔들",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/x5M34OdrBgl3TQqtnm3R1HYSr9B.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+    "rating": 6.6,
+    "pegi": "",
+    "overview": "A Joseon una proposta segreta accende desideri nascosti in una nobildonna di talento, un noto libertino e un’ignara signora coinvolta nel loro gioco pericoloso…",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 320760,
+    "imdb_id": null,
+    "recent_until": 1790324836914,
+    "type": "tv",
+    "title": "So chi sei",
+    "original_title": "Seni Tanıyorum",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tgBRNtynz81e0DE4bWo8XwTbCw9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
+    "rating": 7.3,
+    "pegi": "",
+    "overview": "Dopo aver dato alla luce suo figlio, la pittrice Funda ha messo in pausa la sua carriera per dedicarsi alla bambina. Pronta a tornare a dipingere, trova finalmente la tata che cercava: Nazlı. Ma la donna, misteriosa e sempre più inquietante, inizia presto a sconvolgere la vita apparentemente tranquilla di Funda e di suo marito İlker. Quello che inizia come un semplice rapporto di lavoro si trasforma in un pericoloso gioco psicologico in cui desiderio, segreti e lealtà vengono messi a dura prova.",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
     "tmdb_id": 312557,
     "imdb_id": "tt28765828",
     "recent_until": 1790238321872,
