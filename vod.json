@@ -1,5 +1,164 @@
 [
   {
+    "tmdb_id": 63313,
+    "imdb_id": "tt1571219",
+    "recent_until": 1790410762621,
+    "pegi": "T",
+    "title": "Tatanka",
+    "original_title": "Tatanka",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/wrb0PB4ajr34hxQbk9frsKOcrXg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uxCPPTqVmTogIrxEWQDcUTOI8JJ.jpg",
+    "rating": 5.16,
+    "overview": "Michele (Clemente Russo) e Rosario (Carmine Recano), amici d'infanzia, crescono a Marcianise, paese campano in cui le leggi della camorra prevalgono su quelle dello Stato. Ai due uomini sono riservati però destini diversi: Rosario diviene un boss mentre Michele, dopo essere stato arrestato per un'accusa di omicidio e scarcerato, scopre il mondo della boxe grazie all'allenatore Sabatino (Giorgio Colangeli). Michele, per cambiare definitivamente vita e emanciparsi, si trasferisce a Berlino dove viene introdotto nel circuito dei combattimenti clandestini di pugilato.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 288171,
+    "imdb_id": "tt3748440",
+    "recent_until": 1790410762762,
+    "pegi": "",
+    "title": "Blue Mountain State: The Rise of Thadland",
+    "original_title": "Blue Mountain State: The Rise of Thadland",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/rZz8AmDvFqUY4tBcD69ou3OfiWx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dpVCvwNaKRE8bKQDNwVP4vIR90U.jpg",
+    "rating": 5.575,
+    "overview": "Thad si è diplomato ed è stato selezionato nella NFL. Alex, il quarterback, si ritrova così alla guida della squadra e della battaglia per la salvezza della loro casa, che rischia la chiusura per volere del vendicativo rettore dell’università.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1032863,
+    "imdb_id": "tt22526100",
+    "recent_until": 1790410762902,
+    "pegi": "",
+    "title": "The Love Hypothesis: Il teorema dell'amore",
+    "original_title": "The Love Hypothesis",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
+    "rating": 8.4,
+    "overview": "Basato sul best-seller del New York Times, The Love Hypothesis: Il teorema dell'amore racconta la storia di Olive, una dottoranda che bacia impulsivamente il professore più minaccioso del suo dipartimento, Adam Carlsen. Il bisogno di entrambi di una falsa relazione si trasforma in un esperimento di chimica che potrebbe in realtà risolversi nell'amore.",
+    "genres": [
+      "Romance",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 38223,
+    "imdb_id": "tt0116493",
+    "recent_until": 1790410763042,
+    "pegi": "",
+    "title": "Harriet, la spia",
+    "original_title": "Harriet the Spy",
+    "year": "1996",
+    "poster": "https://image.tmdb.org/t/p/w500/lC4tkbR8daBhjzviPLo8jaLUqj9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cTDoeA4zEJMP0it4VYe0ACFaJ4N.jpg",
+    "rating": 6.104,
+    "overview": "Harriet M. Welsch è probabilmente la spia undicenne più abile del mondo. Harriet sogna di diventare una scrittrice, e la sua tata e miglior amica Golly le suggerisce di cominciare a scrivere tutto ciò che osserva.",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 16139,
+    "imdb_id": "tt0110823",
+    "recent_until": 1790410763186,
+    "pegi": "",
+    "title": "Fantasmi III - Lord of the Dead",
+    "original_title": "Phantasm III: Lord of the Dead",
+    "year": "1994",
+    "poster": "https://image.tmdb.org/t/p/w500/2XzhpfgKU2dFkfG4470orNDBEaL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uLZ3NgKf2qLjSPyqNIEYYMABboB.jpg",
+    "rating": 5.798,
+    "overview": "Reggie (Reggie Bannister) e Mike (A. Michael Baldwin) attraversano l'ennesima città devastata da Tall Man (Angus Scrimm) dove vengono aggrediti da una banda di delinquenti. Con Reggie prigioniero, legato all'interno dell'auto, il trio di malfattori si dirige verso una villa abitata da un vivace e difensivo ragazzino. Qua i teppisti trovano una morte violenta, solo per poi risorgere come zombies, sotto l'effetto nefasto di Tall Man.",
+    "genres": [
+      "Horror",
+      "Fantascienza",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 10655,
+    "imdb_id": "tt0107007",
+    "recent_until": 1790410763326,
+    "pegi": "T",
+    "title": "Gettysburg",
+    "original_title": "Gettysburg",
+    "year": "1993",
+    "poster": "https://image.tmdb.org/t/p/w500/k0XKdT3QbycMB8f2H7CEZVx2t4m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ikwP1BTRHlqula7bbPtT7Hk0Fkq.jpg",
+    "rating": 7.0,
+    "overview": "Dal 1° al 3 luglio 1863 a Gettysburg (Pennsylvania) si svolse la più grande e sanguinosa battaglia (cinquantamila morti) della guerra civile. Le truppe sudiste del generale Robert E. Lee furono sconfitte da quelle nordiste al comando del generale George G. Meade. Scritto dal regista e basato sul romanzo The Killer Angels di Michael Shaara, prodotto dalla società televisiva di Ted Turner, fu messo in onda nei Paesi anglofoni in 3 puntate; esiste una versione per l'homevideo che dura quasi 6 ore. Piuttosto accurato, dal punto di vista storico-militare, nella descrizione della battaglia, ne rimuove sistematicamente la crudeltà e l'orrore: le morti sono tutte gloriose, pulite, istantanee, così come sono tutti valorosi, nobili e in buona fede sia gli unionisti sia i confederati.",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 3112,
+    "imdb_id": "tt0048424",
+    "recent_until": 1790410763467,
+    "pegi": "",
+    "title": "La morte corre sul fiume",
+    "original_title": "The Night of the Hunter",
+    "year": "1955",
+    "poster": "https://image.tmdb.org/t/p/w500/dZ4m1w52MA0p3HjQujuoyfBeL9y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7cVEnb4Pth3STa7YfVOk9RtzDLB.jpg",
+    "rating": 7.856,
+    "overview": "Harry Powell, pastore protestante, uccide alcune vedove per denaro. Uccide anche Willa Harper, ma i suoi due figlioletti gli danno filo da torcere. Riescono a fuggire da lui allontanandosi sul fiume con una barca. In loro soccorso giunge una cara vecchietta, Rachel, che dà rifugio ai bambini abbandonati. Grande fiaba orrorifica, più per atmosfera che per scene violente, resa convincente da una regia secca e originale. Harry come orco, Rachel come fata e i due fratelli come Hansel e Gretel.",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 16146,
+    "imdb_id": "tt0138703",
+    "recent_until": 1790410763668,
+    "pegi": "",
+    "title": "Fantasmi IV - Oblivion",
+    "original_title": "Phantasm IV: Oblivion",
+    "year": "1998",
+    "poster": "https://image.tmdb.org/t/p/w500/qN43FQdC1S4qBs1XS7ypvco8kEF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fPXLDESssAsBrjza3ofSB52ve1D.jpg",
+    "rating": 5.24,
+    "overview": "Tall Man (Angus Scrimm), senza apparente motivo, lascia libero Reggie (Reggie Nalder) mentre Mike (Michale Baldwin) è in viaggio nella Death Valley sulle tracce di un oscuro passato. Attraverso varchi dimensionali Mike raggiunge un luogo e un tempo indefinito nel quale incontra Jebediah Morningside (Angus Scrimm), un anziano mite ed educato, preso da studi esoterici ed oscuri. Questa era la precedente, apparentemente innocua, identità  di Tall Man.",
+    "genres": [
+      "Horror",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 173153,
+    "imdb_id": "tt1745862",
+    "recent_until": 1790410763809,
+    "pegi": "",
+    "title": "Phil Spector",
+    "original_title": "Phil Spector",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/vGLqUtMmZPEes7q59GoNusNNtjY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/t6d3Zw4hTkaPoQ75dRvnxCrN8Ms.jpg",
+    "rating": 5.7,
+    "overview": "Phil Spector è un film con il leggendario Al Pacino, il premio Oscar Helen Mirren e il protagonista di 12 anni schiavo Chiwetel Ejiofor. La pellicola si concentra sulle (tragiche) vicende giudiziarie di Phil Spector, famosissimo produttore discografico accusato dell'omicidio di una modella.",
+    "genres": [
+      "Dramma",
+      "televisione film",
+      "Crime",
+      "Storia",
+      "Musica"
+    ]
+  },
+  {
     "tmdb_id": 1056302,
     "imdb_id": "tt16308190",
     "recent_until": 1790324832561,

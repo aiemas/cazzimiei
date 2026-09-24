@@ -1,5 +1,28 @@
 [
   {
+    "tmdb_id": 286940,
+    "imdb_id": "tt36258621",
+    "recent_until": 1790410764656,
+    "type": "tv",
+    "title": "Wonka's The Golden Ticket",
+    "original_title": "Wonka's The Golden Ticket",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg",
+    "rating": 4.0,
+    "pegi": "",
+    "overview": "",
+    "genres": [
+      "Reality"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 9
+      }
+    ]
+  },
+  {
     "tmdb_id": 308963,
     "imdb_id": "tt39369819",
     "recent_until": 1790324836308,
