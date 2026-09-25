@@ -1,5 +1,161 @@
 [
   {
+    "tmdb_id": 103122,
+    "imdb_id": "tt0082904",
+    "recent_until": 1790498523783,
+    "pegi": "T",
+    "title": "Pierino contro tutti",
+    "original_title": "Pierino contro tutti",
+    "year": "1981",
+    "poster": "https://image.tmdb.org/t/p/w500/r7Pyv6f0r2jgnKb2nFR2jWLIUBW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/spS3mhiBlhXSXPlfPf5dptTYPaI.jpg",
+    "rating": 5.67,
+    "overview": "Pierino è un ragazzino irrequieto che combina scherzi dovunque e a chiunque: alla sorella, all'osteria del padre e soprattutto a scuola. Prende di mira in particolare la signorina Mazzacurati, sua insegnante dal carattere burbero ed isterico, che sta cercando di conquistare invano il professor Celani, l'insegnante di educazione fisica.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 42305,
+    "imdb_id": "tt0057683",
+    "recent_until": 1790498523999,
+    "pegi": "",
+    "title": "Dove vai sono guai!",
+    "original_title": "Who's Minding the Store?",
+    "year": "1963",
+    "poster": "https://image.tmdb.org/t/p/w500/8heWgVmjmHd7QBP25cf0NzQsH9V.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/a0JEoxbjkHev5QgdqcmEfIwu68x.jpg",
+    "rating": 6.839,
+    "overview": "La signora Tuttle (Agnes Moorehead) è indispettita dal fatto che sua figlia Barbara (Jill St. John) sia fidanzata con un ragazzo di una classe sociale inferiore, tale Norman Piffer (Phiffier, in originale, interpretato da Jerry Lewis). Piffer, che si guadagna da vivere facendo il dog sitter, viene convinto dalla Tuttle ad accettare un lavoro in uno dei suoi negozi. La signora istruisce il direttore del negozio, il signor Quimby (Ray Walston), ordinandogli di affidare a Norman una serie di lavori impossibili sperando che così si scoraggi e molli tutto, provando a sua figlia che il ragazzo è un fannullone che non vale niente. Invece, con il passare del tempo Piffer diventa sempre più determinato e sicuro di sé, costringendo Mr. Quimby ad ammettere che \"è un uomo di carattere\".",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1255795,
+    "imdb_id": "tt20414834",
+    "recent_until": 1790498524209,
+    "pegi": "",
+    "title": "Putin",
+    "original_title": "Putin",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/j3Q2MrpmaOrKfN2pInNvRNhYa4G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8FSB22d8lFe7OIHNXVcw8t8OSri.jpg",
+    "rating": 6.086,
+    "overview": "",
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 16820,
+    "imdb_id": "tt0101846",
+    "recent_until": 1790498524420,
+    "pegi": "",
+    "title": "F/X 2 - Replay di un omicidio",
+    "original_title": "F/X2",
+    "year": "1991",
+    "poster": "https://image.tmdb.org/t/p/w500/74gPTDkRdnsSEG0sClDePCDxrST.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cWRwP7nBMI0c5JXNLxGpGdAX8O5.jpg",
+    "rating": 6.325,
+    "overview": "Sequel del film FX, Rollie viene ingaggiato per aiutare nella ricerca di un killer. I guai iniziano quando sia il killer che i poliziotti con cui collaborava vengono uccisi.",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 9873,
+    "imdb_id": "tt0089118",
+    "recent_until": 1790498524640,
+    "pegi": "",
+    "title": "F/X - Effetto mortale",
+    "original_title": "F/X",
+    "year": "1986",
+    "poster": "https://image.tmdb.org/t/p/w500/3SOrASInRKmz1Bl5Ed1jQpahlv8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4JO4qqCWh5BAfFwphC7ZAnhsM0.jpg",
+    "rating": 6.582,
+    "overview": "Rollie Tyler, che lavora come effettista speciale a Hollywood, viene contattato dai servizi segreti: deve preparare una messinscena per simulare l’omicidio di un mafioso pentito che sta per testimoniare a un processo. Rollie si presta, ma inizia a essere oggetto di attentati che scopre organizzati da un ufficiale corrotto in combutta con lo stesso mafioso.",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1599,
+    "imdb_id": "tt0356721",
+    "recent_until": 1790498524966,
+    "pegi": "",
+    "title": "I Heart Huckabees - Le strane coincidenze della vita",
+    "original_title": "I ♥ Huckabees",
+    "year": "2004",
+    "poster": "https://image.tmdb.org/t/p/w500/aeHnaEXxezf0M7GXPGPTzATGz7q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lMSlZxJp43HR81XacWh75w3hW2l.jpg",
+    "rating": 6.302,
+    "overview": "Dopo una serie di incontri casuali con un misterioso portiere, Albert Markovski decide di rivolgersi a Bernard e Viviane Jaffe, i \"detective esistenzialisti\", che indagano sui misteri profondi delle esistenze dei loro clienti. I due investigatori mettono così in luce il rapporto conflittuale tra Albert e Brad Stand, giovane e rampante dirigente dell'Huckabees, popolare catena di grandi magazzini.Quando anche Brad ingaggia i Jaffe, Albert perde fiducia in se stesso fino a quando non si allea con la conturbante filosofa francese Catherine Vauban.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 16555,
+    "imdb_id": "tt0778661",
+    "recent_until": 1790498525180,
+    "pegi": "",
+    "title": "Daddy's Little Girls",
+    "original_title": "Daddy's Little Girls",
+    "year": "2007",
+    "poster": "https://image.tmdb.org/t/p/w500/c2AOyqAbfJ9dKJBOgYEzNnXrbcb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ifjTU9DIKMzCIDkRrD4YgZ61JON.jpg",
+    "rating": 6.9,
+    "overview": "Monty (Idris Elba), squattrinato meccanico e padre di tre figlie, cerca di sopravvivere con il suo onesto lavoro in un quartiere povero. Dopo aver appreso che l'affidamento delle bambine andrà all'ex moglie Jennifer, donna dalla dubbia morale e spacciatrice di droga, Monty si vede costretto a ingaggiare l'avvocatessa Julia, recentemente incontrata durante un servizio da autista, per far sì che le figlie continuino a vivere con lui in un ambiente stabile e amorevole. Nonostante le enormi differenze sociali ed economiche, Monty e Julia finiscono con l'innamorarsi ma prima di essere felici dovranno colmare il gap che li divide.",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 284457,
+    "imdb_id": "tt5334704",
+    "recent_until": 1790498525393,
+    "pegi": "",
+    "title": "Twin Peaks: The Missing Pieces",
+    "original_title": "Twin Peaks: The Missing Pieces",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/xQevnHeRxlQTfXQ5RxXJE4PnVUO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oxEuaEHqM7ZjI6KhIo7T3SljqKc.jpg",
+    "rating": 7.221,
+    "overview": "Twin Peaks: The Missing Pieces è un film costituito unicamente da scene tagliate provenienti dal film Fuoco cammina con me del 1992.  1 ora e mezzo di scene che Lynch escluse dal montaggio finale e che approfondiscono personaggi e avvenimenti del mondo di Laura.",
+    "genres": [
+      "Thriller",
+      "Dramma",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 262848,
+    "imdb_id": "tt3627704",
+    "recent_until": 1790498525621,
+    "pegi": "",
+    "title": "Fantasmi V - Ravager",
+    "original_title": "Phantasm: Ravager",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/4Chl1M4V5uqHiYD1FznqtdN9vha.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pbeytXEqctq41UImo0u5Knik2wR.jpg",
+    "rating": 4.8,
+    "overview": "Da tempo immemore Reggie, ex venditore di gelati, è alla continua ricerca del suo maggior nemico, il malvagio Tall Man. Sarà costretto finalmente a confrontarsi con i misteri legati alla morte e alle strane sfere che imperversano nel cielo.",
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Azione",
+      "Fantascienza"
+    ]
+  },
+  {
     "tmdb_id": 63313,
     "imdb_id": "tt1571219",
     "recent_until": 1790410762621,
