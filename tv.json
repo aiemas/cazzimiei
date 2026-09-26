@@ -1,5 +1,162 @@
 [
   {
+    "tmdb_id": 330800,
+    "imdb_id": "tt45390981",
+    "recent_until": 1790584129507,
+    "type": "tv",
+    "title": "The Wargame",
+    "original_title": "The Wargame",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/hQMau6PTLOHBJ70f8J0GK9rGS12.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3bI9N50lqZsjSqVHL2E3rFP524Y.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "overview": "",
+    "genres": [
+      "War & Politics",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 5
+      }
+    ]
+  },
+  {
+    "tmdb_id": 290720,
+    "imdb_id": "tt36832679",
+    "recent_until": 1790584129724,
+    "type": "tv",
+    "title": "Il problema finale",
+    "original_title": "El problema final",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+    "rating": 6.8,
+    "pegi": "",
+    "overview": "Nella primavera del 1959, un attore in pensione, che in passato aveva interpretato Sherlock Holmes, deve indagare su un omicidio avvenuto in un piccolo albergo su una minuscola isola vicino a Maiorca.",
+    "genres": [
+      "Crime",
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 4
+      }
+    ]
+  },
+  {
+    "tmdb_id": 71641,
+    "imdb_id": "tt5754602",
+    "recent_until": 1790584129944,
+    "type": "tv",
+    "title": "4 Blocks",
+    "original_title": "4 Blocks",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/5KY603CZqvxm86QSWuqfAxW7ra4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jEdce7g6VZHMoJ7DANX8NFQkVAW.jpg",
+    "rating": 6.4,
+    "pegi": "",
+    "overview": "Toni Hamadi vuole lasciarsi alle spalle una vita vissuta nel crimine, ma un'operazione della polizia lo costringe a tornare sui suoi passi. Toni deve affermarsi come capo del suo clan per non lasciare il controllo ad Abbas, il fratello testa calda. Quando un vecchio amico ricompare, si apre per Toni una nuova speranza. Riuscirà a sfuggire alla spirale del crimine?",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 1
+      },
+      {
+        "season": 1,
+        "episodes": 6
+      },
+      {
+        "season": 2,
+        "episodes": 7
+      },
+      {
+        "season": 3,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 288385,
+    "imdb_id": "tt40407840",
+    "recent_until": 1790584130165,
+    "type": "tv",
+    "title": "Paolo",
+    "original_title": "Paolo",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/eJok284sxTZzHviPNGpMCeVO448.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2kZsDfhTAAEAwcIsCbbgxOFqWN3.jpg",
+    "rating": 10.0,
+    "pegi": "",
+    "overview": "Seguite le vicende di Paolo, un uomo della classe operaia, che si intromette in modo inquietante nella vita di Téophane Tolbiac, un giovane e promettente politico.",
+    "genres": [
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 7
+      }
+    ]
+  },
+  {
+    "tmdb_id": 310133,
+    "imdb_id": "tt39379365",
+    "recent_until": 1790584130384,
+    "type": "tv",
+    "title": "4 Blocks Zero",
+    "original_title": "4 Blocks Zero",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xN1GTlEsPPa3YpDv4cYKEGUA30O.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
+    "rating": 8.0,
+    "pegi": "",
+    "overview": "Torna nella Berlino degli anni '90 e scopri la storia di una famiglia sospesa tra burocrazia, politica ed esclusione sociale, determinata a costruirsi una nuova vita in Germania.",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 60858,
+    "imdb_id": "tt3556944",
+    "recent_until": 1790584130719,
+    "type": "tv",
+    "title": "Heroes Reborn",
+    "original_title": "Heroes Reborn",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/bHSkrlwjJgHq8Aa6AdDJvWuSI2X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uPoPcVwRbHG34p0VwzGQ4aXb8n2.jpg",
+    "rating": 6.738,
+    "pegi": "",
+    "overview": "Ad un anno di distanza la città di Odessa è ancora sconvolta da quello che è stato descritto dai media come un grave attentato terroristico, la cui responsabilità sarebbe dei cosiddetti \"umani evoluti\", noti con l'abbreviazione evo, persone dotate di poteri soprannaturali la cui esistenza, dopo gli eventi del finale della quarta stagione di Heroes, risalenti a cinque anni prima, è ormai di dominio pubblico. Di conseguenza molti di tali soggetti sono ora costretti a vivere cercando di celare le proprie abilità, per sottrarsi alle discriminazioni della società, alle misure restrittive imposte dai governi, e per evitare di finire nel mirino di chi è in cerca di vendetta o vorrebbe sfruttarli per propri fini, come la compagnia Renautas, conglomerato che ha acquisito la Primatech Paper, o la coppia Luke e Joanne, che vorrebbe sterminarli per vendicare la morte del figlio rimasto vittima degli eventi di Odessa. Tra i protagonisti figurano il giovane Tommy Clark, uno studente in grado di far sparire cose e persone, la giapponese Miko Otomo, in grado di vivere in una realtà virtuale in cui va alla ricerca del padre, Carlos Gutierrez, che cerca di onorare la morte del fratello e Malina, una delle prime ad essere testimone di un pericolo immininente per l'intero pianeta. Presto, infatti, saranno chiamati ad unire le proprie forze per salvare il mondo.\n\nA cercare di mettere in chiaro tali vicende vi è anche Quentin Frady, un cospirazionista in cerca della sorella rapita, il quale si avvale dell'aiuto dell'ex dipendente della Primatech Noah Bennet, la cui memoria sugli eventi di Odessa è stata cancellata.",
+    "genres": [
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 19
+      },
+      {
+        "season": 1,
+        "episodes": 13
+      }
+    ]
+  },
+  {
     "tmdb_id": 332118,
     "imdb_id": "tt41377479",
     "recent_until": 1790498527478,
