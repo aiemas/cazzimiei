@@ -191,7 +191,6 @@ def crea_vod(data):
         elemento
         for elemento in film
         if "pegi" not in elemento
-        or "runtime" not in elemento
     ]
 
     print(
@@ -274,6 +273,77 @@ def crea_vod(data):
     print("PEGI film aggiornati.")
     print()
     print("PEGI film aggiornati.")
+
+    # --------------------------------------------------------
+    # Aggiorna RUNTIME dei film già presenti
+    # --------------------------------------------------------
+    film_da_aggiornare_runtime = [
+        elemento
+        for elemento in film
+        if "runtime" not in elemento
+    ]
+
+    print(
+        f"Film senza durata da aggiornare: "
+        f"{len(film_da_aggiornare_runtime)}"
+    )
+
+    for indice, elemento in enumerate(
+        film_da_aggiornare_runtime,
+        start=1
+    ):
+        tmdb_id = elemento.get("tmdb_id")
+
+        if not tmdb_id:
+            continue
+
+        print(
+            f"[RUNTIME FILM {indice}/{len(film_da_aggiornare_runtime)}] "
+            f"TMDB ID: {tmdb_id}"
+        )
+
+        try:
+            response = requests.get(
+                f"{TMDB_API_URL}/{tmdb_id}",
+                params={
+                    "api_key": api_key
+                },
+                timeout=30,
+                headers={
+                    "User-Agent": "Mozilla/5.0"
+                }
+            )
+
+            response.raise_for_status()
+
+            dati = response.json()
+
+            elemento["runtime"] = dati.get("runtime")
+
+            print(
+                f"    Durata: "
+                f"{dati.get('runtime') or 'non disponibile'} minuti"
+            )
+
+        except Exception as errore:
+            print(
+                f"    ERRORE RUNTIME FILM {tmdb_id}: "
+                f"{errore}"
+            )
+
+        time.sleep(0.1)
+
+    percorso_vod.write_text(
+        json.dumps(
+            film,
+            ensure_ascii=False,
+            indent=2
+        ),
+        encoding="utf-8"
+    )
+
+    print()
+    print("Durate film aggiornate.")
 
     # --------------------------------------------------------
     # Scarica da TMDB solamente i nuovi film
