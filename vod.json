@@ -1286,7 +1286,7 @@
     "tmdb_id": 1430077,
     "imdb_id": "tt35672862",
     "recent_until": 1790153244897,
-    "pegi": "",
+    "pegi": "10+",
     "title": "Hokum",
     "original_title": "Hokum",
     "year": "2026",
@@ -2311,7 +2311,7 @@
     "tmdb_id": 1767077,
     "imdb_id": null,
     "recent_until": 1789822906865,
-    "pegi": "14+",
+    "pegi": "",
     "title": "Maurizio Merluzzo: ...E se facessi uno spettacolo!?",
     "original_title": "Maurizio Merluzzo: ...E se facessi uno spettacolo!?",
     "year": null,
@@ -3542,7 +3542,7 @@
       "Mistero",
       "Thriller"
     ],
-    "pegi": ""
+    "pegi": "6+"
   },
   {
     "tmdb_id": 73065,
@@ -29919,7 +29919,7 @@
       "Crime",
       "Commedia"
     ],
-    "pegi": ""
+    "pegi": "T"
   },
   {
     "tmdb_id": 52238,
@@ -31931,7 +31931,7 @@
     "genres": [
       "Commedia"
     ],
-    "pegi": ""
+    "pegi": "T"
   },
   {
     "tmdb_id": 947861,
@@ -42311,7 +42311,7 @@
       "Thriller",
       "Crime"
     ],
-    "pegi": "T"
+    "pegi": ""
   },
   {
     "tmdb_id": 9696,
@@ -89180,7 +89180,7 @@
       "Romance",
       "Commedia"
     ],
-    "pegi": "6+"
+    "pegi": "14+"
   },
   {
     "tmdb_id": 20069,
@@ -106934,7 +106934,7 @@
       "Commedia",
       "Dramma"
     ],
-    "pegi": ""
+    "pegi": "14+"
   },
   {
     "tmdb_id": 53957,
@@ -121299,7 +121299,7 @@
     "genres": [
       "Dramma"
     ],
-    "pegi": ""
+    "pegi": "14+"
   },
   {
     "tmdb_id": 1238734,
@@ -139370,7 +139370,7 @@
       "Musica",
       "Avventura"
     ],
-    "pegi": ""
+    "pegi": "T"
   },
   {
     "tmdb_id": 13205,
@@ -141296,7 +141296,7 @@
       "Dramma",
       "Storia"
     ],
-    "pegi": ""
+    "pegi": "6+"
   },
   {
     "tmdb_id": 843617,
@@ -142172,7 +142172,7 @@
     "genres": [
       "Dramma"
     ],
-    "pegi": ""
+    "pegi": "T"
   },
   {
     "tmdb_id": 933131,
@@ -145104,7 +145104,7 @@
       "Dramma",
       "Guerra"
     ],
-    "pegi": ""
+    "pegi": "T"
   },
   {
     "tmdb_id": 1211199,
@@ -150543,7 +150543,7 @@
       "Thriller",
       "Dramma"
     ],
-    "pegi": ""
+    "pegi": "18+"
   },
   {
     "tmdb_id": 1110689,
@@ -150935,7 +150935,7 @@
       "Thriller",
       "Romance"
     ],
-    "pegi": ""
+    "pegi": "6+"
   },
   {
     "tmdb_id": 790493,
@@ -151708,7 +151708,7 @@
     "genres": [
       "Commedia"
     ],
-    "pegi": ""
+    "pegi": "6+"
   },
   {
     "tmdb_id": 926393,
@@ -181817,7 +181817,7 @@
       "Dramma",
       "Storia"
     ],
-    "pegi": ""
+    "pegi": "T"
   },
   {
     "tmdb_id": 37786,
@@ -213054,7 +213054,7 @@
     "genres": [
       "Dramma"
     ],
-    "pegi": ""
+    "pegi": "T"
   },
   {
     "tmdb_id": 9476,
@@ -214125,7 +214125,7 @@
       "Thriller",
       "Dramma"
     ],
-    "pegi": ""
+    "pegi": "T"
   },
   {
     "tmdb_id": 380,
@@ -222631,7 +222631,7 @@
       "Avventura",
       "Thriller"
     ],
-    "pegi": "Kids+13"
+    "pegi": "14+"
   },
   {
     "tmdb_id": 182127,
