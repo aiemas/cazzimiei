@@ -675,6 +675,81 @@ def crea_tv(data):
     print()
     print("PEGI serie TV aggiornati.")
     print()
+        # --------------------------------------------------------
+    # Aggiorna RUNTIME di tutte le serie già presenti
+    # --------------------------------------------------------
+    serie_da_aggiornare_runtime = [
+        elemento
+        for elemento in serie
+        if "runtime" not in elemento
+    ]
+
+    print(
+        f"Serie senza durata da aggiornare: "
+        f"{len(serie_da_aggiornare_runtime)}"
+    )
+
+    for indice, elemento in enumerate(
+        serie_da_aggiornare_runtime,
+        start=1
+    ):
+        tmdb_id = elemento.get("tmdb_id")
+
+        if not tmdb_id:
+            continue
+
+        print(
+            f"[RUNTIME TV {indice}/{len(serie_da_aggiornare_runtime)}] "
+            f"TMDB ID: {tmdb_id}"
+        )
+
+        try:
+            response = requests.get(
+                f"{TMDB_TV_API_URL}/{tmdb_id}",
+                params={
+                    "api_key": api_key
+                },
+                timeout=30,
+                headers={
+                    "User-Agent": "Mozilla/5.0"
+                }
+            )
+
+            response.raise_for_status()
+
+            dati = response.json()
+
+            runtime_list = dati.get("episode_run_time") or []
+            runtime = runtime_list[0] if runtime_list else None
+
+            elemento["runtime"] = runtime
+
+            print(
+                f"    Durata episodio: "
+                f"{runtime if runtime else 'non disponibile'} minuti"
+            )
+
+        except Exception as errore:
+            print(
+                f"    ERRORE RUNTIME TV {tmdb_id}: "
+                f"{errore}"
+            )
+
+        time.sleep(0.1)
+
+    # Salva tv.json dopo l'aggiornamento del runtime
+    percorso_tv.write_text(
+        json.dumps(
+            serie,
+            ensure_ascii=False,
+            indent=2
+        ),
+        encoding="utf-8"
+    )
+
+    print()
+    print("Durate serie TV aggiornate.")
+    print()
 
     # --------------------------------------------------------
     # Scarica da TMDB solamente le nuove serie
@@ -723,6 +798,8 @@ def crea_tv(data):
             response.raise_for_status()
 
             dati = response.json()
+            runtime_list = dati.get("episode_run_time") or []
+            runtime = runtime_list[0] if runtime_list else None
 
             pegi = ""
 
@@ -783,6 +860,7 @@ def crea_tv(data):
                 ),
                 "rating": dati.get("vote_average"),
                 "pegi": pegi,
+                "runtime": runtime,
                 "overview": dati.get("overview"),
                 "genres": [
                     genere.get("name")
