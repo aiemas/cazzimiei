@@ -191,6 +191,7 @@ def crea_vod(data):
         elemento
         for elemento in film
         if "pegi" not in elemento
+        or "runtime" not in elemento
     ]
 
     print(
@@ -271,6 +272,8 @@ def crea_vod(data):
 
     print()
     print("PEGI film aggiornati.")
+    print()
+    print("PEGI film aggiornati.")
 
     # --------------------------------------------------------
     # Scarica da TMDB solamente i nuovi film
@@ -337,6 +340,7 @@ def crea_vod(data):
                 "imdb_id": imdb_id,
                 "recent_until": int(time.time() * 1000) + (48 * 60 * 60 * 1000),
                 "pegi": pegi,
+                "runtime": dati.get("runtime"),
                 "title": dati.get("title"),
                 "original_title": dati.get("original_title"),
                 "year": (
