@@ -1,5 +1,281 @@
 [
   {
+    "tmdb_id": 121507,
+    "imdb_id": "tt0081429",
+    "recent_until": 1790760959504,
+    "pegi": "T",
+    "runtime": 91,
+    "title": "La ripetente fa l'occhietto al preside",
+    "original_title": "La ripetente fa l'occhietto al preside",
+    "year": "1980",
+    "poster": "https://image.tmdb.org/t/p/w500/cgRImjgfYzYCkwYYzRy0vg2ce9h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gibKgSU8qeBgQox6DmdjS39rxjX.jpg",
+    "rating": 5.7,
+    "overview": "Dopo una disavventura amorosa, Angela Pastorelli, figlia di un ricco industriale del Nord, riprende gli studi interrotti. Tra i compagni di classe c'è il bel Carlo Lucignani che la ragazza vorrebbe agganciare, ma che ha ricevuto dal padre, dipendente di Pastorelli, il veto a darsi da fare con Angela. E ancora tante altre amenità su faccende di cuore, possibili o impossibili, fortunate o meno.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1782117,
+    "imdb_id": "tt41905828",
+    "recent_until": 1790760959722,
+    "pegi": "NR",
+    "runtime": 80,
+    "title": "Rotten Tree",
+    "original_title": "Rotten Tree",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/1WLI75LGTS1fHC7HgaPnNmSspO0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iAL8oHnrp44lID2U3vBjoDzA7cx.jpg",
+    "rating": 0.0,
+    "overview": "Giulio è un giovane attore tormentato da un passato difficile segnato da crimini, droga e violenza. Mentre lavora sui set e promuove i suoi film, combatte contro i ricordi che lo perseguitano e il peso delle proprie fragilità.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 766702,
+    "imdb_id": null,
+    "recent_until": 1790760959880,
+    "pegi": "",
+    "runtime": 95,
+    "title": "Dio salvi la regina",
+    "original_title": "Dio salvi la regina",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/w500/eUwj0PAwNXWRuyOy4sYtYqI5cwW.jpg",
+    "backdrop": null,
+    "rating": 7.2,
+    "overview": "La storia di una donna che dichiara l'indipendenza della sua casa dallo Stato italiano.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 605294,
+    "imdb_id": "tt0097112",
+    "recent_until": 1790760960041,
+    "pegi": "T",
+    "runtime": 106,
+    "title": "Corsa di primavera",
+    "original_title": "Corsa di primavera",
+    "year": "1989",
+    "poster": "https://image.tmdb.org/t/p/w500/uAASKju6tQublSmhNqD0iLuJ8B3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8uhZ20XSBVoCuTiQiEGSgK5jaMV.jpg",
+    "rating": 7.0,
+    "overview": "Isacco Carlini, un bambino di nove anni, è figlio di genitori separati. Con la madre lascia Venezia, dove è vissuto fino a quel momento, per la provincia di Varese. Poiché sua madre lavora, Isacco deve arrangiarsi da solo in casa durante la giornata e lui ce la mette tutta. A Natale torna dal padre per le feste, a Venezia, e il nuovo distacco è doloroso.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1750432,
+    "imdb_id": "tt44171293",
+    "recent_until": 1790760960202,
+    "pegi": "",
+    "runtime": 29,
+    "title": "Spidey and the Avengers: Halloween Team-Up!",
+    "original_title": "Spidey and the Avengers: Halloween Team-Up!",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5Ur40GWrgeLePW6RAYZZoS5BRLk.jpg",
+    "rating": 10.0,
+    "overview": "",
+    "genres": [
+      "Animazione",
+      "Avventura",
+      "Fantasy",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 137220,
+    "imdb_id": "tt0077974",
+    "recent_until": 1790760960362,
+    "pegi": "",
+    "runtime": 85,
+    "title": "Napoli... Serenata Calibro 9",
+    "original_title": "Napoli... Serenata Calibro 9",
+    "year": "1978",
+    "poster": "https://image.tmdb.org/t/p/w500/rMHDjUNaxXiWRkk6f55sE7n9coI.jpg",
+    "backdrop": null,
+    "rating": 6.7,
+    "overview": "Don Salvatore Savastano, boss del contrabbando di sigarette, perde la moglie e l'unico figlio, uccisi da quattro rapinatori mascherati mentre la famiglia, riunita in un ristorante, festeggiava la Prima Comunione del bambino. Da quel momento don Salvatore non ha altro scopo ...",
+    "genres": [
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 820859,
+    "imdb_id": "tt10851944",
+    "recent_until": 1790760960524,
+    "pegi": "",
+    "runtime": 92,
+    "title": "L'ultimo giorno del toro",
+    "original_title": "L'ultimo giorno del toro",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/dFNAqaX3Cslh4XzrIy2HWFqBEpk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2Y48UeamncySNAGbfZFnMbtEHs7.jpg",
+    "rating": 5.7,
+    "overview": "Valerio è fondamentalmente un \"bravo ragazzo\", si rifugia nei suoi libri, nei suoi silenzi, nel \"non detto\" e in quelle poche parole dette a bassa voce. È timido e impacciato, è uno che vive la vita a testa bassa, mai a testa alta, un uomo da acquario, da ampolla, non certo un \"pesce di mare\". L'ultimo giorno del toro è una commedia sul male di vivere.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1115544,
+    "imdb_id": "tt27552099",
+    "recent_until": 1790760960686,
+    "pegi": "T",
+    "runtime": 107,
+    "title": "Mike & Nick & Nick & Alice",
+    "original_title": "Mike & Nick & Nick & Alice",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/FVYfy7sJLMS4ivsynwBnCWKFgw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+    "rating": 6.7,
+    "overview": "Due gangster e la donna che amano cercano di sopravvivere alla notte più pericolosa della loro vita. Come se non bastasse, si aggiunge un ingrediente inaspettato: una macchina del tempo.",
+    "genres": [
+      "Commedia",
+      "Fantascienza",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 9759,
+    "imdb_id": "tt0337921",
+    "recent_until": 1790760960910,
+    "pegi": "",
+    "runtime": 94,
+    "title": "Cellular",
+    "original_title": "Cellular",
+    "year": "2004",
+    "poster": "https://image.tmdb.org/t/p/w500/eb6XcHtM3ni3LTEWJpRRHHVtogG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AjHQO6ZNDHNSg6nWR5xeRruhTOf.jpg",
+    "rating": 6.4,
+    "overview": "Ryan, riceve una chiamata d'aiuto al suo cellulare da una donna che dice di essere stata rapita. Dice anche che i prossimi saranno suo figlio e suo marito. Il problema è che la donna non ha nessuna idea di dove si trovi, e la batteria del cellulare di Ryan non durerà a lungo...",
+    "genres": [
+      "Azione",
+      "Thriller",
+      "Dramma",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 17336,
+    "imdb_id": "tt1082601",
+    "recent_until": 1790760961087,
+    "pegi": "",
+    "runtime": 105,
+    "title": "Fighting",
+    "original_title": "Fighting",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/1jkMYIu0mCfOW96p0hcK4GNsPOP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lB6qOoGFKxkDZXApXqJNLi6BUJ2.jpg",
+    "rating": 6.0,
+    "overview": "Un giovane venditore di merce contraffatta, Shawn, attraversa un periodo difficile della sua vita, un po' per via di una tragedia passata ed un po' per causa del padre, che non ne vuole sapere niente di lui. Quando incontra Harvey, un ex lottatore di street-fighting che gli propone di entrare nel circuito delle lotte clandestine, Shawn intravede la possibilità di ritrovare quegli stimoli che ormai erano andati persi...",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Romance",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 21407,
+    "imdb_id": "tt0844479",
+    "recent_until": 1790760961247,
+    "pegi": "18+",
+    "runtime": 90,
+    "title": "The Collector",
+    "original_title": "The Collector",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/e33HSokiAxhj8ptpAr2xAU4jnd8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ywsta3d1MtV0MjQXs6uu0nnMjxi.jpg",
+    "rating": 6.6,
+    "overview": "La storia racconta di un tuttofare/ex- truffatore di nome Arkin, che pensa di ripagare il suo debito con l'ex moglie, rubando la casa di campagna del suo nuovo impiegato. Sfortunatamente per Arkin, un nemico ben peggiore si e' gia' impadronito della proprieta' e della famiglia. Man mano che si avvicina mezzanotte, Arkin diventa un riluttante eroe intrappolato da un 'Collezionista' mascherato in un labirinto di invenzioni letali, mentre cerca di salvare la famiglia che voleva derubare.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 85435,
+    "imdb_id": "tt1640711",
+    "recent_until": 1790760961407,
+    "pegi": "T",
+    "runtime": 97,
+    "title": "Tre uomini e una pecora",
+    "original_title": "A Few Best Men",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/2FoJKrEvVjz0qZZYPbP8j5MpvwW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/udq3vR6jqIT8U6lw4zmEMnfFSyK.jpg",
+    "rating": 5.7,
+    "overview": "L'inglese David e l'australiana Mia s'incontrano su una spiaggia paradisiaca, s'innamorano perdutamente e decidono di sposarsi. Il matrimonio è previsto nel cuore delle Blue Mountains, dove lo sposo si recherà soltanto alla vigilia del gran giorno, insieme con i suoi più tre cari amici. Sono loro la famiglia di David, orfano di entrambi i genitori: tre allegri dementi, con un fiuto speciale per i guai. Anche la famiglia di Mia, in ogni caso, è una sorpresa per il futuro sposo: proprietaria della più antica tenuta della zona, è capitanata da un ricco senatore convinto di dovere il suo successo ad un ariete di razza merino di nome Ramsy. Più che una cerimonia, uno scontro di civiltà.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 480001,
+    "imdb_id": "tt7339248",
+    "recent_until": 1790760961628,
+    "pegi": "",
+    "runtime": 104,
+    "title": "L'arte della difesa personale",
+    "original_title": "The Art of Self-Defense",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/zwEDuTmB1Ii1IoOe7qfh29ZLF3T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cUkpSTVt0iUbIVFDxvUGs747OMW.jpg",
+    "rating": 6.587,
+    "overview": "Un giovane viene aggredito per caso per strada. Decide allora di iscriversi in una palestra di karate guidata da un maestro tanto carismatico quanto misterioso per imparare a difendersi.",
+    "genres": [
+      "Commedia",
+      "Thriller",
+      "Dramma",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 618344,
+    "imdb_id": "tt11079148",
+    "recent_until": 1790760961787,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Justice League Dark: Apokolips War",
+    "original_title": "Justice League Dark: Apokolips War",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/w500/5cmSUUHvWsYuNZy1JXG7PU9a7DA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/miChhr7EXynB2R5JLvMcz2oBgi2.jpg",
+    "rating": 8.2,
+    "overview": "Dopo gli eventi di Justice League: War, Darkside lancia un secondo e definitivo attacco alla Terra. Constantine, Superman e Raven sono i tre eroi che si incaricano di radunare gli eroi, e non solo, terrestri per respingere l’invasione da Apokolips.",
+    "genres": [
+      "Animazione",
+      "Azione",
+      "Avventura",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 852445,
+    "imdb_id": "tt17569526",
+    "recent_until": 1790760962164,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Acid",
+    "original_title": "Acide",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/mIf1eZOjppp4BcfhNSR7Z4KAHR4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rzz7TBviOvDgIeujt2h9GwxV0AJ.jpg",
+    "rating": 5.7,
+    "overview": "Durante un'ondata di caldo, strane nuvole iniziano a riversarsi sulla pioggia acida, seminando devastazione e panico in tutta la Francia. In un mondo in bilico, una ragazza e i suoi genitori divorziati devono unire le forze per affrontare e cercare di sfuggire a questa catastrofe climatica.",
+    "genres": [
+      "Dramma",
+      "Fantascienza",
+      "Fantasy"
+    ]
+  },
+  {
     "tmdb_id": 11362,
     "imdb_id": "tt0245844",
     "recent_until": 1790672852267,
