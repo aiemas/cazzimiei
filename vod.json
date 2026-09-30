@@ -1,5 +1,280 @@
 [
   {
+    "tmdb_id": 311770,
+    "imdb_id": "tt4093680",
+    "recent_until": 1790933541267,
+    "pegi": "",
+    "runtime": 105,
+    "title": "My Skinny Sister",
+    "original_title": "Min lilla syster",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/5p0WzbCXKtv0Dd6r9rrmbDAANhe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/84t65WHiL7KngzyOstcb9YQYsBV.jpg",
+    "rating": 6.8,
+    "overview": "Stella sta entrando nell'eccitante mondo dell'adolescenza, ma scopre che sua sorella maggiore e modello Katja nasconde un disordine alimentare. La malattia fa lentamente a pezzi la famiglia. Una storia di gelosia, amore e tradimento.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1615258,
+    "imdb_id": "tt37797599",
+    "recent_until": 1790933541452,
+    "pegi": "18+",
+    "runtime": 101,
+    "title": "Cinghia",
+    "original_title": "Cinghia",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/vXS381KmGB2HI6abhTGBpjvOaNE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jXfpnolsnQqcA1rC5LloPf7PLUn.jpg",
+    "rating": 10.0,
+    "overview": "",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1330421,
+    "imdb_id": "tt26783625",
+    "recent_until": 1790933541631,
+    "pegi": "",
+    "runtime": 94,
+    "title": "Bone Lake",
+    "original_title": "Bone Lake",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+    "rating": 5.9,
+    "overview": "Diego e Sage sono intrappolati in una routine romantica nonostante il fatto che il primo abbia recentemente lasciato il proprio lavoro per concentrarsi sulla scrittura di un acclamato romanzo erotico. Unica fonte di sostentamento della famiglia, Sage si scopre sempre più frustrata in camera da letto e risentita per il suo ruolo di fidanzata di supporto…",
+    "genres": [
+      "Horror",
+      "Mistero",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 82347,
+    "imdb_id": "tt0164000",
+    "recent_until": 1790933541810,
+    "pegi": "",
+    "runtime": 88,
+    "title": "Ciao ma'...",
+    "original_title": "Ciao ma'...",
+    "year": "1988",
+    "poster": "https://image.tmdb.org/t/p/w500/3xWnSlnaRwQEyG8SXwVsTQrXZUD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zQMa1v8BI6FqF9jGzuUp8rGoLsN.jpg",
+    "rating": 5.8,
+    "overview": "Un sabato qualsiasi all'inizio dell'estate a Roma, con le scuole appena chiuse e le vacanze a portata di mano. Il caldo fa bene a Roma, fa nascere nuove storie, rapide fughe al mare, e soprattutto porta una striscia di musica fragorosa nelle strade, nelle case, nei negozi, nelle scuole, nei prati, nei concerti. Ed è proprio attorno ad un concerto rock che si costruiscono man mano le quattro storie dei giovani protagonisti di questo film. Il concerto è quello vero di Vasco Rossi al Palasport. Le quattro storie sono quelle di due ragazzine per bene, di due commesse che lavorano in una jeanseria al centro, di due \"coatti\" tutto sole, muscoli e moto, di un teenager rocchettaro. Quattro storie parallele e intrecciate, quattro fette diverse e complementari di un unico viaggio per adolescenti che attraversa una grande città come Roma.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1263337,
+    "imdb_id": "tt7526136",
+    "recent_until": 1790933541996,
+    "pegi": "6+",
+    "runtime": 95,
+    "title": "Heart of the Beast - Nel profondo selvaggio",
+    "original_title": "Heart of the Beast",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+    "rating": 7.648,
+    "overview": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+    "genres": [
+      "Avventura",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 5922,
+    "imdb_id": "tt0080907",
+    "recent_until": 1790933542175,
+    "pegi": "VM14",
+    "runtime": 96,
+    "title": "Il cacciatore di taglie",
+    "original_title": "The Hunter",
+    "year": "1980",
+    "poster": "https://image.tmdb.org/t/p/w500/2v0iWBsDY5ESR4LzobKjwsnjMUQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uJThm2CPZZbnoH3HG9rDRXkZuj6.jpg",
+    "rating": 5.929,
+    "overview": "Ralph Thorson è un cacciatore di taglie incaricato di ricondurre sulla retta via chi viola la regole della libertà vigilata. Ralph è sposato con una maestra che sta per dargli un figlio, ma lui non vorrebbe il bambino perché il mondo che sta per accogliere la creatura è intriso dal Male, come gli insegna il suo mestiere. Sulle tracce di Ralph, per giunta, c’è Rocco Mason, un bandito che a causa del “cacciatore” si è fatto un bel po’ di galera...",
+    "genres": [
+      "Thriller",
+      "Azione",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 914,
+    "imdb_id": "tt0032553",
+    "recent_until": 1790933542358,
+    "pegi": "T",
+    "runtime": 126,
+    "title": "Il grande dittatore",
+    "original_title": "The Great Dictator",
+    "year": "1940",
+    "poster": "https://image.tmdb.org/t/p/w500/6jiWvgyT2BxWPuVyRl43n2RBZiD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg",
+    "rating": 8.3,
+    "overview": "In Tomania il dittatore Adenoid Hynkel scatena la repressione contro gli ebrei. La bella Hannah e il suo innamorato, un barbiere straordinariamente somigliante a Hynkel, fuggono. Il barbiere, dapprima catturato, scappa dal lager e si imbatte per caso nel vero dittatore che viene arrestato in vece sua. Dai microfoni del führer il barbiere pronuncia al mondo un lungo messaggio di pace e speranza.  Primo film interamente parlato di Chaplin, è una geniale satira antinazista realizzata quando le armate del Terzo Reich avevano ormai soggiogato l'intera Europa. Tra le sequenze da antologia, la danza di Hynkel con il mappamondo e i duetti con Napoloni/ Mussolini.",
+    "genres": [
+      "Commedia",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 599,
+    "imdb_id": "tt0043014",
+    "recent_until": 1790933542537,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Viale del tramonto",
+    "original_title": "Sunset Boulevard",
+    "year": "1950",
+    "poster": "https://image.tmdb.org/t/p/w500/nx6FlG1BMRYrHkUeQ2jJ1o3qL6n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+    "rating": 8.274,
+    "overview": "Stagionata star del muto, Norma Desmond si nutre di gloriosi ricordi e vive isolata nella sua villa. Un giovane sceneggiatore al verde la conosce per caso, accetta di scrivere il copione che dovrebbe segnarne il trionfale ritorno alle scene e ne diviene l'amante.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1401281,
+    "imdb_id": "tt34819091",
+    "recent_until": 1790933542800,
+    "pegi": "",
+    "runtime": 137,
+    "title": "Il testamento di Ann Lee",
+    "original_title": "The Testament of Ann Lee",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/kJwLIiIQP7Vp6shSGI7HBnv6Pxb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jZNR5onRZijwyGr5iWbs3J9QcYr.jpg",
+    "rating": 6.3,
+    "overview": "Una favola epica ispirata alla vita di Ann Lee, fondatrice degli Shakers, un movimento religioso radicale nato alla fine del XVIII secolo.",
+    "genres": [
+      "Storia",
+      "Dramma",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 9645,
+    "imdb_id": "tt0288477",
+    "recent_until": 1790933542986,
+    "pegi": "",
+    "runtime": 91,
+    "title": "Nave fantasma",
+    "original_title": "Ghost Ship",
+    "year": "2002",
+    "poster": "https://image.tmdb.org/t/p/w500/3WmzaasLdQo7anrp8PxeO9LlpG7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/r4yVwsLF2pJr4C50pWizn9fYNbF.jpg",
+    "rating": 6.015,
+    "overview": "Dopo la scoperta di una nave scomparsa nel 1953 nel mare di Barent, l'equipaggio di una flotta sale a bordo per una perlustrazione. Ben presto scopriranno che la nave è abitata da presenze demoniache.",
+    "genres": [
+      "Horror",
+      "Mistero",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 10632,
+    "imdb_id": "tt0269347",
+    "recent_until": 1790933543166,
+    "pegi": "",
+    "runtime": 94,
+    "title": "The Hunted - La preda",
+    "original_title": "The Hunted",
+    "year": "2003",
+    "poster": "https://image.tmdb.org/t/p/w500/yNP1Xs8zSNZElulsOEiVau9GDq9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2T3k09YnrM03CQd1yK3ZQLEHEZH.jpg",
+    "rating": 6.176,
+    "overview": "Un ex studente della scuola di guerra, che è stato uno dei migliori delle forze speciali, ora è impazzito e riempie di cadaveri il bosco in cui si è rifugiato. Il suo insegnante decide di dargli la caccia, di braccarlo come un animale per poterlo neutralizzare definitivamente. Una riflessione sulle conseguenze della guerra sull'uomo, un film che racconta del rimorso e della follia di esseri umani che, per motivi diversi e con modalità diverse, sono stati costretti, nel passato, a venire a patti con la violenza. La narrazione è spesso eccessiva e disarmonica, ma risulta efficace nel parlare del conflitto: di due paesi, di due uomini, di due modi di vedere. L'impostazione del racconto è manichea, ma serve al regista per dimostrare che la presa di coscienza (da parte di chi ha subìto o ha partecipato ad una guerra) necessariamente porta alla perdita di lucidità e di equilibrio, alla pazzia, appunto.",
+    "genres": [
+      "Dramma",
+      "Azione",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 1263012,
+    "imdb_id": "tt15181326",
+    "recent_until": 1790933543345,
+    "pegi": "10+",
+    "runtime": 106,
+    "title": "Il filo del ricatto -  Dead Man's Wire",
+    "original_title": "Dead Man's Wire",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/oJ6NJSGFvhwlzFebNy5oMyW61Fv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ulw8SrKbDeDrsSVNKPb5211AseI.jpg",
+    "rating": 6.5,
+    "overview": "La mattina dell’8 febbraio 1977, Anthony G. “Tony” Kiritsis, quarantaquattro anni, entrò nell’ufficio di Richard O. Hall, presidente della Meridian Mortgage Company, e lo prese in ostaggio con un fucile a canne mozze calibro 12 collegato con un “dead man’s wire”, un cavo teso dal grilletto al collo di Hall. Questa è la vera storia del confronto che sconvolse il mondo: Tony chiese cinque milioni di dollari, di non essere né accusato né processato, e delle scuse personali da parte degli Hall per averlo truffato di ciò che gli era “dovuto”.",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 28704,
+    "imdb_id": "tt1007950",
+    "recent_until": 1790933543522,
+    "pegi": "",
+    "runtime": 92,
+    "title": "Memorie di pesce rosso",
+    "original_title": "Diminished Capacity",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/w500/7PoeNRzjLQljPYJAkH1bA6aWJMt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7OydFd0QlUiVA1xK4SvxFMWaTq9.jpg",
+    "rating": 5.4,
+    "overview": "Il protagonista, un giornalista che a seguito di un colpo in testa soffre di amnesia, decide di affrontare un viaggio con lo zio malato di Alzheimer e la sua compagna, al fine di vendere una rarissima baseball card.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 192145,
+    "imdb_id": "tt2343793",
+    "recent_until": 1790933543710,
+    "pegi": "",
+    "runtime": 130,
+    "title": "Third Person",
+    "original_title": "Third Person",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/zRwBCQG3vcx5hzuFAkvv1Mf9fqZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sKnbKlgMDCTDTtKm91wJ4vSbyIH.jpg",
+    "rating": 5.9,
+    "overview": "Tre storie d’amore, passione, fiducia e tradimento che prendono vita in tre città diverse, Parigi, New York e Roma, nelle quali si dipanano le vicende di tre coppie che sembrano non avere nulla in comune, se non un flebile, impalpabile legame. Il film è un mistero dove la verità è rivelata a poco a poco, dove gli indizi vengono colti con la coda dell’occhio e dove nulla è veramente come appare.",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 943134,
+    "imdb_id": "tt16606592",
+    "recent_until": 1790933544234,
+    "pegi": "",
+    "runtime": 127,
+    "title": "The Animal Kingdom",
+    "original_title": "Le Règne animal",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/mTRz4UlKXUDxmfWrpefnjcQNsQV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/H41DJiw7Q8xn6bWC75eyaavp9L.jpg",
+    "rating": 6.938,
+    "overview": "In un mondo colpito da un'ondata di mutazioni che stanno gradualmente trasformando alcuni esseri umani in animali, François fa tutto il possibile per salvare sua moglie, colpita da questa misteriosa condizione. Mentre alcune creature scompaiono in una foresta vicina, François parte con il figlio sedicenne Émile per una ricerca che cambierà le loro vite per sempre.",
+    "genres": [
+      "Avventura",
+      "Dramma",
+      "Fantascienza"
+    ]
+  },
+  {
     "tmdb_id": 230266,
     "imdb_id": "tt2667960",
     "recent_until": 1790847639304,

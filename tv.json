@@ -1,5 +1,170 @@
 [
   {
+    "tmdb_id": 137948,
+    "imdb_id": "tt13236336",
+    "recent_until": 1790933545441,
+    "type": "tv",
+    "title": "Sacrifice",
+    "original_title": "Sacrifice",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/k4aFdDci9HyTe5PmyCDMAMxaPzP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5tMQYIpLEnzzCtEybLY9LdSlqnP.jpg",
+    "rating": 9.2,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 11
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "tmdb_id": 318918,
+    "imdb_id": "tt41538904",
+    "recent_until": 1790933545612,
+    "type": "tv",
+    "title": "LEGO ONE PIECE",
+    "original_title": "LEGO ONE PIECE",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/AuhrT2YLjhcsVUhLg6SS2Ig3EBC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
+    "rating": 8.714,
+    "pegi": "",
+    "runtime": null,
+    "overview": "I Cappello di Paglia solcano i mari in uno speciale LEGO in due parti! Segui Luffy, Nami, Usop e la ciurma nella loro epica avventura, reinventata mattoncino su mattoncino.",
+    "genres": [
+      "Animazione",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Commedia",
+      "Famiglia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 2
+      }
+    ]
+  },
+  {
+    "tmdb_id": 41372,
+    "imdb_id": "tt3856074",
+    "recent_until": 1790933545800,
+    "type": "tv",
+    "title": "Gino il Pollo perso nella rete",
+    "original_title": "Gino il Pollo perso nella rete",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/uzkstcWWomEN4QFrOQIuU6KwZYo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ymPGEraGm5nFKp2MPMxCU1Gb2h4.jpg",
+    "rating": 9.0,
+    "pegi": "",
+    "runtime": 13,
+    "overview": "Gino il pollo (o Gino The Chicken) è un personaggio comico satirico creato dall'artista digitale Andrea Zingoni. Deve principalmente la sua iniziale popolarità a cartoon di parodie musicali diffusi attraverso internet.\n\nGino il Pollo ha un caratterino tutto pepe: comico e tenero, cantante e filosofo, instancabile ballerino ed irresistibile cascamorto, maestro di kung-fu e difensore dei più deboli. Quando il diabolico Colby lo rapisce per trasferirlo dentro internet, Gino sfugge al controllo dello scienziato: da quel momento il pollo è perennemente in fuga da Capo Colby, da Ma', la Mente Alveare, e da altri loschi figuri che vogliono dominare la Terra.",
+    "genres": [
+      "Animazione",
+      "Kids"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 52
+      }
+    ]
+  },
+  {
+    "tmdb_id": 304842,
+    "imdb_id": "tt36210894",
+    "recent_until": 1790933546013,
+    "type": "tv",
+    "title": "The Drop: A Snowfall Saga",
+    "original_title": "The Drop: A Snowfall Saga",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
+    "rating": 7.9,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 2560,
+    "imdb_id": "tt0063962",
+    "recent_until": 1790933546197,
+    "type": "tv",
+    "title": "UFO",
+    "original_title": "UFO",
+    "year": "1970",
+    "poster": "https://image.tmdb.org/t/p/w500/yMli4dKEXuTUv2fdpDfeDjbnRwm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pYcSxml94LU0Emgc69o3CCcTq5Q.jpg",
+    "rating": 7.7,
+    "pegi": "",
+    "runtime": 50,
+    "overview": "In un prossimo futuro, la Terra subisce delle incursioni da alieni. Dal 1970 le autorità politiche e militari acquisiscono le prime prove certe e viene quindi istituita un'organizzazione militare segreta, SHADO (Supreme Headquarters Alien Defence Organisation, comando supremo dell'organizzazione di difesa contro gli extraterrestri), il cui emblema è un uomo che proietta un'ombra, il cui vocabolo in lingua inglese è appunto SHADO(w).\n\nTrasmesso prima con il titolo di \"Minaccia dallo spazio\" nel 1970 e l'anno successivo vol titolo definitivo \"UFO\".",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma",
+      "Action & Adventure"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 15
+      },
+      {
+        "season": 1,
+        "episodes": 26
+      }
+    ]
+  },
+  {
+    "tmdb_id": 32729,
+    "imdb_id": "tt1591493",
+    "recent_until": 1790933546459,
+    "type": "tv",
+    "title": "No Ordinary Family",
+    "original_title": "No Ordinary Family",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/2Hytyjin1oa8kwpPDTpRiEQvXpL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mWy8RbyTWASiz2irDESGILVkGJ4.jpg",
+    "rating": 7.0,
+    "pegi": "",
+    "runtime": 42,
+    "overview": "La serie segue le vicende della famiglia Powell, una tipica famiglia americana. Al fine di passare più tempo assieme, la famiglia organizza una vacanza in Brasile, ma a causa di una perturbazione l'aereo su cui si trovano si schianta nelle acque di un lago nella foresta amazzonica. Salvi miracolosamente, da quel momento le loro vite non saranno più le stesse. Tornati a casa i membri della famiglia si accorgono di aver acquisito poteri straordinari, con cui dovranno convivere.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy",
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 1
+      },
+      {
+        "season": 1,
+        "episodes": 20
+      }
+    ]
+  },
+  {
     "tmdb_id": 273866,
     "imdb_id": "tt37022512",
     "recent_until": 1790847642607,
