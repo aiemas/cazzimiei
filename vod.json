@@ -1,5 +1,118 @@
 [
   {
+    "tmdb_id": 159121,
+    "imdb_id": "tt2215395",
+    "recent_until": 1791021528749,
+    "pegi": "",
+    "runtime": 87,
+    "title": "Paulette",
+    "original_title": "Paulette",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/s18cdLY9D1Qoj2X4au7TCt7RzZ8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nS2QTnSyG0TTnyLAIrjud1aSk7N.jpg",
+    "rating": 6.5,
+    "overview": "Paulette è una signora anziana, che vive da sola in un complesso residenziale alla periferia di Parigi. Con la sua magra pensione non riesce a sbarcare il lunario. Una sera, osservando alcuni misteriosi movimenti fuori dal suo palazzo, Paulette scopre un mondo che non conosceva. Decide così di iniziare a vendere cannabis.",
+    "genres": [
+      "Crime",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1508701,
+    "imdb_id": "tt38681843",
+    "recent_until": 1791021528890,
+    "pegi": "T",
+    "runtime": 113,
+    "title": "...che Dio perdona a tutti",
+    "original_title": "...che Dio perdona a tutti",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tj7kgHJsIQIu9Ly4tsLLBER76BX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8q3KfFYAlAk0ldhA7JJTAR0eupo.jpg",
+    "rating": 6.208,
+    "overview": "Arturo è un agente immobiliare siciliano, solo, goloso e disilluso. La sua vita monotona trova finalmente una scintilla grazie alla sua unica, vera passione: la pasticceria siciliana. È proprio davanti a un vassoio di cannoli che incontra la sua anima gemella, Flora. Lei è tutto ciò che ha sempre sognato: bella, spiritosa e brillante. Come se non bastasse, è anche una pasticcera!  Tuttavia, tra i due si frappone un ostacolo divino: Dio.  Mentre Flora è una cattolica devota e fervente, Arturo ha abbandonato la fede quando era ancora un bambino. Nel disperato tentativo di non perdere la donna dei suoi sogni, decide di \"fingere finché non diventa vero\", spacciandosi per un uomo dalle profonde convinzioni religiose. Ad accompagnare Arturo in questo caotico viaggio verso la verità, la fede e il cuore di Flora, ci sarà un mentore e amico d'eccezione: Papa Francesco in persona.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1290792,
+    "imdb_id": "tt32192973",
+    "recent_until": 1791021529034,
+    "pegi": "",
+    "runtime": 114,
+    "title": "One Spoon of Chocolate",
+    "original_title": "One Spoon of Chocolate",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ybO8oLgpXRhaPmHI6C2FUpxSRrK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5CdoqLaj2VjMkfXMwUtUwziQJDX.jpg",
+    "rating": 5.5,
+    "overview": "Dopo aver servito il suo paese nell'esercito, Unique viene falsamente accusato di aggressione e mandato in prigione. Una volta rilasciato, Unique si stabilisce in Ohio per ricominciare una nuova vita, riallacciando i rapporti con il suo unico parente sopravvissuto, Ramsey. Ma qualcosa di insidioso si cela in quella città: lo sceriffo razzista e la sua banda di seguaci altrettanto bigotti hanno tutti una propensione per la violenza e condividono un macabro segreto riguardante una recente serie di giovani uomini neri scomparsi. Quando mettono gli occhi su Unique e gli sconvolgono la vita, l'ex soldato non ha altra scelta che scatenare il caos contro lo sceriffo e i suoi scagnozzi.",
+    "genres": [
+      "Azione",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 15158,
+    "imdb_id": "tt0095863",
+    "recent_until": 1791021529177,
+    "pegi": "",
+    "runtime": 97,
+    "title": "Fantasmi II",
+    "original_title": "Phantasm II",
+    "year": "1988",
+    "poster": "https://image.tmdb.org/t/p/w500/zBPp1SXNcl4mpdZDGAn6Ska4KMI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rC2HpslTzrhzJ605DHBPkeITpt2.jpg",
+    "rating": 6.2,
+    "overview": "Mike è stato appena dimesso da un istituto psichiatrico, convinto che gli eventi accaduti nel primo film fossero solo frutto della sua immaginazione. Ma una volta libero, Mike contatta Reggie, e i due uniscono le forze per rimettersi alla caccia dell'Uomo Alto, che profana le tombe e rianima i cadaveri con l'aiuto dei suoi terribili gnomi. Tuttavia una bellissima ragazza compare regolarmente nei sogni di Mike, chiedendo aiuto, prima che l'uomo alto la trovi.",
+    "genres": [
+      "Azione",
+      "Horror",
+      "Fantascienza",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 11504,
+    "imdb_id": "tt0103003",
+    "recent_until": 1791021529338,
+    "pegi": "",
+    "runtime": 88,
+    "title": "Cose dell'altro mondo",
+    "original_title": "Suburban Commando",
+    "year": "1991",
+    "poster": "https://image.tmdb.org/t/p/w500/nZhNteROTjSYBLSbmowDqyVjPIw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1Shfc1ceGtqQnnZzUoL8QZlZ13r.jpg",
+    "rating": 4.719,
+    "overview": "Durante le convulse fasi di una guerra intergalattica, il guerriero Shep, inseguito da due killer, è costretto a rifugiarsi sulla Terra e in attesa di riparare la nave spaziale trova alloggio presso Charlie e Jenny Wilcox, tipica famiglia americana alle prese con problemi finanziari e di lavoro. Casualmente, Charlie scopre di avere in casa un extraterrestre, e, coinvolto in una sequenza di tragicomiche situazioni, finisce col condividerne gli sforzi per sfuggire ai sicari che vogliono ucciderlo.",
+    "genres": [
+      "Azione",
+      "Commedia",
+      "Famiglia",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 9638,
+    "imdb_id": "tt0079714",
+    "recent_until": 1791021529479,
+    "pegi": "",
+    "runtime": 88,
+    "title": "Fantasmi",
+    "original_title": "Phantasm",
+    "year": "1979",
+    "poster": "https://image.tmdb.org/t/p/w500/kmjMYHMHfa1ZPtZlgmHUgcQyZqH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/71L3VXCRqpfdrSVy3iIWmyKXLTX.jpg",
+    "rating": 6.493,
+    "overview": "Un ragazzino, Mike, mentre assiste nel cimitero di Perigord alla tumulazione della salma di un amico di suo fratello Jody, è testimone di un fatto inquietante. Convintosi che il becchino, un uomo alto e dall'aspetto sinistro, abbia trafugato la bara portandosela via nel suo carro funebre, Mike cerca di avvertire Jody, che però non gli crede. Per scoprire la verità, a Mike non resta altro da fare che introdursi notte tempo nel locale mausoleo, dove assiste alle tremende operazioni del becchino: costui è in reltà il \"Tall Man\", una creatura proveniente da un'altra dimensione, che trasforma i cadaveri in ripugnanti gnomi dal sangue giallastro ed è protetto da micidiali sfere di metallo volanti...",
+    "genres": [
+      "Horror",
+      "Fantascienza"
+    ]
+  },
+  {
     "tmdb_id": 311770,
     "imdb_id": "tt4093680",
     "recent_until": 1790933541267,

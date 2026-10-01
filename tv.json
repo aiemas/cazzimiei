@@ -1,5 +1,120 @@
 [
   {
+    "tmdb_id": 30916,
+    "imdb_id": "tt1101237",
+    "recent_until": 1791021530400,
+    "type": "tv",
+    "title": "Imagination Movers",
+    "original_title": "Imagination Movers",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/w500/2OKskLXccICv71IKAom0w5aWoUP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8pmnwKpgziQV2HLvXrjDCveYilE.jpg",
+    "rating": 6.5,
+    "pegi": "T",
+    "runtime": 30,
+    "overview": "",
+    "genres": [
+      "Commedia",
+      "Famiglia"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 1
+      },
+      {
+        "season": 1,
+        "episodes": 26
+      },
+      {
+        "season": 2,
+        "episodes": 25
+      },
+      {
+        "season": 3,
+        "episodes": 23
+      }
+    ]
+  },
+  {
+    "tmdb_id": 271855,
+    "imdb_id": "tt13924304",
+    "recent_until": 1791021530578,
+    "type": "tv",
+    "title": "Sandokan",
+    "original_title": "Sandokan",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/tZm1od3P9PrM9bEhHqVqAMcmAN5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1AA5xIVt1PTrbLxCCBxRyvjdpqO.jpg",
+    "rating": 7.6,
+    "pegi": "",
+    "runtime": 50,
+    "overview": "Borneo, 1841. Sandokan è un pirata che solca il Mar della Cina col fidato Yanez. Un'antica profezia, l'amore proibito per la bella Marianna e la caccia spietata scatenata da Lord Brooke, audace avventuriero inglese e innamorato della stessa donna, portano il pirata a compiere una serie di scelte che lo trasformeranno nella \"Tigre della Malesia\".",
+    "genres": [
+      "Action & Adventure",
+      "Dramma",
+      "War & Politics"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 237052,
+    "imdb_id": null,
+    "recent_until": 1791021530737,
+    "type": "tv",
+    "title": "Lost Station Girls: Il mostro della stazione",
+    "original_title": "Les Disparues de la gare",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/rluDNclq0gQaQjbDuTDvsnYSXxs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kXBr9CWrutta2PxUkbYlI9EXrC8.jpg",
+    "rating": 7.6,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Negli anni Novanta, la giovane investigatrice Flore Robin indaga sulla scena di un crimine scioccante a Perpignan. L’evento dà il via a una serie di omicidi e a una caccia spietata che la accompagneranno per quasi 20 anni…",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 294895,
+    "imdb_id": "tt37452743",
+    "recent_until": 1791021530878,
+    "type": "tv",
+    "title": "Meet Iron Man and His Awesome Friends",
+    "original_title": "Meet Iron Man and His Awesome Friends",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/bWkjUTWpn80glmaukmnmgMm85z0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iE0hoRpswifSpguQLVNhTe76JpL.jpg",
+    "rating": 3.8,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Kids",
+      "Animazione",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 20
+      }
+    ]
+  },
+  {
     "tmdb_id": 137948,
     "imdb_id": "tt13236336",
     "recent_until": 1790933545441,
