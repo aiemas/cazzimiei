@@ -1,5 +1,328 @@
 [
   {
+    "tmdb_id": 257087,
+    "imdb_id": "tt3533916",
+    "recent_until": 1791106493063,
+    "pegi": "",
+    "runtime": 93,
+    "title": "Verità sepolte",
+    "original_title": "The Veil",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/rbqYjuu5pVIrN0Rd0S1GHzdRX5d.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/q7G6cglNDn4DzhnLVO6LOLK3Aks.jpg",
+    "rating": 4.9,
+    "overview": "Un carismatico leader negli anni Ottanta ha condotto i suoi seguaci al più grande suicidio di massa nella storia degli Stati Uniti. Si è salvata solo una bambina, che venticinque anni dopo decide di ritornare sui luoghi della carneficina in compagnia di una regista e della sua troupe in cerca di risposte su quel fatidico giorno. Verranno così alla luce misteri soprannaturali che cambieranno le vite di tutti quanti.",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 366681,
+    "imdb_id": "tt4235184",
+    "recent_until": 1791106493287,
+    "pegi": "",
+    "runtime": 70,
+    "title": "Effetti indesiderati",
+    "original_title": "Effetti indesiderati",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/jZVIIbuYsWhudHRpcKiHcKpW5LV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oXLJTiuLiNznHh5UhIBeOC0cEEa.jpg",
+    "rating": 4.3,
+    "overview": "I tre fratelli La Vecchia, dediti alla produzione di mozzarella di bufala, sono sull’orlo del fallimento a causa del danno di immagine provocato dalla Terra dei Fuochi. Ma la fortuna bussa alla loro porta quando un furgone carico di una bevanda dall’alto potere afrodisiaco rovina accidentalmente nella loro proprietà. I silos del latte sembrano un ottimo nascondiglio, ma la comunità del paese, a loro insaputa, si organizza per riavviare la produzione del caseificio dando vita a una singolare produzione di mozzarella afrodisiaca.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 121342,
+    "imdb_id": "tt0070111",
+    "recent_until": 1791106493563,
+    "pegi": "T",
+    "runtime": 94,
+    "title": "Giovannona Coscialunga disonorata con onore",
+    "original_title": "Giovannona Coscialunga disonorata con onore",
+    "year": "1973",
+    "poster": "https://image.tmdb.org/t/p/w500/iJ9oy9JiZRDSUeee7JVWqoyuBwH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3WKrovKHfJTJzYOqpYtCftr9iDX.jpg",
+    "rating": 5.946,
+    "overview": "L'industriale La Noce, proprietario di un caseificio dalle parti di Catania, è angosciato dalle norme antinquinamento. Ma sa che per farla franca basta ingraziarsi l'onorevole Pedicò. Il problema è che Pedicò, normalmente, in cambio di un favore chiede le grazie della moglie del richiedente. E la moglie di La Noce è un'inappetibile bigotta. L'unica soluzione è sostuituirla con una prostituta.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1121694,
+    "imdb_id": "tt25188294",
+    "recent_until": 1791106493782,
+    "pegi": "6+",
+    "runtime": 83,
+    "title": "Fanum – Ombre dal passato",
+    "original_title": "Fanum – Ombre dal passato",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/uZoEeSvlEkwXjpp6s0X164dkinP.jpg",
+    "backdrop": null,
+    "rating": 10.0,
+    "overview": "Marianne (Valeria Solarino) è un’archeologa anglo-italiana, grande esperta della civiltà etrusca, che torna a Tarquinia per vendere la casa di famiglia. Nello studio ritrova le ultime ricerche della madre, appena morta, sul Fanum Voltumnae, luogo sacro per gli etruschi da sempre studiato ma mai localizzato con certezza. Per la giovane donna scoprire questo luogo significa rimettersi in gioco e ritrovare se stessa. Ma la sua ricerca viene ostacolata da un fanatico assassino che sembra giungere da un lontano passato mietendo vittime con sacrifici rituali tra chiunque tenti di profanare i segreti degli Etruschi. Tra omicidi e colpi di scena, Marianne si troverà costretta a mettersi personalmente sulle tracce del diabolico killer per scagionarsi dalle accuse del rigido commissario Braschi (Michele Rosiello) che la considera il principale sospettato.",
+    "genres": [
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 106915,
+    "imdb_id": "tt0084001",
+    "recent_until": 1791106494007,
+    "pegi": "",
+    "runtime": 88,
+    "title": "Giggi il bullo",
+    "original_title": "Giggi il bullo",
+    "year": "1982",
+    "poster": "https://image.tmdb.org/t/p/w500/nF5Hpr6q5nFCST7CUXmfiqfBi0N.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/c2ygKGfodkKe3xdshqjsXFaegIi.jpg",
+    "rating": 5.5,
+    "overview": "Giggi è un \"vivace\" ragazzo di borgata convinto che \"nella vita devi sempre menà per primo\". E, bene o male, egli si guadagna una certa qual popolarità, fra botte date e botte prese, a destra e a manca, nelle sue giornate che non possono concludersi che tra le sbarre della galera o sulla lettiga del pronto soccorso.  Parlare di soggetto, di sceneggiatura o di regia per questo film sarebbe del tutto improprio. Abbiamo solo una serie di gag incollate le une alle altre in qualche modo, e niente di più. Peccato che non facciano neanche ridere.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1214684,
+    "imdb_id": "tt30400277",
+    "recent_until": 1791106494226,
+    "pegi": "",
+    "runtime": 128,
+    "title": "Il bacio della donna ragno",
+    "original_title": "Kiss of the Spider Woman",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/1eysShwFUghfepBwajhJMX4ln5j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pSjRDluxao3wVcTUG6DKanVlrcB.jpg",
+    "rating": 5.8,
+    "overview": "Valentín, un prigioniero politico, condivide la cella con Molina, un vetrinista condannato per atti osceni in luogo pubblico. I due stringono un'insolita amicizia mentre Molina racconta la trama di un musical hollywoodiano interpretato dalla sua diva preferita del grande schermo, Ingrid Luna.",
+    "genres": [
+      "Romance",
+      "Dramma",
+      "Thriller",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 58403,
+    "imdb_id": "tt0082203",
+    "recent_until": 1791106494452,
+    "pegi": "T",
+    "runtime": 93,
+    "title": "Cornetti alla crema",
+    "original_title": "Cornetti alla crema",
+    "year": "1981",
+    "poster": "https://image.tmdb.org/t/p/w500/mmAqvmgeRmOuKEgSvynaJmk2mkf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yx9OwqHFyhbPkKKxQbrkYIe7E0f.jpg",
+    "rating": 5.712,
+    "overview": "Domenico Petruzzelli, sarto di abiti clericali, marito e padre rassegnato, conosce durante un viaggio la spumeggiante Marianna. La ragazza, che vuole diventare cantante lirica, si sente attratta da lui e lo raggiunge nella città dove abita. Domenico, che si è presentato alla ragazza come scapolo e con il nome di un suo amico, si dimostra però poco pratico in avventure extramatrimoniali. Cerca perciò di cavarsela facendosi prestare casa dall'amico e fingendo con la moglie un viaggio di lavoro.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 592136,
+    "imdb_id": "tt10009796",
+    "recent_until": 1791106494670,
+    "pegi": "",
+    "runtime": 60,
+    "title": "Kevin Hart: Irresponsible",
+    "original_title": "Kevin Hart: Irresponsible",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/fpFsj2IQekSi9cjOlRyBiIoLBY4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gbmfGSbQo4bWp6vF8f5cRtOE0mB.jpg",
+    "rating": 6.7,
+    "overview": "Il comico di stand-up Kevin Hart parla della sua famiglia, dei suoi viaggi e di un anno pieno di comportamenti spericolati di fronte ad un pubblico di Londra.",
+    "genres": [
+      "Commedia",
+      "Documentario",
+      "televisione film"
+    ]
+  },
+  {
+    "tmdb_id": 1307118,
+    "imdb_id": "tt32654916",
+    "recent_until": 1791106494964,
+    "pegi": "",
+    "runtime": 99,
+    "title": "Soulm8te",
+    "original_title": "Soulm8te",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+    "rating": 7.4,
+    "overview": "Dopo che uno spietato gigante della tecnologia acquisisce la sua azienda, un ingegnere in lutto viene incaricato di testare la loro nuova intelligenza artificiale di supporto. Ma quando tenta di programmarla per farla diventare una vera e propria anima gemella senziente, lei sviluppa bisogni propri, scatenando una serie implacabile di caos premeditato.",
+    "genres": [
+      "Horror",
+      "Fantascienza",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1458215,
+    "imdb_id": "tt36415524",
+    "recent_until": 1791106495186,
+    "pegi": "",
+    "runtime": 97,
+    "title": "Cash Out 3: Il ladro gentiluomo",
+    "original_title": "The Gentleman Thief",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/dJLz27v39wdrLEsEmNaB6v2sC8z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aayQcCebqLmkTZdILp9JVcFiIRL.jpg",
+    "rating": 5.6,
+    "overview": "Un ladro professionista in pensione deve proteggere il suo impulsivo fratello da un disastro quando il furto di uno yacht da 100 milioni di dollari si trasforma in una pericolosa rete di inganni. Vecchi nemici riemergono man mano che la posta in gioco si alza, costringendolo a usare ogni trucco che conosce per sopravvivere.",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 15474,
+    "imdb_id": "tt0326664",
+    "recent_until": 1791106495417,
+    "pegi": "",
+    "runtime": 114,
+    "title": "Una bracciata per la vittoria",
+    "original_title": "Swimming Upstream",
+    "year": "2003",
+    "poster": "https://image.tmdb.org/t/p/w500/4gf6tspHI8Doh0hTYaC4mf1Zm87.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iHAJJqIwbqu4eONiHR4QA0mxAqk.jpg",
+    "rating": 6.8,
+    "overview": "",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 42668,
+    "imdb_id": "tt0048937",
+    "recent_until": 1791106495659,
+    "pegi": "",
+    "runtime": 136,
+    "title": "Alessandro il grande",
+    "original_title": "Alexander the Great",
+    "year": "1956",
+    "poster": "https://image.tmdb.org/t/p/w500/rF5q7zY99oLmI3hjiCR1616sX6X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yk1ovkzAXZZY02jtzjaazi3FjaU.jpg",
+    "rating": 6.1,
+    "overview": "All'inizio del film l'oratore Demostene sta organizzando una guerra contro Filippo II il re dei Macedoni perché lo considera pericoloso per i Greci. Mentre Filippo sta conducendo una spedizione contro Olinto viene a sapere che sua mogli Olimpia ha generato un figlio, a cui ha dato il nome di Alessandro, il quale lo definisce \"Un dio nato da un altro dio\". Filippo è furioso perché pensa che sua moglie abbia commesso adulterio e non che sia unita ad un dio; comunque il Generale Parmenione, il più fidato tra tutti i comandanti e anche il più anziano, gli consiglia di risparmiare Alessandro e di farlo crescere...",
+    "genres": [
+      "Avventura",
+      "Storia",
+      "Dramma",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 31651,
+    "imdb_id": "tt0099566",
+    "recent_until": 1791106495895,
+    "pegi": "",
+    "runtime": 110,
+    "title": "Il campo",
+    "original_title": "The Field",
+    "year": "1990",
+    "poster": "https://image.tmdb.org/t/p/w500/ppF5pUheNoL0EPuGRIEnHz1ewp7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/j8ajhpIpX2mR3SEfc6kSsdZefGR.jpg",
+    "rating": 7.0,
+    "overview": "Bull McCabe si è preso cura di un campo, trasformandolo da incolto a rigoglioso. Ma quando il proprietario decide di venderlo, McCabe conosce un imprenditore americano che vorrebbe comprarlo.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 23752,
+    "imdb_id": "tt0094910",
+    "recent_until": 1791106496118,
+    "pegi": "",
+    "runtime": 97,
+    "title": "Lo strizzacervelli",
+    "original_title": "The Couch Trip",
+    "year": "1988",
+    "poster": "https://image.tmdb.org/t/p/w500/n1oNq3P0loSzZGhxtU0y1z8CL19.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hSklMIxwYZzQyrg3QfCZ2HbjF3Y.jpg",
+    "rating": 5.467,
+    "overview": "Grazie a un'intercettazione telefonica, il paziente di un manicomio evade e prende il posto di un noto psichiatra in una remuneratissima rubrica radiofonica, ma non la dà a bere a un imbroglione vestito da prete.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 11576,
+    "imdb_id": "tt0057193",
+    "recent_until": 1791106496352,
+    "pegi": "",
+    "runtime": 192,
+    "title": "Questo pazzo, pazzo, pazzo, pazzo mondo",
+    "original_title": "It's a Mad, Mad, Mad, Mad World",
+    "year": "1963",
+    "poster": "https://image.tmdb.org/t/p/w500/v8jDaZHw3a9vnGdIPdVqrsaBiiE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wSiBXaJ2PtlxUGH2waIxQZjFPhg.jpg",
+    "rating": 7.0,
+    "overview": "Un gruppo di estranei insegue un uomo che dopo un incidente ha confidato loro di aver sotterrato $ 350.000 in California, ognuno cercando di tenere il malloppo tutto per sè.",
+    "genres": [
+      "Avventura",
+      "Commedia",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 11157,
+    "imdb_id": "tt0098309",
+    "recent_until": 1791106496575,
+    "pegi": "",
+    "runtime": 99,
+    "title": "She-Devil - Lei, il diavolo",
+    "original_title": "She-Devil",
+    "year": "1989",
+    "poster": "https://image.tmdb.org/t/p/w500/zRPCtIyFyKY53JEsr4hUnQFvzfg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vHRxxSB9oiZvRyBlLAs3KZkM6T.jpg",
+    "rating": 6.0,
+    "overview": "Una casalinga disperata scopre che il bel marito la tradisce con una scrittrice di romanzi rosa di successo. Farà di tutto per rovinarle la vita e riscattare sé stessa e le donne sottovalutate.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 10824,
+    "imdb_id": "tt0112625",
+    "recent_until": 1791106496807,
+    "pegi": "",
+    "runtime": 93,
+    "title": "Candyman 2 - L'inferno nello specchio",
+    "original_title": "Candyman: Farewell to the Flesh",
+    "year": "1995",
+    "poster": "https://image.tmdb.org/t/p/w500/3FG259Uun7QgiAVZtsKZMgwrPZs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tMZ2iT1bu4zWNVzeQ8SZ040VQfG.jpg",
+    "rating": 5.469,
+    "overview": "Il malvagio Candyman, risvegliatosi da un sonno profondo torna nuovamente a mietere vittime, questa volta a New Orleans. Ma, oltre a questo, cerca anche sua moglie, reincarnatasi in una professoressa di scuola. Solo lei potrà rimandare all'Inferno il temibile assassino.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 37430,
+    "imdb_id": "tt0816462",
+    "recent_until": 1791106497151,
+    "pegi": "",
+    "runtime": 105,
+    "title": "Conan the Barbarian",
+    "original_title": "Conan the Barbarian",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/sSMjZmOtqzlRTYSUFPmIXTV4rhh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6B5bTuZEyLrAYNG1IX1GeBQZP11.jpg",
+    "rating": 5.315,
+    "overview": "Conan ha visto la luce nel sangue della battaglia. Orfano di madre è stato allevato dal padre, fiero guerriero cimmero, che lo inizia al segreto della spada e dell'acciaio. Unico sopravvissuto al saccheggio del suo villaggio e testimone impotente della morte del padre, Conan è determinato ad avere vendetta. Diverse imprese e anni dopo, il ragazzo è diventato uomo ed è finalmente sulle tracce di Khalar Zym, il volgare assassino del suo genitore che ha ricomposto la maschera di Acheron per ottenere potere e immortalità. Lo asseconda diabolicamente la figlia Marique, strega letale che pratica la magia nera e cerca una giovane donna dal sangue puro da sacrificare sull'altare del delirio paterno. Spetterà all'audace barbaro salvare la candida sacerdotessa e sprofondare nell'abisso il malvagio Khalar Zym.",
+    "genres": [
+      "Avventura",
+      "Fantasy",
+      "Azione"
+    ]
+  },
+  {
     "tmdb_id": 159121,
     "imdb_id": "tt2215395",
     "recent_until": 1791021528749,
