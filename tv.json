@@ -1,5 +1,56 @@
 [
   {
+    "tmdb_id": 298505,
+    "imdb_id": "tt36064406",
+    "recent_until": 1791190900523,
+    "type": "tv",
+    "title": "Coven Academy - L'accademia delle streghe",
+    "original_title": "Coven Academy",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/fRY6P6lWpwyI97WpKIf8mfaWFkZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+    "rating": 8.3,
+    "pegi": "",
+    "runtime": null,
+    "overview": "La storia segue un trio di streghe adolescenti e un gruppo di stregoni loro coetanei, alle prese con l'apprendimento della magia e con antichi conflitti sovrannaturali che minacciano la città. In questo elegante collegio, come suggerisce la sinossi ufficiale, il potere è la vera moneta di scambio, i segreti possono rivelarsi letali e innamorarsi della persona sbagliata diventa un rischio concreto.",
+    "genres": [
+      "Mistero",
+      "Dramma",
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "tmdb_id": 279185,
+    "imdb_id": null,
+    "recent_until": 1791190900752,
+    "type": "tv",
+    "title": "The Torment",
+    "original_title": "Zmora",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/32NMmkX5G8vmDXgxJRxKpRmZLVP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nnWGAlmimGJBqRLkB4rLdkzlPhH.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Kama torna al suo paese natale e si ritrova immischiata in un vecchio caso. Segreti, passioni e crimini: il passato non tace mai.",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
     "tmdb_id": 330200,
     "imdb_id": "tt39373684",
     "recent_until": 1791106499385,

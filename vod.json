@@ -1,5 +1,152 @@
 [
   {
+    "tmdb_id": 1458857,
+    "imdb_id": "tt36429458",
+    "recent_until": 1791190896846,
+    "pegi": "",
+    "runtime": 112,
+    "title": "Doing Life",
+    "original_title": "Doing Life",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+    "rating": 6.273,
+    "overview": "Una madre single, che ogni singolo giorno lotta con tutta se stessa per rimanere a galla, incontra un ex detenuto pentito - ricco di talenti inespressi - e con lui forma un legame del tutto inaspettato.",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1752355,
+    "imdb_id": null,
+    "recent_until": 1791190897099,
+    "pegi": "",
+    "runtime": 105,
+    "title": "Schumacher '94 - Die Geburt einer Legende",
+    "original_title": "Schumacher '94 - Die Geburt einer Legende",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/o09Z2TPQLkLg2zE6U9PUF17RmGf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+    "rating": 9.167,
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 19953,
+    "imdb_id": "tt0058230",
+    "recent_until": 1791190897320,
+    "pegi": "",
+    "runtime": 102,
+    "title": "L'ammiraglio è uno strano pesce",
+    "original_title": "The Incredible Mr. Limpet",
+    "year": "1964",
+    "poster": "https://image.tmdb.org/t/p/w500/dc3h4eNWQnUXH5c2MWB3F3907AN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9Nl6rdopLxaYlSfn2B19oz1tXLx.jpg",
+    "rating": 6.2,
+    "overview": "Il signor Limpet, mediocre americano la cui unica passione sono i pesci, cade in acqua e si trasforma in un delfino. La sua nuova condizione, oltre a soddisfarlo molto più della precedente vita e a liberarlo da una moglie tirannica, gli permette durante la Seconda Guerra Mondiale di aiutare la marina degli Stati Uniti a sbaragliare i sommergibili nemici.",
+    "genres": [
+      "Animazione",
+      "Famiglia",
+      "Commedia",
+      "Guerra",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 27983,
+    "imdb_id": "tt0063829",
+    "recent_until": 1791190897537,
+    "pegi": "",
+    "runtime": 105,
+    "title": "Appuntamento sotto il letto",
+    "original_title": "Yours, Mine and Ours",
+    "year": "1968",
+    "poster": "https://image.tmdb.org/t/p/w500/90uZS4QcF7QzXoVHrQI5iFPNEUi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6EEbNkExTwbYnxVw1xY3ammTGxm.jpg",
+    "rating": 6.86,
+    "overview": "Una vedova con otto figli si sposa con un vedovo che ne ha dieci.  Tutti e venti si sistemano in una vecchia casa di San Francisco.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 13595,
+    "imdb_id": "tt0109068",
+    "recent_until": 1791190897751,
+    "pegi": "",
+    "runtime": 92,
+    "title": "Airheads - Una band da lanciare",
+    "original_title": "Airheads",
+    "year": "1994",
+    "poster": "https://image.tmdb.org/t/p/w500/aZkz39T1HM1qSc9Y8d8vCtCgg6X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tkMVZc8JbOtRhzOsxph9jDVquq9.jpg",
+    "rating": 6.223,
+    "overview": "Chazz, Rex e Pip sono i tre componenti di una banda di hard rock snobbata dai produttori discografici. Un giorno il gruppo ha l'opportunità di far ascoltare un proprio brano in una trasmissione radio. Così, di fronte al comportamento a dir poco snob del dj dell'emittente Chazz perde definitivamente la pazienza. Impugna una pistola ad acqua e impone la messa in onda. Ma altre disavventure sono in agguato...",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 10306,
+    "imdb_id": "tt0095889",
+    "recent_until": 1791190897970,
+    "pegi": "",
+    "runtime": 98,
+    "title": "Poltergeist III - Ci risiamo",
+    "original_title": "Poltergeist III",
+    "year": "1988",
+    "poster": "https://image.tmdb.org/t/p/w500/vtz5TOsZef10xFkFNffcSf8kf4t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/exQwGehuaGAjqVwSoVfAA8sybna.jpg",
+    "rating": 5.2,
+    "overview": "Carol Anne nel tempo intermedio tra il secondo e il terzo film è stata spedita dai genitori a Chicago dalla zia Pat e lo zio Bruce Gardner giusto per cambiare aria.Un giorno a scuola, si scopre che Carol Anne è stata mandata dall'insegnante/psichiatra, il Dr. Seaton, a discutere sui fatti che le erano successi in precedenza. Questo purtroppo, fa tornare Kane dal limbo, dove era stata mandata nel secondo film.Quando una notte Carol Anne viene lasciata sola, Kane cerca di rapirla, ma Carol Anne riesce a fuggire anche grazie all'aiuto di Tangina, la famosa medium che sin dalla prima pellicola è stata coinvolta nell'esperienza di Carol Anne, e che anche lei crede nel ritorno di Kane.Tra allucinazioni, presenze inquietanti, sensitive e forze maligne la situazione precipita nel terrore, mettendo fine alla trilogia.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 13573,
+    "imdb_id": "tt0301976",
+    "recent_until": 1791190898295,
+    "pegi": "",
+    "runtime": 108,
+    "title": "Il delitto Fitzgerald",
+    "original_title": "The United States of Leland",
+    "year": "2003",
+    "poster": "https://image.tmdb.org/t/p/w500/oNGoJIS30WyV6TdMZnBy1TIR3Sl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lIWbyPbnUUJPUvzwIN4BaeEGIgU.jpg",
+    "rating": 6.5,
+    "overview": "Il film racconta le vicende del tormentato quindicenne Leland P. Fitzgerald, che un giorno, inspiegabilmente commette un atroce delitto, uccidendo Ryan, il fratello autistico di Becky, la ragazza di cui Leland è innamorato. Rinchiuso in un carcere minorile stringerà un intenso rapporto con l'insegnante Pearl Madison, che lo esorta a capire la ragione del suo gesto, scrivendo un diario. Inizia, per Leland, un viaggio interiore nel profondo dell'anima, che avrà ripercussione sulle vite delle persone a lui care e sui genitori della vittima.",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 73499,
+    "imdb_id": "tt1646980",
+    "recent_until": 1791190898506,
+    "pegi": "",
+    "runtime": 95,
+    "title": "The Double",
+    "original_title": "The Double",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/fxncnRwIQySloY5l7ebWrcxq5hU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yBtoIr2ov4nzXJN5tuKEfyEgfdM.jpg",
+    "rating": 5.834,
+    "overview": "Un senatore degli Stati Uniti viene assassinato, con il modus operandi un un misterioso killer sovietico, noto come Cassius, che da tempo si riteneva morto. Per rintracciarlo, viene richiamato in servizio un agente della CIA in pensione (Richard Gere) che ha passato la vita a dargli la caccia: dovrà fare squadra con un giovane agente dell'FBI (Topher Grace).",
+    "genres": [
+      "Azione",
+      "Dramma",
+      "Crime"
+    ]
+  },
+  {
     "tmdb_id": 257087,
     "imdb_id": "tt3533916",
     "recent_until": 1791106493063,
