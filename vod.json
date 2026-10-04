@@ -1,5 +1,99 @@
 [
   {
+    "tmdb_id": 1455079,
+    "imdb_id": "tt36352591",
+    "recent_until": 1791279219627,
+    "pegi": "",
+    "runtime": 105,
+    "title": "Tra amore e inganni",
+    "original_title": "You, Me & Tuscany",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ymyrJJ4mRBYLcBXXOkm7qe3fnee.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg",
+    "rating": 7.323,
+    "overview": "Anna è una giovane donna che ha rinunciato al sogno di diventare chef e ora vaga nei suoi vent’anni tra una serie di scelte sbagliate. Quando Anna perde in un colpo solo il lavoro di house-sitter e l’alloggio, un incontro casuale con Matteo, un affascinante italiano che ha una villa vuota in Toscana, la spinge a partire per l’Italia, contro il parere della sua migliore amica sempre sincera, Claire. Ma il piano di Anna di intrufolarsi nella villa di Matteo, senza permesso e solo per una notte, va in pezzi quando la madre di Matteo, Gabriella, si presenta inaspettatamente. Presa dal panico, Anna lascia che Gabriella creda che lei sia la fidanzata di Matteo. Quella piccola bugia diventa però un grande problema quando arriva Michael, il cugino di Matteo, e Anna scopre che il fuoco che si sta accendendo tra di loro potrebbe trasformarsi in un incendio capace di cambiarle la vita.",
+    "genres": [
+      "Romance",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 13888,
+    "imdb_id": "tt0102782",
+    "recent_until": 1791279219779,
+    "pegi": "",
+    "runtime": 98,
+    "title": "Ritorno alla laguna blu",
+    "original_title": "Return to the Blue Lagoon",
+    "year": "1991",
+    "poster": "https://image.tmdb.org/t/p/w500/bpYrMXzXWEbWdYnLrrBsVCvTNof.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8vREmZvEKvsz5Ptp1gazc9rAhts.jpg",
+    "rating": 6.162,
+    "overview": "Una barca alla deriva con due cadaveri e un bambino ancora vivo viene avvistata e issata a bordo di una goletta nel mare delle Maldive. Successivamente, a bordo scoppia un’epidemia ed il capitano cala a mare una scialuppa con a bordo la passeggera Sarah Hargrave, la figlia Lilli ed il bambino che aveva salvato poco prima ribattezzato nel frattempo Richard…",
+    "genres": [
+      "Avventura",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 22949,
+    "imdb_id": "tt0976238",
+    "recent_until": 1791279220002,
+    "pegi": "",
+    "runtime": 88,
+    "title": "Daddy Sitter",
+    "original_title": "Old Dogs",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/xdpJr7jux0AOoqlAlZFX6nznVFd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/q11l98jbETEsPHp5PYf34mcA30o.jpg",
+    "rating": 5.557,
+    "overview": "Dan e Charlie sono amici e colleghi in affari da una trentina d'anni. Ora è arrivato uno dei momenti importanti per la loro collaborazione professionale. Nel giro di due settimane la loro società di pubbliche relazioni deve firmare un importante contratto con una compagnia nipponica. Ma c'è una sorpresa che attende Dan: una donna che aveva sposato in stato di ubriachezza anni prima e dalla quale aveva divorziato il giorno successivo si rifà viva per comunicargli che lui è il padre dei suoi due gemelli e, visto che lei sarà in carcere per due settimane per una protesta politica, dovrà essere lui ad occuparsene. Ora Dan ha bisogno dell'amico Charlie se vuole potersi occupare dei pargoli e, al contempo, chiudere il contratto.",
+    "genres": [
+      "Commedia",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 507244,
+    "imdb_id": "tt1210027",
+    "recent_until": 1791279220368,
+    "pegi": "",
+    "runtime": 106,
+    "title": "Afterburn",
+    "original_title": "Afterburn",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/b3WEH04kXovouxZt8nInYi5qENc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o0H6PjNX3wPS1JLOvw9Z0sEDDgW.jpg",
+    "rating": 6.215,
+    "overview": "Ambientato sullo sfondo di una Terra post-apocalittica, il cui emisfero orientale è stato distrutto da un’enorme eruzione solare, lasciando ciò che resta della vita mutato dalle radiazioni e dalle ricadute nucleari. La storia ruota attorno a un gruppo di cacciatori di tesori che recuperano oggetti come la Gioconda, la Stele di Rosetta e i Gioielli della Corona, mentre affrontano cacciatori rivali, mutanti e pirati.",
+    "genres": [
+      "Azione",
+      "Fantascienza",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 9732,
+    "imdb_id": "tt0120131",
+    "recent_until": 1791279221295,
+    "pegi": "T",
+    "runtime": 81,
+    "title": "Il re leone II - Il regno di Simba",
+    "original_title": "The Lion King II: Simba's Pride",
+    "year": "1998",
+    "poster": "https://image.tmdb.org/t/p/w500/s027eGRCIt5vuh5gARi5PaU6BOH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vyOFlV1afDHb9MMwJVyON4qXbvC.jpg",
+    "rating": 6.938,
+    "overview": "Simba e Nala hanno una figlia, Kiara. Timo e Pumbaa sono incaricati di farle da babysitter ma la piccola scappa avventurandosi da sola nella terra proibita. Lì incontra Kovu, un cucciolo di leone, e i due diventano amici. Ciò che la piccola Kiara e la sua famiglia non sanno è che Kovu è il figlio di Zira, una seguace in esilio del defunto Scar. Il piano di Zira è quello di far diventare re suo figlio Kovu, soppiantando Simba.",
+    "genres": [
+      "Avventura",
+      "Animazione",
+      "Dramma",
+      "Famiglia",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 1458857,
     "imdb_id": "tt36429458",
     "recent_until": 1791190896846,

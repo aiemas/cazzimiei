@@ -1,5 +1,78 @@
 [
   {
+    "tmdb_id": 231801,
+    "imdb_id": "tt33406999",
+    "recent_until": 1791279221648,
+    "type": "tv",
+    "title": "Get Jiro",
+    "original_title": "Get Jiro",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Animazione"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 5
+      }
+    ]
+  },
+  {
+    "tmdb_id": 335227,
+    "imdb_id": "tt31841438",
+    "recent_until": 1791279221800,
+    "type": "tv",
+    "title": "Preferisco la morte",
+    "original_title": "Prefiero la Muerte",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/scXiHnUEOHjFEudDdyRJOQYSDw3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qv1Q75nnuBayfDPcK3LTxrmj5Zc.jpg",
+    "rating": 8.3,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Il disadattato Archie vive nella tranquilla città di Mendoza. In una gelida notte, viene morso da uno zombie e, dopo aver pensato al suicidio, decide di scoprire cosa sta succedendo al suo corpo. Quindi, con l'aiuto della sua unica amica e della ragazza di cui è innamorato da una vita, Archie decide di trovare una cura prima di trasformarsi in un mostro a tutti gli effetti e uccidere tutti.",
+    "genres": [
+      "Action & Adventure",
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 247076,
+    "imdb_id": "tt32832359",
+    "recent_until": 1791279222010,
+    "type": "tv",
+    "title": "Ibiza Narcos",
+    "original_title": "Ibiza Narcos",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/dQnNqerCvmzOXWDDUHROm5fwyYL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jtBzIMfeaVs3i2HM8ZcrCv9YKEE.jpg",
+    "rating": 6.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Racconta la storia di come una piccola e sonnolenta isola del Mediterraneo si sia trasformata in una delle capitali più vivaci del mondo per quanto riguarda la vita notturna, alimentata da un pericoloso e redditizio traffico di droga che ha attirato sulle sue coste tanti criminali quanti animali da festa.",
+    "genres": [
+      "Documentario"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
     "tmdb_id": 298505,
     "imdb_id": "tt36064406",
     "recent_until": 1791190900523,
