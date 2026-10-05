@@ -1,5 +1,112 @@
 [
   {
+    "tmdb_id": 62713,
+    "imdb_id": "tt0183460",
+    "recent_until": 1791368108675,
+    "pegi": "T",
+    "runtime": 89,
+    "title": "Madonna che silenzio c'è stasera",
+    "original_title": "Madonna che silenzio c'è stasera",
+    "year": "1982",
+    "poster": "https://image.tmdb.org/t/p/w500/rIAWxbAsTy5ApDkG6JQnH7JmdgW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dKtIx8sV8tVZrLlL5EUEVXsJnyv.jpg",
+    "rating": 6.8,
+    "overview": "Il film racconta una delle giornate di Francesco  dal momento della sveglia mattutina fino alla sera. Dopo essersi liberato delle \"cure\" della madre ossessiva , il protagonista va in cerca di lavoro. L'ambientazione è nella città di Prato, famosa per l'industra tessile; tuttavia l'approccio con i telai non è dei migliori visto che questi sono colpevoli di numerose amputazioni degli operai. La sua avventura prosegue incontrando vari personaggi surreali e alla sera si ritrova ancora senza lavoro. Unica nota positiva la speranza di riconquistare Maria la sua ex che lo aveva da poco abbandonato e che sul finire della giornata lo cerca per telefono.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1758536,
+    "imdb_id": "tt44568097",
+    "recent_until": 1791368108854,
+    "pegi": "",
+    "runtime": 91,
+    "title": "The Widower: 'Til Death Do Us Part",
+    "original_title": "The Widower: 'Til Death Do Us Part",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kejOti7YfpTr88Y4fWnd3UVDr8e.jpg",
+    "rating": 6.625,
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 19827,
+    "imdb_id": "tt0079336",
+    "recent_until": 1791368109048,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Una strana coppia di suoceri",
+    "original_title": "The In-Laws",
+    "year": "1979",
+    "poster": "https://image.tmdb.org/t/p/w500/1TKif0gajjeW1iJQ2b88XCvqnUV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5WUmqHCZzReWZCIo3WwNkHts6on.jpg",
+    "rating": 6.613,
+    "overview": "Avventure rocambolesche di un agente della Cia e del suo futuro consuocero, un mite e imbranato dentista, alla vigilia delle nozze dei rispettivi figlioli.",
+    "genres": [
+      "Commedia",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 13550,
+    "imdb_id": "tt0080516",
+    "recent_until": 1791368109229,
+    "pegi": "",
+    "runtime": 103,
+    "title": "Changeling",
+    "original_title": "The Changeling",
+    "year": "1980",
+    "poster": "https://image.tmdb.org/t/p/w500/AgraSzA9qcTRHJhJ0ZLVQLo7bcm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/r4nx6BZY4PfLPrThytBtAuwN8uV.jpg",
+    "rating": 6.984,
+    "overview": "Il musicista John Russell perde moglie e figlia in un incidente stradale. Stabilitosi a vivere in una solitaria villa di Seattle per ricominciare una nuova vita, avverte delle strane presenze. Scopre così che nella sua abitazione dimora il fantasma di un bambino, coinvolto in qualche modo con le vicende di un senatore.",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 8011,
+    "imdb_id": "tt0110027",
+    "recent_until": 1791368109424,
+    "pegi": "",
+    "runtime": 99,
+    "title": "Highlander 3",
+    "original_title": "Highlander III: The Sorcerer",
+    "year": "1994",
+    "poster": "https://image.tmdb.org/t/p/w500/wugz8igURz0Z4oTB89G292Xgcsi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1ulygMNAaR6KINjI6Fqcx1N82ag.jpg",
+    "rating": 4.754,
+    "overview": "Nel 1994 a New York , l'immortale Connor MacLeod (Lambert) deve cimentarsi con un collega, venuto alla luce dopo essere stato imprigionato per 400 anni in una montagna del Giappone. L'azione è situata temporalmente tra il primo e il secondo episodio della serie. Sono cambiati regista e sceneggiatori e S. Connery ha gettato la spugna, ma il risultato non cambia, anzi peggiora per la stanchezza ripetitiva dei duelli e delle scene d'azione, l'estetismo parapubblicitario della scrittura, l'imbecillità della storia. Di nuovo qui c'è qualche marchingegno orientaleggiante. Seguito da 2 serie TV di cui una animata.",
+    "genres": [
+      "Fantasy",
+      "Azione",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 14905,
+    "imdb_id": "tt0120490",
+    "recent_until": 1791368109690,
+    "pegi": "",
+    "runtime": 103,
+    "title": "Benvenuti a Sarajevo",
+    "original_title": "Welcome to Sarajevo",
+    "year": "1997",
+    "poster": "https://image.tmdb.org/t/p/w500/CvgjPoTM2yv5jTFlnpEuh8qbTl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9NjCvqLUAQYfX3ksAImHdtdc1Bx.jpg",
+    "rating": 6.5,
+    "overview": "Scritto da Frank Cottrell Boyce e basato sul libro Natasha's Story di Michael Nicholson, racconta la guerra di Bosnia nel 1992, quando cominciò l'assedio di Sarajevo, vista da una troupe TV britannica. Uno dei giornalisti (S. Dillane) raccoglie una bambina, la bosniaca e musulmana Emira, e la porta a Londra per adottarla. Ma si fa viva sua madre per reclamarla. Criticabile sotto vari aspetti (disinvolta mescolanza di vero e falso, documentario e finzione; dichiarazioni di uomini politici, pescate negli archivi; ricorso all'“Adagio” di Albinoni, troppo “bello”, troppo usato, dunque quasi “osceno”), ma impossibile negare che funzioni sul piano dell'informazione, della comunicazione, dell'emozione. Esplicita denuncia dell'ignavia dell'ONU, delle vergogne della politica europea, dell'indifferenza comoda di tanti di noi in Europa. Meglio la 1ª parte che la 2ª.",
+    "genres": [
+      "Guerra",
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
     "tmdb_id": 1455079,
     "imdb_id": "tt36352591",
     "recent_until": 1791279219627,

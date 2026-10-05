@@ -1,5 +1,29 @@
 [
   {
+    "tmdb_id": 42699,
+    "imdb_id": "tt0092337",
+    "recent_until": 1791368111118,
+    "type": "tv",
+    "title": "Decalogo",
+    "original_title": "Dekalog",
+    "year": "1989",
+    "poster": "https://image.tmdb.org/t/p/w500/v390wlQKSVpnuGuM3ynruH6PX7x.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6adZtyOer0YpMcxGD3ot52nIobb.jpg",
+    "rating": 8.3,
+    "pegi": "",
+    "runtime": 55,
+    "overview": "Originariamente realizzato per la televisione polacca, \"Decalogo\" si concentra sui residenti di un complesso residenziale nella Polonia tardo-comunista, le cui vite diventano sottilmente intrecciate mentre affrontano dilemmi emotivi che sono allo stesso tempo profondamente personali e universalmente umani. Il film, della durata di dieci ore, attingendo ai dieci comandamenti per l'ispirazione tematica e la struttura globale, si cimenta con complesse questioni morali ed esistenziali riguardanti la vita, la morte, l'amore, l'odio, la verità e il passare del tempo.",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
     "tmdb_id": 231801,
     "imdb_id": "tt33406999",
     "recent_until": 1791279221648,
