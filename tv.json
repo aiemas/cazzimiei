@@ -1,5 +1,30 @@
 [
   {
+    "tmdb_id": 288673,
+    "imdb_id": "tt11540908",
+    "recent_until": 1791540303826,
+    "type": "tv",
+    "title": "Carrie",
+    "original_title": "Carrie",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/x4HuDkzyAfGfZpuJURU8mg43q6H.jpg",
+    "rating": 7.5,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Carrie, dopo l'improvvisa morte del padre che la catapulta nella dura realtà della scuola pubblica, si ritrova a dover affrontare uno scandaloso episodio di bullismo virale che sconvolge la sua comunità, la pressione incessante e la crudeltà gratuita tipiche dell'era dei social media, nonché il risveglio di misteriosi poteri telecinetici che emergono con l'adolescenza.",
+    "genres": [
+      "Mistero",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
     "tmdb_id": 42699,
     "imdb_id": "tt0092337",
     "recent_until": 1791368111118,

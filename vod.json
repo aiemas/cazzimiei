@@ -1,5 +1,133 @@
 [
   {
+    "tmdb_id": 74643,
+    "imdb_id": "tt1655442",
+    "recent_until": 1791540300388,
+    "pegi": "T",
+    "runtime": 100,
+    "title": "The Artist",
+    "original_title": "The Artist",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/bq9mk5b7yIQG9vi2ZAozmd2LXuj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+    "rating": 7.4,
+    "overview": "Hollywood 1927. Georges Valentin è un divo del cinema muto. La vita sembra sorridergli finché l'avvento del film sonori lo condannerà all'oblio. Peppy Miller, giovane comparsa, sta invece per esssere lanciata nel firmamento delle star. Il film racconta i loro destini incrociati.",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1596335,
+    "imdb_id": "tt39150120",
+    "recent_until": 1791540300613,
+    "pegi": "",
+    "runtime": 105,
+    "title": "The AI Doc: Or How I Became an Apocaloptimist",
+    "original_title": "The AI Doc: Or How I Became an Apocaloptimist",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/A610QT1gWjhJ1dJrXP9qMm4JMLr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lIvkPPTAHBpKhifdczZH0s8eozB.jpg",
+    "rating": 7.0,
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1788735,
+    "imdb_id": "tt43665190",
+    "recent_until": 1791540300832,
+    "pegi": "",
+    "runtime": 22,
+    "title": "Family Guy Happy Hell-o-ween",
+    "original_title": "Family Guy Happy Hell-o-ween",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
+    "rating": 6.0,
+    "overview": "",
+    "genres": [
+      "Animazione",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 8342,
+    "imdb_id": "tt0283509",
+    "recent_until": 1791540301051,
+    "pegi": "",
+    "runtime": 88,
+    "title": "No Man's Land",
+    "original_title": "No Man's Land",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/w500/dgda6UEokoSxoVok6c424A2jHGI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/e86j48mkpIzFSNutRGcNiltWCNt.jpg",
+    "rating": 7.5,
+    "overview": "Qual è la differenza tra un pessimista e un ottimista? Il primo pensa che le cose non possano andare peggio di così. Il secondo è convinto di sì.\" È la battuta chiave di un film comicamente amaro sulla guerra in ex Jugoslavia e, per traslato, su tutte le guerre di questi nostri tempi. Ciki e Nino, un bosniaco e un serbo, nel corso della guerra del 1993 si trovanio bloccati in una trincea nella terra di nessuno. Con loro c'è un terzo combattente che è sdraiato su una mina che rischia di esplodere a un suo minimo movimento. Le truppe dell'Onu intervengono per aiutare, ma gli alti livelli creano più problemi che soluzioni in una guerra che è vista dall'esterno o come un terreno per esercitazioni diplomatiche o un grande set 'naturale' da cui far provare al mondo il brivido della morte (altrui)...........",
+    "genres": [
+      "Azione",
+      "Storia",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 19494,
+    "imdb_id": "tt0080319",
+    "recent_until": 1791540301268,
+    "pegi": "",
+    "runtime": 109,
+    "title": "Dalle 9 alle 5... orario continuato",
+    "original_title": "Nine to Five",
+    "year": "1980",
+    "poster": "https://image.tmdb.org/t/p/w500/7YnNbRBRyCJciVbFjPcRpuTNwyX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5nPdiQPru77rqQXHbtNDZIPmZlC.jpg",
+    "rating": 7.0,
+    "overview": "Judy, che ha divorziato da poco da suo marito, riesce a ottenere un impiego presso una grossa azienda. La donna viene assegnata al reparto del dispotico capoufficio Franklin Hart jr. La nuova arrivata viene presa sotto la tutela dall'esperta Violet e ben presto le due diventano amiche. Al gruppo si aggiunge Doralee, la segretaria particolare di Franklin, che suscita le invidie delle colleghe. In realtà Franklin è un autentico despota e le tre donne fantasticano di ucciderlo per prendere il controllo dell'ufficio.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 8194,
+    "imdb_id": "tt0473488",
+    "recent_until": 1791540301607,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Guida per riconoscere i tuoi santi",
+    "original_title": "A Guide to Recognizing Your Saints",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/2E8kH5BcCtm3dGf9jCQhd0Ztnt7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/89jLspWmm5dLIFeuIu0UToN4jB6.jpg",
+    "rating": 6.5,
+    "overview": "Astoria, Queens, 1986. Dito vive con i suoi genitori e trascorre la giornata con i suoi amici di strada, fra droga, noia e microcriminalità. Dito decide di partire per la California, per tornare poi solo quindici anni più tardi, perché il padre è malato e per affrontare definitivamente il passato, con i suoi fantasmi e il suo fardello emotivo.",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 32678,
+    "imdb_id": "tt1311699",
+    "recent_until": 1791540301831,
+    "pegi": "",
+    "runtime": 92,
+    "title": "Dead Man Running",
+    "original_title": "Dead Man Running",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/kgP6YevcqMzWKFR7FokqtFoO7ZD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aTe81qYK2dQW9hUwPIICSNxZtCj.jpg",
+    "rating": 5.8,
+    "overview": "",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 48492,
     "imdb_id": "tt1123373",
     "recent_until": 1791453646895,
