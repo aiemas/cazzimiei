@@ -1,5 +1,114 @@
 [
   {
+    "tmdb_id": 1238188,
+    "imdb_id": "tt31101921",
+    "recent_until": 1791627538981,
+    "pegi": "",
+    "runtime": 134,
+    "title": "Il prigioniero",
+    "original_title": "El cautivo",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/oZxGVrH6fIlQfIsmUlGNYd6mPLw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sBEM8U5l7jq0BH7XiC7Zzs4d8e2.jpg",
+    "rating": 6.6,
+    "overview": "Nel 1575, il giovane soldato Miguel de Cervantes viene catturato in alto mare dai corsari berberi e portato ad Algeri come ostaggio. Consapevole che lo attende una morte crudele se la sua famiglia non pagherà presto il riscatto, trova rifugio nella sua passione per la narrazione.",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1711956,
+    "imdb_id": null,
+    "recent_until": 1791627539129,
+    "pegi": "",
+    "runtime": 76,
+    "title": "Mateo",
+    "original_title": "Mateo",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/cEktGsCaL4vVMV5nyKlNUPBXhPo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/esAcMhxx5hPou6C2EOXJ6ey4pIt.jpg",
+    "rating": 0.0,
+    "overview": "",
+    "genres": [
+      "Animazione",
+      "Famiglia",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 1291595,
+    "imdb_id": "tt32393988",
+    "recent_until": 1791627539268,
+    "pegi": "14+",
+    "runtime": 106,
+    "title": "Insidious - Fuori dall’Altrove",
+    "original_title": "Insidious: Out of the Further",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+    "rating": 7.543,
+    "overview": "Gemma, una giovane madre che cresce la figlia nella casa in cui è nata, scopre di poter viaggiare nell'Altrove, il regno-purgatorio delle anime perdute. Quando un'entità malvagia inizia a darle la caccia, Gemma scopre un'abilità che cambia ogni cosa: non si limita solo a entrare nell'Altrove ma può portare ciò che vive lì nel mondo reale. Una volta che i demoni comprendono il suo potere, il nostro mondo diventa il loro terreno di gioco.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 56142,
+    "imdb_id": "tt0071585",
+    "recent_until": 1791627539413,
+    "pegi": "14+",
+    "runtime": 126,
+    "title": "Gruppo di famiglia in un interno",
+    "original_title": "Gruppo di Famiglia in un Interno",
+    "year": "1974",
+    "poster": "https://image.tmdb.org/t/p/w500/aKTailFr6wWkhS2PWKVFWm29ESK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zuXlN8gTWI453Rv5JokmexftV2S.jpg",
+    "rating": 7.4,
+    "overview": "Un professore americano sessantenne decide di ritirarsi tra libri e quadri nella sua casa in un antico palazzo di Roma, ereditato dalla madre italiana. Un giorno la sua quiete viene turbata dall'insistenza della marchesa Bianca Brumonti, che riesce a farsi affittare dal professore l'appartamento del piano di sopra per darlo al suo giovane amante Konrad. Tra la marchesa, sua figlia Lietta e il suo compagno Stefano e Konrad, si viene a formare un singolare gruppo di famiglia, nel quale l'anziano gentiluomo viene forzato ad entrare, salvo poi accorgersi alla fine che questa intrusione ha significato per lui un ritorno alla vita e alle relazioni umane. Un avvenimento tragico riporterà l'ordine primitivo nella vita del professore, allontanando la burrascosa famiglia, ma lasciandolo anche più consapevole della morte che si avvicina.",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 137333,
+    "imdb_id": "tt2321502",
+    "recent_until": 1791627539593,
+    "pegi": "",
+    "runtime": 91,
+    "title": "Uncanny",
+    "original_title": "Uncanny",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/w9bUDD6uT3Fhs8L34nfMj18uqcR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tZEGrL1ej2xInHhESDsmtJMgjaP.jpg",
+    "rating": 5.887,
+    "overview": "",
+    "genres": [
+      "Fantascienza",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1317149,
+    "imdb_id": "tt31514146",
+    "recent_until": 1791627539735,
+    "pegi": "",
+    "runtime": 121,
+    "title": "I Swear",
+    "original_title": "I Swear",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4mKczHAW4XPDXGk7V5k7Ui3dgUk.jpg",
+    "rating": 8.3,
+    "overview": "",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
     "tmdb_id": 74643,
     "imdb_id": "tt1655442",
     "recent_until": 1791540300388,

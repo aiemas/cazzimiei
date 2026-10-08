@@ -1,5 +1,105 @@
 [
   {
+    "tmdb_id": 285322,
+    "imdb_id": "tt35934755",
+    "recent_until": 1791627540613,
+    "type": "tv",
+    "title": "Below",
+    "original_title": "Below",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/qadm9To9UfMVenVzGVLt0m0iuxv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+    "rating": 7.3,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Quando una misteriosa creatura marina semina il terrore in una cittadina di Terranova, un burbero pescatore e la sua famiglia lottano per proteggere la loro affiatata comunità.",
+    "genres": [
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 305551,
+    "imdb_id": "tt38937897",
+    "recent_until": 1791627540755,
+    "type": "tv",
+    "title": "メリーベリーラブ",
+    "original_title": "メリーベリーラブ",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+    "rating": 9.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Quando il famoso interior designer coreano Lee Yubin perde tutto, si rifugia su un'isola giapponese. Lì incontra Karin, una tenace coltivatrice di fragole. Provenienti da mondi diversi, le loro vite si intrecciano in un grande malinteso. Preparatevi per \"Merry Berry Love\", una commedia romantica agrodolce tra Corea e Giappone.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "tmdb_id": 290233,
+    "imdb_id": "tt36743307",
+    "recent_until": 1791627540900,
+    "type": "tv",
+    "title": "Dentro il cerchio",
+    "original_title": "El Círculo",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/u2PDaI3BYtGg0YO0rOKnycDwxld.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
+    "rating": 9.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Dopo aver pubblicato un video controverso che mostra gli ultimi istanti di vita di un'attrice, il giornalista Tomás deve fuggire da chi gli sta alle calcagna.",
+    "genres": [
+      "Dramma",
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 312693,
+    "imdb_id": "tt38504111",
+    "recent_until": 1791627541084,
+    "type": "tv",
+    "title": "Small Prophets",
+    "original_title": "Small Prophets",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
+    "rating": 8.1,
+    "pegi": "",
+    "runtime": null,
+    "overview": "La vita di Michael è in sospeso da quando la fidanzata è scomparsa. Un'antica ricetta potrebbe dargli le risposte che cerca.",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
     "tmdb_id": 288673,
     "imdb_id": "tt11540908",
     "recent_until": 1791540303826,
