@@ -1,5 +1,168 @@
 [
   {
+    "tmdb_id": 1236045,
+    "imdb_id": "tt31049299",
+    "recent_until": 1791713976084,
+    "pegi": "",
+    "runtime": 106,
+    "title": "Animals",
+    "original_title": "Animals",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+    "rating": 1.0,
+    "overview": "Milo Bradgord (Ben Affleck), il candidato a sindaco di Los Angeles,  si trova a vivere in un incubo, dopo che suo figlio viene rapito. Lui e sua moglie hanno poche ore per pagare il riscatto, ma hanno speso la maggior parte del loro denato per la campagna politica dell'uomo. I due saranno costretti a ricorrere a misure estreme per racimolare i soldi, sporcandosi le mani e rivelando un lato della loro vita che non avrebbero mai voluto portare alla luce...",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 832130,
+    "imdb_id": "tt10089828",
+    "recent_until": 1791713976230,
+    "pegi": "",
+    "runtime": 123,
+    "title": "Fate Vobis",
+    "original_title": "Fate Vobis",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/jCBklR92S07aA4xr6FGD5UGZc4X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/q9Ps1ruDoaEgvWIUKQ9OJXFYtgs.jpg",
+    "rating": 4.0,
+    "overview": "Bianca, fanese 24 anni figlia di genitori di origine campagnola, rimane incinta di Marco, pesarese, compagno di studi universitario, ricco di famiglia ma dal carattere umile e gentile. La giovane coppia di innamorati però deve fare i conti con Italo, il padre di lei, uomo burbero e molto orgoglioso, legato alla propria terra in maniera viscerale.  Aiutato dall’amico fraterno Bruno, Italo si metterà infatti in guai seri per riuscire a pagare la propria parte del matrimonio dei giovani sposi, dopo aver rifiutato categoricamente l’aiuto della famiglia del suo futuro genero.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1101412,
+    "imdb_id": "tt31192372",
+    "recent_until": 1791713976370,
+    "pegi": "",
+    "runtime": 98,
+    "title": "Fall 2: Deadpoint",
+    "original_title": "Fall 2: Deadpoint",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+    "rating": 7.171,
+    "overview": "Durante una pericolosa scalata sul monte Kwan in Thailandia, due alpinisti rimangono intrappolati a migliaia di piedi dal suolo, dove altezze che inducono vertigini, pura esposizione e probabilità impossibili trasformano ogni momento in una lotta per la sopravvivenza.",
+    "genres": [
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1148365,
+    "imdb_id": "tt28498219",
+    "recent_until": 1791713976512,
+    "pegi": "6+",
+    "runtime": 127,
+    "title": "Matchbox: Il film",
+    "original_title": "Matchbox the Movie",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/JFawNsqIqIZbmfn7Ud7oUvJMMm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+    "rating": 8.0,
+    "overview": "Quando un gruppo di amici si ritrova, la loro riunione prende una piega inaspettata perché si imbattono in un pericoloso complotto internazionale. E dovranno salvare il mondo.",
+    "genres": [
+      "Azione",
+      "Commedia",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 1292415,
+    "imdb_id": "tt7708226",
+    "recent_until": 1791713976656,
+    "pegi": "",
+    "runtime": 115,
+    "title": "Beast",
+    "original_title": "Beast",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
+    "rating": 7.542,
+    "overview": "La leggenda delle MMA Patton James, ora pescatore commerciale, viene richiamato nella gabbia quando suo fratello si trova in pericolo. Riunitosi con il suo vecchio allenatore Sammy, si impegna per un ultimo incontro nel ONE Championship contro il brutale campione Xavier Grau. ",
+    "genres": [
+      "Azione",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1620080,
+    "imdb_id": "tt39384300",
+    "recent_until": 1791713976796,
+    "pegi": "",
+    "runtime": 120,
+    "title": "Less of a Stranger",
+    "original_title": "Mniej obcy",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/5lxcAE2DLtK8bFfCXOV9TM13RDq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xn42TCarooeOxY1yrfOknEmMvAu.jpg",
+    "rating": 0.0,
+    "overview": "Un film ispirato alla vita della leggenda del rock polacco Jan Borysewicz. Una storia di musica, ribellione e libertà in un mondo in cui i sogni si scontrano spesso con una realtà cupa.",
+    "genres": [
+      "Dramma",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 1248832,
+    "imdb_id": "tt31450459",
+    "recent_until": 1791713976943,
+    "pegi": "10+",
+    "runtime": 129,
+    "title": "Digger",
+    "original_title": "Digger",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+    "rating": 7.5,
+    "overview": "Su richiesta del presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 19458,
+    "imdb_id": "tt1196339",
+    "recent_until": 1791713977135,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Programma protezione principesse",
+    "original_title": "Princess Protection Program",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/93KTxLRU2IIywRUBPaVMUxCyVj9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fAPuRLDC1SHFdv3epZJbLLJsZFo.jpg",
+    "rating": 6.645,
+    "overview": "Un malvagio dittatore vuol prendere il posto della principessa Rosalinda Maria Fiore Montoya. L'agente Mason, dipendente di una società che si occupa di proteggere le principesse di tutto il mondo, viene incaricato di occuparsi della sicurezza della principessa Rosalinda. Mason porta Rosalinda a casa sua dove conosce la figlia Carter con la quale, dopo un periodo iniziale di antipatia reciproca, nascerà una sincera amicizia. Nella sua nuova vita Rosalinda dovrà cambiare abbigliamento, pettinatura e cercare di comportarsi come una normale ragazza della sua età.",
+    "genres": [
+      "Famiglia",
+      "televisione film",
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 133805,
+    "imdb_id": "tt1939659",
+    "recent_until": 1791713977276,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Lo sguardo di Satana - Carrie",
+    "original_title": "Carrie",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/z3bhHzHyyMfEyXcdrDTbbqYi3De.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zTwuMSZ8Tsf9k6r2lslemPs4m1H.jpg",
+    "rating": 6.1,
+    "overview": "La tranquilla cittadina di Chamberlain nel Maine è la casa della conservatrice e religiosa Margaret White e sua figlia Carrie. Carrie è una dolce e remissiva emarginata dalla società a causa dell’isolamento impostale dalla madre. La signorina Desjardin, l’insegnante di ginnastica, cerca invano di proteggere Carrie dalle perfide compagne di classe, guidate dall’arrogante Chris Hargenson. L’unica a pentirsi delle sue azioni è Sue Snell, la migliore amica di Chris, che per ripagare il male convince il suo ragazzo, il rubacuori Tommy Ross, a portare Carrie al ballo di fine anno. Spinta al limiti dalle sue compagne di classe, Carrie scatenerà un i suoi poteri telecinetici, vendicandosi delle angherie subite.",
+    "genres": [
+      "Dramma",
+      "Horror"
+    ]
+  },
+  {
     "tmdb_id": 1238188,
     "imdb_id": "tt31101921",
     "recent_until": 1791627538981,
