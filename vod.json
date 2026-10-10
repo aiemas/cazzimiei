@@ -1,5 +1,131 @@
 [
   {
+    "tmdb_id": 1055221,
+    "imdb_id": null,
+    "recent_until": 1791797976283,
+    "pegi": "",
+    "runtime": 76,
+    "title": "Itaca Nel Sole - Cercando Gian Piero Motti",
+    "original_title": "Itaca Nel Sole - Cercando Gian Piero Motti",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/iVuN3e80Imlfs953t89KYOI6y3a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/40E3hwVgpK7iSy87ePjwDGO6MJW.jpg",
+    "rating": 10.0,
+    "overview": "Itaca nel Sole è una famosa via di arrampicata sulle pareti di granito della Valle dell’Orco, in Piemonte. L’immagine di Itaca è legata alla figura di Gian Piero Motti, alpinista, scrittore e filosofo della montagna che ha incarnato i dubbi e le ansie di una generazione al bivio. I registi Tiziano Gaia e Natale Fabio Mancari fanno luce su questo personaggio dalla mentalità anticonvenzionale, scomparso troppo presto.",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 56370,
+    "imdb_id": "tt0075742",
+    "recent_until": 1791797976502,
+    "pegi": "VM18",
+    "runtime": 90,
+    "title": "Berlinguer ti voglio bene",
+    "original_title": "Berlinguer ti voglio bene",
+    "year": "1977",
+    "poster": "https://image.tmdb.org/t/p/w500/aGniRaPGCpFnsgSAZXVgTLJk7PD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wNW3rDkVHlo4Qj1GuWjaR0QiZrL.jpg",
+    "rating": 6.716,
+    "overview": "Mario Cioni non riesce a staccarsi dalla figura della madre che lo opprime, ed è schiavo di una società della quale subisce i modelli di comportamento. Le sue ribellioni sono esclusivamente verbali e non lo allontanano dalle sue inibizioni e frustrazioni. Anche il sesso - sempre presente nel suo linguaggio e nelle sue fantasie - è una sorta di inutile rivalsa. Mario è vittima anche dei compagni di balera, che gli fanno uno scherzo di cattivo gusto: l'unico modo di liberarsi da una realtà che gli va stretta è sperare in una rivoluzione guidata da Enrico Berlinguer...",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 900379,
+    "imdb_id": "tt26440619",
+    "recent_until": 1791797976743,
+    "pegi": "",
+    "runtime": 103,
+    "title": "Il cielo brucia",
+    "original_title": "Roter Himmel",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/hg7wkoaK9FrcvWjsw6tJAqy7Wq5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wbW4w4HvvzDavQCjUKtLMosyNn5.jpg",
+    "rating": 6.8,
+    "overview": "Sulla costa del Mar Baltico, dove il nord della Germania incontra la Polonia, gli amici Felix e Leon si rifugiano per qualche giorno nella casa della famiglia del primo. L'idea è di dedicarsi al lavoro, un progetto fotografico per Felix e gli ultimi ritocchi a un romanzo per Leon, ma la quiete in casa è turbata da Nadja, presenza sfuggente percepita attraverso gli incontri amorosi e notturni, il cibo sulla tavola e la silhouette in bicicletta. Mentre il caldo inaridisce l'aria e gli incendi mangiano l'entroterra, Leon fatica ad accettare la leggerezza che lo circonda e si ritrova sempre più chiuso nella sua mente",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1560020,
+    "imdb_id": "tt39045280",
+    "recent_until": 1791797976961,
+    "pegi": "",
+    "runtime": 103,
+    "title": "Piccolo miracolo",
+    "original_title": "Piccolo miracolo",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/yORPBlonS8FKOvx9QqkcKSDrRQx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dNYw9e6CELdGbzUBHq4GwoZsjSD.jpg",
+    "rating": 4.5,
+    "overview": "Davide Lancia, ricco quarantenne dai gusti raffinati e un debole per tutto ciò che è bello, dalle donne all’arte, deve la sua fortuna al fatto di essere figlio di uno dei più potenti e spregiudicati costruttori romani. Il padre, per spronarlo, gli offre l’occasione per dimostrare finalmente di poter essere il degno erede del suo impero: dovrà demolire una palazzina malandata e realizzare al suo posto un edificio di lusso. Un affare al quale Davide non può rinunciare. Nella palazzina però vive ancora una inquilina che non intende lasciare il suo appartamento: Ursula, una donna cieca, bella, determinata e battagliera. L’incontro con Ursula scompaginerà i piani di Davide e gli permetterà di aprirsi a un nuovo modo di vivere e vedere le cose.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 63492,
+    "imdb_id": "tt0770703",
+    "recent_until": 1791797977306,
+    "pegi": "T",
+    "runtime": 106,
+    "title": "(S)ex list",
+    "original_title": "What's Your Number?",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/tekcUNQWBq0qY9OV9JPJ4QNgaw9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dN4L6qx63sly7SJki2YBXjGcnEy.jpg",
+    "rating": 6.462,
+    "overview": "Con quanti uomini bisogna andare a letto prima di incontrare quello giusto? Secondo una popolare rivista femminile la media per le donne americane è di 10.5. Perciò, se a ventinove anni sei già a quota 19 come Ally Darling e sei pure single, la crisi di identità (e di coscienza) è dietro l'angolo. Soprattutto se tua sorella minore è alle prese con i preparativi del suo matrimonio, una madre ipercritica fa pressing psicologico per sapere chi ti accompagnerà alla cerimonia e la mattina dopo l'addio al nubilato scopri che il tuo capo che ti ha appena licenziata in tronco è inutilmente diventato il numero venti. È così che Ally, animata dai migliori propositi, decide di rintracciare tutti i suoi ex, per capire se tra di loro si nasconda l'uomo giusto in modo da non sforare l'imbarazzante primato raggiunto tra le amiche.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 72197,
+    "imdb_id": "tt1430626",
+    "recent_until": 1791797977526,
+    "pegi": "T",
+    "runtime": 88,
+    "title": "Pirati! Briganti da strapazzo",
+    "original_title": "The Pirates! In an Adventure with Scientists!",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/jnvUTGTlUfgijdOXis2MxIa9yJ2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9UZnCIeUVHzZQLDXN7lht2T4ndB.jpg",
+    "rating": 6.5,
+    "overview": "Capitan Pirata, terrore dei sette mari più di nome che di fatto, ha il grande sogno di fare suo il titolo di Pirata dell'anno ma per riuscirci deve battere l'agguerrita concorrenza del terribile Black Bellamy e della maliarda Cutlass Liz, i rivali di sempre. Con a fianco il suo strampalato equipaggio, il capitano si imbarca in un'avventura che lo porterà dalle esotiche Blood Islands fino alla nebbia della Londra vittoriana, scontrandosi lungo il tragitto con una diabolica regina e trovando la collaborazione di un giovane scienziato.",
+    "genres": [
+      "Animazione",
+      "Avventura",
+      "Famiglia",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 293646,
+    "imdb_id": "tt2006295",
+    "recent_until": 1791797977763,
+    "pegi": "",
+    "runtime": 125,
+    "title": "The 33",
+    "original_title": "The 33",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/dW4YpEQE0FVs8GtlM1nt1p9nxeK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kyZUeUeDjOQO9t8KaPxHpWJCTsW.jpg",
+    "rating": 6.401,
+    "overview": "A causa del crollo di una miniera d'oro, 33 lavoratori rimangono intrappolati nelle viscere della terra. La loro odissea andrà avanti per ben 69 giorni, tra difficoltà e istinto di sopravvivenza.",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
     "tmdb_id": 1236045,
     "imdb_id": "tt31049299",
     "recent_until": 1791713976084,

@@ -1,5 +1,113 @@
 [
   {
+    "tmdb_id": 284833,
+    "imdb_id": "tt35854736",
+    "recent_until": 1791797979797,
+    "type": "tv",
+    "title": "Avatar: I sette rifugi",
+    "original_title": "Avatar: Seven Havens",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/cw0nZlGdxPro0J9aZYO1tz2fZKY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+    "rating": 9.158,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Una giovane Dominatrice della Terra scopre di essere il nuovo Avatar dopo Korra, in un mondo sconvolto da un cataclisma devastante. In questa nuova e pericolosa epoca, il titolo di Avatar non la identifica come la salvatrice dell'umanità, ma come la sua possibile distruttrice. Braccata da nemici umani e spirituali, la ragazza dovrà ricongiungersi con la gemella perduta, fare luce sulle loro misteriose origini e salvare i Sette Rifugi prima che crollino gli ultimi baluardi della civiltà.",
+    "genres": [
+      "Animazione",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Famiglia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 13
+      }
+    ]
+  },
+  {
+    "tmdb_id": 290750,
+    "imdb_id": "tt38681829",
+    "recent_until": 1791797980062,
+    "type": "tv",
+    "title": "L'amore è cieco: Paesi Bassi",
+    "original_title": "Love Is Blind: Nederland",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6zRBZpedwwbXmmPZbINZjVIyqBi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dpqXlE4UN9KGG7vYvAISYQpD27B.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Il celebre dating show arriva nei Paesi Bassi, dove alcuni single olandesi si frequentano, si innamorano e si fidanzano prima di incontrarsi faccia a faccia.",
+    "genres": [
+      "Reality"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "tmdb_id": 337905,
+    "imdb_id": null,
+    "recent_until": 1791797980282,
+    "type": "tv",
+    "title": "Nord Sud Ovest Est: La leggendaria storia degli 883",
+    "original_title": "Nord Sud Ovest Est: La leggendaria storia degli 883",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/pkkbp6idHq6CQ2DWl99OkN61fR0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xmF7sPO0ySnviB7yttJI4New274.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "L'epico finale della storia degli 883 ci porta nel mondo di Nord Sud Ovest Est. Nel 1993 Max e Mauro sono all'apice del successo: primi in classifica, tra concerti leggendari, nuovi amori e sogni che sembrano ormai a portata di mano. Ma mentre la loro popolarità cresce, qualcosa nel loro rapporto inizia a cambiare. Tra la Milano degli anni '90, il mito dell'America e la ricerca del proprio futuro, i due amici affrontano il momento più importante della loro storia in un viaggio fatto di musica, amicizia e scelte che segneranno per sempre il loro destino.",
+    "genres": [
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 2
+      }
+    ]
+  },
+  {
+    "tmdb_id": 134373,
+    "imdb_id": "tt11212276",
+    "recent_until": 1791797980617,
+    "type": "tv",
+    "title": "The Sex Lives of College Girls",
+    "original_title": "The Sex Lives of College Girls",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/wThMl6AhneaNw78XHC7fupBxNle.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hxlHxV4g5PDSGk1LP46KUMFSYUG.jpg",
+    "rating": 7.2,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Segui quattro coinquiline del college mentre arrivano all'Essex College, una prestigiosa università del New England. Un concentrato di contraddizioni e ormoni, queste ragazze sono adorabili e irritanti allo stesso tempo mentre vivono le loro nuove vite libere nel campus.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      },
+      {
+        "season": 3,
+        "episodes": 10
+      }
+    ]
+  },
+  {
     "tmdb_id": 285322,
     "imdb_id": "tt35934755",
     "recent_until": 1791627540613,
