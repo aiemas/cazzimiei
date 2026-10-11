@@ -20,7 +20,7 @@ chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
 
 print(f"Estrazione TOTALE degli eventi e generazione lista IPTV ANNIDATA (Lingua Singola) da: {url}...")
 
-m3u_path = "palinesto.m3u"
+m3u_path = "palinsesto.m3u"
 
 try:
     driver = webdriver.Chrome(options=chrome_options)
