@@ -2,13 +2,16 @@ name: Aggiornamento Automatico Palinsesto M3U
 
 on:
   schedule:
-    # Esegue lo script ogni 30 minuti (nota: i server di GitHub Actions potrebbero ritardare di qualche minuto)
-    - cron: '*/30 * * * *'
-  workflow_dispatch: # Ti permette di avviare lo script anche a mano direttamente da GitHub
+    # Esegue lo script ogni 60 minuti
+    - cron: '*/60 * * * *'
+  workflow_dispatch: # Permette l'avvio manuale
 
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
+    # --- FORZA IL FUSO ORARIO ITALIANO SUL SERVER DI GITHUB ---
+    env:
+      TZ: Europe/Rome
 
     steps:
     # 1. Copia i file del tuo repository sul server di GitHub
@@ -37,13 +40,11 @@ jobs:
     - name: Esegui lo Scraper
       run: python roja.py
 
-        # 6. Salva e pubblica il file .m3u generato nel tuo repository GitHub
+    # 6. Salva e pubblica il file .m3u generato nel tuo repository GitHub
     - name: Salva e pusha il file M3U aggiornato
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        # Controllo di sicurezza: se lo script non ha creato il file, lo creiamo vuoto per evitare il crash di Git
         touch palinsesto.m3u
         git add palinsesto.m3u
-        # Esegue il commit solo se ci sono reali novità nel palinsesto
         git diff --quiet && git diff --staged --quiet || (git commit -m "Palinsesto aggiornato automaticamente" && git push)
