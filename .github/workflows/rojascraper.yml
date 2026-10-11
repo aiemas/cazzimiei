@@ -1,0 +1,47 @@
+name: Aggiornamento Automatico Palinsesto M3U
+
+on:
+  schedule:
+    # Esegue lo script ogni 30 minuti (nota: i server di GitHub Actions potrebbero ritardare di qualche minuto)
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Ti permette di avviare lo script anche a mano direttamente da GitHub
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Copia i file del tuo repository sul server di GitHub
+    - name: Checkout del codice
+      uses: actions/checkout@v4
+
+    # 2. Configura l'ambiente Python
+    - name: Configura Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    # 3. Installa Google Chrome nel sistema virtuale di GitHub
+    - name: Installa Chrome
+      uses: browser-actions/setup-chrome@v1
+      with:
+        chrome-version: stable
+
+    # 4. Installa le librerie Python necessarie
+    - name: Installa le dipendenze
+      run: |
+        python -m pip install --upgrade pip
+        pip install selenium beautifulsoup4
+
+    # 5. Esegue il tuo script Python
+    - name: Esegui lo Scraper
+      run: python roja.py
+
+    # 6. Salva e pubblica il file .m3u generato nel tuo repository GitHub
+    - name: Salva e pusha il file M3U aggiornato
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add palinsesto.m3u
+        # Esegue il commit solo se il file M3U è effettivamente cambiato, evitando errori
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Palinsesto aggiornato automaticamente" && git push)
