@@ -37,11 +37,13 @@ jobs:
     - name: Esegui lo Scraper
       run: python roja.py
 
-    # 6. Salva e pubblica il file .m3u generato nel tuo repository GitHub
+        # 6. Salva e pubblica il file .m3u generato nel tuo repository GitHub
     - name: Salva e pusha il file M3U aggiornato
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        # Controllo di sicurezza: se lo script non ha creato il file, lo creiamo vuoto per evitare il crash di Git
+        touch palinsesto.m3u
         git add palinsesto.m3u
-        # Esegue il commit solo se il file M3U è effettivamente cambiato, evitando errori
+        # Esegue il commit solo se ci sono reali novità nel palinsesto
         git diff --quiet && git diff --staged --quiet || (git commit -m "Palinsesto aggiornato automaticamente" && git push)
