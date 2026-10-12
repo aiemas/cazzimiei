@@ -1,5 +1,96 @@
 [
   {
+    "tmdb_id": 42656,
+    "imdb_id": "tt1405769",
+    "recent_until": 1791973995398,
+    "pegi": "",
+    "runtime": 82,
+    "title": "Focaccia Blues",
+    "original_title": "Focaccia Blues",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/1XQx6IZKtn1q8HIH89Cj9yH6cST.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hql1nSgFaZSuFjrtS5aDwwd2iBb.jpg",
+    "rating": 4.6,
+    "overview": "Nel 2001 ad Altamura, in Puglia, venne inaugurato un grande McDonald's di 550 metri quadri. Qualche mese dopo, il panettiere Luca Di Gesù aprì una piccola bottega accanto al \"gigante\" americano. La concorrenza del panettiere mise in crisi il grande Fast Food che fu così costretto a chiudere.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 137315,
+    "imdb_id": "tt2290789",
+    "recent_until": 1791973995582,
+    "pegi": "T",
+    "runtime": 102,
+    "title": "Tutti i santi giorni",
+    "original_title": "Tutti i santi giorni",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/4hzXIun9ybWqGb7ZSj3TRMaGFXC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tdNfa5O6nGPeHy1Lp2jsenTv3mX.jpg",
+    "rating": 6.8,
+    "overview": "Guido ed Antonia sono una coppia di giovani: toscano lui e siciliana lei, si sono conosciuti ad un concerto di quest'ultima, in un locale di Roma, città dove ora convivono. Lui lavora come portiere di notte ed è appassionato di letteratura e storia antica, con un pallino per le agiografie; lei lavora in un autonoleggio e continua a comporre canzoni e a covare la timida speranza di tornare a cantarle in pubblico. Il titolo del film deriva dall'abitudine di Guido, al ritorno dal suo lavoro, di svegliare Antonia portandole la colazione a letto ed accennandole la storia del santo che si festeggia nel giorno.",
+    "genres": [
+      "Commedia",
+      "Romance",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 41291,
+    "imdb_id": "tt0084445",
+    "recent_until": 1791973995762,
+    "pegi": "T",
+    "runtime": 99,
+    "title": "Un sogno lungo un giorno",
+    "original_title": "One from the Heart",
+    "year": "1982",
+    "poster": "https://image.tmdb.org/t/p/w500/7qZKyhzXKSGbXqMdzdTlV8Mfwme.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5QEqz09x8tU3QS0VaNVhpZjuh8k.jpg",
+    "rating": 5.948,
+    "overview": "Il 4 luglio, festa dell'indipendenza, è il giorno più lungo per Hank e Franny. Lui conosce un'acrobata di un circo, lei ha una storia con un cantante di origini latine. Alla fine tornano insieme. La storia è un po' scontata, ma l'omaggio di Coppola al cinema classico era sincero e le tecniche con cui ha girato il film erano rivoluzionarie. Fu un fiasco colossale, che mandò al fallimento la Zoetrope, casa di produzione di Coppola. Superba fotografia di Storaro e grande colonna sonora di Tom Waits.",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 74725,
+    "imdb_id": "tt1788391",
+    "recent_until": 1791973996034,
+    "pegi": "",
+    "runtime": 95,
+    "title": "Kill List",
+    "original_title": "Kill List",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/MI3avw90gT1BdTU8rfe6IlIvoX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ptZypdOBofmADX9JCtgi5E38cnC.jpg",
+    "rating": 6.2,
+    "overview": "La vita è dura per un uomo colpito dalla disoccupazione. Si ritrova da un giorno all'altro senza assicurazione sanitaria, con molti debiti ed una moglie sempre alla ricerca di soldi. La sua vita di provincia si sta rapidamente trasformando in un incubo, e il matrimonio è sull'orlo del collasso totale. Quando il suo socio in affari Gal si auto-invita per una cena, diventa chiaro che lui è lì per fare pressione su Jay per un nuovo incarico. Jay si ritrova nel gioco, con la promessa di una grande ricompensa dopo tre omicidi, ma ben presto le cose iniziano a svelare lati negativi e la sua paranoia lo immerge direttamente nel cuore delle tenebre",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 762433,
+    "imdb_id": "tt13432484",
+    "recent_until": 1791973996459,
+    "pegi": "",
+    "runtime": 85,
+    "title": "Zeros and Ones",
+    "original_title": "Zeros and Ones",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/ooTRekOy3oxGxagS2zL70aPNdqa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wnn2Zf1ZuCgcCVaoNdp20OI2uTs.jpg",
+    "rating": 4.7,
+    "overview": "JJ è un soldato americano di stanza a Roma. Una Roma in guerra, paralizzata e sotto assedio. L'esplosione del Vaticano nel cielo notturno è solo l'inizio del viaggio che il nostro eroe dovrà fare per scoprire e difendersi da un temibile nemico sconosciuto che minaccia l'intera umanità.",
+    "genres": [
+      "Guerra",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 421759,
     "imdb_id": "tt6167116",
     "recent_until": 1791885117686,
