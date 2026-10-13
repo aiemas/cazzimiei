@@ -65,8 +65,8 @@
             backdrop-filter: blur(5px); /* Sfocatura posteriore effetto iOS */
         }
 
-        /* Effetto quando si passa sopra con il mouse */
-        .bottone:hover {
+        /* Effetto quando si passa sopra con il mouse o con il focus del telecomando */
+        .bottone:hover, .bottone:focus {
             background: #007bff; /* Si illumina di blu */
             border-color: #007bff;
             transform: translateY(-3px); /* Piccola spinta verso l'alto */
@@ -79,17 +79,17 @@
     <h1>Benvenuto nella mia pagina!</h1>
     <p>Clicca sui pulsanti per visitare i siti:</p>
 
-    <!-- I bottoni ora sono dentro questo contenitore "flex" -->
     <div class="contenitore-bottoni">
-        <a href="https://topstream.help/" target="_blank" class="bottone">TOPSTREAM</a>
-        <a href="https://zlive.st/" target="_blank" class="bottone">ZLIVE</a>
-        <a href="https://streamcorner.st/" target="_blank" class="bottone">STReAMCORNER</a>
-        <a href="https://dlive.sx/" target="_blank" class="bottone">DADDY</a>
-        <a href="https://footfytv.pro/" target="_blank" class="bottone">FOOTFY</a>
-        <a href="https://ppv.tj/" target="_blank" class="bottone">PPV</a>
-        <a href="https://antsports.tv/" target="_blank" class="bottone">ANTSPORTS</a>
-        <a href="https://ntv.cx/matches/kobra" target="_blank" class="bottone">NTV</a>
-        <a href="https://aiemas.github.io/miaf/index.html#grid" target="_blank" class="bottone">FILM&SERIE</a>
+        <!-- AGGIORNATO: Rimosso target="_blank" per consentire l'apertura all'interno di GeckoView -->
+        <a href="https://topstream.help" class="bottone">TOPSTREAM</a>
+        <a href="https://zlive.st" class="bottone">ZLIVE</a>
+        <a href="https://streamcorner.st" class="bottone">STReAMCORNER</a>
+        <a href="https://dlive.sx" class="bottone">DADDY</a>
+        <a href="https://footfytv.pro" class="bottone">FOOTFY</a>
+        <a href="https://ppv.tj" class="bottone">PPV</a>
+        <a href="https://antsports.tv" class="bottone">ANTSPORTS</a>
+        <a href="https://ntv.cx" class="bottone">NTV</a>
+        <a href="https://github.io" class="bottone">FILM&SERIE</a>
     </div>
 
 </body>
