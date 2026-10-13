@@ -5,31 +5,72 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>I miei Link</title>
     <style>
-        /* Questo spazio serve a rendere i bottoni belli e colorati */
+        /* Sfondo moderno con sfumatura sfumata e scura */
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             text-align: center;
-            background-color: #f4f4f9;
-            padding: 50px;
+            background: linear-gradient(-45deg, #141e30, #243b55, #0f2027);
+            background-size: 400% 400%;
+            animation: gradientBG 15s ease infinite;
+            color: #ffffff;
+            padding: 50px 20px;
+            margin: 0;
+            min-height: 100vh;
         }
+
+        /* Animazione per rendere lo sfondo dinamico */
+        @keyframes gradientBG {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
         h1 {
-            color: #333;
+            color: #ffffff;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
         }
+
+        p {
+            color: #b0c4de;
+            font-size: 1.1rem;
+            margin-bottom: 40px;
+        }
+
+        /* Contenitore per allineare i bottoni uno accanto all'altro */
+        .contenitore-bottoni {
+            display: flex;
+            flex-wrap: wrap;       /* Fa andare a capo i bottoni se non c'è spazio */
+            justify-content: center; /* Centra i bottoni nello schermo */
+            gap: 15px;             /* Spazio tra un bottone e l'altro */
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        /* Stile dei bottoni aggiornato */
         .bottone {
-            display: block;
+            display: inline-block;
             width: 200px;
-            margin: 20px auto;
             padding: 15px;
-            background-color: #007bff;
+            background: rgba(255, 255, 255, 0.1); /* Effetto vetro semi-trasparente */
             color: white;
-            text-decoration: none; /* Toglie la sottolineatura del link */
+            text-decoration: none;
             font-weight: bold;
-            border-radius: 8px; /* Arrotonda i bordi */
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            transition: 0.2s;
+            letter-spacing: 1px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 12px; /* Angoli più arrotondati */
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            transition: all 0.3s ease;
+            backdrop-filter: blur(5px); /* Sfocatura posteriore effetto iOS */
         }
+
+        /* Effetto quando si passa sopra con il mouse */
         .bottone:hover {
-            background-color: #0056b3; /* Cambia colore quando ci passi sopra */
+            background: #007bff; /* Si illumina di blu */
+            border-color: #007bff;
+            transform: translateY(-3px); /* Piccola spinta verso l'alto */
+            box-shadow: 0 6px 20px rgba(0, 123, 255, 0.4);
         }
     </style>
 </head>
@@ -38,15 +79,18 @@
     <h1>Benvenuto nella mia pagina!</h1>
     <p>Clicca sui pulsanti per visitare i siti:</p>
 
-    <!-- Modifica gli URL dentro href="" e le scritte tra i tag per personalizzarli -->
-    <a href="https://topstream.help/" target="_blank" class="bottone">TOPSTREAM</a>
-    <a href="https://zlive.st/" target="_blank" class="bottone">ZLIVE</a>
-    <a href="https://streamcorner.st/" target="_blank" class="bottone">STReAMCORNER</a>
-    <a href="https://dlive.sx/" target="_blank" class="bottone">DADDY</a>
-    <a href="https://footfytv.pro/" target="_blank" class="bottone">FOOTFY</a>
-    <a href="https://ppv.tj/" target="_blank" class="bottone">PPV</a>
-    <a href="https://antsports.tv/" target="_blank" class="bottone">ANTSPORTS</a>
-    <a href="https://ntv.cx/matches/kobra" target="_blank" class="bottone">NTV</a>
-    <a href="https://aiemas.github.io/miaf/index.html#grid" target="_blank" class="bottone">FILM&SERIE</a>
+    <!-- I bottoni ora sono dentro questo contenitore "flex" -->
+    <div class="contenitore-bottoni">
+        <a href="https://topstream.help/" target="_blank" class="bottone">TOPSTREAM</a>
+        <a href="https://zlive.st/" target="_blank" class="bottone">ZLIVE</a>
+        <a href="https://streamcorner.st/" target="_blank" class="bottone">STReAMCORNER</a>
+        <a href="https://dlive.sx/" target="_blank" class="bottone">DADDY</a>
+        <a href="https://footfytv.pro/" target="_blank" class="bottone">FOOTFY</a>
+        <a href="https://ppv.tj/" target="_blank" class="bottone">PPV</a>
+        <a href="https://antsports.tv/" target="_blank" class="bottone">ANTSPORTS</a>
+        <a href="https://ntv.cx/matches/kobra" target="_blank" class="bottone">NTV</a>
+        <a href="https://aiemas.github.io/miaf/index.html#grid" target="_blank" class="bottone">FILM&SERIE</a>
+    </div>
+
 </body>
 </html>
