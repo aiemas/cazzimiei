@@ -1,5 +1,71 @@
 [
   {
+    "tmdb_id": 60948,
+    "imdb_id": "tt3148266",
+    "recent_until": 1792059728520,
+    "type": "tv",
+    "title": "12 Monkeys",
+    "original_title": "12 Monkeys",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/w5u1PqBYfDyfrlkxADTA38jYG3I.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oReDAVfMTBi1J543aKg7LpeecPv.jpg",
+    "rating": 7.435,
+    "pegi": "T",
+    "runtime": 43,
+    "overview": "La serie narra le avventure di James Cole, un viaggiatore del tempo arrivato nel presente dall'anno 2043 con la missione di trovare e neutralizzare l'origine della diffusione di un virus mortale che, nel suo tempo, è arrivato a contagiare e uccidere il 93,6% della popolazione mondiale. La diffusione del virus rientra nei piani di un'enigmatica organizzazione nota come \"L'Esercito delle Dodici Scimmie\".",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 17
+      },
+      {
+        "season": 1,
+        "episodes": 13
+      },
+      {
+        "season": 2,
+        "episodes": 13
+      },
+      {
+        "season": 3,
+        "episodes": 10
+      },
+      {
+        "season": 4,
+        "episodes": 11
+      }
+    ]
+  },
+  {
+    "tmdb_id": 155495,
+    "imdb_id": "tt15614668",
+    "recent_until": 1792059728664,
+    "type": "tv",
+    "title": "Then You Run",
+    "original_title": "Then You Run",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/c6Eb0ZxmnZM1YJN5MLiDiAZSNPh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5jHZElRoJBrft8oEMSyUplv35oE.jpg",
+    "rating": 5.1,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
     "tmdb_id": 83673,
     "imdb_id": "tt9203042",
     "recent_until": 1791973997625,

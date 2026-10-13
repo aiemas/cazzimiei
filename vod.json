@@ -1,5 +1,231 @@
 [
   {
+    "tmdb_id": 48941,
+    "imdb_id": "tt0214265",
+    "recent_until": 1792059725960,
+    "pegi": "T",
+    "runtime": 116,
+    "title": "Vajont - La diga del disonore",
+    "original_title": "Vajont - La diga del disonore",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/w500/wQqyttmmrHzgmHxxYp1D2u0BiIK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6zj7HjsYW0M6okmt7ROeSQ2kA2p.jpg",
+    "rating": 6.6,
+    "overview": "Lo sapevano tutti nel Vajont che della montagna Toc (che vuol dire qualcosa di marcio, di friabile) non ci si poteva fidare. Tina Merlin lo scriveva continuamente nei suoi articoli sull’Unità. Ma quelli che avevano progettato la più alta diga del mondo non potevano e non volevano prestare ascolto a quei suoni e a quei segni sinistri che preannunciavano la catastrofe.Il film ricorda il Disastro del Vajont, che nel 1963 costò la vita a circa duemila persone. La vicenda, reale, viene raccontata intrecciandola con la storia d’amore di Olmo Montaner, che nel film è uno dei pochi sopravvissuti alla tragedia, ma che è, in realtà, un personaggio del tutto inventato.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1393326,
+    "imdb_id": "tt9000310",
+    "recent_until": 1792059726102,
+    "pegi": "",
+    "runtime": 106,
+    "title": "Ghost in the Cell",
+    "original_title": "Ghost in the Cell",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+    "rating": 7.0,
+    "overview": "",
+    "genres": [
+      "Horror",
+      "Commedia",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1480295,
+    "imdb_id": "tt6105978",
+    "recent_until": 1792059726238,
+    "pegi": "",
+    "runtime": 81,
+    "title": "Project: Affinity",
+    "original_title": "Affinity",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/WKwQOPh2mQPRL12jSu2yFHk4A7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ekpdjcuVVU2LIFM3EyePYykYZ4b.jpg",
+    "rating": 6.8,
+    "overview": "Un ex Navy SEAL affetto da disturbo post-traumatico da stress (PTSD) salva una donna e se ne innamora. Quando lei viene rapita, guida una missione di salvataggio e scopre che in realtà è una creazione di bioingegneria, realizzata da uno scienziato che piange la perdita della moglie.",
+    "genres": [
+      "Azione",
+      "Fantascienza",
+      "Thriller",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 949536,
+    "imdb_id": "tt18212138",
+    "recent_until": 1792059726375,
+    "pegi": "",
+    "runtime": 87,
+    "title": "Kill Code",
+    "original_title": "Kill Code",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bXvSKLCillha6wxY0yxoRCM2WQl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zyqAhNJqwiop5yUOJ8SHV27labY.jpg",
+    "rating": 4.738,
+    "overview": "",
+    "genres": [
+      "Azione",
+      "Thriller",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1607127,
+    "imdb_id": "tt37971717",
+    "recent_until": 1792059726523,
+    "pegi": "",
+    "runtime": 98,
+    "title": "One Last Shot",
+    "original_title": "One Last Shot",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+    "rating": 7.453,
+    "overview": "Un Navy SEAL rinnegato e deluso dalla condotta del suo esercito, guida una squadra di mercenari nel tentativo di disattivare la rete di difesa statunitense. L'unico in grado di fermarlo è il suo ex commilitone Jake Harris.",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 9346,
+    "imdb_id": "tt0086200",
+    "recent_until": 1792059726669,
+    "pegi": "",
+    "runtime": 99,
+    "title": "Risky Business - Fuori i vecchi... i figli ballano",
+    "original_title": "Risky Business",
+    "year": "1983",
+    "poster": "https://image.tmdb.org/t/p/w500/5LEXDE2WFtPLIUSUnEXZhmcLn72.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xGEBZAFcRQ8fqGVXMtQCnkoUNTG.jpg",
+    "rating": 6.576,
+    "overview": "Approfittando di un viaggio dei genitori Joe, liceale d'assalto, trasforma la propria casa in luogo d'appuntamenti mercenari, complice la bella Lana, che lo introduce nel \"giro\". Questo naturalmente non va giù al protettore di Lana che dichiara guerra ai due, rubando tutto il mobilio di casa al povero Joe, il quale riesce a recuperare la situazione appena un attimo prima dell'arrivo dei genitori. Ovvero come si diventa yuppy senza saperlo.",
+    "genres": [
+      "Romance",
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 3089,
+    "imdb_id": "tt0040724",
+    "recent_until": 1792059726808,
+    "pegi": "",
+    "runtime": 126,
+    "title": "Il fiume rosso",
+    "original_title": "Red River",
+    "year": "1948",
+    "poster": "https://image.tmdb.org/t/p/w500/iFMQYOl0tZ03cvNWTTUluI4Jt7T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jnwIO4HasO9APdBaGeMcZi0JFXs.jpg",
+    "rating": 7.343,
+    "overview": "Nel 1851 un allevatore, Tom Dunson, decide di stabilirsi con un fedele amico, Groot Nadine, e un giovane orfano raccolto lungo il cammino, Matthew Garth, presso il confine settentrionale del Texas per crearsi una propria mandria. La fortuna arride all'uomo, che nel giro di quindici anni diventa ricco, ma la ricchezza ha il suo prezzo ed egli non è più l'uomo generoso di un tempo, anzi, è diventato duro con chiunque lo contrasti, compreso il giovane Matt, nonostante lo consideri ormai come fosse il proprio figlio.",
+    "genres": [
+      "Western",
+      "Dramma",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 2998,
+    "imdb_id": "tt0066601",
+    "recent_until": 1792059726947,
+    "pegi": "18+",
+    "runtime": 110,
+    "title": "Zabriskie Point",
+    "original_title": "Zabriskie Point",
+    "year": "1970",
+    "poster": "https://image.tmdb.org/t/p/w500/jeiAz4xDtcxwFEykG2RabdTbHPU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nLb3TOTjgvvjmHnUmlkg4Rwq9jG.jpg",
+    "rating": 7.0,
+    "overview": "L'amore tra una ragazza benestante e uno studente ribelle di Los Angeles che ruba un aereo alla ricerca della libertà. Finale profetico esplosivo in forma di apocalisse capitalistica. La sproporzione tra idee e apparato figurativo, tra esilità della storia e terribilità della conclusione irritò la critica americana, ma l'esilità (la superficialità) non è soltanto della storia: è l'invenzione registica che bisogna mettere in discussione, è la pregnanza figurativa che manca, sostituita da una compiaciuta lussuria fotografica (Alfio Contini). È il film di un provinciale che punta al grandioso. Sam Shepard collaborò alla sceneggiatura. Una buona colonna rock con (fra gli altri) Pink Floyd, Grateful Dead e Rolling Stones.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 10480,
+    "imdb_id": "tt0171580",
+    "recent_until": 1792059727127,
+    "pegi": "",
+    "runtime": 108,
+    "title": "Betty Love",
+    "original_title": "Nurse Betty",
+    "year": "2000",
+    "poster": "https://image.tmdb.org/t/p/w500/gbGMkYQpSkEEe5dP5NBoQGBIkX5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8ZquU1oL90wNowQeXaXx7xPk7vZ.jpg",
+    "rating": 6.069,
+    "overview": "Betty è una cameriera di un locale di Kansas City che sogna di fare l'infermiera. Quando suo marito viene ucciso da due spacciatori di droga, rimane scioccata e si convince di essere la fidanzata del dottor Ravell, un personaggio della sua soap opera preferita. Decisa ad incontrarlo, va a Los Angeles per cercare l'ospedale dove lui lavora, poichè non si rende conto che sia l'ospedale, sia il dottore, sono invenzioni televisive. Nel frattempo i due killer del marito la inseguono, per riprendersi la droga che è stata loro rubata.",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Thriller",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 48572,
+    "imdb_id": "tt0873886",
+    "recent_until": 1792059727271,
+    "pegi": "",
+    "runtime": 88,
+    "title": "Red State",
+    "original_title": "Red State",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/nHILcBEXMHrk9r8rpKDo58POwgD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kEr29qsdYt5FQ2sBORL9DBgGrJw.jpg",
+    "rating": 6.0,
+    "overview": "Un gruppo di tre amici, studenti di un college, risponde a un annuncio on line in cui una provocante donna cerca partecipanti per un’orgia che sta organizzando. Allettati dalla realizzazione di una delle loro fantasie erotiche preferite, una volta giunti sul luogo dell’incontro, si troveranno a dover affrontare il terrore generato dal pastore Abin Cooper, un folle predicatore che insieme agli adepti della sua ultraconservatrice chiesa vorrebbe eliminare tutti i peccatori dalla faccia della terra. Potranno però contare sull'aiuto di un agente dell'Fbi (John Goodman) che tenterà l'impossibile per salvarli.",
+    "genres": [
+      "Horror",
+      "Azione",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 276902,
+    "imdb_id": "tt1661820",
+    "recent_until": 1792059727414,
+    "pegi": "",
+    "runtime": 92,
+    "title": "Cut Bank - Crimine chiama crimine",
+    "original_title": "Cut Bank",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/hP5N3R8qqe7JT4N3esgh23GOpCN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lGoyDkKafXvKmZ2oQYdVMOzuhSX.jpg",
+    "rating": 5.8,
+    "overview": "Da quando si è diplomato, il venticinquenne Dwayne McLaren, un ex atleta diventato meccanico di auto, è alla ricerca di qualcosa che lo porti a lasciare la cittadina di Cut Bank, in cui è cresciuto. Quando si ritrova nel posto sbagliato al momento giusto, Dwayne intravede la possibilità di perseguire il sogno di una vita migliore con la fidanzata Cassandra in una città più grande. A Cut Bank, però, la fortuna non esiste e ben presto Dwayne è costretto a confrontarsi con le conseguenze negative del suo sogno e con una serie micidiale di eventi che cambieranno per sempre la sua vita e quella dell'intera cittadina.",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1160003,
+    "imdb_id": "tt23642744",
+    "recent_until": 1792059727703,
+    "pegi": "",
+    "runtime": 95,
+    "title": "Night of the Hunted: La caccia",
+    "original_title": "Night of the Hunted",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/2bjA42z4yZPMG6QuCEaazxUTwvr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7lWaPb80r6BsL9V436Cgs6SYklb.jpg",
+    "rating": 6.129,
+    "overview": "In sosta in una remota stazione di servizio nel cuore della notte, una donna cade preda di un cecchino sociopatico in cerca di una misteriosa vendetta. Per sopravvivere, non deve solo sfuggire ai suoi colpi del suo fucile, ma deve anche scoprire chi la vuole morta e perché.",
+    "genres": [
+      "Horror",
+      "Mistero",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 42656,
     "imdb_id": "tt1405769",
     "recent_until": 1791973995398,
