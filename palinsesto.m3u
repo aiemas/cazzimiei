@@ -1,117 +1,103 @@
 #EXTM3U
-#EXTINF:0 group-title="20:15 FÃºtbol Football (Women's World Cup UEFA Q playoff): Scotland - Czech Republic", ND
-https://sport.ceskatelevize.cz/videostream/kvalifikace-ms-fotbalistek-skotsko-cesko-2907
-#EXTINF:0 group-title="20:15 FÃºtbol Football (Women's World Cup UEFA Q playoff): Scotland - Czech Republic", ES 1
-https://polocruz10.pages.dev/espn2mx
-#EXTINF:0 group-title="20:15 FÃºtbol Football (Women's World Cup UEFA Q playoff): Scotland - Czech Republic", ES 2
-https://www.ertflix.gr/#/channels
-#EXTINF:0 group-title="20:15 FÃºtbol Football (Women's World Cup UEFA Q playoff): Scotland - Czech Republic", ES 3
-https://www.itv.com/watch?channel=itv4
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Women's World Cup UEFA Q playoff): England - Greece", ES 1
-https://polocruz10.pages.dev/espn2mx
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Women's World Cup UEFA Q playoff): England - Greece", ES 2
-https://www.ertflix.gr/#/channels
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Women's World Cup UEFA Q playoff): England - Greece", ES 3
-https://www.itv.com/watch?channel=itv4
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Women's World Cup UEFA Q playoff): England - Greece", EL
-https://www.ertflix.gr/#/channels
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Women's World Cup UEFA Q playoff): England - Greece", EN 1
-https://www.itv.com/watch?channel=itv4
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Women's World Cup UEFA Q playoff): England - Greece", EN 2
-https://www.rte.ie/player/onnow/66546216064
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Women's World Cup UEFA Q playoff): Ireland - Kazakhstan", EN
-https://www.rte.ie/player/onnow/66546216064
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Women's World Cup UEFA Q playoff): Ireland - Kazakhstan", NL 1
-https://shd247.world/live-go-streaming-29.html
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Women's World Cup UEFA Q playoff): Ireland - Kazakhstan", NL 2
-https://mediaklikk.hu/elo/mtv4live/
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Women's World Cup UEFA Q playoff): Ireland - Kazakhstan", NL 3
-https://m4sport.hu/elo
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Women's World Cup UEFA Q playoff): Ireland - Kazakhstan", NL 4
-https://npo.nl/start/live/npo3
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Women's World Cup UEFA Q playoff): Ireland - Kazakhstan", NL 5
-https://shazysport.pro/livehd18.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Women's World Cup UEFA Q playoff): Netherlands - Hungary", NL 1
-https://shd247.world/live-go-streaming-29.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Women's World Cup UEFA Q playoff): Netherlands - Hungary", NL 2
-https://mediaklikk.hu/elo/mtv4live/
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Women's World Cup UEFA Q playoff): Netherlands - Hungary", NL 3
-https://m4sport.hu/elo
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Women's World Cup UEFA Q playoff): Netherlands - Hungary", NL 4
-https://npo.nl/start/live/npo3
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Women's World Cup UEFA Q playoff): Netherlands - Hungary", NL 5
-https://shazysport.pro/livehd18.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Women's World Cup UEFA Q playoff): Netherlands - Hungary", ND 1
-https://shd247.world/live-go-streaming-29.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Women's World Cup UEFA Q playoff): Netherlands - Hungary", ND 2
-https://mediaklikk.hu/elo/mtv4live/
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Women's World Cup UEFA Q playoff): Netherlands - Hungary", ND 3
-https://m4sport.hu/elo
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Women's World Cup UEFA Q playoff): Netherlands - Hungary", ND 4
-https://shazysport.pro/livehd18.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Women's World Cup UEFA Q playoff): Netherlands - Hungary", ES
-https://www.rtve.es/play/videos/directo/deportes/hockey-patines-espana-portugal-mundial-masculino/
-#EXTINF:0 group-title="22:45 Rink hockey (World Championship): Spain - Portugal ( 22:45 - 00:45 )", ES
-https://www.rtve.es/play/videos/directo/deportes/hockey-patines-espana-portugal-mundial-masculino/
-#EXTINF:0 group-title="22:45 Rink hockey (World Championship): Spain - Portugal ( 22:45 - 00:45 )", EN
+#EXTINF:0 group-title="00:00 Hockey hielo Ice hockey (NHL): Red Wings - Devils", EN 1
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="00:00 Hockey hielo Ice hockey (NHL): Red Wings - Devils", EN 2
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="00:00 Hockey hielo Ice hockey (NHL): Red Wings - Devils", ES 1
+https://polocruz11.pages.dev/tsn2
+#EXTINF:0 group-title="00:00 Hockey hielo Ice hockey (NHL): Red Wings - Devils", ES 2
+https://shd247.world/live-go-streaming-22.html
+#EXTINF:0 group-title="00:00 Hockey hielo Ice hockey (NHL): Red Wings - Devils", ES 3
+https://shazysport.pro/livehd2.html
+#EXTINF:0 group-title="00:30 Hockey hielo Ice hockey (NHL): Canadiens - Sabres", ES 1
+https://polocruz11.pages.dev/tsn2
+#EXTINF:0 group-title="00:30 Hockey hielo Ice hockey (NHL): Canadiens - Sabres", ES 2
+https://shd247.world/live-go-streaming-22.html
+#EXTINF:0 group-title="00:30 Hockey hielo Ice hockey (NHL): Canadiens - Sabres", ES 3
+https://shazysport.pro/livehd2.html
+#EXTINF:0 group-title="00:30 Hockey hielo Ice hockey (NHL): Canadiens - Sabres", EN 1
+https://shd247.world/live-go-streaming-22.html
+#EXTINF:0 group-title="00:30 Hockey hielo Ice hockey (NHL): Canadiens - Sabres", EN 2
+https://shazysport.pro/livehd2.html
+#EXTINF:0 group-title="00:30 Hockey hielo Ice hockey (NHL): Canadiens - Sabres", EN 3
+https://shd247.world/live-go-streaming-23.html
+#EXTINF:0 group-title="00:30 Hockey hielo Ice hockey (NHL): Canadiens - Sabres", EN 4
+https://shazysport.pro/livehd3.html
+#EXTINF:0 group-title="00:45 Hockey hielo Ice hockey (NHL): Capitals - Hurricanes", EN 1
+https://shd247.world/live-go-streaming-23.html
+#EXTINF:0 group-title="00:45 Hockey hielo Ice hockey (NHL): Capitals - Hurricanes", EN 2
+https://shazysport.pro/livehd3.html
+#EXTINF:0 group-title="00:45 Hockey hielo Ice hockey (NHL): Capitals - Hurricanes", EN 3
 https://nonstopservice.org/dgt55/
+#EXTINF:0 group-title="00:45 Hockey hielo Ice hockey (NHL): Capitals - Hurricanes", EN 4
+https://shd247.world/live-go-streaming-30.html
+#EXTINF:0 group-title="00:45 Hockey hielo Ice hockey (NHL): Capitals - Hurricanes", EN 5
+https://shazysport.pro/livehd19.html
 #EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 1
 https://nonstopservice.org/dgt55/
 #EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 2
-https://freesportshd.site/?post=1791892849
+https://shd247.world/live-go-streaming-30.html
 #EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 3
-https://gomstrieam.shop/stream.php?ch=12
+https://shazysport.pro/livehd19.html
 #EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 4
-https://sebn.dad/131026/sebn-14.html
+https://polocruz11.pages.dev/tsn1
 #EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 5
-https://wildgames.bz/2026/10/13/cleveland-cavaliers-v-orlando-magic/
+https://freesportshd.site/?post=1791892849
 #EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 6
-https://forprivateuse.sbs/roja524/extraplayer/1.php
+https://gomstrieam.shop/stream.php?ch=12
 #EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 7
-https://sportsinjection.group/zaee505/10.php
+https://sebn.dad/131026/sebn-14.html
 #EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 8
-https://shd247.world/live-go-streaming-24.html
+https://wildgames.bz/2026/10/13/cleveland-cavaliers-v-orlando-magic/
 #EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 9
-https://vivtops.st/vivo1/?ch=10
+https://forprivateuse.sbs/roja524/extraplayer/1.php
 #EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 10
-https://regames4u.cfd/roja-015/12.php
+https://sportsinjection.group/zaee505/10.php
 #EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 11
+https://shd247.world/live-go-streaming-24.html
+#EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 12
+https://vivtops.st/vivo1/?ch=10
+#EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 13
+https://regames4u.cfd/roja-015/12.php
+#EXTINF:0 group-title="01:00 Artes marciales mixtas Mixed martial arts (DWCS): Dana Whites Contender Series Week 10 ( 01:00 - 04:50 )", EN 14
 https://shazysport.pro/livehd4.html
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 1
-https://freesportshd.site/?post=1791892849
+https://polocruz11.pages.dev/tsn1
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 2
-https://gomstrieam.shop/stream.php?ch=12
+https://freesportshd.site/?post=1791892849
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 3
-https://sebn.dad/131026/sebn-14.html
+https://gomstrieam.shop/stream.php?ch=12
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 4
-https://wildgames.bz/2026/10/13/cleveland-cavaliers-v-orlando-magic/
+https://sebn.dad/131026/sebn-14.html
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 5
-https://forprivateuse.sbs/roja524/extraplayer/1.php
+https://wildgames.bz/2026/10/13/cleveland-cavaliers-v-orlando-magic/
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 6
-https://sportsinjection.group/zaee505/10.php
+https://forprivateuse.sbs/roja524/extraplayer/1.php
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 7
-https://shd247.world/live-go-streaming-24.html
+https://sportsinjection.group/zaee505/10.php
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 8
-https://vivtops.st/vivo1/?ch=10
+https://shd247.world/live-go-streaming-24.html
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 9
-https://regames4u.cfd/roja-015/12.php
+https://vivtops.st/vivo1/?ch=10
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 10
-https://shazysport.pro/livehd4.html
+https://regames4u.cfd/roja-015/12.php
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 11
-https://freesportshd.site/?post=1791892913
+https://shazysport.pro/livehd4.html
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 12
-https://gomstrieam.shop/stream.php?ch=13
+https://freesportshd.site/?post=1791892913
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 13
-https://sebn.dad/131026/sebn-15.html
+https://gomstrieam.shop/stream.php?ch=13
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 14
-https://wildgames.bz/2026/10/13/new-york-knicks-v-toronto-raptors/
+https://sebn.dad/131026/sebn-15.html
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 15
-https://forprivateuse.sbs/roja524/extraplayer/2.php
+https://wildgames.bz/2026/10/13/new-york-knicks-v-toronto-raptors/
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 16
-https://sportsinjection.group/zaee505/11.php
+https://forprivateuse.sbs/roja524/extraplayer/2.php
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 17
-https://vivtops.st/vivo1/?ch=11
+https://sportsinjection.group/zaee505/11.php
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 18
+https://vivtops.st/vivo1/?ch=11
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Magic - Cavaliers", EN 19
 https://regames4u.cfd/roja-015/13.php
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Raptors - Knicks", EN 1
 https://freesportshd.site/?post=1791892913
@@ -129,17 +115,47 @@ https://sportsinjection.group/zaee505/11.php
 https://vivtops.st/vivo1/?ch=11
 #EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Raptors - Knicks", EN 8
 https://regames4u.cfd/roja-015/13.php
-#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Raptors - Knicks", ES 1
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Raptors - Knicks", ES
+https://polocruz11.pages.dev/espn3mx
+#EXTINF:0 group-title="01:00 FÃºtbol Football (Mexico, Liga de Expansion MX): Tapatio CD - Tepatitlan", ES 1
+https://polocruz11.pages.dev/espn3mx
+#EXTINF:0 group-title="01:00 FÃºtbol Football (Mexico, Liga de Expansion MX): Tapatio CD - Tepatitlan", ES 2
+https://polocruz11.pages.dev/universo
+#EXTINF:0 group-title="01:00 FÃºtbol Football (Mexico, Liga de Expansion MX): Tapatio CD - Tepatitlan", ES 3
+https://polocruz11.pages.dev/espn2mx
+#EXTINF:0 group-title="01:00 FÃºtbol Football (Mexico, Liga de Expansion MX): Tapatio CD - Tepatitlan", ES 4
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="01:00 FÃºtbol Football (Mexico, Liga de Expansion MX): Tapatio CD - Tepatitlan", ES 5
 https://www.rtve.es/play/videos/directo/deportes/futbol-amistoso-estados-unidos-espana-femenino/
-#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Raptors - Knicks", ES 2
+#EXTINF:0 group-title="01:00 FÃºtbol Football (Mexico, Liga de Expansion MX): Tapatio CD - Tepatitlan", ES 6
 https://www.rtve.es/play/videos/directo/tdp/
 #EXTINF:0 group-title="01:00 FÃºtbol Football (Women's Int. Friendly): USA - Spain", ES 1
-https://www.rtve.es/play/videos/directo/deportes/futbol-amistoso-estados-unidos-espana-femenino/
+https://polocruz11.pages.dev/universo
 #EXTINF:0 group-title="01:00 FÃºtbol Football (Women's Int. Friendly): USA - Spain", ES 2
-https://www.rtve.es/play/videos/directo/tdp/
+https://polocruz11.pages.dev/espn2mx
 #EXTINF:0 group-title="01:00 FÃºtbol Football (Women's Int. Friendly): USA - Spain", ES 3
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="01:00 FÃºtbol Football (Women's Int. Friendly): USA - Spain", ES 4
+https://www.rtve.es/play/videos/directo/deportes/futbol-amistoso-estados-unidos-espana-femenino/
+#EXTINF:0 group-title="01:00 FÃºtbol Football (Women's Int. Friendly): USA - Spain", ES 5
+https://www.rtve.es/play/videos/directo/tdp/
+#EXTINF:0 group-title="01:00 FÃºtbol Football (Women's Int. Friendly): USA - Spain", EN 1
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="01:00 FÃºtbol Football (Women's Int. Friendly): USA - Spain", EN 2
+https://shd247.world/live-go-streaming-26.html
+#EXTINF:0 group-title="01:00 FÃºtbol Football (Women's Int. Friendly): USA - Spain", EN 3
+https://shazysport.pro/livehd5.html
+#EXTINF:0 group-title="01:15 Hockey hielo Ice hockey (NHL): Lightning  - Rangers", EN 1
+https://shd247.world/live-go-streaming-26.html
+#EXTINF:0 group-title="01:15 Hockey hielo Ice hockey (NHL): Lightning  - Rangers", EN 2
+https://shazysport.pro/livehd5.html
+#EXTINF:0 group-title="01:15 Hockey hielo Ice hockey (NHL): Lightning  - Rangers", ES 1
+https://polocruz11.pages.dev/winplus
+#EXTINF:0 group-title="01:15 Hockey hielo Ice hockey (NHL): Lightning  - Rangers", ES 2
 https://sebn.dad/131026/sebn-13.html
-#EXTINF:0 group-title="01:30 FÃºtbol Football (Colombia Primera Division): Atl. Bucaramanga - Rionegro Aguilas", ES
+#EXTINF:0 group-title="01:30 FÃºtbol Football (Colombia Primera Division): Atl. Bucaramanga - Rionegro Aguilas", ES 1
+https://polocruz11.pages.dev/winplus
+#EXTINF:0 group-title="01:30 FÃºtbol Football (Colombia Primera Division): Atl. Bucaramanga - Rionegro Aguilas", ES 2
 https://sebn.dad/131026/sebn-13.html
 #EXTINF:0 group-title="01:30 FÃºtbol Football (Colombia Primera Division): Atl. Bucaramanga - Rionegro Aguilas", PT 1
 https://www.youtube.com/watch?v=Gh2C5kzwa7M
@@ -152,42 +168,46 @@ https://www.lpfplay.com/event/6acbd7da1f0efd984cef5413
 #EXTINF:0 group-title="01:30 FÃºtbol Football (Women's Int. Friendly): Brazil - Argentina", ES
 https://www.lpfplay.com/event/6acbd7da1f0efd984cef5413
 #EXTINF:0 group-title="01:30 FÃºtbol Football (Women's Int. Friendly): Brazil - Argentina", EN 1
-https://freesportshd.site/?post=1791893027
+https://polocruz11.pages.dev/tsn5-1
 #EXTINF:0 group-title="01:30 FÃºtbol Football (Women's Int. Friendly): Brazil - Argentina", EN 2
-https://gomstrieam.shop/stream.php?ch=23
+https://freesportshd.site/?post=1791893027
 #EXTINF:0 group-title="01:30 FÃºtbol Football (Women's Int. Friendly): Brazil - Argentina", EN 3
-https://sebn.dad/131026/sebn-19.html
+https://gomstrieam.shop/stream.php?ch=23
 #EXTINF:0 group-title="01:30 FÃºtbol Football (Women's Int. Friendly): Brazil - Argentina", EN 4
-https://wildgames.bz/2026/10/13/st-louis-blues-v-ottawa-senators/
+https://sebn.dad/131026/sebn-19.html
 #EXTINF:0 group-title="01:30 FÃºtbol Football (Women's Int. Friendly): Brazil - Argentina", EN 5
-https://forprivateuse.sbs/roja524/extraplayer/31.php
+https://wildgames.bz/2026/10/13/st-louis-blues-v-ottawa-senators/
 #EXTINF:0 group-title="01:30 FÃºtbol Football (Women's Int. Friendly): Brazil - Argentina", EN 6
-https://shd247.world/live-go-streaming-27.html
+https://forprivateuse.sbs/roja524/extraplayer/31.php
 #EXTINF:0 group-title="01:30 FÃºtbol Football (Women's Int. Friendly): Brazil - Argentina", EN 7
+https://shd247.world/live-go-streaming-27.html
+#EXTINF:0 group-title="01:30 FÃºtbol Football (Women's Int. Friendly): Brazil - Argentina", EN 8
 https://shazysport.pro/livehd6.html
 #EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Senators - Blues", EN 1
-https://freesportshd.site/?post=1791893027
+https://polocruz11.pages.dev/tsn5-1
 #EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Senators - Blues", EN 2
-https://gomstrieam.shop/stream.php?ch=23
+https://freesportshd.site/?post=1791893027
 #EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Senators - Blues", EN 3
-https://sebn.dad/131026/sebn-19.html
+https://gomstrieam.shop/stream.php?ch=23
 #EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Senators - Blues", EN 4
-https://wildgames.bz/2026/10/13/st-louis-blues-v-ottawa-senators/
+https://sebn.dad/131026/sebn-19.html
 #EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Senators - Blues", EN 5
-https://forprivateuse.sbs/roja524/extraplayer/31.php
+https://wildgames.bz/2026/10/13/st-louis-blues-v-ottawa-senators/
 #EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Senators - Blues", EN 6
-https://shd247.world/live-go-streaming-27.html
+https://forprivateuse.sbs/roja524/extraplayer/31.php
 #EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Senators - Blues", EN 7
-https://shazysport.pro/livehd6.html
+https://shd247.world/live-go-streaming-27.html
 #EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Senators - Blues", EN 8
-https://freesportshd.site/?post=1791893069
+https://shazysport.pro/livehd6.html
 #EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Senators - Blues", EN 9
-https://gomstrieam.shop/stream.php?ch=24
+https://freesportshd.site/?post=1791893069
 #EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Senators - Blues", EN 10
-https://sebn.dad/131026/sebn-20.html
+https://gomstrieam.shop/stream.php?ch=24
 #EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Senators - Blues", EN 11
-https://wildgames.bz/2026/10/13/vancouver-canucks-v-new-york-islanders/
+https://sebn.dad/131026/sebn-20.html
 #EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Senators - Blues", EN 12
+https://wildgames.bz/2026/10/13/vancouver-canucks-v-new-york-islanders/
+#EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Senators - Blues", EN 13
 https://forprivateuse.sbs/roja524/extraplayer/32.php
 #EXTINF:0 group-title="01:45 Hockey hielo Ice hockey (NHL): Islanders - Canucks", EN 1
 https://freesportshd.site/?post=1791893069
@@ -235,27 +255,65 @@ https://sportsinjection.group/zaee505/12.php
 https://vivtops.st/vivo1/?ch=12
 #EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): Thunder - Pacers", EN 8
 https://regames4u.cfd/roja-015/14.php
-#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): Thunder - Pacers", EN 9
+#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): Thunder - Pacers", ES 1
+https://polocruz11.pages.dev/espndeportes
+#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): Thunder - Pacers", ES 2
+https://polocruz11.pages.dev/espn3
+#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): Thunder - Pacers", ES 3
+https://polocruz11.pages.dev/tnt1uk
+#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): Thunder - Pacers", ES 4
 https://nonstopservice.org/dtu77/
-#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): Thunder - Pacers", EN 10
+#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): Thunder - Pacers", ES 5
 https://shazysport.pro/livehd9.html
+#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): Thunder - Pacers", ES 6
+https://sebn.dad/131026/sebn-24.html
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", ES 1
+https://polocruz11.pages.dev/espndeportes
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", ES 2
+https://polocruz11.pages.dev/espn3
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", ES 3
+https://polocruz11.pages.dev/tnt1uk
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", ES 4
+https://nonstopservice.org/dtu77/
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", ES 5
+https://shazysport.pro/livehd9.html
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", ES 6
+https://sebn.dad/131026/sebn-24.html
 #EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", EN 1
-https://nonstopservice.org/dtu77/
+https://polocruz11.pages.dev/tnt1uk
 #EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", EN 2
-https://shazysport.pro/livehd9.html
+https://nonstopservice.org/dtu77/
 #EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", EN 3
-https://freesportshd.site/?post=1791893511
+https://shazysport.pro/livehd9.html
 #EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", EN 4
+https://sebn.dad/131026/sebn-24.html
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", ES 7
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (USA MLB): Cleveland Guardians - Tampa Bay Rays", ES 1
+https://polocruz11.pages.dev/espndeportes
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (USA MLB): Cleveland Guardians - Tampa Bay Rays", ES 2
+https://polocruz11.pages.dev/espn3
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (USA MLB): Cleveland Guardians - Tampa Bay Rays", ES 3
+https://polocruz11.pages.dev/tnt1uk
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (USA MLB): Cleveland Guardians - Tampa Bay Rays", ES 4
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (USA MLB): Cleveland Guardians - Tampa Bay Rays", EN 1
+https://polocruz11.pages.dev/tnt1uk
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (USA MLB): Cleveland Guardians - Tampa Bay Rays", EN 2
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (USA MLB): Cleveland Guardians - Tampa Bay Rays", EN 3
+https://freesportshd.site/?post=1791893511
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (USA MLB): Cleveland Guardians - Tampa Bay Rays", EN 4
 https://gomstrieam.shop/stream.php?ch=26
-#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", EN 5
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (USA MLB): Cleveland Guardians - Tampa Bay Rays", EN 5
 https://sebn.dad/131026/sebn-21.html
-#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", EN 6
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (USA MLB): Cleveland Guardians - Tampa Bay Rays", EN 6
 https://wildgames.bz/2026/10/13/minnesota-wild-v-winnipeg-jets/
-#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", EN 7
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (USA MLB): Cleveland Guardians - Tampa Bay Rays", EN 7
 https://forprivateuse.sbs/roja524/extraplayer/34.php
-#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", EN 8
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (USA MLB): Cleveland Guardians - Tampa Bay Rays", EN 8
 https://shd247.world/live-go-streaming-28.html
-#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (MLB): Tampa Bay - Cleveland", EN 9
+#EXTINF:0 group-title="02:00 BÃ©isbol Baseball (USA MLB): Cleveland Guardians - Tampa Bay Rays", EN 9
 https://shazysport.pro/livehd7.html
 #EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", EN 1
 https://freesportshd.site/?post=1791893511
@@ -272,32 +330,52 @@ https://shd247.world/live-go-streaming-28.html
 #EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", EN 7
 https://shazysport.pro/livehd7.html
 #EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", ES 1
-https://www.lnky.fun/live/live04
+https://polocruz10.pages.dev/espn1-1
 #EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", ES 2
-https://sebn.dad/131026/sebn-11.html
+https://polocruz10.pages.dev/acer
 #EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", ES 3
-https://forprivateuse.sbs/roja524/extraplayer/19.php
+https://polocruz10.pages.dev/torre-1
 #EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", ES 4
-https://forprivateuse.sbs/roja524/extraplayer/21.php
+https://polocruz11.pages.dev/acer
 #EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", ES 5
-https://shd247.world/live-go-streaming-13.html
+https://polocruz11.pages.dev/espn1
 #EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", ES 6
-https://shazysport.pro/livehd10.html
+https://polocruz11.pages.dev/torre
 #EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", ES 7
+https://sebn.dad/131026/sebn-11.html
+#EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", ES 8
+https://forprivateuse.sbs/roja524/extraplayer/19.php
+#EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", ES 9
+https://forprivateuse.sbs/roja524/extraplayer/21.php
+#EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", ES 10
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", ES 11
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="02:15 Hockey hielo Ice hockey (NHL): Jets - Wild", ES 12
 https://www.ertflix.gr/#/channels
 #EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 1
-https://www.lnky.fun/live/live04
+https://polocruz10.pages.dev/espn1-1
 #EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 2
-https://sebn.dad/131026/sebn-11.html
+https://polocruz10.pages.dev/acer
 #EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 3
-https://forprivateuse.sbs/roja524/extraplayer/19.php
+https://polocruz10.pages.dev/torre-1
 #EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 4
-https://forprivateuse.sbs/roja524/extraplayer/21.php
+https://polocruz11.pages.dev/acer
 #EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 5
-https://shd247.world/live-go-streaming-13.html
+https://polocruz11.pages.dev/espn1
 #EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 6
-https://shazysport.pro/livehd10.html
+https://polocruz11.pages.dev/torre
 #EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 7
+https://sebn.dad/131026/sebn-11.html
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 8
+https://forprivateuse.sbs/roja524/extraplayer/19.php
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 9
+https://forprivateuse.sbs/roja524/extraplayer/21.php
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 10
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 11
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 12
 https://www.ertflix.gr/#/channels
 #EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", DE
 https://forprivateuse.sbs/roja524/extraplayer/19.php
@@ -309,35 +387,65 @@ https://shd247.world/live-go-streaming-13.html
 https://shazysport.pro/livehd10.html
 #EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", EL
 https://www.ertflix.gr/#/channels
-#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", EN 1
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 13
+https://polocruz11.pages.dev/espn4
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 14
+https://polocruz11.pages.dev/espn4mx
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 15
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", ES 16
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", ES 1
+https://polocruz11.pages.dev/espn4
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", ES 2
+https://polocruz11.pages.dev/espn4mx
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", ES 3
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", ES 4
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", EN 1
+https://polocruz11.pages.dev/espn4mx
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", EN 2
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", EN 3
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", EN 4
+https://polocruz11.pages.dev/tsn5-1
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", EN 5
 https://gomstrieam.shop/stream.php?ch=29
-#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", EN 2
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", EN 6
 https://sebn.dad/131026/sebn-22.html
-#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", EN 3
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", EN 7
 https://wildgames.bz/2026/10/13/toronto-maple-leafs-v-utah-mammoth/
-#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", EN 4
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", EN 8
 https://forprivateuse.sbs/roja524/extraplayer/36.php
-#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", EN 5
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", EN 9
 https://shd247.world/live-go-streaming-14.html
-#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Sudamericana): Boca Jrs - Vasco da Gama", EN 6
+#EXTINF:0 group-title="02:30 Hockey hielo Ice hockey (NHL): Avalanche - Stars", EN 10
 https://shazysport.pro/livehd11.html
 #EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Mammoth - Leafs", EN 1
-https://gomstrieam.shop/stream.php?ch=29
+https://polocruz11.pages.dev/tsn5-1
 #EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Mammoth - Leafs", EN 2
-https://sebn.dad/131026/sebn-22.html
+https://gomstrieam.shop/stream.php?ch=29
 #EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Mammoth - Leafs", EN 3
-https://wildgames.bz/2026/10/13/toronto-maple-leafs-v-utah-mammoth/
+https://sebn.dad/131026/sebn-22.html
 #EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Mammoth - Leafs", EN 4
-https://forprivateuse.sbs/roja524/extraplayer/36.php
+https://wildgames.bz/2026/10/13/toronto-maple-leafs-v-utah-mammoth/
 #EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Mammoth - Leafs", EN 5
-https://shd247.world/live-go-streaming-14.html
+https://forprivateuse.sbs/roja524/extraplayer/36.php
 #EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Mammoth - Leafs", EN 6
-https://shazysport.pro/livehd11.html
+https://shd247.world/live-go-streaming-14.html
 #EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Mammoth - Leafs", EN 7
+https://shazysport.pro/livehd11.html
+#EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Mammoth - Leafs", ES
+https://polocruz11.pages.dev/winplus
+#EXTINF:0 group-title="03:30 FÃºtbol Football (Colombia  Primera A ): Millonarios - Once Caldas", ES
+https://polocruz11.pages.dev/winplus
+#EXTINF:0 group-title="03:30 FÃºtbol Football (Colombia  Primera A ): Millonarios - Once Caldas", EN 1
 https://sebn.dad/131026/sebn-23.html
-#EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Mammoth - Leafs", EN 8
+#EXTINF:0 group-title="03:30 FÃºtbol Football (Colombia  Primera A ): Millonarios - Once Caldas", EN 2
 https://wildgames.bz/2026/10/13/calgary-flames-v-anaheim-ducks/
-#EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Mammoth - Leafs", EN 9
+#EXTINF:0 group-title="03:30 FÃºtbol Football (Colombia  Primera A ): Millonarios - Once Caldas", EN 3
 https://forprivateuse.sbs/roja524/extraplayer/37.php
 #EXTINF:0 group-title="03:45 Hockey hielo Ice hockey (NHL): Ducks - Flames", EN 1
 https://sebn.dad/131026/sebn-23.html
@@ -362,38 +470,42 @@ https://forprivateuse.sbs/roja524/extraplayer/4.php
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Blazers", EN 4
 https://regames4u.cfd/roja-015/16.php
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Blazers", EN 5
-https://sebn.dad/131026/sebn-17.html
+https://polocruz11.pages.dev/tsn1
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Blazers", EN 6
-https://wildgames.bz/2026/10/13/golden-state-warriors-v-los-angeles-lakers/
+https://sebn.dad/131026/sebn-17.html
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Blazers", EN 7
-https://forprivateuse.sbs/roja524/extraplayer/1.php
+https://wildgames.bz/2026/10/13/golden-state-warriors-v-los-angeles-lakers/
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Blazers", EN 8
-https://shd247.world/live-go-streaming-15.html
+https://forprivateuse.sbs/roja524/extraplayer/1.php
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Blazers", EN 9
-https://vivtops.st/vivo1/?ch=13
+https://shd247.world/live-go-streaming-15.html
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Blazers", EN 10
-https://regames4u.cfd/roja-015/15.php
+https://vivtops.st/vivo1/?ch=13
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Blazers", EN 11
+https://regames4u.cfd/roja-015/15.php
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Blazers", EN 12
 https://shazysport.pro/livehd12.html
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Lakers - Warriors", EN 1
-https://sebn.dad/131026/sebn-17.html
+https://polocruz11.pages.dev/tsn1
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Lakers - Warriors", EN 2
-https://wildgames.bz/2026/10/13/golden-state-warriors-v-los-angeles-lakers/
+https://sebn.dad/131026/sebn-17.html
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Lakers - Warriors", EN 3
-https://forprivateuse.sbs/roja524/extraplayer/1.php
+https://wildgames.bz/2026/10/13/golden-state-warriors-v-los-angeles-lakers/
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Lakers - Warriors", EN 4
-https://shd247.world/live-go-streaming-15.html
+https://forprivateuse.sbs/roja524/extraplayer/1.php
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Lakers - Warriors", EN 5
-https://vivtops.st/vivo1/?ch=13
+https://shd247.world/live-go-streaming-15.html
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Lakers - Warriors", EN 6
-https://regames4u.cfd/roja-015/15.php
+https://vivtops.st/vivo1/?ch=13
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Lakers - Warriors", EN 7
-https://shazysport.pro/livehd12.html
+https://regames4u.cfd/roja-015/15.php
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Lakers - Warriors", EN 8
-https://sebn.dad/131026/sebn-19.html
+https://shazysport.pro/livehd12.html
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Lakers - Warriors", EN 9
-https://wildgames.bz/2026/10/13/edmonton-oilers-v-los-angeles-kings/
+https://sebn.dad/131026/sebn-19.html
 #EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Lakers - Warriors", EN 10
+https://wildgames.bz/2026/10/13/edmonton-oilers-v-los-angeles-kings/
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Lakers - Warriors", EN 11
 https://forprivateuse.sbs/roja524/extraplayer/38.php
 #EXTINF:0 group-title="04:30 Hockey hielo Ice hockey (NHL): Kings - Oilers", EN 1
 https://sebn.dad/131026/sebn-19.html
@@ -407,9 +519,105 @@ https://sebn.dad/131026/sebn-20.html
 https://wildgames.bz/2026/10/13/boston-bruins-v-san-jose-sharks/
 #EXTINF:0 group-title="04:30 Hockey hielo Ice hockey (NHL): Kings - Oilers", EN 6
 https://forprivateuse.sbs/roja524/extraplayer/5.php
+#EXTINF:0 group-title="04:30 Hockey hielo Ice hockey (NHL): Kings - Oilers", EN 7
+https://shazysport.pro/livehd.html
 #EXTINF:0 group-title="05:00 Hockey hielo Ice hockey (NHL): Sharks - Bruins", EN 1
 https://sebn.dad/131026/sebn-20.html
 #EXTINF:0 group-title="05:00 Hockey hielo Ice hockey (NHL): Sharks - Bruins", EN 2
 https://wildgames.bz/2026/10/13/boston-bruins-v-san-jose-sharks/
 #EXTINF:0 group-title="05:00 Hockey hielo Ice hockey (NHL): Sharks - Bruins", EN 3
 https://forprivateuse.sbs/roja524/extraplayer/5.php
+#EXTINF:0 group-title="05:00 Hockey hielo Ice hockey (NHL): Sharks - Bruins", EN 4
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="05:00 Hockey hielo Ice hockey (NHL): Sharks - Bruins", IT
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="05:00 Tenis Tennis (WTA Wuhan): M. Frech - I. Swiatek", IT
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="05:00 Tenis Tennis (WTA Wuhan): M. Frech - I. Swiatek", EN 1
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="05:00 Tenis Tennis (WTA Wuhan): M. Frech - I. Swiatek", EN 2
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="06:00 Tenis Tennis (Shanghai Open): B. van de Zandschulp - R. Jodar", EN 1
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="06:00 Tenis Tennis (Shanghai Open): B. van de Zandschulp - R. Jodar", EN 2
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="06:00 Tenis Tennis (Shanghai Open): B. van de Zandschulp - R. Jodar", EN 3
+https://shd247.world/live-go-streaming-18.html
+#EXTINF:0 group-title="07:30 Cycling (Grand Tour): Tour of Guangxi Stage 2 ( 07:30 - 09:15 )", EN 1
+https://shd247.world/live-go-streaming-18.html
+#EXTINF:0 group-title="07:30 Cycling (Grand Tour): Tour of Guangxi Stage 2 ( 07:30 - 09:15 )", EN 2
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="07:30 Cycling (Grand Tour): Tour of Guangxi Stage 2 ( 07:30 - 09:15 )", EN 3
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="08:00 Tenis Tennis (Shanghai Open): C. Ruud - F. Auger-Aliassime", EN 1
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="08:00 Tenis Tennis (Shanghai Open): C. Ruud - F. Auger-Aliassime", EN 2
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="08:00 Tenis Tennis (Shanghai Open): C. Ruud - F. Auger-Aliassime", IT
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="08:00 Tenis Tennis (WTA Wuhan): J. Ostapenko - J. Pegula", IT
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="09:00 Tenis Tennis (WTA Wuhan): Errani / Paolini - Mihalikova / Nicholls", IT
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="09:00 Tenis Tennis (WTA Wuhan): Errani / Paolini - Mihalikova / Nicholls", ES 1
+https://www.rtve.es/play/videos/directo/deportes/ciclismo-pista-campeonato-mundo-shanghai-2026/
+#EXTINF:0 group-title="09:00 Tenis Tennis (WTA Wuhan): Errani / Paolini - Mihalikova / Nicholls", ES 2
+https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760403
+#EXTINF:0 group-title="12:15 Cycling (UCI): Track Cycling World Championships ( 12:15 - 15:55 )", ES 1
+https://www.rtve.es/play/videos/directo/deportes/ciclismo-pista-campeonato-mundo-shanghai-2026/
+#EXTINF:0 group-title="12:15 Cycling (UCI): Track Cycling World Championships ( 12:15 - 15:55 )", ES 2
+https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760403
+#EXTINF:0 group-title="12:15 Cycling (UCI): Track Cycling World Championships ( 12:15 - 15:55 )", FR
+https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760403
+#EXTINF:0 group-title="12:15 Cycling (UCI): Track Cycling World Championships ( 12:15 - 15:55 )", IT
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="13:00 Tenis Tennis (WTA Wuhan): Aryna Sabalenka - Ann Li", IT
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="13:00 Tenis Tennis (WTA Wuhan): Aryna Sabalenka - Ann Li", EL
+https://www.ertflix.gr/#/channels
+#EXTINF:0 group-title="13:45 FÃºtbol Football (Greece Super League 2): Olympiacos Piraeus B - Athens Kallithea", EL
+https://www.ertflix.gr/#/channels
+#EXTINF:0 group-title="13:45 FÃºtbol Football (Greece Super League 2): Olympiacos Piraeus B - Athens Kallithea", ES 1
+https://www.realmadrid.com/es-ES/real-madrid-tv
+#EXTINF:0 group-title="13:45 FÃºtbol Football (Greece Super League 2): Olympiacos Piraeus B - Athens Kallithea", ES 2
+https://www.realmadrid.com/en-US/real-madrid-tv
+#EXTINF:0 group-title="13:45 FÃºtbol Football (Greece Super League 2): Olympiacos Piraeus B - Athens Kallithea", ES 3
+https://www.uefa.tv/live/313297
+#EXTINF:0 group-title="14:00 FÃºtbol Football (UEFA Youth League U19): AS Roma - Real Madrid", ES 1
+https://www.realmadrid.com/es-ES/real-madrid-tv
+#EXTINF:0 group-title="14:00 FÃºtbol Football (UEFA Youth League U19): AS Roma - Real Madrid", ES 2
+https://www.realmadrid.com/en-US/real-madrid-tv
+#EXTINF:0 group-title="14:00 FÃºtbol Football (UEFA Youth League U19): AS Roma - Real Madrid", ES 3
+https://www.uefa.tv/live/313297
+#EXTINF:0 group-title="14:00 FÃºtbol Football (UEFA Youth League U19): AS Roma - Real Madrid", EN 1
+https://www.realmadrid.com/en-US/real-madrid-tv
+#EXTINF:0 group-title="14:00 FÃºtbol Football (UEFA Youth League U19): AS Roma - Real Madrid", EN 2
+https://www.uefa.tv/live/313297
+#EXTINF:0 group-title="14:00 FÃºtbol Football (UEFA Youth League U19): AS Roma - Real Madrid", EN 3
+https://tv.inews.id/streaming
+#EXTINF:0 group-title="14:00 FÃºtbol Football (UEFA Youth League U19): AS Roma - Real Madrid", EN 4
+https://mpi.sindonews.com/livetv/rcti
+#EXTINF:0 group-title="14:00 FÃºtbol Football (UEFA Youth League U19): AS Roma - Real Madrid", EN 5
+https://www.rctiplus.com/tv/rcti
+#EXTINF:0 group-title="14:15 FÃºtbol Football (AFC Champions League 2): Persib Bandung - Viettel", EN 1
+https://tv.inews.id/streaming
+#EXTINF:0 group-title="14:15 FÃºtbol Football (AFC Champions League 2): Persib Bandung - Viettel", EN 2
+https://mpi.sindonews.com/livetv/rcti
+#EXTINF:0 group-title="14:15 FÃºtbol Football (AFC Champions League 2): Persib Bandung - Viettel", EN 3
+https://www.rctiplus.com/tv/rcti
+#EXTINF:0 group-title="14:15 FÃºtbol Football (AFC Champions League 2): Persib Bandung - Viettel", ND 1
+https://mpi.sindonews.com/livetv/rcti
+#EXTINF:0 group-title="14:15 FÃºtbol Football (AFC Champions League 2): Persib Bandung - Viettel", ND 2
+https://www.rctiplus.com/tv/rcti
+#EXTINF:0 group-title="14:15 FÃºtbol Football (AFC Champions League 2): Persib Bandung - Viettel", ND 3
+https://sport5.by/live/belarus5/
+#EXTINF:0 group-title="15:15 FÃºtbol Football (Russia Cup): Krylya Sovetov - Baltika", ND
+https://sport5.by/live/belarus5/
+#EXTINF:0 group-title="15:15 FÃºtbol Football (Russia Cup): Krylya Sovetov - Baltika", RO
+https://www.tvrplus.ro/live/tvr-sport
+#EXTINF:0 group-title="16:00 Balonmano Handball (Romania Women's Liga Nationala): Bistrita - SCM Craiova", RO
+https://www.tvrplus.ro/live/tvr-sport
+#EXTINF:0 group-title="16:00 Balonmano Handball (Romania Women's Liga Nationala): Bistrita - SCM Craiova", EN
+https://www.uefa.tv/live/313298
+#EXTINF:0 group-title="16:00 FÃºtbol Football (UEFA Youth League U19): Manchester City - Paris Saint-Germain", EN
+https://www.uefa.tv/live/313298
