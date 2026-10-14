@@ -1,29 +1,9 @@
 #EXTM3U
-#EXTINF:0 group-title="06:00 Tennis Tennis (Shanghai Open): B. van de Zandschulp - R. Jodar", EN 1
-https://shd247.world/live-go-streaming-17.html
-#EXTINF:0 group-title="06:00 Tennis Tennis (Shanghai Open): B. van de Zandschulp - R. Jodar", EN 2
-https://shazysport.pro/livehd14.html
-#EXTINF:0 group-title="06:00 Tennis Tennis (Shanghai Open): B. van de Zandschulp - R. Jodar", EN 3
-https://shd247.world/live-go-streaming-18.html
-#EXTINF:0 group-title="07:30 Ciclismo (Grand Tour): Tour of Guangxi Stage 2 ( 07:30 - 09:15 )", EN 1
-https://shd247.world/live-go-streaming-18.html
-#EXTINF:0 group-title="07:30 Ciclismo (Grand Tour): Tour of Guangxi Stage 2 ( 07:30 - 09:15 )", EN 2
-https://shd247.world/live-go-streaming-17.html
-#EXTINF:0 group-title="07:30 Ciclismo (Grand Tour): Tour of Guangxi Stage 2 ( 07:30 - 09:15 )", EN 3
-https://shazysport.pro/livehd14.html
-#EXTINF:0 group-title="08:00 Tennis Tennis (Shanghai Open): C. Ruud - F. Auger-Aliassime", EN 1
-https://shd247.world/live-go-streaming-17.html
-#EXTINF:0 group-title="08:00 Tennis Tennis (Shanghai Open): C. Ruud - F. Auger-Aliassime", EN 2
-https://shazysport.pro/livehd14.html
-#EXTINF:0 group-title="08:00 Tennis Tennis (Shanghai Open): C. Ruud - F. Auger-Aliassime", IT
-https://www.supertennis.tv/live-streaming
-#EXTINF:0 group-title="08:00 Tennis Tennis (WTA Wuhan): J. Ostapenko - J. Pegula", IT
-https://www.supertennis.tv/live-streaming
-#EXTINF:0 group-title="09:00 Tennis Tennis (WTA Wuhan): Errani / Paolini - Mihalikova / Nicholls", IT
-https://www.supertennis.tv/live-streaming
-#EXTINF:0 group-title="09:00 Tennis Tennis (WTA Wuhan): Errani / Paolini - Mihalikova / Nicholls", ES 1
+#EXTINF:0 group-title="05:00 Tennis Tennis : Wuhan Open ( 05:00 - 17:00 )", EN
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="05:00 Tennis Tennis : Wuhan Open ( 05:00 - 17:00 )", ES 1
 https://www.rtve.es/play/videos/directo/deportes/ciclismo-pista-campeonato-mundo-shanghai-2026/
-#EXTINF:0 group-title="09:00 Tennis Tennis (WTA Wuhan): Errani / Paolini - Mihalikova / Nicholls", ES 2
+#EXTINF:0 group-title="05:00 Tennis Tennis : Wuhan Open ( 05:00 - 17:00 )", ES 2
 https://auvio.rtbf.be/live/championnats-du-monde-de-cyclisme-sur-piste-760403
 #EXTINF:0 group-title="12:15 Ciclismo (UCI): Track Ciclismo World Championships ( 12:15 - 15:55 )", ES 1
 https://www.rtve.es/play/videos/directo/deportes/ciclismo-pista-campeonato-mundo-shanghai-2026/
@@ -40,61 +20,201 @@ https://www.ertflix.gr/#/channels
 #EXTINF:0 group-title="13:45 Calcio Calcio (Greece Super League 2): Olympiacos Piraeus B - Athens Kallithea", EL
 https://www.ertflix.gr/#/channels
 #EXTINF:0 group-title="13:45 Calcio Calcio (Greece Super League 2): Olympiacos Piraeus B - Athens Kallithea", ES 1
-https://www.realmadrid.com/es-ES/real-madrid-tv
+https://polocruz12.pages.dev/spo6
 #EXTINF:0 group-title="13:45 Calcio Calcio (Greece Super League 2): Olympiacos Piraeus B - Athens Kallithea", ES 2
-https://www.realmadrid.com/en-US/real-madrid-tv
+https://freesportshd.site/?post=1791980363
 #EXTINF:0 group-title="13:45 Calcio Calcio (Greece Super League 2): Olympiacos Piraeus B - Athens Kallithea", ES 3
+https://gomstrieam.shop/stream.php?ch=3
+#EXTINF:0 group-title="13:45 Calcio Calcio (Greece Super League 2): Olympiacos Piraeus B - Athens Kallithea", ES 4
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="13:45 Calcio Calcio (Greece Super League 2): Olympiacos Piraeus B - Athens Kallithea", ES 5
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="13:45 Calcio Calcio (Greece Super League 2): Olympiacos Piraeus B - Athens Kallithea", ES 6
+https://www.realmadrid.com/es-ES/real-madrid-tv
+#EXTINF:0 group-title="13:45 Calcio Calcio (Greece Super League 2): Olympiacos Piraeus B - Athens Kallithea", ES 7
+https://www.realmadrid.com/en-US/real-madrid-tv
+#EXTINF:0 group-title="13:45 Calcio Calcio (Greece Super League 2): Olympiacos Piraeus B - Athens Kallithea", ES 8
 https://www.uefa.tv/live/313297
 #EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", ES 1
-https://www.realmadrid.com/es-ES/real-madrid-tv
+https://polocruz12.pages.dev/spo6
 #EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", ES 2
-https://www.realmadrid.com/en-US/real-madrid-tv
+https://freesportshd.site/?post=1791980363
 #EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", ES 3
+https://gomstrieam.shop/stream.php?ch=3
+#EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", ES 4
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", ES 5
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", ES 6
+https://www.realmadrid.com/es-ES/real-madrid-tv
+#EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", ES 7
+https://www.realmadrid.com/en-US/real-madrid-tv
+#EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", ES 8
 https://www.uefa.tv/live/313297
 #EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", EN 1
-https://www.realmadrid.com/en-US/real-madrid-tv
+https://freesportshd.site/?post=1791980363
 #EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", EN 2
-https://www.uefa.tv/live/313297
+https://gomstrieam.shop/stream.php?ch=3
+#EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", PT
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", ND
+https://shazysport.pro/livehd10.html
 #EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", EN 3
-https://tv.inews.id/streaming
+https://www.realmadrid.com/en-US/real-madrid-tv
 #EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", EN 4
-https://mpi.sindonews.com/livetv/rcti
+https://www.uefa.tv/live/313297
 #EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", EN 5
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="14:00 Calcio Calcio (UEFA Youth League U19): AS Roma - Real Madrid", EN 6
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="14:00 Tennis Tennis (Shanghai Open): T. Paul - Z. Bergs", EN 1
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="14:00 Tennis Tennis (Shanghai Open): T. Paul - Z. Bergs", EN 2
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="14:00 Tennis Tennis (Shanghai Open): T. Paul - Z. Bergs", EN 3
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="14:15 Ciclismo (Grand Tour): Men's Eneco Tour Stage 1 ( 14:15 - 16:00 )", EN 1
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="14:15 Ciclismo (Grand Tour): Men's Eneco Tour Stage 1 ( 14:15 - 16:00 )", EN 2
+https://freesportshd.site/?post=1791980496
+#EXTINF:0 group-title="14:15 Ciclismo (Grand Tour): Men's Eneco Tour Stage 1 ( 14:15 - 16:00 )", EN 3
+https://gomstrieam.shop/stream.php?ch=103
+#EXTINF:0 group-title="14:15 Ciclismo (Grand Tour): Men's Eneco Tour Stage 1 ( 14:15 - 16:00 )", EN 4
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="14:15 Ciclismo (Grand Tour): Men's Eneco Tour Stage 1 ( 14:15 - 16:00 )", EN 5
+https://tv.inews.id/streaming
+#EXTINF:0 group-title="14:15 Ciclismo (Grand Tour): Men's Eneco Tour Stage 1 ( 14:15 - 16:00 )", EN 6
+https://mpi.sindonews.com/livetv/rcti
+#EXTINF:0 group-title="14:15 Ciclismo (Grand Tour): Men's Eneco Tour Stage 1 ( 14:15 - 16:00 )", EN 7
 https://www.rctiplus.com/tv/rcti
 #EXTINF:0 group-title="14:15 Calcio Calcio (AFC Champions League 2): Persib Bandung - Viettel", EN 1
-https://tv.inews.id/streaming
+https://freesportshd.site/?post=1791980496
 #EXTINF:0 group-title="14:15 Calcio Calcio (AFC Champions League 2): Persib Bandung - Viettel", EN 2
-https://mpi.sindonews.com/livetv/rcti
+https://gomstrieam.shop/stream.php?ch=103
 #EXTINF:0 group-title="14:15 Calcio Calcio (AFC Champions League 2): Persib Bandung - Viettel", EN 3
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="14:15 Calcio Calcio (AFC Champions League 2): Persib Bandung - Viettel", EN 4
+https://tv.inews.id/streaming
+#EXTINF:0 group-title="14:15 Calcio Calcio (AFC Champions League 2): Persib Bandung - Viettel", EN 5
+https://mpi.sindonews.com/livetv/rcti
+#EXTINF:0 group-title="14:15 Calcio Calcio (AFC Champions League 2): Persib Bandung - Viettel", EN 6
 https://www.rctiplus.com/tv/rcti
 #EXTINF:0 group-title="14:15 Calcio Calcio (AFC Champions League 2): Persib Bandung - Viettel", ND 1
-https://mpi.sindonews.com/livetv/rcti
+https://shd247.world/live-go-streaming-11.html
 #EXTINF:0 group-title="14:15 Calcio Calcio (AFC Champions League 2): Persib Bandung - Viettel", ND 2
-https://www.rctiplus.com/tv/rcti
+https://mpi.sindonews.com/livetv/rcti
 #EXTINF:0 group-title="14:15 Calcio Calcio (AFC Champions League 2): Persib Bandung - Viettel", ND 3
+https://www.rctiplus.com/tv/rcti
+#EXTINF:0 group-title="14:15 Calcio Calcio (AFC Champions League 2): Persib Bandung - Viettel", IT
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="15:00 Tennis Tennis (WTA Wuhan): Han Shi - Leylah Fernandez", IT
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="15:00 Tennis Tennis (WTA Wuhan): Han Shi - Leylah Fernandez", ND
 https://sport5.by/live/belarus5/
 #EXTINF:0 group-title="15:15 Calcio Calcio (Russia Cup): Krylya Sovetov - Baltika", ND
 https://sport5.by/live/belarus5/
-#EXTINF:0 group-title="15:15 Calcio Calcio (Russia Cup): Krylya Sovetov - Baltika", RO
+#EXTINF:0 group-title="15:15 Calcio Calcio (Russia Cup): Krylya Sovetov - Baltika", EN
+https://shd247.world/live-go-streaming-29.html
+#EXTINF:0 group-title="15:30 Cricket Cricket (4th T20I): India - West Indies ( 15:30 - 19:30 )", EN
+https://shd247.world/live-go-streaming-29.html
+#EXTINF:0 group-title="15:30 Cricket Cricket (4th T20I): India - West Indies ( 15:30 - 19:30 )", ND
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="15:45 Calcio Calcio (AFC Champions League Two): Nasaf - Al Wahda", ND
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="15:45 Calcio Calcio (AFC Champions League Two): Nasaf - Al Wahda", RO
 https://www.tvrplus.ro/live/tvr-sport
 #EXTINF:0 group-title="16:00 Pallamano Pallamano (Romania Women's Liga Nationala): Bistrita - SCM Craiova", RO
 https://www.tvrplus.ro/live/tvr-sport
-#EXTINF:0 group-title="16:00 Pallamano Pallamano (Romania Women's Liga Nationala): Bistrita - SCM Craiova", EN
+#EXTINF:0 group-title="16:00 Pallamano Pallamano (Romania Women's Liga Nationala): Bistrita - SCM Craiova", EN 1
+https://polocruz12.pages.dev/tnt3uk
+#EXTINF:0 group-title="16:00 Pallamano Pallamano (Romania Women's Liga Nationala): Bistrita - SCM Craiova", EN 2
+https://polocruz12.pages.dev/spo9
+#EXTINF:0 group-title="16:00 Pallamano Pallamano (Romania Women's Liga Nationala): Bistrita - SCM Craiova", EN 3
+https://polocruz12.pages.dev/spo5
+#EXTINF:0 group-title="16:00 Pallamano Pallamano (Romania Women's Liga Nationala): Bistrita - SCM Craiova", EN 4
+https://polocruz12.pages.dev/eleven2
+#EXTINF:0 group-title="16:00 Pallamano Pallamano (Romania Women's Liga Nationala): Bistrita - SCM Craiova", EN 5
+https://freesportshd.site/?post=1791980565
+#EXTINF:0 group-title="16:00 Pallamano Pallamano (Romania Women's Liga Nationala): Bistrita - SCM Craiova", EN 6
+https://gomstrieam.shop/stream.php?ch=6
+#EXTINF:0 group-title="16:00 Pallamano Pallamano (Romania Women's Liga Nationala): Bistrita - SCM Craiova", EN 7
+https://shd247.world/live-go-streaming-22.html
+#EXTINF:0 group-title="16:00 Pallamano Pallamano (Romania Women's Liga Nationala): Bistrita - SCM Craiova", EN 8
+https://shazysport.pro/livehd2.html
+#EXTINF:0 group-title="16:00 Pallamano Pallamano (Romania Women's Liga Nationala): Bistrita - SCM Craiova", EN 9
 https://www.uefa.tv/live/313298
-#EXTINF:0 group-title="16:00 Calcio Calcio (UEFA Youth League U19): Manchester City - Paris Saint-Germain", EN
+#EXTINF:0 group-title="16:00 Calcio Calcio (UEFA Youth League U19): Manchester City - Paris Saint-Germain", EN 1
+https://polocruz12.pages.dev/tnt3uk
+#EXTINF:0 group-title="16:00 Calcio Calcio (UEFA Youth League U19): Manchester City - Paris Saint-Germain", EN 2
+https://polocruz12.pages.dev/spo9
+#EXTINF:0 group-title="16:00 Calcio Calcio (UEFA Youth League U19): Manchester City - Paris Saint-Germain", EN 3
+https://polocruz12.pages.dev/spo5
+#EXTINF:0 group-title="16:00 Calcio Calcio (UEFA Youth League U19): Manchester City - Paris Saint-Germain", EN 4
+https://polocruz12.pages.dev/eleven2
+#EXTINF:0 group-title="16:00 Calcio Calcio (UEFA Youth League U19): Manchester City - Paris Saint-Germain", EN 5
+https://freesportshd.site/?post=1791980565
+#EXTINF:0 group-title="16:00 Calcio Calcio (UEFA Youth League U19): Manchester City - Paris Saint-Germain", EN 6
+https://gomstrieam.shop/stream.php?ch=6
+#EXTINF:0 group-title="16:00 Calcio Calcio (UEFA Youth League U19): Manchester City - Paris Saint-Germain", EN 7
+https://shd247.world/live-go-streaming-22.html
+#EXTINF:0 group-title="16:00 Calcio Calcio (UEFA Youth League U19): Manchester City - Paris Saint-Germain", EN 8
+https://shazysport.pro/livehd2.html
+#EXTINF:0 group-title="16:00 Calcio Calcio (UEFA Youth League U19): Manchester City - Paris Saint-Germain", EN 9
 https://www.uefa.tv/live/313298
+#EXTINF:0 group-title="16:00 Calcio Calcio (UEFA Youth League U19): Manchester City - Paris Saint-Germain", PT
+https://polocruz12.pages.dev/eleven2
 #EXTINF:0 group-title="16:00 Calcio Calcio (UEFA Youth League U19): Manchester City - Paris Saint-Germain", ND
 https://www.stvr.sk/televizia/sport
-#EXTINF:0 group-title="18:00 Pallamano Pallamano (Czech-Slovak Women's Liga): Sala - Dunajska Streda", ND 1
+#EXTINF:0 group-title="18:00 Pallamano Pallamano (Czech-Slovak Women's Liga): Sala - Dunajska Streda", ND
 https://www.stvr.sk/televizia/sport
-#EXTINF:0 group-title="18:00 Pallamano Pallamano (Czech-Slovak Women's Liga): Sala - Dunajska Streda", ND 2
+#EXTINF:0 group-title="18:00 Pallamano Pallamano (Czech-Slovak Women's Liga): Sala - Dunajska Streda", EN 1
+https://freesportshd.site/?post=1791980628
+#EXTINF:0 group-title="18:00 Pallamano Pallamano (Czech-Slovak Women's Liga): Sala - Dunajska Streda", EN 2
+https://gomstrieam.shop/stream.php?ch=198
+#EXTINF:0 group-title="18:00 Pallamano Pallamano (Czech-Slovak Women's Liga): Sala - Dunajska Streda", EN 3
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="18:00 Pallamano Pallamano (Czech-Slovak Women's Liga): Sala - Dunajska Streda", EN 4
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="18:00 Basket Basket (Eurocup): Riga - Cedevita Olimpija", EN 1
+https://freesportshd.site/?post=1791980628
+#EXTINF:0 group-title="18:00 Basket Basket (Eurocup): Riga - Cedevita Olimpija", EN 2
+https://gomstrieam.shop/stream.php?ch=198
+#EXTINF:0 group-title="18:00 Basket Basket (Eurocup): Riga - Cedevita Olimpija", EN 3
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="18:00 Basket Basket (Eurocup): Riga - Cedevita Olimpija", EN 4
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="18:00 Basket Basket (Eurocup): Riga - Cedevita Olimpija", ND 1
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="18:00 Basket Basket (Eurocup): Riga - Cedevita Olimpija", ND 2
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="18:00 Basket Basket (Eurocup): Riga - Cedevita Olimpija", ND 3
 https://sport.ceskatelevize.cz/videostream/eurocup-basketbalistek-kp-brno-nyon-basket-2965
 #EXTINF:0 group-title="18:00 Basket Basket (EuroCup Women): KP Brno - Nyon", ND
 https://sport.ceskatelevize.cz/videostream/eurocup-basketbalistek-kp-brno-nyon-basket-2965
-#EXTINF:0 group-title="18:00 Basket Basket (EuroCup Women): KP Brno - Nyon", EN
+#EXTINF:0 group-title="18:00 Basket Basket (EuroCup Women): KP Brno - Nyon", EN 1
+https://freesportshd.site/?post=1791980725
+#EXTINF:0 group-title="18:00 Basket Basket (EuroCup Women): KP Brno - Nyon", EN 2
+https://gomstrieam.shop/stream.php?ch=195
+#EXTINF:0 group-title="18:00 Basket Basket (EuroCup Women): KP Brno - Nyon", EN 3
 https://sebn.dad/141026/sebn-19.html
-#EXTINF:0 group-title="18:00 Basket Basket (Euroleague): Hapoel - Besiktas", EN
+#EXTINF:0 group-title="18:00 Basket Basket (EuroCup Women): KP Brno - Nyon", EN 4
+https://9soccer.biz/R19/Ch1/11.html
+#EXTINF:0 group-title="18:00 Basket Basket (EuroCup Women): KP Brno - Nyon", EN 5
+https://forprivateuse.sbs/roja524/extraplayer/11.php
+#EXTINF:0 group-title="18:00 Basket Basket (Euroleague): Hapoel - Besiktas", EN 1
+https://freesportshd.site/?post=1791980725
+#EXTINF:0 group-title="18:00 Basket Basket (Euroleague): Hapoel - Besiktas", EN 2
+https://gomstrieam.shop/stream.php?ch=195
+#EXTINF:0 group-title="18:00 Basket Basket (Euroleague): Hapoel - Besiktas", EN 3
 https://sebn.dad/141026/sebn-19.html
+#EXTINF:0 group-title="18:00 Basket Basket (Euroleague): Hapoel - Besiktas", EN 4
+https://9soccer.biz/R19/Ch1/11.html
+#EXTINF:0 group-title="18:00 Basket Basket (Euroleague): Hapoel - Besiktas", EN 5
+https://forprivateuse.sbs/roja524/extraplayer/11.php
+#EXTINF:0 group-title="18:00 Basket Basket (Euroleague): Hapoel - Besiktas", DE 1
+https://9soccer.biz/R19/Ch1/11.html
+#EXTINF:0 group-title="18:00 Basket Basket (Euroleague): Hapoel - Besiktas", DE 2
+https://forprivateuse.sbs/roja524/extraplayer/11.php
 #EXTINF:0 group-title="18:00 Basket Basket (Euroleague): Hapoel - Besiktas", ND
 https://tv.bnt.bg/bnt3
 #EXTINF:0 group-title="18:00 Basket Basket (FIBA Europe Cup): Lokomotiv Plovdiv - CSM Oradea", ND
@@ -103,15 +223,27 @@ https://tv.bnt.bg/bnt3
 https://www.tvrplus.ro/live/tvr-sport
 #EXTINF:0 group-title="18:00 Basket Basket (FIBA Europe Cup): SCM Craiova - Sporting CP", RO
 https://www.tvrplus.ro/live/tvr-sport
-#EXTINF:0 group-title="18:00 Basket Basket (FIBA Europe Cup): SCM Craiova - Sporting CP", ET
+#EXTINF:0 group-title="18:00 Basket Basket (FIBA Europe Cup): SCM Craiova - Sporting CP", ND
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="18:00 Calcio Calcio (AFC Champions League Two): Al Taawon - Al Rayyan", ND 1
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="18:00 Calcio Calcio (AFC Champions League Two): Al Taawon - Al Rayyan", ND 2
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="18:00 Calcio Calcio (Bulgarian Pro Cup): Botev Plovdiv - Botev Vratsa", ND
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="18:00 Calcio Calcio (Bulgarian Pro Cup): Botev Plovdiv - Botev Vratsa", ET
 https://www.youtube.com/watch?v=FeaU-klWPag
 #EXTINF:0 group-title="18:00 Calcio Calcio (Estonia Meistriliiga): Paide - Tammeka", ET
 https://www.youtube.com/watch?v=FeaU-klWPag
 #EXTINF:0 group-title="18:00 Calcio Calcio (Estonia Meistriliiga): Paide - Tammeka", ND
 https://sport.ceskatelevize.cz/videostream/prvni-hokejova-liga-slavia-praha-hc-tabor-2908
-#EXTINF:0 group-title="18:00 Hockey su ghiaccio Hockey su ghiaccio (Czechia Maxa liga): Slavia Praha - Tabor", ND
+#EXTINF:0 group-title="18:00 Hockey su ghiaccio Hockey su ghiaccio (Czechia Maxa liga): Slavia Praha - Tabor", ND 1
 https://sport.ceskatelevize.cz/videostream/prvni-hokejova-liga-slavia-praha-hc-tabor-2908
-#EXTINF:0 group-title="18:00 Hockey su ghiaccio Hockey su ghiaccio (Czechia Maxa liga): Slavia Praha - Tabor", PL
+#EXTINF:0 group-title="18:00 Hockey su ghiaccio Hockey su ghiaccio (Czechia Maxa liga): Slavia Praha - Tabor", ND 2
+https://shd247.world/live-go-streaming-14.html
+#EXTINF:0 group-title="18:30 Basket Basket (Eurocup): Ulm - Bosna", ND
+https://shd247.world/live-go-streaming-14.html
+#EXTINF:0 group-title="18:30 Basket Basket (Eurocup): Ulm - Bosna", PL
 https://sport.tvp.pl/95781938/zastal-zielona-gora-patrioti-levice-koszykowka-fiba-europe-cup-transmisja-na-zywo-online-live-stream-14102026
 #EXTINF:0 group-title="18:30 Basket Basket (FIBA Europe Cup): Zielona Góra - Patrioti Levice", PL
 https://sport.tvp.pl/95781938/zastal-zielona-gora-patrioti-levice-koszykowka-fiba-europe-cup-transmisja-na-zywo-online-live-stream-14102026
@@ -119,32 +251,108 @@ https://sport.tvp.pl/95781938/zastal-zielona-gora-patrioti-levice-koszykowka-fib
 https://www.lnky.fun/live/live10
 #EXTINF:0 group-title="18:30 Basket Basket (FIBA Europe Cup): Zielona Góra - Patrioti Levice", DE 2
 https://www.lnky.fun/live/live11
+#EXTINF:0 group-title="18:30 Basket Basket (FIBA Europe Cup): Zielona Góra - Patrioti Levice", DE 3
+https://triipplestreams.xyz/barcelona-atl-madrid/
+#EXTINF:0 group-title="18:30 Basket Basket (FIBA Europe Cup): Zielona Góra - Patrioti Levice", DE 4
+https://gomstrieam.shop/stream.php?ch=559
+#EXTINF:0 group-title="18:30 Basket Basket (FIBA Europe Cup): Zielona Góra - Patrioti Levice", DE 5
+https://9soccer.biz/R19/Ch1/18.html
+#EXTINF:0 group-title="18:30 Basket Basket (FIBA Europe Cup): Zielona Góra - Patrioti Levice", DE 6
+https://techusman.lol/roja-40/k18.php
+#EXTINF:0 group-title="18:30 Basket Basket (FIBA Europe Cup): Zielona Góra - Patrioti Levice", DE 7
+https://buff-streams.buzz/roja-4/k18.php
+#EXTINF:0 group-title="18:30 Basket Basket (FIBA Europe Cup): Zielona Góra - Patrioti Levice", DE 8
+https://forprivateuse.sbs/roja524/extraplayer/18.php
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", DE 1
 https://www.lnky.fun/live/live10
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", DE 2
 https://www.lnky.fun/live/live11
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", AR 1
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", DE 3
+https://triipplestreams.xyz/barcelona-atl-madrid/
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", DE 4
+https://gomstrieam.shop/stream.php?ch=559
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", DE 5
+https://9soccer.biz/R19/Ch1/18.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", DE 6
+https://techusman.lol/roja-40/k18.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", DE 7
+https://buff-streams.buzz/roja-4/k18.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", DE 8
+https://forprivateuse.sbs/roja524/extraplayer/18.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", EN 1
+https://triipplestreams.xyz/barcelona-atl-madrid/
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", EN 2
+https://gomstrieam.shop/stream.php?ch=559
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", ND
+https://shd247.world/live-go-streaming-15.html
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", ND
+https://shd247.world/live-go-streaming-15.html
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 1
 https://www.lnky.fun/live/live03
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", AR 2
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 2
 https://www.lnky.fun/live/live05
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", AR 3
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 3
 https://www.lnky.fun/live/live14
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", AR 4
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 4
 https://www.lnky.fun/live/live15
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", AR 5
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 5
 https://www.lnky.fun/live/live36
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", AR 6
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 6
 https://www.lnky.fun/live/live40
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", AR 7
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 7
 https://www.lnky.fun/live/live44
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", AR 8
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 8
 https://www.lnky.fun/live/live51
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", AR 9
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 9
+https://freesportshd.site/?post=1791980852
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 10
+https://gomstrieam.shop/stream.php?ch=1
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 11
 https://sebn.dad/141026/sebn-12.html
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", AR 10
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 12
+https://nonstopservice.org/dz19/
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 13
+https://wildgames.bz/2026/10/14/feyenoord-vs-como-1907/
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 14
+https://9soccer.biz/R19/Ch1/47.html
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 15
+https://9soccer.biz/R19/Ch1/4.html
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 16
+https://sportsinjection.group/zaee505/4.php
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 17
+https://shd247.world/live-go-streaming-23.html
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 18
+https://shazysport.pro/livehd3.html
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 19
 https://pianoplays.biz/rrd3/lie/47.html
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Simulcast ( 18:45 - 20:45 )", AR 11
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 20
 https://pianoplays.biz/rrd3/lie/8.html
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 21
+https://techusman.lol/roja-40/k4.php
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 22
+https://techusman.lol/roja-40/k8.php
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 23
+https://techusman.lol/roja-40/k47.php
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 24
+https://techusman.lol/roja-40/7.php
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 25
+https://buff-streams.buzz/roja-4/k4.php
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 26
+https://buff-streams.buzz/roja-4/k8.php
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 27
+https://buff-streams.buzz/roja-4/k47.php
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 28
+https://buff-streams.buzz/roja-4/7.php
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 29
+https://wheelsports.lol/RJ33/tv/47.html
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 30
+https://ytstreams.club/YSports112/Nexa/47.html
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 31
+https://forprivateuse.sbs/roja524/extraplayer/4.php
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 32
+https://forprivateuse.sbs/roja524/extraplayer/8.php
+#EXTINF:0 group-title="18:45 Pallamano Pallamano (EHF Champions League): Celje - Paris Saint-Germain", AR 33
+https://forprivateuse.sbs/roja524/extraplayer/47.php
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 1
 https://www.lnky.fun/live/live03
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 2
@@ -162,11 +370,55 @@ https://www.lnky.fun/live/live44
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 8
 https://www.lnky.fun/live/live51
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 9
-https://sebn.dad/141026/sebn-12.html
+https://freesportshd.site/?post=1791980852
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 10
-https://pianoplays.biz/rrd3/lie/47.html
+https://gomstrieam.shop/stream.php?ch=1
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 11
+https://sebn.dad/141026/sebn-12.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 12
+https://nonstopservice.org/dz19/
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 13
+https://wildgames.bz/2026/10/14/feyenoord-vs-como-1907/
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 14
+https://9soccer.biz/R19/Ch1/47.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 15
+https://9soccer.biz/R19/Ch1/4.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 16
+https://sportsinjection.group/zaee505/4.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 17
+https://shd247.world/live-go-streaming-23.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 18
+https://shazysport.pro/livehd3.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 19
+https://pianoplays.biz/rrd3/lie/47.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 20
 https://pianoplays.biz/rrd3/lie/8.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 21
+https://techusman.lol/roja-40/k4.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 22
+https://techusman.lol/roja-40/k8.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 23
+https://techusman.lol/roja-40/k47.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 24
+https://techusman.lol/roja-40/7.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 25
+https://buff-streams.buzz/roja-4/k4.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 26
+https://buff-streams.buzz/roja-4/k8.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 27
+https://buff-streams.buzz/roja-4/k47.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 28
+https://buff-streams.buzz/roja-4/7.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 29
+https://wheelsports.lol/RJ33/tv/47.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 30
+https://ytstreams.club/YSports112/Nexa/47.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 31
+https://forprivateuse.sbs/roja524/extraplayer/4.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 32
+https://forprivateuse.sbs/roja524/extraplayer/8.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", AR 33
+https://forprivateuse.sbs/roja524/extraplayer/47.php
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 1
 https://www.lnky.fun/live/live05
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 1
@@ -182,11 +434,55 @@ https://www.lnky.fun/live/live44
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", RO
 https://www.lnky.fun/live/live51
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 2
-https://sebn.dad/141026/sebn-12.html
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", IT
-https://pianoplays.biz/rrd3/lie/47.html
+https://freesportshd.site/?post=1791980852
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 3
+https://gomstrieam.shop/stream.php?ch=1
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 4
+https://sebn.dad/141026/sebn-12.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 5
+https://nonstopservice.org/dz19/
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 6
+https://wildgames.bz/2026/10/14/feyenoord-vs-como-1907/
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", IT 1
+https://9soccer.biz/R19/Ch1/47.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 7
+https://9soccer.biz/R19/Ch1/4.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 8
+https://sportsinjection.group/zaee505/4.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 9
+https://shd247.world/live-go-streaming-23.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 10
+https://shazysport.pro/livehd3.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", IT 2
+https://pianoplays.biz/rrd3/lie/47.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 11
 https://pianoplays.biz/rrd3/lie/8.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 12
+https://techusman.lol/roja-40/k4.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 13
+https://techusman.lol/roja-40/k8.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", IT 3
+https://techusman.lol/roja-40/k47.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", IT 4
+https://techusman.lol/roja-40/7.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 14
+https://buff-streams.buzz/roja-4/k4.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 15
+https://buff-streams.buzz/roja-4/k8.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", IT 5
+https://buff-streams.buzz/roja-4/k47.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", IT 6
+https://buff-streams.buzz/roja-4/7.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", IT 7
+https://wheelsports.lol/RJ33/tv/47.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", IT 8
+https://ytstreams.club/YSports112/Nexa/47.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 16
+https://forprivateuse.sbs/roja524/extraplayer/4.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", EN 17
+https://forprivateuse.sbs/roja524/extraplayer/8.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", IT 9
+https://forprivateuse.sbs/roja524/extraplayer/47.php
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 3
 https://www.lnky.fun/live/live04
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 4
@@ -204,19 +500,53 @@ https://www.lnky.fun/live/live49
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 10
 https://www.lnky.fun/live/live50
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 11
-https://sebn.dad/141026/sebn-11.html
+https://freesportshd.site/?post=1791980903
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 12
-https://www.youtube.com/watch?v=nViUDBeyG5Q
+https://gomstrieam.shop/stream.php?ch=2
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 13
-https://www.youtube.com/watch?v=fv4n_1LEewY
+https://sebn.dad/141026/sebn-11.html
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 14
-https://www.virginmediatelevision.ie/player/live/virgin-media-two/
+https://nonstopservice.org/dz20/
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 15
-https://qazsporttv.kz/ru/live
+https://wildgames.bz/2026/10/14/lask-linz-vs-liverpool/
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 16
-https://pianoplays.biz/rrd3/lie/2.html
+https://9soccer.biz/R19/Ch1/2.html
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 17
+https://sportsinjection.group/zaee505/2.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 18
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 19
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 20
+https://www.youtube.com/watch?v=nViUDBeyG5Q
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 21
+https://www.youtube.com/watch?v=fv4n_1LEewY
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 22
+https://www.virginmediatelevision.ie/player/live/virgin-media-two/
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 23
+https://qazsporttv.kz/ru/live
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 24
+https://pianoplays.biz/rrd3/lie/2.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 25
 https://pianoplays.biz/rrd3/lie/17.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 26
+https://techusman.lol/roja-40/k2.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 27
+https://techusman.lol/roja-40/k17.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 28
+https://buff-streams.buzz/roja-4/k2.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 29
+https://buff-streams.buzz/roja-4/k17.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 30
+https://wheelsports.lol/RJ33/tv/2.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 31
+https://ytstreams.club/YSports112/Nexa/2.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 32
+https://forprivateuse.sbs/roja524/extraplayer/2.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 33
+https://forprivateuse.sbs/roja524/extraplayer/17.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): Feyenoord - Como", ES 34
+https://forprivateuse.sbs/roja524/extraplayer/69.php
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 1
 https://www.lnky.fun/live/live04
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 2
@@ -234,19 +564,53 @@ https://www.lnky.fun/live/live49
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 8
 https://www.lnky.fun/live/live50
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 9
-https://sebn.dad/141026/sebn-11.html
+https://freesportshd.site/?post=1791980903
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 10
-https://www.youtube.com/watch?v=nViUDBeyG5Q
+https://gomstrieam.shop/stream.php?ch=2
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 11
-https://www.youtube.com/watch?v=fv4n_1LEewY
+https://sebn.dad/141026/sebn-11.html
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 12
-https://www.virginmediatelevision.ie/player/live/virgin-media-two/
+https://nonstopservice.org/dz20/
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 13
-https://qazsporttv.kz/ru/live
+https://wildgames.bz/2026/10/14/lask-linz-vs-liverpool/
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 14
-https://pianoplays.biz/rrd3/lie/2.html
+https://9soccer.biz/R19/Ch1/2.html
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 15
+https://sportsinjection.group/zaee505/2.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 16
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 17
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 18
+https://www.youtube.com/watch?v=nViUDBeyG5Q
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 19
+https://www.youtube.com/watch?v=fv4n_1LEewY
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 20
+https://www.virginmediatelevision.ie/player/live/virgin-media-two/
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 21
+https://qazsporttv.kz/ru/live
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 22
+https://pianoplays.biz/rrd3/lie/2.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 23
 https://pianoplays.biz/rrd3/lie/17.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 24
+https://techusman.lol/roja-40/k2.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 25
+https://techusman.lol/roja-40/k17.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 26
+https://buff-streams.buzz/roja-4/k2.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 27
+https://buff-streams.buzz/roja-4/k17.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 28
+https://wheelsports.lol/RJ33/tv/2.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 29
+https://ytstreams.club/YSports112/Nexa/2.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 30
+https://forprivateuse.sbs/roja524/extraplayer/2.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 31
+https://forprivateuse.sbs/roja524/extraplayer/17.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 32
+https://forprivateuse.sbs/roja524/extraplayer/69.php
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 1
 https://www.lnky.fun/live/live12
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", DE 1
@@ -258,20 +622,54 @@ https://www.lnky.fun/live/live39
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", RO
 https://www.lnky.fun/live/live50
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 2
+https://freesportshd.site/?post=1791980903
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 3
+https://gomstrieam.shop/stream.php?ch=2
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 4
 https://sebn.dad/141026/sebn-11.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 5
+https://nonstopservice.org/dz20/
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 6
+https://wildgames.bz/2026/10/14/lask-linz-vs-liverpool/
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 7
+https://9soccer.biz/R19/Ch1/2.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 8
+https://sportsinjection.group/zaee505/2.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 9
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 10
+https://shazysport.pro/livehd.html
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", PT 2
 https://www.youtube.com/watch?v=nViUDBeyG5Q
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", PT 3
 https://www.youtube.com/watch?v=fv4n_1LEewY
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 3
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 11
 https://www.virginmediatelevision.ie/player/live/virgin-media-two/
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ND 2
 https://qazsporttv.kz/ru/live
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 4
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 12
 https://pianoplays.biz/rrd3/lie/2.html
 #EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", DE 2
 https://pianoplays.biz/rrd3/lie/17.html
-#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 16
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 13
+https://techusman.lol/roja-40/k2.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", DE 3
+https://techusman.lol/roja-40/k17.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 14
+https://buff-streams.buzz/roja-4/k2.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", DE 4
+https://buff-streams.buzz/roja-4/k17.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 15
+https://wheelsports.lol/RJ33/tv/2.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 16
+https://ytstreams.club/YSports112/Nexa/2.html
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", EN 17
+https://forprivateuse.sbs/roja524/extraplayer/2.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", DE 5
+https://forprivateuse.sbs/roja524/extraplayer/17.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ND 3
+https://forprivateuse.sbs/roja524/extraplayer/69.php
+#EXTINF:0 group-title="18:45 Calcio Calcio (UEFA Champions League): LASK - Liverpool", ES 33
 https://www.rtve.es/play/videos/directo/deportes/waterpolo-barceloneta-sabadell-supercopa-masculina/
 #EXTINF:0 group-title="19:00 Water-polo (Spain Supercopa): CN. Atlétic Barceloneta - CN Sabadell ( 19:00 - 20:30 )", ES
 https://www.rtve.es/play/videos/directo/deportes/waterpolo-barceloneta-sabadell-supercopa-masculina/
@@ -288,17 +686,57 @@ https://www.rtve.es/play/videos/directo/deportes/baloncesto-bamberg-murcia-champ
 #EXTINF:0 group-title="19:00 Basket Basket (Champions League): Bamberg Baskets - UCAM Murcia", ES
 https://www.rtve.es/play/videos/directo/deportes/baloncesto-bamberg-murcia-champions-league-14-octubre/
 #EXTINF:0 group-title="19:00 Basket Basket (Champions League): Bamberg Baskets - UCAM Murcia", ND 1
-https://www.trtizle.com/canli/tv/trt-turk
+https://shd247.world/live-go-streaming-16.html
 #EXTINF:0 group-title="19:00 Basket Basket (Champions League): Bamberg Baskets - UCAM Murcia", ND 2
+https://shazysport.pro/livehd13.html
+#EXTINF:0 group-title="19:00 Basket Basket (Eurocup): Aris - Derthona", ND 1
+https://shd247.world/live-go-streaming-16.html
+#EXTINF:0 group-title="19:00 Basket Basket (Eurocup): Aris - Derthona", ND 2
+https://shazysport.pro/livehd13.html
+#EXTINF:0 group-title="19:00 Basket Basket (Eurocup): Aris - Derthona", ND 3
+https://gomstrieam.shop/stream.php?ch=63
+#EXTINF:0 group-title="19:00 Basket Basket (Eurocup): Aris - Derthona", ND 4
+https://www.trtizle.com/canli/tv/trt-turk
+#EXTINF:0 group-title="19:00 Basket Basket (Eurocup): Aris - Derthona", ND 5
 https://www.trtturk.com.tr/canli-izle
 #EXTINF:0 group-title="19:00 Calcio Calcio (Turkey 1. Lig): Antalyaspor - Kayserispor", ND 1
-https://www.trtizle.com/canli/tv/trt-turk
+https://gomstrieam.shop/stream.php?ch=63
 #EXTINF:0 group-title="19:00 Calcio Calcio (Turkey 1. Lig): Antalyaspor - Kayserispor", ND 2
+https://www.trtizle.com/canli/tv/trt-turk
+#EXTINF:0 group-title="19:00 Calcio Calcio (Turkey 1. Lig): Antalyaspor - Kayserispor", ND 3
 https://www.trtturk.com.tr/canli-izle
-#EXTINF:0 group-title="19:00 Calcio Calcio (Turkey 1. Lig): Antalyaspor - Kayserispor", EN
+#EXTINF:0 group-title="19:00 Calcio Calcio (Turkey 1. Lig): Antalyaspor - Kayserispor", EN 1
+https://gomstrieam.shop/stream.php?ch=196
+#EXTINF:0 group-title="19:00 Calcio Calcio (Turkey 1. Lig): Antalyaspor - Kayserispor", EN 2
 https://sebn.dad/141026/sebn-20.html
-#EXTINF:0 group-title="19:30 Basket Basket (Euroleague): Anadolu Efes - Bayern", EN
+#EXTINF:0 group-title="19:00 Calcio Calcio (Turkey 1. Lig): Antalyaspor - Kayserispor", EN 3
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="19:00 Calcio Calcio (Turkey 1. Lig): Antalyaspor - Kayserispor", EN 4
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="19:00 Calcio Calcio (Turkey 1. Lig): Antalyaspor - Kayserispor", EN 5
+https://9soccer.biz/R19/Ch1/12.html
+#EXTINF:0 group-title="19:00 Calcio Calcio (Turkey 1. Lig): Antalyaspor - Kayserispor", EN 6
+https://forprivateuse.sbs/roja524/extraplayer/12.php
+#EXTINF:0 group-title="19:30 Basket Basket (Euroleague): Anadolu Efes - Bayern", EN 1
+https://gomstrieam.shop/stream.php?ch=196
+#EXTINF:0 group-title="19:30 Basket Basket (Euroleague): Anadolu Efes - Bayern", EN 2
 https://sebn.dad/141026/sebn-20.html
+#EXTINF:0 group-title="19:30 Basket Basket (Euroleague): Anadolu Efes - Bayern", EN 3
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="19:30 Basket Basket (Euroleague): Anadolu Efes - Bayern", EN 4
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="19:30 Basket Basket (Euroleague): Anadolu Efes - Bayern", EN 5
+https://9soccer.biz/R19/Ch1/12.html
+#EXTINF:0 group-title="19:30 Basket Basket (Euroleague): Anadolu Efes - Bayern", EN 6
+https://forprivateuse.sbs/roja524/extraplayer/12.php
+#EXTINF:0 group-title="19:30 Basket Basket (Euroleague): Anadolu Efes - Bayern", ND 1
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="19:30 Basket Basket (Euroleague): Anadolu Efes - Bayern", ND 2
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="19:30 Basket Basket (Euroleague): Anadolu Efes - Bayern", DE 1
+https://9soccer.biz/R19/Ch1/12.html
+#EXTINF:0 group-title="19:30 Basket Basket (Euroleague): Anadolu Efes - Bayern", DE 2
+https://forprivateuse.sbs/roja524/extraplayer/12.php
 #EXTINF:0 group-title="19:30 Basket Basket (Euroleague): Anadolu Efes - Bayern", PT 1
 https://www.youtube.com/watch?v=R20neBmHW8M
 #EXTINF:0 group-title="19:30 Basket Basket (Euroleague): Anadolu Efes - Bayern", PT 2
@@ -311,40 +749,140 @@ https://sport5.by/live/belarus5/
 https://sport5.by/live/belarus5/
 #EXTINF:0 group-title="19:45 Calcio Calcio (Russia Cup): CSKA Moscow - FK Rostov", ES
 https://www.rtve.es/play/videos/directo/deportes/baloncesto-bilbao-slavia-praha-14-octubre/
-#EXTINF:0 group-title="20:00 Basket Basket (Champions League): Bilbao Basket - Slavia Praha", ES 1
+#EXTINF:0 group-title="20:00 Basket Basket (Champions League): Bilbao Basket - Slavia Praha", ES
 https://www.rtve.es/play/videos/directo/deportes/baloncesto-bilbao-slavia-praha-14-octubre/
-#EXTINF:0 group-title="20:00 Basket Basket (Champions League): Bilbao Basket - Slavia Praha", ES 2
+#EXTINF:0 group-title="20:00 Basket Basket (Champions League): Bilbao Basket - Slavia Praha", PT 1
+https://shd247.world/live-go-streaming-18.html
+#EXTINF:0 group-title="20:00 Basket Basket (Champions League): Bilbao Basket - Slavia Praha", PT 2
+https://shazysport.pro/livehd15.html
+#EXTINF:0 group-title="20:00 Calcio Calcio (Taca de Portugal): Uniao Santarem - GIl Vicente", PT 1
+https://shd247.world/live-go-streaming-18.html
+#EXTINF:0 group-title="20:00 Calcio Calcio (Taca de Portugal): Uniao Santarem - GIl Vicente", PT 2
+https://shazysport.pro/livehd15.html
+#EXTINF:0 group-title="20:00 Calcio Calcio (Taca de Portugal): Uniao Santarem - GIl Vicente", ND
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="20:15 Calcio Calcio (AFC Champions League Two): Al Kuwait - Khalidiya", ND
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="20:15 Calcio Calcio (AFC Champions League Two): Al Kuwait - Khalidiya", ES
 https://www.rtve.es/play/videos/directo/deportes/hockey-patines-espana-suiza-mundial-14/
 #EXTINF:0 group-title="20:30 Rink hokey (World Championship): Spagna - Svizzera ( 20:30 - 22:30 )", ES
 https://www.rtve.es/play/videos/directo/deportes/hockey-patines-espana-suiza-mundial-14/
-#EXTINF:0 group-title="20:30 Rink hokey (World Championship): Spagna - Svizzera ( 20:30 - 22:30 )", EN
+#EXTINF:0 group-title="20:30 Rink hokey (World Championship): Spagna - Svizzera ( 20:30 - 22:30 )", EN 1
+https://freesportshd.site/?post=1791980973
+#EXTINF:0 group-title="20:30 Rink hokey (World Championship): Spagna - Svizzera ( 20:30 - 22:30 )", EN 2
+https://gomstrieam.shop/stream.php?ch=197
+#EXTINF:0 group-title="20:30 Rink hokey (World Championship): Spagna - Svizzera ( 20:30 - 22:30 )", EN 3
 https://sebn.dad/141026/sebn-21.html
-#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", EN
+#EXTINF:0 group-title="20:30 Rink hokey (World Championship): Spagna - Svizzera ( 20:30 - 22:30 )", EN 4
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="20:30 Rink hokey (World Championship): Spagna - Svizzera ( 20:30 - 22:30 )", EN 5
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="20:30 Rink hokey (World Championship): Spagna - Svizzera ( 20:30 - 22:30 )", EN 6
+https://9soccer.biz/R19/Ch1/13.html
+#EXTINF:0 group-title="20:30 Rink hokey (World Championship): Spagna - Svizzera ( 20:30 - 22:30 )", EN 7
+https://techusman.lol/roja-40/k13.php
+#EXTINF:0 group-title="20:30 Rink hokey (World Championship): Spagna - Svizzera ( 20:30 - 22:30 )", EN 8
+https://buff-streams.buzz/roja-4/k13.php
+#EXTINF:0 group-title="20:30 Rink hokey (World Championship): Spagna - Svizzera ( 20:30 - 22:30 )", EN 9
+https://forprivateuse.sbs/roja524/extraplayer/13.php
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", EN 1
+https://freesportshd.site/?post=1791980973
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", EN 2
+https://gomstrieam.shop/stream.php?ch=197
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", EN 3
 https://sebn.dad/141026/sebn-21.html
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", EN 4
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", EN 5
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", EN 6
+https://9soccer.biz/R19/Ch1/13.html
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", EN 7
+https://techusman.lol/roja-40/k13.php
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", EN 8
+https://buff-streams.buzz/roja-4/k13.php
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", EN 9
+https://forprivateuse.sbs/roja524/extraplayer/13.php
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", ND 1
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", ND 2
+https://shazysport.pro/livehd8.html
 #EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", DE 1
-https://www.lnky.fun/live/live10
+https://9soccer.biz/R19/Ch1/13.html
 #EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", DE 2
+https://techusman.lol/roja-40/k13.php
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", DE 3
+https://buff-streams.buzz/roja-4/k13.php
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", DE 4
+https://forprivateuse.sbs/roja524/extraplayer/13.php
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", DE 5
+https://www.lnky.fun/live/live10
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", DE 6
 https://www.lnky.fun/live/live11
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", DE 7
+https://9soccer.biz/R19/Ch1/18.html
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", DE 8
+https://techusman.lol/roja-40/k18.php
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", DE 9
+https://buff-streams.buzz/roja-4/k18.php
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", DE 10
+https://shd247.world/live-go-streaming-30.html
+#EXTINF:0 group-title="20:45 Basket Basket (Euroleague): Paris - Virtus Bologna", DE 11
+https://forprivateuse.sbs/roja524/extraplayer/18.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", DE 1
 https://www.lnky.fun/live/live10
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", DE 2
 https://www.lnky.fun/live/live11
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", DE 3
+https://9soccer.biz/R19/Ch1/18.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", DE 4
+https://techusman.lol/roja-40/k18.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", DE 5
+https://buff-streams.buzz/roja-4/k18.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", DE 6
+https://shd247.world/live-go-streaming-30.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", DE 7
+https://forprivateuse.sbs/roja524/extraplayer/18.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", EN 1
-https://sebn.dad/141026/sebn-18.html
+https://9soccer.biz/R19/Ch1/18.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", EN 2
-https://techusman.lol/roja-40/k3.php
+https://shd247.world/live-go-streaming-30.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", EN 3
-https://buff-streams.buzz/roja-4/k3.php
+https://sebn.dad/141026/sebn-18.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", EN 4
+https://wildgames.bz/2026/10/14/lincoln-city-vs-west-ham-united/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", EN 5
+https://techusman.lol/roja-40/k3.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", EN 6
+https://buff-streams.buzz/roja-4/k3.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", EN 7
 https://pianoplays.biz/rrd3/lie/3.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", EN 8
+https://shd247.world/live-go-streaming-15.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", EN 9
+https://wheelsports.lol/RJ33/tv/3.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", EN 10
+https://ytstreams.club/YSports112/Nexa/3.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Simulcast ( 21:00 - 23:00 )", EN 11
+https://forprivateuse.sbs/roja524/extraplayer/3.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", EN 1
 https://sebn.dad/141026/sebn-18.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", EN 2
-https://techusman.lol/roja-40/k3.php
+https://wildgames.bz/2026/10/14/lincoln-city-vs-west-ham-united/
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", EN 3
-https://buff-streams.buzz/roja-4/k3.php
+https://techusman.lol/roja-40/k3.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", EN 4
+https://buff-streams.buzz/roja-4/k3.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", EN 5
 https://pianoplays.biz/rrd3/lie/3.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", EN 6
+https://shd247.world/live-go-streaming-15.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", EN 7
+https://wheelsports.lol/RJ33/tv/3.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", EN 8
+https://ytstreams.club/YSports112/Nexa/3.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", EN 9
+https://forprivateuse.sbs/roja524/extraplayer/3.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 1
 https://www.lnky.fun/live/live03
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 2
@@ -364,21 +902,39 @@ https://www.lnky.fun/live/live47
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 9
 https://sebn.dad/141026/sebn-15.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 10
-https://techusman.lol/roja-40/k2.php
+https://nonstopservice.org/dz13/
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 11
-https://techusman.lol/roja-40/k45.php
+https://wildgames.bz/2026/10/14/aston-villa-vs-fenerbaha%c2%a7e/
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 12
-https://techusman.lol/roja-40/2.php
+https://9soccer.biz/R19/Ch1/2.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 13
-https://buff-streams.buzz/roja-4/k2.php
+https://techusman.lol/roja-40/k2.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 14
-https://buff-streams.buzz/roja-4/k45.php
+https://techusman.lol/roja-40/k45.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 15
-https://buff-streams.buzz/roja-4/2.php
+https://techusman.lol/roja-40/2.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 16
-https://pianoplays.biz/rrd3/lie/2.html
+https://buff-streams.buzz/roja-4/k2.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 17
+https://buff-streams.buzz/roja-4/k45.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 18
+https://buff-streams.buzz/roja-4/2.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 19
+https://pianoplays.biz/rrd3/lie/2.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 20
 https://pianoplays.biz/rrd3/lie/45.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 21
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 22
+https://sportsinjection.group/zaee505/2.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 23
+https://wheelsports.lol/RJ33/tv/2.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 24
+https://ytstreams.club/YSports112/Nexa/2.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 25
+https://forprivateuse.sbs/roja524/extraplayer/2.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (English Champioship): Lincoln - West Ham", AR 26
+https://forprivateuse.sbs/roja524/extraplayer/45.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 1
 https://www.lnky.fun/live/live03
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 2
@@ -398,21 +954,39 @@ https://www.lnky.fun/live/live47
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 9
 https://sebn.dad/141026/sebn-15.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 10
-https://techusman.lol/roja-40/k2.php
+https://nonstopservice.org/dz13/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 11
-https://techusman.lol/roja-40/k45.php
+https://wildgames.bz/2026/10/14/aston-villa-vs-fenerbaha%c2%a7e/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 12
-https://techusman.lol/roja-40/2.php
+https://9soccer.biz/R19/Ch1/2.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 13
-https://buff-streams.buzz/roja-4/k2.php
+https://techusman.lol/roja-40/k2.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 14
-https://buff-streams.buzz/roja-4/k45.php
+https://techusman.lol/roja-40/k45.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 15
-https://buff-streams.buzz/roja-4/2.php
+https://techusman.lol/roja-40/2.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 16
-https://pianoplays.biz/rrd3/lie/2.html
+https://buff-streams.buzz/roja-4/k2.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 17
+https://buff-streams.buzz/roja-4/k45.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 18
+https://buff-streams.buzz/roja-4/2.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 19
+https://pianoplays.biz/rrd3/lie/2.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 20
 https://pianoplays.biz/rrd3/lie/45.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 21
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 22
+https://sportsinjection.group/zaee505/2.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 23
+https://wheelsports.lol/RJ33/tv/2.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 24
+https://ytstreams.club/YSports112/Nexa/2.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 25
+https://forprivateuse.sbs/roja524/extraplayer/2.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", AR 26
+https://forprivateuse.sbs/roja524/extraplayer/45.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", ES 1
 https://www.lnky.fun/live/live06
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 1
@@ -430,45 +1004,81 @@ https://www.lnky.fun/live/live47
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 2
 https://sebn.dad/141026/sebn-15.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 3
+https://nonstopservice.org/dz13/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 4
+https://wildgames.bz/2026/10/14/aston-villa-vs-fenerbaha%c2%a7e/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 5
+https://9soccer.biz/R19/Ch1/2.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 6
 https://techusman.lol/roja-40/k2.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", IT 1
 https://techusman.lol/roja-40/k45.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 4
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 7
 https://techusman.lol/roja-40/2.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 5
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 8
 https://buff-streams.buzz/roja-4/k2.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", IT 2
 https://buff-streams.buzz/roja-4/k45.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 6
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 9
 https://buff-streams.buzz/roja-4/2.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 7
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 10
 https://pianoplays.biz/rrd3/lie/2.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", IT 3
 https://pianoplays.biz/rrd3/lie/45.html
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 8
-https://www.lnky.fun/live/live25
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 9
-https://www.lnky.fun/live/live26
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 10
-https://www.lnky.fun/live/live27
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 11
-https://www.lnky.fun/live/live45
+https://shd247.world/live-go-streaming-21.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 12
-https://www.lnky.fun/live/live52
+https://sportsinjection.group/zaee505/2.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 13
-https://sebn.dad/141026/sebn-12.html
+https://wheelsports.lol/RJ33/tv/2.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 14
-https://techusman.lol/roja-40/k6.php
+https://ytstreams.club/YSports112/Nexa/2.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 15
-https://techusman.lol/roja-40/k28.php
+https://forprivateuse.sbs/roja524/extraplayer/2.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", IT 4
+https://forprivateuse.sbs/roja524/extraplayer/45.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 16
-https://buff-streams.buzz/roja-4/k6.php
+https://www.lnky.fun/live/live25
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 17
-https://buff-streams.buzz/roja-4/k28.php
+https://www.lnky.fun/live/live26
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 18
-https://pianoplays.biz/rrd3/lie/6.html
+https://www.lnky.fun/live/live27
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 19
+https://www.lnky.fun/live/live45
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 20
+https://www.lnky.fun/live/live52
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 21
+https://sebn.dad/141026/sebn-12.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 22
+https://nonstopservice.org/dz14/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 23
+https://wildgames.bz/2026/10/14/real-betis-vs-fc-porto/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 24
+https://9soccer.biz/R19/Ch1/6.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 25
+https://techusman.lol/roja-40/k6.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 26
+https://techusman.lol/roja-40/k28.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 27
+https://buff-streams.buzz/roja-4/k6.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 28
+https://buff-streams.buzz/roja-4/k28.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 29
+https://pianoplays.biz/rrd3/lie/6.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 30
 https://pianoplays.biz/rrd3/lie/28.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 31
+https://shd247.world/live-go-streaming-26.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 32
+https://sportsinjection.group/zaee505/6.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 33
+https://wheelsports.lol/RJ33/tv/28.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 34
+https://ytstreams.club/YSports112/Nexa/28.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 35
+https://forprivateuse.sbs/roja524/extraplayer/6.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Aston Villa - Fenerbahce", EN 36
+https://forprivateuse.sbs/roja524/extraplayer/28.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 1
 https://www.lnky.fun/live/live25
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 2
@@ -482,20 +1092,38 @@ https://www.lnky.fun/live/live52
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 6
 https://sebn.dad/141026/sebn-12.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 7
-https://techusman.lol/roja-40/k6.php
+https://nonstopservice.org/dz14/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 8
-https://techusman.lol/roja-40/k28.php
+https://wildgames.bz/2026/10/14/real-betis-vs-fc-porto/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 9
-https://buff-streams.buzz/roja-4/k6.php
+https://9soccer.biz/R19/Ch1/6.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 10
-https://buff-streams.buzz/roja-4/k28.php
+https://techusman.lol/roja-40/k6.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 11
-https://pianoplays.biz/rrd3/lie/6.html
+https://techusman.lol/roja-40/k28.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 12
+https://buff-streams.buzz/roja-4/k6.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 13
+https://buff-streams.buzz/roja-4/k28.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 14
+https://pianoplays.biz/rrd3/lie/6.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 15
 https://pianoplays.biz/rrd3/lie/28.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 16
+https://shd247.world/live-go-streaming-26.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 17
+https://sportsinjection.group/zaee505/6.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 18
+https://wheelsports.lol/RJ33/tv/28.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 19
+https://ytstreams.club/YSports112/Nexa/28.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 20
+https://forprivateuse.sbs/roja524/extraplayer/6.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", EN 21
+https://forprivateuse.sbs/roja524/extraplayer/28.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", DE
 https://www.lnky.fun/live/live26
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", PT
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", PT 1
 https://www.lnky.fun/live/live27
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 1
 https://www.lnky.fun/live/live45
@@ -509,26 +1137,64 @@ https://buff-streams.buzz/roja-4/k6.php
 https://buff-streams.buzz/roja-4/k28.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 5
 https://pianoplays.biz/rrd3/lie/28.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", PT 2
+https://shd247.world/live-go-streaming-26.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 6
-https://www.lnky.fun/live/live08
+https://wheelsports.lol/RJ33/tv/28.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 7
-https://www.lnky.fun/live/live13
+https://ytstreams.club/YSports112/Nexa/28.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 8
-https://www.lnky.fun/live/live19
+https://forprivateuse.sbs/roja524/extraplayer/28.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 9
-https://www.lnky.fun/live/live20
+https://www.lnky.fun/live/live08
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 10
-https://www.lnky.fun/live/live38
+https://www.lnky.fun/live/live13
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 11
-https://www.lnky.fun/live/live42
+https://www.lnky.fun/live/live19
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 12
-https://www.lnky.fun/live/live48
+https://www.lnky.fun/live/live20
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 13
-https://sebn.dad/141026/sebn-17.html
+https://www.lnky.fun/live/live38
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 14
-https://pianoplays.biz/rrd3/lie/5.html
+https://www.lnky.fun/live/live42
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 15
+https://www.lnky.fun/live/live48
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 16
+https://sebn.dad/141026/sebn-17.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 17
+https://nonstopservice.org/dz18/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 18
+https://wildgames.bz/2026/10/14/boda%c2%b8-glimt-vs-borussia-dortmund/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 19
+https://9soccer.biz/R19/Ch1/5.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 20
+https://pianoplays.biz/rrd3/lie/5.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 21
 https://pianoplays.biz/rrd3/lie/17.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 22
+https://techusman.lol/roja-40/k5.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 23
+https://techusman.lol/roja-40/k17.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 24
+https://techusman.lol/roja-40/3.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 25
+https://buff-streams.buzz/roja-4/k5.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 26
+https://buff-streams.buzz/roja-4/k17.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 27
+https://buff-streams.buzz/roja-4/3.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 28
+https://shd247.world/live-go-streaming-24.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 29
+https://sportsinjection.group/zaee505/5.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 30
+https://wheelsports.lol/RJ33/tv/17.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 31
+https://ytstreams.club/YSports112/Nexa/17.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 32
+https://forprivateuse.sbs/roja524/extraplayer/5.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Betis - Porto", ES 33
+https://forprivateuse.sbs/roja524/extraplayer/17.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 1
 https://www.lnky.fun/live/live08
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 2
@@ -546,9 +1212,39 @@ https://www.lnky.fun/live/live48
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 8
 https://sebn.dad/141026/sebn-17.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 9
-https://pianoplays.biz/rrd3/lie/5.html
+https://nonstopservice.org/dz18/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 10
+https://wildgames.bz/2026/10/14/boda%c2%b8-glimt-vs-borussia-dortmund/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 11
+https://9soccer.biz/R19/Ch1/5.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 12
+https://pianoplays.biz/rrd3/lie/5.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 13
 https://pianoplays.biz/rrd3/lie/17.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 14
+https://techusman.lol/roja-40/k5.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 15
+https://techusman.lol/roja-40/k17.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 16
+https://techusman.lol/roja-40/3.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 17
+https://buff-streams.buzz/roja-4/k5.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 18
+https://buff-streams.buzz/roja-4/k17.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 19
+https://buff-streams.buzz/roja-4/3.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 20
+https://shd247.world/live-go-streaming-24.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 21
+https://sportsinjection.group/zaee505/5.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 22
+https://wheelsports.lol/RJ33/tv/17.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 23
+https://ytstreams.club/YSports112/Nexa/17.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 24
+https://forprivateuse.sbs/roja524/extraplayer/5.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 25
+https://forprivateuse.sbs/roja524/extraplayer/17.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", DE 1
 https://www.lnky.fun/live/live13
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", EN 1
@@ -562,135 +1258,221 @@ https://www.lnky.fun/live/live42
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", EN 2
 https://sebn.dad/141026/sebn-17.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", EN 3
+https://nonstopservice.org/dz18/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", EN 4
+https://wildgames.bz/2026/10/14/boda%c2%b8-glimt-vs-borussia-dortmund/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", EN 5
+https://9soccer.biz/R19/Ch1/5.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", EN 6
 https://pianoplays.biz/rrd3/lie/5.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", DE 3
 https://pianoplays.biz/rrd3/lie/17.html
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 1
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", EN 7
+https://techusman.lol/roja-40/k5.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", DE 4
+https://techusman.lol/roja-40/k17.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", DE 5
+https://techusman.lol/roja-40/3.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", EN 8
+https://buff-streams.buzz/roja-4/k5.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", DE 6
+https://buff-streams.buzz/roja-4/k17.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", DE 7
+https://buff-streams.buzz/roja-4/3.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", EN 9
+https://shd247.world/live-go-streaming-24.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", EN 10
+https://sportsinjection.group/zaee505/5.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", DE 8
+https://wheelsports.lol/RJ33/tv/17.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", DE 9
+https://ytstreams.club/YSports112/Nexa/17.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", EN 11
+https://forprivateuse.sbs/roja524/extraplayer/5.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", DE 10
+https://forprivateuse.sbs/roja524/extraplayer/17.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 26
+https://polocruz12.pages.dev/torre
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 27
 https://www.lnky.fun/live/live01
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 2
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 28
 https://www.lnky.fun/live/live04
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 3
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 29
 https://www.lnky.fun/live/live15
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 4
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 30
 https://www.lnky.fun/live/live16
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 5
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 31
 https://www.lnky.fun/live/live17
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 6
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 32
 https://www.lnky.fun/live/live18
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 7
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 33
 https://www.lnky.fun/live/live35
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 8
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 34
 https://www.lnky.fun/live/live39
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 9
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 35
 https://www.lnky.fun/live/live44
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 10
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 36
 https://www.lnky.fun/live/live46
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 11
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 37
 https://www.lnky.fun/live/live50
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 12
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 38
 https://sebn.dad/141026/sebn-16.html
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 13
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 39
+https://nonstopservice.org/dz15/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 40
+https://wildgames.bz/2026/10/14/manchester-city-vs-paris-st-germain/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 41
+https://9soccer.biz/R19/Ch1/1.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 42
+https://9soccer.biz/R19/Ch1/50.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 43
 https://www.tv8.it/streaming
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 14
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 44
 https://www.rte.ie/player/onnow/66546216064
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 15
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 45
 https://www.rtlplay.be/rtlplay/direct/club
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 16
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 46
 https://www.vtmgo.be/vtmgo/live-kijken/vtm2
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 17
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 47
 https://hrti.hrt.hr/live/tv?channel=40014
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 18
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 48
 https://rtsplaneta.rs/live/tv/4/rts-2
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 19
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 49
 https://itv.az/live-tv
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 20
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 50
 https://techusman.lol/roja-40/k1.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 21
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 51
 https://techusman.lol/roja-40/1.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 22
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 52
 https://techusman.lol/roja-40/k50.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 23
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 53
 https://techusman.lol/roja-40/4.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 24
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 54
 https://techusman.lol/roja-40/k46.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 25
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 55
 https://buff-streams.buzz/roja-4/k1.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 26
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 56
 https://buff-streams.buzz/roja-4/k50.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 27
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 57
 https://buff-streams.buzz/roja-4/k46.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 28
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 58
 https://buff-streams.buzz/roja-4/4.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 29
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 59
 https://buff-streams.buzz/roja-4/1.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 30
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 60
 https://pianoplays.biz/rrd3/lie/1.html
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", AR 31
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 61
 https://pianoplays.biz/rrd3/lie/50.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 62
+https://shd247.world/live-go-streaming-22.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 63
+https://sportsinjection.group/zaee505/1.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 64
+https://wheelsports.lol/RJ33/tv/1.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 65
+https://wheelsports.lol/RJ33/tv/50.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 66
+https://ytstreams.club/YSports112/Nexa/1.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 67
+https://ytstreams.club/YSports112/Nexa/50.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 68
+https://forprivateuse.sbs/roja524/extraplayer/1.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 69
+https://forprivateuse.sbs/roja524/extraplayer/46.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Bodo/Glimt - B. Dortmund", ES 70
+https://forprivateuse.sbs/roja524/extraplayer/50.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 1
+https://polocruz12.pages.dev/torre
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 2
+https://www.lnky.fun/live/live01
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 3
+https://www.lnky.fun/live/live04
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 4
+https://www.lnky.fun/live/live15
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 5
+https://www.lnky.fun/live/live16
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 6
+https://www.lnky.fun/live/live17
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 7
+https://www.lnky.fun/live/live18
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 8
+https://www.lnky.fun/live/live35
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 9
+https://www.lnky.fun/live/live39
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 10
+https://www.lnky.fun/live/live44
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 11
+https://www.lnky.fun/live/live46
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 12
+https://www.lnky.fun/live/live50
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 13
+https://sebn.dad/141026/sebn-16.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 14
+https://nonstopservice.org/dz15/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 15
+https://wildgames.bz/2026/10/14/manchester-city-vs-paris-st-germain/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 16
+https://9soccer.biz/R19/Ch1/1.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 17
+https://9soccer.biz/R19/Ch1/50.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 18
+https://www.tv8.it/streaming
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 19
+https://www.rte.ie/player/onnow/66546216064
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 20
+https://www.rtlplay.be/rtlplay/direct/club
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 21
+https://www.vtmgo.be/vtmgo/live-kijken/vtm2
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 22
+https://hrti.hrt.hr/live/tv?channel=40014
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 23
+https://rtsplaneta.rs/live/tv/4/rts-2
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 24
+https://itv.az/live-tv
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 25
+https://techusman.lol/roja-40/k1.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 26
+https://techusman.lol/roja-40/1.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 27
+https://techusman.lol/roja-40/k50.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 28
+https://techusman.lol/roja-40/4.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 29
+https://techusman.lol/roja-40/k46.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 30
+https://buff-streams.buzz/roja-4/k1.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 31
+https://buff-streams.buzz/roja-4/k50.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 32
+https://buff-streams.buzz/roja-4/k46.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 33
+https://buff-streams.buzz/roja-4/4.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 34
+https://buff-streams.buzz/roja-4/1.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 35
+https://pianoplays.biz/rrd3/lie/1.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 36
+https://pianoplays.biz/rrd3/lie/50.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 37
+https://shd247.world/live-go-streaming-22.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 38
+https://sportsinjection.group/zaee505/1.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 39
+https://wheelsports.lol/RJ33/tv/1.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 40
+https://wheelsports.lol/RJ33/tv/50.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 41
+https://ytstreams.club/YSports112/Nexa/1.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 42
+https://ytstreams.club/YSports112/Nexa/50.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 43
+https://forprivateuse.sbs/roja524/extraplayer/1.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 44
+https://forprivateuse.sbs/roja524/extraplayer/46.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 45
+https://forprivateuse.sbs/roja524/extraplayer/50.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 1
 https://www.lnky.fun/live/live01
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 2
-https://www.lnky.fun/live/live04
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 3
-https://www.lnky.fun/live/live15
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 4
-https://www.lnky.fun/live/live16
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 5
-https://www.lnky.fun/live/live17
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 6
-https://www.lnky.fun/live/live18
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 7
-https://www.lnky.fun/live/live35
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 8
-https://www.lnky.fun/live/live39
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 9
-https://www.lnky.fun/live/live44
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 10
-https://www.lnky.fun/live/live46
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 11
-https://www.lnky.fun/live/live50
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 12
-https://sebn.dad/141026/sebn-16.html
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 13
-https://www.tv8.it/streaming
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 14
-https://www.rte.ie/player/onnow/66546216064
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 15
-https://www.rtlplay.be/rtlplay/direct/club
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 16
-https://www.vtmgo.be/vtmgo/live-kijken/vtm2
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 17
-https://hrti.hrt.hr/live/tv?channel=40014
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 18
-https://rtsplaneta.rs/live/tv/4/rts-2
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 19
-https://itv.az/live-tv
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 20
-https://techusman.lol/roja-40/k1.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 21
-https://techusman.lol/roja-40/1.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 22
-https://techusman.lol/roja-40/k50.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 23
-https://techusman.lol/roja-40/4.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 24
-https://techusman.lol/roja-40/k46.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 25
-https://buff-streams.buzz/roja-4/k1.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 26
-https://buff-streams.buzz/roja-4/k50.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 27
-https://buff-streams.buzz/roja-4/k46.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 28
-https://buff-streams.buzz/roja-4/4.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 29
-https://buff-streams.buzz/roja-4/1.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 30
-https://pianoplays.biz/rrd3/lie/1.html
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 31
-https://pianoplays.biz/rrd3/lie/50.html
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 1
-https://www.lnky.fun/live/live04
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", NL 1
 https://www.lnky.fun/live/live15
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 1
@@ -703,19 +1485,25 @@ https://www.lnky.fun/live/live18
 https://www.lnky.fun/live/live35
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", PT
 https://www.lnky.fun/live/live39
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ES 2
-https://www.lnky.fun/live/live44
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ND 2
 https://www.lnky.fun/live/live46
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", RO
 https://www.lnky.fun/live/live50
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 2
 https://sebn.dad/141026/sebn-16.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 3
+https://nonstopservice.org/dz15/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 4
+https://wildgames.bz/2026/10/14/manchester-city-vs-paris-st-germain/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 5
+https://9soccer.biz/R19/Ch1/1.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 2
+https://9soccer.biz/R19/Ch1/50.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", IT 1
 https://www.tv8.it/streaming
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 3
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 6
 https://www.rte.ie/player/onnow/66546216064
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 2
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 3
 https://www.rtlplay.be/rtlplay/direct/club
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", NL 2
 https://www.vtmgo.be/vtmgo/live-kijken/vtm2
@@ -725,88 +1513,134 @@ https://hrti.hrt.hr/live/tv?channel=40014
 https://rtsplaneta.rs/live/tv/4/rts-2
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", ND 4
 https://itv.az/live-tv
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 4
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 7
 https://techusman.lol/roja-40/k1.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 5
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 8
 https://techusman.lol/roja-40/1.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 3
-https://techusman.lol/roja-40/k50.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 4
+https://techusman.lol/roja-40/k50.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 5
 https://techusman.lol/roja-40/4.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", IT 2
 https://techusman.lol/roja-40/k46.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 6
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 9
 https://buff-streams.buzz/roja-4/k1.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 5
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 6
 https://buff-streams.buzz/roja-4/k50.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", IT 3
 https://buff-streams.buzz/roja-4/k46.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 6
-https://buff-streams.buzz/roja-4/4.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 7
-https://buff-streams.buzz/roja-4/1.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 8
-https://pianoplays.biz/rrd3/lie/1.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 7
+https://buff-streams.buzz/roja-4/4.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 10
+https://buff-streams.buzz/roja-4/1.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 11
+https://pianoplays.biz/rrd3/lie/1.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 8
 https://pianoplays.biz/rrd3/lie/50.html
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 32
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 12
+https://shd247.world/live-go-streaming-22.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 13
+https://sportsinjection.group/zaee505/1.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 14
+https://wheelsports.lol/RJ33/tv/1.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 9
+https://wheelsports.lol/RJ33/tv/50.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 15
+https://ytstreams.club/YSports112/Nexa/1.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 10
+https://ytstreams.club/YSports112/Nexa/50.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", EN 16
+https://forprivateuse.sbs/roja524/extraplayer/1.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", IT 4
+https://forprivateuse.sbs/roja524/extraplayer/46.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", FR 11
+https://forprivateuse.sbs/roja524/extraplayer/50.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 2
 https://www.lnky.fun/live/live02
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 33
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 3
 https://www.lnky.fun/live/live05
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 34
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 4
 https://www.lnky.fun/live/live14
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 35
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 5
 https://www.lnky.fun/live/live23
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 36
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 6
 https://www.lnky.fun/live/live24
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 37
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 7
 https://www.lnky.fun/live/live36
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 38
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 8
 https://www.lnky.fun/live/live40
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 39
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 9
 https://www.lnky.fun/live/live43
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 40
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 10
 https://www.lnky.fun/live/live49
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 41
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 11
 https://www.lnky.fun/live/live51
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 42
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 12
 https://sebn.dad/141026/sebn-13.html
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 43
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 13
+https://nonstopservice.org/dz12/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 14
+https://wildgames.bz/2026/10/14/roma-vs-real-madrid/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 15
+https://9soccer.biz/R19/Ch1/47.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 16
+https://9soccer.biz/R19/Ch1/29.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 17
+https://9soccer.biz/R19/Ch1/4.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 18
 https://rsi.ch/sport/risultati/#/live/football/1852802
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 44
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 19
 https://www.virginmediatelevision.ie/player/live/virgin-media-two/
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 45
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 20
 https://www.rts.ch/sport/resultats/#/live/football/1852802
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 46
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 21
 https://www.srf.ch/sport/resultcenter/live/football/1852802
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 47
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 22
 https://sport.tvp.pl/95827857/as-roma-real-madryt-na-zywo-liga-mistrzow-2-kolejka-transmisja-w-tvp-1-i-tvpsportpl-14102026
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 48
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 23
 https://qazsporttv.kz/ru/live
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 49
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 24
 https://techusman.lol/roja-40/k4.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 50
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 25
 https://techusman.lol/roja-40/k47.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 51
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 26
 https://techusman.lol/roja-40/7.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 52
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 27
 https://techusman.lol/roja-40/k29.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 53
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 28
 https://techusman.lol/roja-40/6.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 54
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 29
 https://buff-streams.buzz/roja-4/k4.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 55
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 30
 https://buff-streams.buzz/roja-4/k47.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 56
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 31
 https://buff-streams.buzz/roja-4/7.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 57
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 32
 https://buff-streams.buzz/roja-4/k29.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 58
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 33
 https://buff-streams.buzz/roja-4/6.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 59
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 34
 https://pianoplays.biz/rrd3/lie/29.html
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 60
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 35
 https://pianoplays.biz/rrd3/lie/47.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 36
+https://shd247.world/live-go-streaming-23.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 37
+https://sportsinjection.group/zaee505/4.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 38
+https://wheelsports.lol/RJ33/tv/29.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 39
+https://wheelsports.lol/RJ33/tv/47.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 40
+https://ytstreams.club/YSports112/Nexa/29.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 41
+https://ytstreams.club/YSports112/Nexa/47.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 42
+https://forprivateuse.sbs/roja524/extraplayer/4.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 43
+https://forprivateuse.sbs/roja524/extraplayer/29.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Manchester City - Paris St. Germain", AR 44
+https://forprivateuse.sbs/roja524/extraplayer/47.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 1
 https://www.lnky.fun/live/live02
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 2
@@ -830,41 +1664,69 @@ https://www.lnky.fun/live/live51
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 11
 https://sebn.dad/141026/sebn-13.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 12
-https://rsi.ch/sport/risultati/#/live/football/1852802
+https://nonstopservice.org/dz12/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 13
-https://www.virginmediatelevision.ie/player/live/virgin-media-two/
+https://wildgames.bz/2026/10/14/roma-vs-real-madrid/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 14
-https://www.rts.ch/sport/resultats/#/live/football/1852802
+https://9soccer.biz/R19/Ch1/47.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 15
-https://www.srf.ch/sport/resultcenter/live/football/1852802
+https://9soccer.biz/R19/Ch1/29.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 16
-https://sport.tvp.pl/95827857/as-roma-real-madryt-na-zywo-liga-mistrzow-2-kolejka-transmisja-w-tvp-1-i-tvpsportpl-14102026
+https://9soccer.biz/R19/Ch1/4.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 17
-https://qazsporttv.kz/ru/live
+https://rsi.ch/sport/risultati/#/live/football/1852802
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 18
-https://techusman.lol/roja-40/k4.php
+https://www.virginmediatelevision.ie/player/live/virgin-media-two/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 19
-https://techusman.lol/roja-40/k47.php
+https://www.rts.ch/sport/resultats/#/live/football/1852802
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 20
-https://techusman.lol/roja-40/7.php
+https://www.srf.ch/sport/resultcenter/live/football/1852802
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 21
-https://techusman.lol/roja-40/k29.php
+https://sport.tvp.pl/95827857/as-roma-real-madryt-na-zywo-liga-mistrzow-2-kolejka-transmisja-w-tvp-1-i-tvpsportpl-14102026
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 22
-https://techusman.lol/roja-40/6.php
+https://qazsporttv.kz/ru/live
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 23
-https://buff-streams.buzz/roja-4/k4.php
+https://techusman.lol/roja-40/k4.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 24
-https://buff-streams.buzz/roja-4/k47.php
+https://techusman.lol/roja-40/k47.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 25
-https://buff-streams.buzz/roja-4/7.php
+https://techusman.lol/roja-40/7.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 26
-https://buff-streams.buzz/roja-4/k29.php
+https://techusman.lol/roja-40/k29.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 27
-https://buff-streams.buzz/roja-4/6.php
+https://techusman.lol/roja-40/6.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 28
-https://pianoplays.biz/rrd3/lie/29.html
+https://buff-streams.buzz/roja-4/k4.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 29
+https://buff-streams.buzz/roja-4/k47.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 30
+https://buff-streams.buzz/roja-4/7.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 31
+https://buff-streams.buzz/roja-4/k29.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 32
+https://buff-streams.buzz/roja-4/6.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 33
+https://pianoplays.biz/rrd3/lie/29.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 34
 https://pianoplays.biz/rrd3/lie/47.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 35
+https://shd247.world/live-go-streaming-23.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 36
+https://sportsinjection.group/zaee505/4.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 37
+https://wheelsports.lol/RJ33/tv/29.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 38
+https://wheelsports.lol/RJ33/tv/47.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 39
+https://ytstreams.club/YSports112/Nexa/29.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 40
+https://ytstreams.club/YSports112/Nexa/47.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 41
+https://forprivateuse.sbs/roja524/extraplayer/4.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 42
+https://forprivateuse.sbs/roja524/extraplayer/29.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", AR 43
+https://forprivateuse.sbs/roja524/extraplayer/47.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 1
 https://www.lnky.fun/live/live05
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", EN 1
@@ -885,9 +1747,19 @@ https://www.lnky.fun/live/live49
 https://www.lnky.fun/live/live51
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", EN 2
 https://sebn.dad/141026/sebn-13.html
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", IT 1
-https://rsi.ch/sport/risultati/#/live/football/1852802
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", EN 3
+https://nonstopservice.org/dz12/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", EN 4
+https://wildgames.bz/2026/10/14/roma-vs-real-madrid/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", IT 1
+https://9soccer.biz/R19/Ch1/47.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 5
+https://9soccer.biz/R19/Ch1/29.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", EN 5
+https://9soccer.biz/R19/Ch1/4.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", IT 2
+https://rsi.ch/sport/risultati/#/live/football/1852802
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", EN 6
 https://www.virginmediatelevision.ie/player/live/virgin-media-two/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", FR
 https://www.rts.ch/sport/resultats/#/live/football/1852802
@@ -897,54 +1769,92 @@ https://www.srf.ch/sport/resultcenter/live/football/1852802
 https://sport.tvp.pl/95827857/as-roma-real-madryt-na-zywo-liga-mistrzow-2-kolejka-transmisja-w-tvp-1-i-tvpsportpl-14102026
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ND 2
 https://qazsporttv.kz/ru/live
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", EN 4
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", EN 7
 https://techusman.lol/roja-40/k4.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", IT 2
-https://techusman.lol/roja-40/k47.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", IT 3
-https://techusman.lol/roja-40/7.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 5
-https://techusman.lol/roja-40/k29.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 6
-https://techusman.lol/roja-40/6.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", EN 5
-https://buff-streams.buzz/roja-4/k4.php
+https://techusman.lol/roja-40/k47.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", IT 4
-https://buff-streams.buzz/roja-4/k47.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", IT 5
-https://buff-streams.buzz/roja-4/7.php
+https://techusman.lol/roja-40/7.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 6
+https://techusman.lol/roja-40/k29.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 7
-https://buff-streams.buzz/roja-4/k29.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 8
-https://buff-streams.buzz/roja-4/6.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 9
-https://pianoplays.biz/rrd3/lie/29.html
+https://techusman.lol/roja-40/6.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", EN 8
+https://buff-streams.buzz/roja-4/k4.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", IT 5
+https://buff-streams.buzz/roja-4/k47.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", IT 6
-https://pianoplays.biz/rrd3/lie/47.html
+https://buff-streams.buzz/roja-4/7.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 8
+https://buff-streams.buzz/roja-4/k29.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 9
+https://buff-streams.buzz/roja-4/6.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 10
-https://www.lnky.fun/live/live09
+https://pianoplays.biz/rrd3/lie/29.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", IT 7
+https://pianoplays.biz/rrd3/lie/47.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", EN 9
+https://shd247.world/live-go-streaming-23.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", EN 10
+https://sportsinjection.group/zaee505/4.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 11
-https://www.lnky.fun/live/live30
+https://wheelsports.lol/RJ33/tv/29.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", IT 8
+https://wheelsports.lol/RJ33/tv/47.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 12
-https://www.lnky.fun/live/live31
+https://ytstreams.club/YSports112/Nexa/29.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", IT 9
+https://ytstreams.club/YSports112/Nexa/47.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", EN 11
+https://forprivateuse.sbs/roja524/extraplayer/4.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 13
-https://www.lnky.fun/live/live32
+https://forprivateuse.sbs/roja524/extraplayer/29.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", IT 10
+https://forprivateuse.sbs/roja524/extraplayer/47.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 14
-https://www.lnky.fun/live/live33
+https://www.lnky.fun/live/live09
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 15
-https://sebn.dad/141026/sebn-11.html
+https://www.lnky.fun/live/live30
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 16
-https://techusman.lol/roja-40/k8.php
+https://www.lnky.fun/live/live31
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 17
-https://techusman.lol/roja-40/k23.php
+https://www.lnky.fun/live/live32
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 18
-https://buff-streams.buzz/roja-4/k8.php
+https://www.lnky.fun/live/live33
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 19
-https://buff-streams.buzz/roja-4/k23.php
+https://sebn.dad/141026/sebn-11.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 20
-https://pianoplays.biz/rrd3/lie/8.html
+https://nonstopservice.org/dz16/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 21
+https://wildgames.bz/2026/10/14/shakhtar-donetsk-vs-aek-athens/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 22
+https://9soccer.biz/R19/Ch1/8.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 23
+https://9soccer.biz/R19/Ch1/23.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 24
+https://techusman.lol/roja-40/k8.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 25
+https://techusman.lol/roja-40/k23.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 26
+https://buff-streams.buzz/roja-4/k8.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 27
+https://buff-streams.buzz/roja-4/k23.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 28
+https://pianoplays.biz/rrd3/lie/8.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 29
 https://pianoplays.biz/rrd3/lie/23.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 30
+https://shd247.world/live-go-streaming-27.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 31
+https://sportsinjection.group/zaee505/8.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 32
+https://wheelsports.lol/RJ33/tv/8.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 33
+https://ytstreams.club/YSports112/Nexa/8.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 34
+https://forprivateuse.sbs/roja524/extraplayer/8.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Roma - Real Madrid", ES 35
+https://forprivateuse.sbs/roja524/extraplayer/23.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 1
 https://www.lnky.fun/live/live09
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 2
@@ -958,17 +1868,37 @@ https://www.lnky.fun/live/live33
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 6
 https://sebn.dad/141026/sebn-11.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 7
-https://techusman.lol/roja-40/k8.php
+https://nonstopservice.org/dz16/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 8
-https://techusman.lol/roja-40/k23.php
+https://wildgames.bz/2026/10/14/shakhtar-donetsk-vs-aek-athens/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 9
-https://buff-streams.buzz/roja-4/k8.php
+https://9soccer.biz/R19/Ch1/8.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 10
-https://buff-streams.buzz/roja-4/k23.php
+https://9soccer.biz/R19/Ch1/23.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 11
-https://pianoplays.biz/rrd3/lie/8.html
+https://techusman.lol/roja-40/k8.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 12
+https://techusman.lol/roja-40/k23.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 13
+https://buff-streams.buzz/roja-4/k8.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 14
+https://buff-streams.buzz/roja-4/k23.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 15
+https://pianoplays.biz/rrd3/lie/8.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 16
 https://pianoplays.biz/rrd3/lie/23.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 17
+https://shd247.world/live-go-streaming-27.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 18
+https://sportsinjection.group/zaee505/8.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 19
+https://wheelsports.lol/RJ33/tv/8.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 20
+https://ytstreams.club/YSports112/Nexa/8.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 21
+https://forprivateuse.sbs/roja524/extraplayer/8.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 22
+https://forprivateuse.sbs/roja524/extraplayer/23.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", EN 1
 https://www.lnky.fun/live/live30
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", DE
@@ -978,33 +1908,69 @@ https://www.lnky.fun/live/live32
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", EN 2
 https://sebn.dad/141026/sebn-11.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", EN 3
-https://techusman.lol/roja-40/k8.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ND 2
-https://techusman.lol/roja-40/k23.php
+https://nonstopservice.org/dz16/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", EN 4
-https://buff-streams.buzz/roja-4/k8.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ND 3
-https://buff-streams.buzz/roja-4/k23.php
+https://wildgames.bz/2026/10/14/shakhtar-donetsk-vs-aek-athens/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", EN 5
-https://pianoplays.biz/rrd3/lie/8.html
+https://9soccer.biz/R19/Ch1/8.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ND 2
+https://9soccer.biz/R19/Ch1/23.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", EN 6
+https://techusman.lol/roja-40/k8.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ND 3
+https://techusman.lol/roja-40/k23.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", EN 7
+https://buff-streams.buzz/roja-4/k8.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ND 4
+https://buff-streams.buzz/roja-4/k23.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", EN 8
+https://pianoplays.biz/rrd3/lie/8.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ND 5
 https://pianoplays.biz/rrd3/lie/23.html
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 13
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", PT
+https://shd247.world/live-go-streaming-27.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", EN 9
+https://sportsinjection.group/zaee505/8.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", EN 10
+https://wheelsports.lol/RJ33/tv/8.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", EN 11
+https://ytstreams.club/YSports112/Nexa/8.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", EN 12
+https://forprivateuse.sbs/roja524/extraplayer/8.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ND 6
+https://forprivateuse.sbs/roja524/extraplayer/23.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 23
 https://www.lnky.fun/live/live07
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 14
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 24
 https://www.lnky.fun/live/live28
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 15
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 25
 https://www.lnky.fun/live/live29
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 16
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 26
 https://www.lnky.fun/live/live34
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 17
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 27
 https://sebn.dad/141026/sebn-14.html
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 18
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 28
+https://nonstopservice.org/dz17/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 29
+https://wildgames.bz/2026/10/14/slovan-bratislava-vs-stuttgart/
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 30
+https://9soccer.biz/R19/Ch1/7.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 31
 https://techusman.lol/roja-40/k7.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 19
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 32
 https://buff-streams.buzz/roja-4/k7.php
-#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 20
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 33
 https://pianoplays.biz/rrd3/lie/7.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 34
+https://shd247.world/live-go-streaming-28.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 35
+https://sportsinjection.group/zaee505/7.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 36
+https://wheelsports.lol/RJ33/tv/7.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 37
+https://ytstreams.club/YSports112/Nexa/7.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Shakhtar - AEK", ES 38
+https://forprivateuse.sbs/roja524/extraplayer/7.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 1
 https://www.lnky.fun/live/live07
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 2
@@ -1016,11 +1982,27 @@ https://www.lnky.fun/live/live34
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 5
 https://sebn.dad/141026/sebn-14.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 6
-https://techusman.lol/roja-40/k7.php
+https://nonstopservice.org/dz17/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 7
-https://buff-streams.buzz/roja-4/k7.php
+https://wildgames.bz/2026/10/14/slovan-bratislava-vs-stuttgart/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 8
+https://9soccer.biz/R19/Ch1/7.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 9
+https://techusman.lol/roja-40/k7.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 10
+https://buff-streams.buzz/roja-4/k7.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 11
 https://pianoplays.biz/rrd3/lie/7.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 12
+https://shd247.world/live-go-streaming-28.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 13
+https://sportsinjection.group/zaee505/7.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 14
+https://wheelsports.lol/RJ33/tv/7.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 15
+https://ytstreams.club/YSports112/Nexa/7.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", ES 16
+https://forprivateuse.sbs/roja524/extraplayer/7.php
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", EN 1
 https://www.lnky.fun/live/live28
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", DE
@@ -1028,8 +2010,368 @@ https://www.lnky.fun/live/live29
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", EN 2
 https://sebn.dad/141026/sebn-14.html
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", EN 3
-https://techusman.lol/roja-40/k7.php
+https://nonstopservice.org/dz17/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", EN 4
-https://buff-streams.buzz/roja-4/k7.php
+https://wildgames.bz/2026/10/14/slovan-bratislava-vs-stuttgart/
 #EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", EN 5
+https://9soccer.biz/R19/Ch1/7.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", EN 6
+https://techusman.lol/roja-40/k7.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", EN 7
+https://buff-streams.buzz/roja-4/k7.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", EN 8
 https://pianoplays.biz/rrd3/lie/7.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", PT
+https://shd247.world/live-go-streaming-28.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", EN 9
+https://sportsinjection.group/zaee505/7.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", EN 10
+https://wheelsports.lol/RJ33/tv/7.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", EN 11
+https://ytstreams.club/YSports112/Nexa/7.html
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", EN 12
+https://forprivateuse.sbs/roja524/extraplayer/7.php
+#EXTINF:0 group-title="21:00 Calcio Calcio (UEFA Champions League): Slovan Bratislava - Stuttgart", AR
+https://snrtlive.ma/fr/al-aoula
+#EXTINF:0 group-title="22:00 Calcio Calcio (Morocco Botola Pro): IR Tanger - Maghreb Fez", AR
+https://snrtlive.ma/fr/al-aoula
+#EXTINF:0 group-title="22:00 Calcio Calcio (Morocco Botola Pro): IR Tanger - Maghreb Fez", EN 1
+https://wildgames.bz/2026/10/14/atletico-mineiro-vs-montevideo-city/
+#EXTINF:0 group-title="22:00 Calcio Calcio (Morocco Botola Pro): IR Tanger - Maghreb Fez", EN 2
+https://sebn.dad/141026/sebn-11.html
+#EXTINF:0 group-title="22:00 Calcio Calcio (Morocco Botola Pro): IR Tanger - Maghreb Fez", EN 3
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="22:00 Calcio Calcio (Morocco Botola Pro): IR Tanger - Maghreb Fez", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/19.php
+#EXTINF:0 group-title="00:00 Calcio Calcio (Copa Sudamericana): Atl. Mineiro - Torque", EN 1
+https://wildgames.bz/2026/10/14/atletico-mineiro-vs-montevideo-city/
+#EXTINF:0 group-title="00:00 Calcio Calcio (Copa Sudamericana): Atl. Mineiro - Torque", EN 2
+https://sebn.dad/141026/sebn-11.html
+#EXTINF:0 group-title="00:00 Calcio Calcio (Copa Sudamericana): Atl. Mineiro - Torque", EN 3
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="00:00 Calcio Calcio (Copa Sudamericana): Atl. Mineiro - Torque", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/19.php
+#EXTINF:0 group-title="00:00 Calcio Calcio (Copa Sudamericana): Atl. Mineiro - Torque", ES 1
+https://sebn.dad/141026/sebn-11.html
+#EXTINF:0 group-title="00:00 Calcio Calcio (Copa Sudamericana): Atl. Mineiro - Torque", PT
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="00:00 Calcio Calcio (Copa Sudamericana): Atl. Mineiro - Torque", DE
+https://forprivateuse.sbs/roja524/extraplayer/19.php
+#EXTINF:0 group-title="00:00 Calcio Calcio (Copa Sudamericana): Atl. Mineiro - Torque", ES 2
+https://www.chapintv.com/envivo-canal-3/
+#EXTINF:0 group-title="01:00 Calcio Calcio (Guatemala Liga Nacional): Comunicaciones - Aurora FC", ES
+https://www.chapintv.com/envivo-canal-3/
+#EXTINF:0 group-title="01:00 Calcio Calcio (Guatemala Liga Nacional): Comunicaciones - Aurora FC", EN 1
+https://sebn.dad/141026/sebn-14.html
+#EXTINF:0 group-title="01:00 Calcio Calcio (Guatemala Liga Nacional): Comunicaciones - Aurora FC", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/34.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Cincinnati - New England", EN 1
+https://sebn.dad/141026/sebn-14.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Cincinnati - New England", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/34.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Cincinnati - New England", EN 3
+https://sebn.dad/141026/sebn-15.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Cincinnati - New England", EN 4
+https://wildgames.bz/2026/10/14/columbus-crew-vs-charlotte-fc/
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Cincinnati - New England", EN 5
+https://forprivateuse.sbs/roja524/extraplayer/32.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Columbus Crew - Charlotte", EN 1
+https://sebn.dad/141026/sebn-15.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Columbus Crew - Charlotte", EN 2
+https://wildgames.bz/2026/10/14/columbus-crew-vs-charlotte-fc/
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Columbus Crew - Charlotte", EN 3
+https://forprivateuse.sbs/roja524/extraplayer/32.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Columbus Crew - Charlotte", EN 4
+https://sebn.dad/141026/sebn-16.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Columbus Crew - Charlotte", EN 5
+https://forprivateuse.sbs/roja524/extraplayer/33.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): DC United - New York RB", EN 1
+https://sebn.dad/141026/sebn-16.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): DC United - New York RB", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/33.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): DC United - New York RB", EN 3
+https://sebn.dad/141026/sebn-17.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): DC United - New York RB", EN 4
+https://pianoplays.biz/rrd3/lie/35.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): DC United - New York RB", EN 5
+https://wheelsports.lol/RJ33/tv/35.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): DC United - New York RB", EN 6
+https://ytstreams.club/YSports112/Nexa/35.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): DC United - New York RB", EN 7
+https://forprivateuse.sbs/roja524/extraplayer/35.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Inter Miami - New York City", EN 1
+https://sebn.dad/141026/sebn-17.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Inter Miami - New York City", EN 2
+https://pianoplays.biz/rrd3/lie/35.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Inter Miami - New York City", EN 3
+https://wheelsports.lol/RJ33/tv/35.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Inter Miami - New York City", EN 4
+https://ytstreams.club/YSports112/Nexa/35.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Inter Miami - New York City", EN 5
+https://forprivateuse.sbs/roja524/extraplayer/35.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Inter Miami - New York City", EN 6
+https://sebn.dad/141026/sebn-13.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Inter Miami - New York City", EN 7
+https://forprivateuse.sbs/roja524/extraplayer/31.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Montreal - Atlanta United", EN 1
+https://sebn.dad/141026/sebn-13.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Montreal - Atlanta United", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/31.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Montreal - Atlanta United", EN 3
+https://sebn.dad/141026/sebn-18.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Montreal - Atlanta United", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/36.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Toronto FC - Orlando City", EN 1
+https://sebn.dad/141026/sebn-18.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Toronto FC - Orlando City", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/36.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Toronto FC - Orlando City", EN 3
+https://sebn.dad/141026/sebn-24.html
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Toronto FC - Orlando City", EN 4
+https://wildgames.bz/2026/10/14/charlotte-hornets-vs-boston-celtics/
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Toronto FC - Orlando City", EN 5
+https://sportsinjection.group/zaee505/11.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Toronto FC - Orlando City", EN 6
+https://forprivateuse.sbs/roja524/extraplayer/2.php
+#EXTINF:0 group-title="01:30 Calcio Calcio (MLS): Toronto FC - Orlando City", EN 7
+https://vivtops.st/vivo1/?ch=11
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Celtics - Hornets", EN 1
+https://sebn.dad/141026/sebn-24.html
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Celtics - Hornets", EN 2
+https://wildgames.bz/2026/10/14/charlotte-hornets-vs-boston-celtics/
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Celtics - Hornets", EN 3
+https://sportsinjection.group/zaee505/11.php
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Celtics - Hornets", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/2.php
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Celtics - Hornets", EN 5
+https://vivtops.st/vivo1/?ch=11
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Celtics - Hornets", EN 6
+https://sebn.dad/141026/sebn-23.html
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Celtics - Hornets", EN 7
+https://wildgames.bz/2026/10/14/brooklyn-nets-vs-miami-heat/
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Celtics - Hornets", EN 8
+https://sportsinjection.group/zaee505/12.php
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Celtics - Hornets", EN 9
+https://forprivateuse.sbs/roja524/extraplayer/1.php
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Celtics - Hornets", EN 10
+https://vivtops.st/vivo1/?ch=12
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Heat - Nets", EN 1
+https://sebn.dad/141026/sebn-23.html
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Heat - Nets", EN 2
+https://wildgames.bz/2026/10/14/brooklyn-nets-vs-miami-heat/
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Heat - Nets", EN 3
+https://sportsinjection.group/zaee505/12.php
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Heat - Nets", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/1.php
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Heat - Nets", EN 5
+https://vivtops.st/vivo1/?ch=12
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Heat - Nets", EN 6
+https://sebn.dad/141026/sebn-29.html
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Heat - Nets", EN 7
+https://wildgames.bz/2026/10/14/montreal-canadiens-vs-washington-capitals/
+#EXTINF:0 group-title="01:30 Basket Basket (NBA): Heat - Nets", EN 8
+https://forprivateuse.sbs/roja524/extraplayer/7.php
+#EXTINF:0 group-title="01:30 Hockey su ghiaccio Hockey su ghiaccio (NHL): Capitals - Canadiens", EN 1
+https://sebn.dad/141026/sebn-29.html
+#EXTINF:0 group-title="01:30 Hockey su ghiaccio Hockey su ghiaccio (NHL): Capitals - Canadiens", EN 2
+https://wildgames.bz/2026/10/14/montreal-canadiens-vs-washington-capitals/
+#EXTINF:0 group-title="01:30 Hockey su ghiaccio Hockey su ghiaccio (NHL): Capitals - Canadiens", EN 3
+https://forprivateuse.sbs/roja524/extraplayer/7.php
+#EXTINF:0 group-title="01:30 Hockey su ghiaccio Hockey su ghiaccio (NHL): Capitals - Canadiens", EN 4
+https://sebn.dad/141026/sebn-26.html
+#EXTINF:0 group-title="01:30 Hockey su ghiaccio Hockey su ghiaccio (NHL): Capitals - Canadiens", EN 5
+https://wildgames.bz/2026/10/14/chicago-bulls-vs-milwaukee-bucks/
+#EXTINF:0 group-title="01:30 Hockey su ghiaccio Hockey su ghiaccio (NHL): Capitals - Canadiens", EN 6
+https://sportsinjection.group/zaee505/14.php
+#EXTINF:0 group-title="01:30 Hockey su ghiaccio Hockey su ghiaccio (NHL): Capitals - Canadiens", EN 7
+https://forprivateuse.sbs/roja524/extraplayer/4.php
+#EXTINF:0 group-title="01:30 Hockey su ghiaccio Hockey su ghiaccio (NHL): Capitals - Canadiens", EN 8
+https://vivtops.st/vivo1/?ch=14
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Bucks - Bulls", EN 1
+https://sebn.dad/141026/sebn-26.html
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Bucks - Bulls", EN 2
+https://wildgames.bz/2026/10/14/chicago-bulls-vs-milwaukee-bucks/
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Bucks - Bulls", EN 3
+https://sportsinjection.group/zaee505/14.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Bucks - Bulls", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/4.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Bucks - Bulls", EN 5
+https://vivtops.st/vivo1/?ch=14
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Bucks - Bulls", EN 6
+https://sebn.dad/141026/sebn-28.html
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Bucks - Bulls", EN 7
+https://wildgames.bz/2026/10/14/new-orleans-pelicans-vs-dallas-mavericks/
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Bucks - Bulls", EN 8
+https://sportsinjection.group/zaee505/13.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Bucks - Bulls", EN 9
+https://forprivateuse.sbs/roja524/extraplayer/3.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Bucks - Bulls", EN 10
+https://vivtops.st/vivo1/?ch=13
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Mavericks - Pelicans", EN 1
+https://sebn.dad/141026/sebn-28.html
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Mavericks - Pelicans", EN 2
+https://wildgames.bz/2026/10/14/new-orleans-pelicans-vs-dallas-mavericks/
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Mavericks - Pelicans", EN 3
+https://sportsinjection.group/zaee505/13.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Mavericks - Pelicans", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/3.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Mavericks - Pelicans", EN 5
+https://vivtops.st/vivo1/?ch=13
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Mavericks - Pelicans", EN 6
+https://sebn.dad/141026/sebn-27.html
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Mavericks - Pelicans", EN 7
+https://wildgames.bz/2026/10/14/phoenix-suns-vs-san-antonio-spurs/
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Mavericks - Pelicans", EN 8
+https://sportsinjection.group/zaee505/16.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Mavericks - Pelicans", EN 9
+https://forprivateuse.sbs/roja524/extraplayer/6.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Mavericks - Pelicans", EN 10
+https://vivtops.st/vivo1/?ch=16
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Spurs - Suns", EN 1
+https://sebn.dad/141026/sebn-27.html
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Spurs - Suns", EN 2
+https://wildgames.bz/2026/10/14/phoenix-suns-vs-san-antonio-spurs/
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Spurs - Suns", EN 3
+https://sportsinjection.group/zaee505/16.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Spurs - Suns", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/6.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Spurs - Suns", EN 5
+https://vivtops.st/vivo1/?ch=16
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Spurs - Suns", EN 6
+https://sebn.dad/141026/sebn-25.html
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Spurs - Suns", EN 7
+https://wildgames.bz/2026/10/14/detroit-pistons-vs-minnesota-timberwolves/
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Spurs - Suns", EN 8
+https://sportsinjection.group/zaee505/15.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Spurs - Suns", EN 9
+https://forprivateuse.sbs/roja524/extraplayer/5.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Timberwolves - Pistons", EN 1
+https://sebn.dad/141026/sebn-25.html
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Timberwolves - Pistons", EN 2
+https://wildgames.bz/2026/10/14/detroit-pistons-vs-minnesota-timberwolves/
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Timberwolves - Pistons", EN 3
+https://sportsinjection.group/zaee505/15.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Timberwolves - Pistons", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/5.php
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Timberwolves - Pistons", ES 1
+https://sebn.dad/141026/sebn-11.html
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Timberwolves - Pistons", ES 2
+https://www.youtube.com/watch?v=T0ay3NtWYEc
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Timberwolves - Pistons", ES 3
+https://wildgames.bz/2026/10/14/fluminense-vs-palmeiras/
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Timberwolves - Pistons", ES 4
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="02:00 Basket Basket (NBA): Timberwolves - Pistons", ES 5
+https://forprivateuse.sbs/roja524/extraplayer/19.php
+#EXTINF:0 group-title="02:30 Calcio Calcio (Copa Libertadores): Fluminense - Palmeiras", ES 1
+https://sebn.dad/141026/sebn-11.html
+#EXTINF:0 group-title="02:30 Calcio Calcio (Copa Libertadores): Fluminense - Palmeiras", ES 2
+https://www.youtube.com/watch?v=T0ay3NtWYEc
+#EXTINF:0 group-title="02:30 Calcio Calcio (Copa Libertadores): Fluminense - Palmeiras", ES 3
+https://wildgames.bz/2026/10/14/fluminense-vs-palmeiras/
+#EXTINF:0 group-title="02:30 Calcio Calcio (Copa Libertadores): Fluminense - Palmeiras", ES 4
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="02:30 Calcio Calcio (Copa Libertadores): Fluminense - Palmeiras", ES 5
+https://forprivateuse.sbs/roja524/extraplayer/19.php
+#EXTINF:0 group-title="02:30 Calcio Calcio (Copa Libertadores): Fluminense - Palmeiras", PT 1
+https://www.youtube.com/watch?v=T0ay3NtWYEc
+#EXTINF:0 group-title="02:30 Calcio Calcio (Copa Libertadores): Fluminense - Palmeiras", EN 1
+https://wildgames.bz/2026/10/14/fluminense-vs-palmeiras/
+#EXTINF:0 group-title="02:30 Calcio Calcio (Copa Libertadores): Fluminense - Palmeiras", PT 2
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="02:30 Calcio Calcio (Copa Libertadores): Fluminense - Palmeiras", DE
+https://forprivateuse.sbs/roja524/extraplayer/19.php
+#EXTINF:0 group-title="02:30 Calcio Calcio (Copa Libertadores): Fluminense - Palmeiras", EN 2
+https://sebn.dad/141026/sebn-19.html
+#EXTINF:0 group-title="02:30 Calcio Calcio (Copa Libertadores): Fluminense - Palmeiras", EN 3
+https://forprivateuse.sbs/roja524/extraplayer/37.php
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): Chicago Fire - Philadelphia Union", EN 1
+https://sebn.dad/141026/sebn-19.html
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): Chicago Fire - Philadelphia Union", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/37.php
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): Chicago Fire - Philadelphia Union", EN 3
+https://sebn.dad/141026/sebn-20.html
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): Chicago Fire - Philadelphia Union", EN 4
+https://wildgames.bz/2026/10/14/fc-dallas-vs-seattle-sounders/
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): Chicago Fire - Philadelphia Union", EN 5
+https://forprivateuse.sbs/roja524/extraplayer/38.php
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): FC Dallas - Seattle Sounders", EN 1
+https://sebn.dad/141026/sebn-20.html
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): FC Dallas - Seattle Sounders", EN 2
+https://wildgames.bz/2026/10/14/fc-dallas-vs-seattle-sounders/
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): FC Dallas - Seattle Sounders", EN 3
+https://forprivateuse.sbs/roja524/extraplayer/38.php
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): FC Dallas - Seattle Sounders", EN 4
+https://sebn.dad/141026/sebn-21.html
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): FC Dallas - Seattle Sounders", EN 5
+https://forprivateuse.sbs/roja524/extraplayer/39.php
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): Nashville - Sporting KC", EN 1
+https://sebn.dad/141026/sebn-21.html
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): Nashville - Sporting KC", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/39.php
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): Nashville - Sporting KC", EN 3
+https://sebn.dad/141026/sebn-22.html
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): Nashville - Sporting KC", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/40.php
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): St. Louis City - Vancouver Whitecaps", EN 1
+https://sebn.dad/141026/sebn-22.html
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): St. Louis City - Vancouver Whitecaps", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/40.php
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): St. Louis City - Vancouver Whitecaps", ES
+https://forprivateuse.sbs/roja524/extraplayer/40.php
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): St. Louis City - Vancouver Whitecaps", EN 3
+https://sebn.dad/141026/sebn-30.html
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): St. Louis City - Vancouver Whitecaps", EN 4
+https://wildgames.bz/2026/10/14/dallas-stars-vs-colorado-avalanche/
+#EXTINF:0 group-title="02:30 Calcio Calcio (MLS): St. Louis City - Vancouver Whitecaps", EN 5
+https://forprivateuse.sbs/roja524/extraplayer/8.php
+#EXTINF:0 group-title="02:30 Hockey su ghiaccio Hockey su ghiaccio (NHL): Avalanche - Stars", EN 1
+https://sebn.dad/141026/sebn-30.html
+#EXTINF:0 group-title="02:30 Hockey su ghiaccio Hockey su ghiaccio (NHL): Avalanche - Stars", EN 2
+https://wildgames.bz/2026/10/14/dallas-stars-vs-colorado-avalanche/
+#EXTINF:0 group-title="02:30 Hockey su ghiaccio Hockey su ghiaccio (NHL): Avalanche - Stars", EN 3
+https://forprivateuse.sbs/roja524/extraplayer/8.php
+#EXTINF:0 group-title="02:30 Hockey su ghiaccio Hockey su ghiaccio (NHL): Avalanche - Stars", ES
+https://play.tvaztecaguate.com/home
+#EXTINF:0 group-title="03:00 Calcio Calcio (Guatemala Liga Nacional): Guastatoya - Antigua", ES
+https://play.tvaztecaguate.com/home
+#EXTINF:0 group-title="03:00 Calcio Calcio (Guatemala Liga Nacional): Guastatoya - Antigua", EN 1
+https://sebn.dad/141026/sebn-13.html
+#EXTINF:0 group-title="03:00 Calcio Calcio (Guatemala Liga Nacional): Guastatoya - Antigua", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/31.php
+#EXTINF:0 group-title="03:30 Calcio Calcio (MLS): Colorado Rapids - Minnesota United", EN 1
+https://sebn.dad/141026/sebn-13.html
+#EXTINF:0 group-title="03:30 Calcio Calcio (MLS): Colorado Rapids - Minnesota United", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/31.php
+#EXTINF:0 group-title="03:30 Calcio Calcio (MLS): Colorado Rapids - Minnesota United", EN 3
+https://sebn.dad/141026/sebn-14.html
+#EXTINF:0 group-title="03:30 Calcio Calcio (MLS): Colorado Rapids - Minnesota United", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/32.php
+#EXTINF:0 group-title="03:30 Calcio Calcio (MLS): Real Salt Lake - SJ Earthquakes", EN 1
+https://sebn.dad/141026/sebn-14.html
+#EXTINF:0 group-title="03:30 Calcio Calcio (MLS): Real Salt Lake - SJ Earthquakes", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/32.php
+#EXTINF:0 group-title="03:30 Calcio Calcio (MLS): Real Salt Lake - SJ Earthquakes", EN 3
+https://sebn.dad/141026/sebn-15.html
+#EXTINF:0 group-title="03:30 Calcio Calcio (MLS): Real Salt Lake - SJ Earthquakes", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/33.php
+#EXTINF:0 group-title="04:30 Calcio Calcio (MLS): Los Angeles FC - Austin", EN 1
+https://sebn.dad/141026/sebn-15.html
+#EXTINF:0 group-title="04:30 Calcio Calcio (MLS): Los Angeles FC - Austin", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/33.php
+#EXTINF:0 group-title="04:30 Calcio Calcio (MLS): Los Angeles FC - Austin", EN 3
+https://sebn.dad/141026/sebn-16.html
+#EXTINF:0 group-title="04:30 Calcio Calcio (MLS): Los Angeles FC - Austin", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/34.php
+#EXTINF:0 group-title="04:30 Calcio Calcio (MLS): Los Angeles Galaxy - Portland Timbers", EN 1
+https://sebn.dad/141026/sebn-16.html
+#EXTINF:0 group-title="04:30 Calcio Calcio (MLS): Los Angeles Galaxy - Portland Timbers", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/34.php
+#EXTINF:0 group-title="04:30 Calcio Calcio (MLS): Los Angeles Galaxy - Portland Timbers", EN 3
+https://sebn.dad/141026/sebn-17.html
+#EXTINF:0 group-title="04:30 Calcio Calcio (MLS): Los Angeles Galaxy - Portland Timbers", EN 4
+https://forprivateuse.sbs/roja524/extraplayer/35.php
+#EXTINF:0 group-title="04:30 Calcio Calcio (MLS): San Diego - Houston Dynamo", EN 1
+https://sebn.dad/141026/sebn-17.html
+#EXTINF:0 group-title="04:30 Calcio Calcio (MLS): San Diego - Houston Dynamo", EN 2
+https://forprivateuse.sbs/roja524/extraplayer/35.php
