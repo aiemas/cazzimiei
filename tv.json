@@ -1,5 +1,54 @@
 [
   {
+    "tmdb_id": 213375,
+    "imdb_id": "tt23112594",
+    "recent_until": 1792139643301,
+    "type": "tv",
+    "title": "VisionQuest",
+    "original_title": "VisionQuest",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tcNNmG5ZCsLW0lT0Lkbo0mK9Mf1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "rating": 9.6,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Con una taglia sulla sua testa, Visione deve confrontarsi con la sua vera natura e resistere all'influenza di Ultron per sopravvivere.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 335536,
+    "imdb_id": "tt35051210",
+    "recent_until": 1792139643489,
+    "type": "tv",
+    "title": "TYSON",
+    "original_title": "TYSON",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Questa avvincente docuserie in quattro parti ripercorre la turbolenta vita di Mike Tyson, una delle figure più temute e affascinanti della storia dello sport.",
+    "genres": [
+      "Documentario"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 4
+      }
+    ]
+  },
+  {
     "tmdb_id": 60948,
     "imdb_id": "tt3148266",
     "recent_until": 1792059728520,

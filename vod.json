@@ -1,5 +1,78 @@
 [
   {
+    "tmdb_id": 1140724,
+    "imdb_id": "tt28303826",
+    "recent_until": 1792139641158,
+    "pegi": "",
+    "runtime": 96,
+    "title": "We Have a Dream",
+    "original_title": "We Have a Dream",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/pAzq7Axtgbo1gUknBp85rFwkmC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mUoQmNHY9TOoXuysdrooiYPZh6q.jpg",
+    "rating": 7.8,
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1302904,
+    "imdb_id": "tt32588798",
+    "recent_until": 1792139641343,
+    "pegi": "T",
+    "runtime": 130,
+    "title": "Amori & incantesimi 2",
+    "original_title": "Practical Magic 2",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/fj4qveRGXSBTGBJHVSZfILDafOJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+    "rating": 6.3,
+    "overview": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l’oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all’insegna di divertimento, magia e caos.",
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1498729,
+    "imdb_id": "tt37107071",
+    "recent_until": 1792139641522,
+    "pegi": "",
+    "runtime": 121,
+    "title": "Brunello - Il visionario garbato",
+    "original_title": "Brunello - Il visionario garbato",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/kpnsAPMYzLxDPNv4yIxACCWQ6qg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AfdVZEhR5y0oLaC1pDgFNecn8fw.jpg",
+    "rating": 6.071,
+    "overview": "Un film documentario sulla vita e le opere di Brunello Cucinelli, stilista e imprenditore italiano, fondatore dell'omonima azienda conosciuta a livello globale.",
+    "genres": [
+      "Documentario",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 9517,
+    "imdb_id": "tt0242193",
+    "recent_until": 1792139641788,
+    "pegi": "",
+    "runtime": 106,
+    "title": "Bully",
+    "original_title": "Bully",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/w500/vMJ2WHBbK4Jr3eDuF1e7O6lbC8m.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vy13Ak7IQDzfwz4aMsjiTGfVUYb.jpg",
+    "rating": 6.7,
+    "overview": "Un branco di adolescenti ingenui cospira per uccidere un amico comune, il cui comportamento aggressivo si è rivelato eccessivo.",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 48941,
     "imdb_id": "tt0214265",
     "recent_until": 1792059725960,
