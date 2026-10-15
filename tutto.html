@@ -5,24 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>I miei Link</title>
     <style>
-        /* Sfondo moderno con sfumatura sfumata e scura */
+        /* Sfondo scuro statico e moderno (senza animazioni pesanti per la GPU) */
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             text-align: center;
-            background: linear-gradient(-45deg, #141e30, #243b55, #0f2027);
-            background-size: 400% 400%;
-            animation: gradientBG 15s ease infinite;
+            background: #101726; /* Colore solido e leggero da renderizzare */
             color: #ffffff;
             padding: 50px 20px;
             margin: 0;
             min-height: 100vh;
-        }
-
-        /* Animazione per rendere lo sfondo dinamico */
-        @keyframes gradientBG {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
         }
 
         h1 {
@@ -41,39 +32,37 @@
         /* Contenitore per allineare i bottoni uno accanto all'altro */
         .contenitore-bottoni {
             display: flex;
-            flex-wrap: wrap;       /* Fa andare a capo i bottoni se non c'è spazio */
-            justify-content: center; /* Centra i bottoni nello schermo */
-            gap: 15px;             /* Spazio tra un bottone e l'altro */
+            flex-wrap: wrap;       
+            justify-content: center; 
+            gap: 15px;             
             max-width: 1100px;
             margin: 0 auto;
         }
 
-        /* Stile dei bottoni */
+        /* Stile dei bottoni ottimizzato (rimosso il "backdrop-filter" che rallentava tutto) */
         .bottone {
             display: inline-block;
             width: 200px;
             padding: 15px;
-            background: rgba(255, 255, 255, 0.1); /* Effetto vetro semi-trasparente */
+            background: rgba(255, 255, 255, 0.08); /* Semplice colore semi-trasparente, leggerissimo */
             color: white;
             text-decoration: none;
             font-weight: bold;
             letter-spacing: 1px;
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            border-radius: 12px; /* Angoli più arrotondati */
-            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-            transition: all 0.3s ease;
-            backdrop-filter: blur(5px); /* Sfocatura posteriore effetto iOS */
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 12px; 
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease; /* Transizioni più veloci */
             white-space: nowrap;
             overflow: hidden;
-            text-overflow: ellipsis; /* Evita che testi lunghi escano dal bottone */
+            text-overflow: ellipsis; 
         }
 
-        /* Effetto quando si passa sopra con il mouse o con il focus del telecomando */
+        /* Effetto hover/focus ultra-fluido (rimosse le ombre pesanti e sfumate) */
         .bottone:hover, .bottone:focus {
-            background: #007bff; /* Si illumina di blu */
+            background: #007bff; 
             border-color: #007bff;
-            transform: translateY(-3px); /* Piccola spinta verso l'alto */
-            box-shadow: 0 6px 20px rgba(0, 123, 255, 0.4);
+            transform: translateY(-2px); 
             outline: none;
         }
     </style>
@@ -84,32 +73,31 @@
     <p>Clicca sui pulsanti per visitare i siti:</p>
 
     <div class="contenitore-bottoni">
-        <!-- Rimosso target="_blank" per ottimizzare l'apertura su GeckoView/Smart TV -->
-        <a href="https://topstream.help/" class="bottone">TOPSTREAM</a>
-        <a href="https://zlive.st/" class="bottone">ZLIVE</a>
-        <a href="https://streamcorner.st/" class="bottone">STREAMCORNER</a>
-        <a href="https://dlive.sx/" class="bottone">DADDY</a>
-        <a href="https://ppv.tj/" class="bottone">PPV</a>
-        <a href="https://totalsporteke.is/" class="bottone">TOTALSPORTEK</a>
-        <a href="https://www.footybite.page/" class="bottone">FOOTYBITE</a>
-        <a href="https://soccerstreamsz.app/" class="bottone">SOCCERSTREAMZ</a>
-        <a href="https://ntv.cx/" class="bottone">NTV</a>
-        <a href="http://it.rojadirecta.eu/" class="bottone">ROJA</a>
-        <a href="https://aiemas.github.io/miaf/index.html#grid" class="bottone">FILM & SERIE</a>
-        <a href="https://sportsindx.st/new" class="bottone">SPORTSINDX</a>
-        <a href="https://www.fctv33.io/it" class="bottone">FCTV33</a>
+        <a href="https://topstream.help" class="bottone">TOPSTREAM</a>
+        <a href="https://zlive.st" class="bottone">ZLIVE</a>
+        <a href="https://streamcorner.st" class="bottone">STREAMCORNER</a>
+        <a href="https://dlive.sx" class="bottone">DADDY</a>
+        <a href="https://ppv.tj" class="bottone">PPV</a>
+        <a href="https://totalsporteke.is" class="bottone">TOTALSPORTEK</a>
+        <a href="https://footybite.page" class="bottone">FOOTYBITE</a>
+        <a href="https://soccerstreamsz.app" class="bottone">SOCCERSTREAMZ</a>
+        <a href="https://ntv.cx" class="bottone">NTV</a>
+        <a href="http://rojadirecta.eu" class="bottone">ROJA</a>
+        <a href="https://github.io" class="bottone">FILM & SERIE</a>
+        <a href="https://sportsindx.st" class="bottone">SPORTSINDX</a>
+        <a href="https://fctv33.io" class="bottone">FCTV33</a>
         <a href="https://vavoo.to" class="bottone">VAVOO</a>
-        <a href="https://www.istreameast.com.co/" class="bottone">STREAMEAST</a>
+        <a href="https://istreameast.com.co" class="bottone">STREAMEAST</a>
         <a href="https://falconstreams.st" class="bottone">FALCONSTREAMS</a>
-        <a href="https://cinevid.st/" class="bottone">CINEVID</a>
-        <a href="https://livelive24.com/" class="bottone">LIVE24</a>
-        <a href="https://www.1tube.org/" class="bottone">1TUBE</a>
-        <a href="https://www.90minutes.pro/" class="bottone">90MINUTES</a>
-        <a href="https://app-lgwebos.pluto.tv/live-tv" class="bottone">PLUTO</a>
-        <a href="https://iptv.watchott.org/" class="bottone">WATCHOTT</a>
-        <a href="https://xyzstreams.st/" class="bottone">XYZSTREAMS</a>
-        <a href="https://tvnow247.top/" class="bottone">TVNOW247</a>
-        <a href="https://www.rivestream.app/iptv" class="bottone">RIVEIPTV</a>
+        <a href="https://cinevid.st" class="bottone">CINEVID</a>
+        <a href="https://livelive24.com" class="bottone">LIVE24</a>
+        <a href="https://1tube.org" class="bottone">1TUBE</a>
+        <a href="https://90minutes.pro" class="bottone">90MINUTES</a>
+        <a href="https://pluto.tv" class="bottone">PLUTO</a>
+        <a href="https://watchott.org" class="bottone">WATCHOTT</a>
+        <a href="https://xyzstreams.st" class="bottone">XYZSTREAMS</a>
+        <a href="https://tvnow247.top" class="bottone">TVNOW247</a>
+        <a href="https://rivestream.app" class="bottone">RIVEIPTV</a>
     </div>
 
 </body>
