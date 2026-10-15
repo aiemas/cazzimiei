@@ -1,5 +1,53 @@
 [
   {
+    "tmdb_id": 336418,
+    "imdb_id": "tt46683025",
+    "recent_until": 1792224565841,
+    "type": "tv",
+    "title": "I Delitti del Cimitero degli Animali: Storia di un fantasma",
+    "original_title": "The Pet Cemetery Murders: A Ghost Story",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
+    "rating": 5.5,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Un poliziotto di New Orleans cerca di risolvere il misterioso omicidio del proprietario di un cimitero per animali.",
+    "genres": [
+      "Documentario"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
+    "tmdb_id": 308767,
+    "imdb_id": "tt39086382",
+    "recent_until": 1792224566130,
+    "type": "tv",
+    "title": "Handsome Devil: Charming Killer",
+    "original_title": "Handsome Devil: Charming Killer",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/eMYeeDy7xj22JnatwxVT8wHTujI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/efnSVhQpy5f13J7FroqKPLLDW77.jpg",
+    "rating": 7.8,
+    "pegi": "",
+    "runtime": 48,
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
     "tmdb_id": 213375,
     "imdb_id": "tt23112594",
     "recent_until": 1792139643301,

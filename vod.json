@@ -1,5 +1,97 @@
 [
   {
+    "tmdb_id": 15036,
+    "imdb_id": "tt1158936",
+    "recent_until": 1792224563632,
+    "pegi": "",
+    "runtime": 111,
+    "title": "Verso l'eden",
+    "original_title": "Eden à l'ouest",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/klPgABBKW6eag9BFh7FLe14Wx3C.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kvc7XErRfXsMXGYFZp6NLrVnQAF.jpg",
+    "rating": 6.2,
+    "overview": "Elias è un giovane clandestino che si getta a mare nel momento in cui le motovedette della guardia costiera greca stanno per catturarlo. Approda sulla spiaggia dell'Eden, un villaggio di vacanze per turisti ricchi. Trovati degli abiti da inserviente viene scambiato per tale e richiesto di prestazioni. Le quali sono lavorative (facchino, idraulico) ma anche sessuali (sia da parte del capo del personale che di una vacanziera tedesca con famiglia ad Amburgo). Costretto a fuggire se non vuole essere arrestato ha una meta precisa: Parigi. Un mago prestigiatore, con cui ha dovuto collaborare per uno spettacolo di intrattenimento per gli ospiti, gli ha detto di andarlo a trovare al Lido.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1381078,
+    "imdb_id": "tt34384900",
+    "recent_until": 1792224563808,
+    "pegi": "",
+    "runtime": 109,
+    "title": "L'amore della tua vita",
+    "original_title": "Love of Your Life",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/z10uWG4eeuDk72IcQe3niXsQCik.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
+    "rating": 6.6,
+    "overview": "L'amore della tua vita segue Maya (Margaret Qualley), il cui incontro casuale con Charlie (Gabriel Basso) dà inizio a un amore travolgente e a un futuro impensabile. Quando quel futuro viene sconvolto, Maya si ritrova catapultata in una nuova vita, che la costringe a confrontarsi con chi è, con cosa vuole e con la possibilità di amare di nuovo.",
+    "genres": [
+      "Romance",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1477836,
+    "imdb_id": "tt36841098",
+    "recent_until": 1792224563991,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Discesa negli inferi",
+    "original_title": "Bone Keeper",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/fTUloMRssypzehEwNBjVegvCLTy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pDNW39lh6aqjUca3otNjaITLYBp.jpg",
+    "rating": 4.948,
+    "overview": "Nel Galles, Olivia, insieme a degli amici, scende nelle grotte sulle tracce della madre e nonno scomparsi. Ma nelle tenebre i cunicoli si stringono, i segnali si interrompono, l'umidità appanna la mente. Tra graffiti, ossa di epoche diverse e stanze di roccia che sembrano respirare, il gruppo capisce di non essere solo.",
+    "genres": [
+      "Horror",
+      "Avventura",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 880067,
+    "imdb_id": "tt15532464",
+    "recent_until": 1792224564178,
+    "pegi": "",
+    "runtime": 119,
+    "title": "Strung",
+    "original_title": "Strung",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3yQV8aUxMYeSCVF6R5Q6xcaMZsl.jpg",
+    "rating": 7.626,
+    "overview": "",
+    "genres": [
+      "Mistero",
+      "Thriller",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 12651,
+    "imdb_id": "tt0100133",
+    "recent_until": 1792224564374,
+    "pegi": "",
+    "runtime": 107,
+    "title": "Memphis Belle",
+    "original_title": "Memphis Belle",
+    "year": "1990",
+    "poster": "https://image.tmdb.org/t/p/w500/oq0GORauCREnV2PCbPPFLJ01Zap.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8kVhN0OC5AmdHJJ1BxKCakZhvQO.jpg",
+    "rating": 6.8,
+    "overview": "Nel maggio 1943, da una base aerea in Inghilterra, si leva in volo per la sua venticinquesima missione un bombardiere B-17, battezzato con il nome di \"Memphis Belle\". La fortezza volante è condotta da un equipaggio di nove componenti: nove aviatori dai caratteri e dagli ideali personali non proprio omogenei. La missione risulta durissima, sia per le cattive condizioni atmosferiche, sia per gli attacchi aerei tedeschi e per l'azione della contraerea.",
+    "genres": [
+      "Dramma",
+      "Guerra",
+      "Azione"
+    ]
+  },
+  {
     "tmdb_id": 1140724,
     "imdb_id": "tt28303826",
     "recent_until": 1792139641158,
