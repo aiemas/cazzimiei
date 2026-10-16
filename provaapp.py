@@ -1103,21 +1103,47 @@ for item in vavoo_items:
     # SALVA CANALE
     # --------------------------------------------------------
 
-    if (
-        channel_id
-        and
-        channel_name
-    ):
+        # --------------------------------------------------------
+    # RISOLVI URL STREAMING VAVOO
+    # --------------------------------------------------------
+
+    if channel_id and channel_name:
 
         nome_normalizzato = normalizza_nome_vavoo(channel_name)
-        vavoo.append({
-            "name": channel_name,
-            "id": channel_id,
-            "watch_url": watch_url,
-            "logo": VAVOO_LOGHI.get(nome_normalizzato, "")
-        })
+        watch_url = ""
 
-        vavoo_filtrati += 1
+        try:
+            response = requests.get(
+                "https://vavoo.to/live/resolve",
+                params={
+                    "region": "IT",
+                    "language": "it",
+                    "url": item.get("url", "")
+                },
+                timeout=20
+            )
+
+            response.raise_for_status()
+            dati_resolve = response.json()
+            watch_url = dati_resolve.get("url", "")
+
+            if not watch_url:
+                raise ValueError("URL streaming assente nella risposta")
+
+            vavoo.append({
+                "name": channel_name,
+                "id": channel_id,
+                "watch_url": watch_url,
+                "logo": VAVOO_LOGHI.get(nome_normalizzato, "")
+            })
+
+            vavoo_filtrati += 1
+
+        except Exception as e:
+            print(
+                f"[ERRORE RESOLVE] {channel_name} "
+                f"(ID: {channel_id}): {e}"
+            )
 
 
 # ============================================================
