@@ -996,6 +996,40 @@ vavoo_items = vavoo_data.get(
 )
 
 
+from urllib.parse import urlencode
+
+print("\nTEST RISOLUZIONE VAVOO")
+
+test_url = "https://vavoo.to/live/resolve"
+
+params = {
+    "region": "IT",
+    "language": "it",
+    "url": "https://vavoo.to/live/play/3812796171"
+}
+
+try:
+    r = requests.get(
+        test_url,
+        params=params,
+        headers={
+            "User-Agent": "Mozilla/5.0",
+            "Accept": "application/json, */*",
+            "Referer": "https://vavoo.to/"
+        },
+        timeout=20
+    )
+
+    print("STATUS:", r.status_code)
+    print("URL FINALE:", r.url)
+    print("CONTENT-TYPE:", r.headers.get("content-type"))
+    print("BODY:", repr(r.text[:1000]))
+
+except Exception as e:
+    print("ERRORE:", repr(e))
+
+
+
 print()
 print("Canali VAVOO trovati:", len(vavoo_items))
 print()
