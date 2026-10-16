@@ -1130,11 +1130,19 @@ for item in vavoo_items:
             if not watch_url:
                 raise ValueError("URL streaming assente nella risposta")
 
+            if logo_vavoo and logo_vavoo.startswith("/"):
+                logo_vavoo = "https://vavoo.to" + logo_vavoo
+
+            logo_finale = (
+                logo_vavoo
+                or VAVOO_LOGHI.get(nome_normalizzato, "")
+            )
+
             vavoo.append({
                 "name": channel_name,
                 "id": channel_id,
                 "watch_url": watch_url,
-                "logo": VAVOO_LOGHI.get(nome_normalizzato, "")
+                "logo": logo_finale
             })
 
             vavoo_filtrati += 1
