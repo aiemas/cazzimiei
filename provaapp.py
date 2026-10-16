@@ -1130,6 +1130,9 @@ for item in vavoo_items:
             if not watch_url:
                 raise ValueError("URL streaming assente nella risposta")
 
+            immagini = item.get("images", {})
+            logo_vavoo = immagini.get("logo", "")
+
             if logo_vavoo and logo_vavoo.startswith("/"):
                 logo_vavoo = "https://vavoo.to" + logo_vavoo
 
