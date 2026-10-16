@@ -486,7 +486,7 @@ print("SCARICAMENTO CANALI VAVOO ITALIA...")
 print("==========================================")
 
 VAVOO_PING_URL = "https://www.vavoo.tv/api/app/ping"
-VAVOO_CATALOG_URL = "https://vavoo.to/mediahubmx-catalog.json"
+VAVOO_CATALOG_URL = "https://vavoo.to/live/catalog/live/channels.json?region=IT&language=it&sort=trending&filter%5Bgroup%5D=Italy"
 
 VAVOO_HEADERS = {
     "User-Agent": "MediaHubMX/2",
@@ -496,74 +496,52 @@ VAVOO_HEADERS = {
     "Accept-Encoding": "gzip, deflate",
 }
 
+
 try:
 
-    # -------------------------------------------------
-    # 1) OTTIENI LA FIRMA VAVOO
-    # -------------------------------------------------
+    print("Scaricamento catalogo VAVOO...")
 
-    ping_payload = {
-        "appFocusTime": 0,
-        "playerActive": False,
-        "playDuration": 0,
-        "devMode": False,
-        "hasAddon": True,
-        "castConnected": False,
-        "package": "tv.vavoo.app",
-        "version": "3.1.8",
-        "process": "app",
-        "firstAppStart": 0,
-        "lastAppStart": 0,
-        "ipLocation": None,
-        "adblockEnabled": True,
-        "proxy": {
-            "supported": ["ss"],
-            "engine": "Mu",
-            "enabled": False,
-            "autoServer": True
+    catalog_response = requests.get(
+        VAVOO_CATALOG_URL,
+        headers={
+            "User-Agent": "Mozilla/5.0",
+            "Accept": "application/json, */*",
+            "Accept-Language": "it",
         },
-        "iap": {
-            "supported": False
-        }
-    }
-
-    print("Richiesta addonSig...")
-
-    ping_response = requests.post(
-        VAVOO_PING_URL,
-        headers=VAVOO_HEADERS,
-        json=ping_payload,
         timeout=30
     )
 
-    ping_response.raise_for_status()
+    catalog_response.raise_for_status()
+    catalog_data = catalog_response.json()
 
-    ping_data = ping_response.json()
+    if isinstance(catalog_data, list):
+        items = catalog_data
+    elif isinstance(catalog_data, dict):
+        items = catalog_data.get("items", [])
+        if not items:
+            items = catalog_data.get("channels", [])
+        if not items and isinstance(catalog_data.get("data"), list):
+            items = catalog_data["data"]
+    else:
+        items = []
 
-    addon_sig = ping_data.get("addonSig")
+    vavoo_data = {"items": items}
 
-    if not addon_sig:
-        raise Exception(
-            "VAVOO non ha restituito addonSig: "
-            + str(ping_data)
-        )
+    print("Canali ricevuti:", len(items))
 
-    print("addonSig ottenuta.")
+    if not items:
+        print("Chiavi ricevute:",
+              list(catalog_data.keys())
+              if isinstance(catalog_data, dict)
+              else type(catalog_data).__name__)
 
-    # -------------------------------------------------
-    # 2) RICHIESTA CATALOGO
-    # -------------------------------------------------
+except Exception as e:
 
-    catalog_headers = {
-        "User-Agent": "MediaHubMX/2",
-        "Accept": "*/*",
-        "Content-Type": "application/json; charset=utf-8",
-        "Accept-Language": "de",
-        "Accept-Encoding": "gzip, deflate",
-        "mediahubmx-signature": addon_sig,
-    }
+    print()
+    print("ERRORE durante il download dei canali VAVOO:")
+    print(e)
 
-    vavoo_data = {
+    vavoo_data = {}
         "items": []
     }
 
