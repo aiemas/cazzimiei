@@ -1,5 +1,56 @@
 [
   {
+    "tmdb_id": 213562,
+    "imdb_id": "tt23148340",
+    "recent_until": 1792310538714,
+    "type": "tv",
+    "title": "Crystal Lake",
+    "original_title": "Crystal Lake",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/iFZd7n9ARPxLLg0BJ5jXGKk0lQG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5z5yynwihKGkupR2bXIWxO1IZVZ.jpg",
+    "rating": 6.1,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Crystal Lake racconta la storia di Pamela Voorhees, una madre single che non riesce a superare il dolore per la tragica morte del figlio Jason, annegato nel lago della cittadina quasi un anno prima. Quando due sconosciuti  iniziano  a  indagare  sul suo passato, una serie di eventi inquietanti sconvolge Crystal Lake,  portando gli abitanti a interrogarsi sulla vera identità di Pamela.",
+    "genres": [
+      "Mistero",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 286183,
+    "imdb_id": "tt35673115",
+    "recent_until": 1792310538888,
+    "type": "tv",
+    "title": "Hollywood Arts",
+    "original_title": "Hollywood Arts",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/uVL8tV8z9br3XGsA9DDEY743sRE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
+    "rating": 4.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Trina Vega, un'attrice in difficoltà, torna nella sua vecchia scuola superiore, la Hollywood Arts, in veste di supplente non qualificata; ben presto si ritrova a scontrarsi con una nuova generazione di studenti ambiziosi e di talento, ai quali però finisce inaspettatamente per essere di ispirazione, mentre questi imparano a trovare la propria strada nella scuola di arti dello spettacolo più esclusiva di Hollywood.",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Famiglia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 26
+      }
+    ]
+  },
+  {
     "tmdb_id": 336418,
     "imdb_id": "tt46683025",
     "recent_until": 1792224565841,

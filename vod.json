@@ -1,5 +1,225 @@
 [
   {
+    "tmdb_id": 97474,
+    "imdb_id": "tt2121335",
+    "recent_until": 1792310535087,
+    "pegi": "",
+    "runtime": 92,
+    "title": "Napoletans",
+    "original_title": "Napoletans",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/blLO66QLuicayDfBvbbSHcXT9tz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6snSl3VzCSe5XAXoGegZygVzxph.jpg",
+    "rating": 3.5,
+    "overview": "Equivoci, inganni e gags esilaranti animano l'atmosfera natalizia di Baia, piccolo paesino campano, dove vive la famiglia Di Gennaro composta dal noto dentista Gennaro, la moglie Anna e i loro due figli: l'affascinante Roberto e il pestifero Mattia. Ad animare ulteriormente la vita della famiglia partenopea c'è Assunta la Tabaccaia, amante di Gennaro; Pino, l'assistente incompentente; il Preside della scuola, innamorato della sexy Professoressa e costantemente supervisionato dal Provveditore agli Studi e infine, Zio Guglielmo, finto parente di Anna, accompagnato dal suo amico Conte Pozzan Della Ghera: in realtà, due maldestri truffatori che vogliono impossessarsi di un diamante nascosto in casa Di Gennaro dal vero zio Guglielmo. In paese arriva anche la bella Angela, straniera diplomata infermiera (ospite della zia, Signora Torrisi, titolare dell'omonima e famosa gelateria del paese) che si innamora di Roberto, con il quale nasce una tenera storia d'amore.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1561726,
+    "imdb_id": "tt38672588",
+    "recent_until": 1792310535267,
+    "pegi": "",
+    "runtime": 109,
+    "title": "Masterplan",
+    "original_title": "Masterplan",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+    "rating": 9.0,
+    "overview": "Quando un famoso ladro punta alla Gioconda, recluta due giovani sconosciuti che lo aiutino: Chiara, un'italiana esperta di crimini informatici, e Jay, uno specialista francese in esplosivi, ai quali rivela poi di essere loro padre. Dopo questa caotica riunione, la nuova famiglia deve imparare a collaborare e a cercare di non uccidersi a vicenda e riuscire a compiere il colpo del secolo.",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 11334,
+    "imdb_id": "tt0111049",
+    "recent_until": 1792310535462,
+    "pegi": "",
+    "runtime": 95,
+    "title": "S.P.Q.R. - 2000 e ½ anni fa",
+    "original_title": "S.P.Q.R. 2000 e 1/2 anni fa",
+    "year": "1994",
+    "poster": "https://image.tmdb.org/t/p/w500/tzRo3DbGDtCMEmi5ZOzlCSZThoL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nMfMIsthmlTXIfAZ2osKafMRWJF.jpg",
+    "rating": 4.9,
+    "overview": "Dalla nordica Mediolanum arriva nella Roma del 71 a.C. il giudice Antonio Servilio, deciso a combattere la corruzione tangentizia, incarnata dal gaudente senatore Cesare Atticus e dal suo potente protettore Lucio Cinico.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 31112,
+    "imdb_id": "tt0080461",
+    "recent_until": 1792310535638,
+    "pegi": "",
+    "runtime": 75,
+    "title": "Buon viaggio, Charlie Brown (...e non tornare indietro!)",
+    "original_title": "Bon Voyage, Charlie Brown (and Don't Come Back!)",
+    "year": "1980",
+    "poster": "https://image.tmdb.org/t/p/w500/t7S8cLKHVytzjt1ql3dC4GE9S9T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cL7KkB2lVgFP5Fs8ISAxYYI65YF.jpg",
+    "rating": 6.4,
+    "overview": "In occasione di uno scambio culturale organizzato dalla loro scuola con studenti francesi Charlie Brown, Linus, Marcie e Piperita Patty vengono scelti per passare due settimane in Francia, nel villaggio di Le Horon. Seguiti dagli immancabili Snoopy e Woodstock, i nostri sbarcano oltreoceano: Marcie e Piperita soggiorneranno nella fattoria del simpatico Pierre, mentre Charlie Brown e gli altri nel castello del \"Mal Voisin\", invitati dalla misteriosa Violette. Ma appena arrivati scoprono che il castello e sopratutto il suo padrone, il Barone, sono avvolti da una fitta aura di mistero....",
+    "genres": [
+      "Famiglia",
+      "Animazione",
+      "Commedia",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 21348,
+    "imdb_id": "tt0181627",
+    "recent_until": 1792310535909,
+    "pegi": "",
+    "runtime": 71,
+    "title": "Kirikù e la strega Karabà",
+    "original_title": "Kirikou et la Sorcière",
+    "year": "1998",
+    "poster": "https://image.tmdb.org/t/p/w500/AlVBG3exYwHVNKzQ28zGK0mcy5K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oAIHUFNsNCVs7Rz9LNTINPFIa4j.jpg",
+    "rating": 7.4,
+    "overview": "Kirikù nasce in un villaggio dell’Africa occidentale oppresso dalla perfida strega Karabà, che, secondo quanto si dice, ha prosciugato la principale sorgente d’acqua, fonte di vita e lavoro per la popolazione, ha imprigionato e mangiato gli uomini del villaggio, compreso il padre di Kirikù, pretende dalle donne ori e gioielli e divora chiunque tenti di opporsi al suo dominio. Il piccolo Kirikù, determinato e coraggioso, decide di affrontare la strega e il segreto della sua malvagità per spezzare il sortilegio che funesta il villaggio. Parte così per un viaggio pieno di pericoli, ostacoli e prove d’ogni tipo, per arrivare alla Montagna Proibita, al cospetto del nonno, il Saggio della Montagna, che gli rivela la verità sulla strega.",
+    "genres": [
+      "Fantasy",
+      "Avventura",
+      "Animazione",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 1006126,
+    "imdb_id": "tt16044704",
+    "recent_until": 1792310536086,
+    "pegi": "",
+    "runtime": 76,
+    "title": "Santa Lucia",
+    "original_title": "Santa Lucia",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/biiFUXTzQxnnhlKJODhoMC3N26P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i0rmc9z7MSaXnPaSQhwNotlV3Me.jpg",
+    "rating": 7.5,
+    "overview": "La storia di uno scrittore cieco che dopo quaranta anni di esilio in Argentina, torna a Napoli per la morte della madre e intraprende col fratello musicista un viaggio della memoria nei luoghi della sua giovinezza che non può più vedere, alla ricerca del vero motivo del suo addio.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1623256,
+    "imdb_id": "tt37070354",
+    "recent_until": 1792310536282,
+    "pegi": "",
+    "runtime": 0,
+    "title": "Stormen",
+    "original_title": "Stormen",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/kjAsuaDcNsemYTQ8tUorpVE1FJb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+    "rating": 8.2,
+    "overview": "Quando una tempesta intrappola vecchi compagni universitari in un lussuoso lodge, la loro festa di compleanno civile si trasforma in un ciclone di tradimenti, rancori e caos senza filtri.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 23479,
+    "imdb_id": "tt0074174",
+    "recent_until": 1792310536457,
+    "pegi": "",
+    "runtime": 102,
+    "title": "Che botte se incontri gli “Orsi”",
+    "original_title": "The Bad News Bears",
+    "year": "1976",
+    "poster": "https://image.tmdb.org/t/p/w500/ibtTEkRbufYsbaBebxGFiKynUJk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jsMViXpdIBm7HY6XkInbQ1PU1OC.jpg",
+    "rating": 6.9,
+    "overview": "Un ex giocatore di baseball riceve l'incarico di allenare \"gli Orsi\", una squadretta giovanile regolarmente battuta in tutti i tornei.Per evitare nuove brutte figure, il signor Buttermaker, ex giocatore ed ora allenatore, medita di ritirare la squadra dal campionato, ma con l'innesto di due nuovi elementi ed una lezione di sportività, riuscirà a portare la squadra ad un miracoloso secondo posto!",
+    "genres": [
+      "Famiglia",
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 74777,
+    "imdb_id": "tt1610996",
+    "recent_until": 1792310536730,
+    "pegi": "",
+    "runtime": 91,
+    "title": "Absentia",
+    "original_title": "Absentia",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/imUIPWoe0Yma5UhZVl6bqX5lF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hY0BJllNWKQP9BvJu6gCVbUEXVf.jpg",
+    "rating": 5.809,
+    "overview": "Daniel, il marito di Trisha, è scomparso da sette anni e la donna vive insieme alla sorella minore Callie e sta cercando di andare nuovamente avanti con la sua vita. Quando però Callie scopre uno strano tunnel vicino casa e comincia a collegarlo all'assenza del cognato e ad altre misteriose sparizioni, diventa abbastanza chiaro che la presunta morte di Daniel è tutto fuorché naturale.",
+    "genres": [
+      "Horror",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 370978,
+    "imdb_id": "tt4922692",
+    "recent_until": 1792310536914,
+    "pegi": "",
+    "runtime": 102,
+    "title": "Kiki & i segreti del sesso",
+    "original_title": "Kiki, el amor se hace",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/2wMK92PUf80byUxYezRegmsOv56.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/erIfV6Xm60tsEySsrDolb8DoqNP.jpg",
+    "rating": 6.1,
+    "overview": "Paco ed Ana sono una coppia sposata da 10 anni, hanno una figlia e cercano di trovare un modo per riaccendere la passione di un tempo quando ecco arrivare Belén, un'amica di lui, che vive un periodo di sconforto. Alex scopre che la bella Natalia, di cui è innamorato, ha una particolare modalità per raggiungere l' eccitazione che cercherà come può di soddisfare. Maria Candelaria e Antonio sono giostrai e vorrebbero avere un figlio. Il ginecologo ritiene che orgasmi soddisfacenti favorirebbero la fertilità di lei. Come raggiungerli? Il chirurgo plastico José Luis ha una consorte che, dopo un grave incidente, è bloccata su una sedia a rotelle. Scopre di desiderarla ancora ma bisogna che lei dorma. Sandra infine è alla ricerca dell'amore mentre convive con un iguana, soffre di intolleranza al lattosio e ha problemi di udito.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 339967,
+    "imdb_id": "tt4680182",
+    "recent_until": 1792310537093,
+    "pegi": "",
+    "runtime": 110,
+    "title": "Colossal",
+    "original_title": "Colossal",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/2Ao73aztZciFPI0Q7uznf46mTkW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1ddf2Kq1hC7SgV02E3pyLAC26lq.jpg",
+    "rating": 6.263,
+    "overview": "Gloria (Anne Hathaway) è una donna che dopo aver perso il lavoro e il fidanzato decide di lasciarsi alle spalle tutto e si trasferisce da New York, il suo paese natio. Qui, scopre di essere collegata mentalmente con una lucertola gigante che a migliaia di chilometri di distanza sta devastando la città di Seoul.",
+    "genres": [
+      "Dramma",
+      "Fantasy",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1180629,
+    "imdb_id": "tt27367464",
+    "recent_until": 1792310537700,
+    "pegi": "",
+    "runtime": 105,
+    "title": "Kneecap",
+    "original_title": "Kneecap",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/9eKPLclW0FrvKpRr5PgiisFJavE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/224f3zy21srh9WnBLFU2z3axIFA.jpg",
+    "rating": 7.305,
+    "overview": "Nella Belfast post-conflitto, emerge il turbolento trio rap KNEECAP, che getta le basi per la rinascita della lingua irlandese contro l'establishment. Liam Óg e Naoise, autoproclamatisi \"feccia di bassa lega\", insieme all'insegnante JJ, diventano un simbolo politico e la voce di sfida della gioventù irlandese inquieta. Mentre lottano per lasciare un segno nel mondo e le pressioni familiari e relazionali minacciano di staccare la spina ai loro sogni, il trio intreccia una narrazione che trascende la musica.",
+    "genres": [
+      "Musica",
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 15036,
     "imdb_id": "tt1158936",
     "recent_until": 1792224563632,
