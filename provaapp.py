@@ -333,6 +333,8 @@ print("==========================================")
 
 try:
 
+    try:
+
     response_channels = requests.get(
         CHANNELS_URL,
         headers=HEADERS,
@@ -341,7 +343,16 @@ try:
 
     response_channels.raise_for_status()
 
-channels_html = response_channels.text
+except Exception as e:
+
+    print()
+    print("ERRORE durante il download dei canali 24/7:")
+    print(e)
+    channels_html = ""
+
+else:
+
+    channels_html = response_channels.text
 
 print()
 print("Pagina canali 24/7 scaricata correttamente.")
@@ -531,15 +542,7 @@ except Exception as e:
     print("ERRORE durante il download dei canali VAVOO:")
     print(e)
 
-    vavoo_data = {}    
-
-except Exception as e:
-
-    print()
-    print("ERRORE durante il download dei canali VAVOO:")
-    print(e)
-
-    vavoo_data = {}
+    vavoo_data = {} 
 
 
 
