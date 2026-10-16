@@ -1056,19 +1056,6 @@ for item in vavoo_items:
     nome_normalizzato = normalizza_nome_vavoo(
         channel_name
     )
-
-
-    # --------------------------------------------------------
-    # CONTROLLA SE È UN CANALE INTERESSANTE
-    # --------------------------------------------------------
-
-    if nome_normalizzato not in VAVOO_CANALI_DESIDERATI_NORMALIZZATI:
-
-        vavoo_scartati += 1
-
-        continue
-
-
     # --------------------------------------------------------
     # WATCH URL
     # --------------------------------------------------------
