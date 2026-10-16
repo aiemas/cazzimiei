@@ -332,32 +332,24 @@ print("URL:", CHANNELS_URL)
 print("==========================================")
 
 try:
-
-    try:
-
     response_channels = requests.get(
         CHANNELS_URL,
         headers=HEADERS,
         timeout=30
     )
-
     response_channels.raise_for_status()
 
 except Exception as e:
-
     print()
     print("ERRORE durante il download dei canali 24/7:")
     print(e)
     channels_html = ""
 
 else:
-
     channels_html = response_channels.text
-
-print()
-print("Pagina canali 24/7 scaricata correttamente.")
-print("Caratteri HTML:", len(channels_html))
-
+    print()
+    print("Pagina canali 24/7 scaricata correttamente.")
+    print("Caratteri HTML:", len(channels_html))
 
 
 # ============================================================
