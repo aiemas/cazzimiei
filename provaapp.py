@@ -1289,7 +1289,20 @@ try:
 except Exception as e:
     print(f"\n[ERRORE] Impossibile creare il file JSON: {e}")
 
+# ============================================================
+# SALVA SOLO CANALI VAVOO
+# ============================================================
 
+output_vavoo_file = "can.json"
+
+try:
+    with open(output_vavoo_file, "w", encoding="utf-8") as file:
+        json.dump(vavoo, file, ensure_ascii=False)
+
+    print(f"[OK] File Vavoo creato correttamente: {output_vavoo_file}")
+
+except Exception as e:
+    print(f"[ERRORE] Impossibile creare {output_vavoo_file}: {e}")
 
 
 # ============================================================
