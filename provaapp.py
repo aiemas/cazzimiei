@@ -341,16 +341,6 @@ try:
 
     response_channels.raise_for_status()
 
-except Exception as e:
-
-    print()
-    print("ERRORE durante il download dei canali 24/7:")
-    print(e)
-    input("\nPremi INVIO per uscire...")
-    exit()
-
-
-
 channels_html = response_channels.text
 
 print()
@@ -1041,12 +1031,7 @@ for item in vavoo_items:
         {}
     )
 
-    channel_id = str(
-        ids.get(
-            "id",
-            ""
-        )
-    )
+    channel_id = str(item.get("id", ""))
 
 
     # --------------------------------------------------------
@@ -1095,14 +1080,7 @@ for item in vavoo_items:
 
     if channel_id:
 
-        watch_url = (
-            "https://vavoo.to/watch?live="
-            + channel_id
-        )
-
-    else:
-
-        watch_url = ""
+        watch_url = item.get("url", "")
 
 
     # --------------------------------------------------------
