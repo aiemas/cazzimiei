@@ -541,54 +541,7 @@ except Exception as e:
     print("ERRORE durante il download dei canali VAVOO:")
     print(e)
 
-    vavoo_data = {}
-        "items": []
-    }
-
-    cursor = None
-
-    while True:
-
-        catalog_payload = {
-            "language": "de",
-            "region": "DE",
-            "catalogId": "iptv",
-            "id": "iptv",
-            "adult": False,
-            "search": "",
-            "sort": "",
-            "filter": {},
-            "cursor": cursor,
-            "clientVersion": "3.0.2"
-        }
-
-        print("Scaricamento catalogo VAVOO...")
-
-        catalog_response = requests.post(
-            VAVOO_CATALOG_URL,
-            headers=catalog_headers,
-            json=catalog_payload,
-            timeout=30
-        )
-
-        catalog_response.raise_for_status()
-
-        catalog_page = catalog_response.json()
-
-        items = catalog_page.get("items", [])
-
-        print("Canali ricevuti:", len(items))
-
-        vavoo_data["items"].extend(items)
-
-        cursor = catalog_page.get("nextCursor")
-
-        if not cursor:
-            break
-
-    print()
-    print("Totale elementi VAVOO ricevuti:",
-          len(vavoo_data["items"]))
+    vavoo_data = {}    
 
 except Exception as e:
 
