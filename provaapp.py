@@ -1306,6 +1306,41 @@ except Exception as e:
 
 
 # ============================================================
+# CREA PLAYLIST VAVOO M3U
+# ============================================================
+
+output_m3u_file = "can.m3u"
+
+try:
+    with open(output_m3u_file, "w", encoding="utf-8") as file:
+
+        file.write("#EXTM3U\n")
+
+        for channel in vavoo:
+
+            nome = channel.get("name", "")
+            url = channel.get("watch_url", "")
+            logo = channel.get("logo", "")
+            channel_id = channel.get("id", "")
+
+            if not url:
+                continue
+
+            file.write(
+                f'#EXTINF:-1 tvg-id="{channel_id}" '
+                f'tvg-name="{nome}" '
+                f'tvg-logo="{logo}",{nome}\n'
+            )
+
+            file.write(f"{url}\n")
+
+    print(f"[OK] Playlist M3U creata correttamente: {output_m3u_file}")
+
+except Exception as e:
+    print(f"[ERRORE] Impossibile creare {output_m3u_file}: {e}")
+
+
+# ============================================================
 # FUNZIONE ESCAPE JAVASCRIPT
 # ============================================================
 
