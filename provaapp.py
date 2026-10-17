@@ -29,27 +29,27 @@ try:
         headers=VAVOO_HEADERS,
         timeout=30
     )
+    
     response.raise_for_status()
     catalog_data = response.json()
 
+    print("Tipo risposta:", type(catalog_data).__name__)
 
-print("Tipo risposta:", type(catalog_data).__name__)
+    if isinstance(catalog_data, dict):
+        print("Chiavi risposta:", list(catalog_data.keys()))
+        print("nextCursor:", catalog_data.get("nextCursor"))
+        print("cursor:", catalog_data.get("cursor"))
 
-if isinstance(catalog_data, dict):
-    print("Chiavi risposta:", list(catalog_data.keys()))
-    print("nextCursor:", catalog_data.get("nextCursor"))
-    print("cursor:", catalog_data.get("cursor"))
-
-print("Elementi estratti:", len(
-    catalog_data if isinstance(catalog_data, list)
-    else catalog_data.get("items", catalog_data.get("channels", []))
-    if isinstance(catalog_data, dict)
-    else []
-))
-
+    print("Elementi estratti:", len(
+        catalog_data if isinstance(catalog_data, list)
+        else catalog_data.get("items", catalog_data.get("channels", []))
+        if isinstance(catalog_data, dict)
+        else []
+    ))
 
 except Exception as e:
     raise SystemExit(f"Errore durante il download del catalogo: {e}")
+
 
 if isinstance(catalog_data, list):
     vavoo_items = catalog_data
