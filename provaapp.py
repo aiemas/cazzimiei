@@ -87,10 +87,14 @@ while True:
 
         ids_visti.add(channel_id)
 
+        tags = item.get("tags", [])
+        paese = tags[0] if tags else "Altro"
+
         vavoo.append({
             "name": channel_name,
             "id": channel_id,
             "url": channel_url,
+            "country": paese,
         })
 
         aggiunti += 1
@@ -105,16 +109,32 @@ while True:
 
     cursor = next_cursor
 
+
 # ============================================================
-# GENERA can.json
+# GENERA can.json SUDDIVISO PER PAESE
 # ============================================================
 
+canali_per_paese = {}
+
+for channel in vavoo:
+    # Recupera il paese dal campo tags del catalogo
+    # (va aggiunto al salvataggio dei dati, vedi nota sotto)
+    paese = channel.get("country", "Altro")
+
+    canali_per_paese.setdefault(paese, []).append({
+        "name": channel["name"],
+        "id": channel["id"],
+        "url": channel["url"],
+    })
+
 with open("can.json", "w", encoding="utf-8") as file:
-    json.dump(vavoo, file, ensure_ascii=False)
+    json.dump(canali_per_paese, file, ensure_ascii=False)
 
 print("=" * 50)
 print("CATALOGO VAVOO COMPLETATO")
 print("Pagine scaricate:", pagina)
 print("Canali salvati:", len(vavoo))
+print("Paesi trovati:", len(canali_per_paese))
 print("Creato can.json")
 print("=" * 50)
+
