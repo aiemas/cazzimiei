@@ -1,5 +1,358 @@
 [
   {
+    "tmdb_id": 177271,
+    "imdb_id": "tt2465238",
+    "recent_until": 1792395614265,
+    "pegi": "",
+    "runtime": 71,
+    "title": "LEGO Batman: Il film - I supereroi DC riuniti",
+    "original_title": "LEGO Batman: The Movie - DC Super Heroes Unite",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/i8x5Wg41meNwXCT7DS67xExKO1Y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uhUFao4ha2QWa5bdRexx0si4HaB.jpg",
+    "rating": 6.5,
+    "overview": "Si tratta di un film di animazione, prodotto dalla Warner Bros, che non avrà per protagonista solo il Crociato Incappucciato ma, come nel gioco LEGO Batman 2: DC Super Heroes DC, saranno presenti anche molti eroi DC Comics, come Superman, Flash, Wonder Woman e Green Lantern, mentre tra gli antagonisti dovrebbe esserci una selezione di cattivi di tutto rispetto, come l’Enigmista e Due Facce tra gli altri e, grande alleato del Joker, Lex Luthor.",
+    "genres": [
+      "Famiglia",
+      "Animazione",
+      "Avventura",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 870712,
+    "imdb_id": "tt15085570",
+    "recent_until": 1792395614474,
+    "pegi": "",
+    "runtime": 96,
+    "title": "Calcinculo",
+    "original_title": "Calcinculo",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/j5KmHXYL0qxGOV2InfRaNl43efZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/biokc2Wx58yF61C8FLNvjS8RH4x.jpg",
+    "rating": 6.5,
+    "overview": "Forse è vero che si cresce solo a calci in culo. Ed è vero che quando la giostra gira veloce ci sembra di volare e non vorremmo scendere mai. Esattamente quello che succede a Benedetta, quindicenne decisamente sovrappeso, quando incontra Armando, in arte Amanda, che la trascinerà nel suo mondo randagio e sregolato.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1596285,
+    "imdb_id": "tt39150035",
+    "recent_until": 1792395614691,
+    "pegi": "",
+    "runtime": 105,
+    "title": "The Disciple: A Wu-Tang Fable",
+    "original_title": "The Disciple: A Wu-Tang Fable",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2vrQxy3Xrb6AvPtsa7jAU9DKxvu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xrIXY0B0fxnCWc1jNHWb48Tm4qJ.jpg",
+    "rating": 6.0,
+    "overview": "",
+    "genres": [
+      "Documentario",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 1620918,
+    "imdb_id": "tt44822485",
+    "recent_until": 1792395614901,
+    "pegi": "",
+    "runtime": 127,
+    "title": "Norm: The Tale of Norm Macdonald",
+    "original_title": "Norm: The Tale of Norm Macdonald",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/d3Uscbjxikw0Vgk9ACFUpqFXplA.jpg",
+    "rating": 0.0,
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1487317,
+    "imdb_id": "tt37027309",
+    "recent_until": 1792395615117,
+    "pegi": "",
+    "runtime": 97,
+    "title": "Terapia creativa",
+    "original_title": "Lo dejamos acá",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
+    "rating": 7.5,
+    "overview": "Un famoso psicoanalista, deluso dalla terapia tradizionale, inizia a intervenire segretamente nella vita dei suoi pazienti, ottenendo risultati notevoli, fino a quando uno scrittore bloccato dalla creatività entra nel suo studio.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1288069,
+    "imdb_id": "tt6262770",
+    "recent_until": 1792395615349,
+    "pegi": "T",
+    "runtime": 126,
+    "title": "Tenzing",
+    "original_title": "Tenzing",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/rvYJksPOdfk0TDym3bLKJ7JeZfv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wUe0QbbPDU2BD3L2QnsZlAr55Je.jpg",
+    "rating": 7.917,
+    "overview": "Un uomo molto determinato intraprende un’impresa ad alto rischio, sfidando ostacoli apparentemente insormontabili, per realizzare il suo sogno: essere il primo a raggiungere la vetta del Monte Everest.",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 43028,
+    "imdb_id": "tt0055597",
+    "recent_until": 1792395615576,
+    "pegi": "",
+    "runtime": 101,
+    "title": "Victim",
+    "original_title": "Victim",
+    "year": "1961",
+    "poster": "https://image.tmdb.org/t/p/w500/7yPjPJ0R2aSHSw0jCCxNImA5Tyt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lFTIB7obHpTYTMOruePsxigthQN.jpg",
+    "rating": 7.5,
+    "overview": "Il suicidio di un ragazzo porta uno stimato avvocato a mettersi in discussione e a dichiarare la propria omosessualità. Eccellente film su un tema allora scabroso, chiaroscurato dal tono \"giallo\" della vicenda. Molto bravo Bogarde.",
+    "genres": [
+      "Dramma",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 24099,
+    "imdb_id": "tt0087175",
+    "recent_until": 1792395615792,
+    "pegi": "",
+    "runtime": 99,
+    "title": "Dreamscape: fuga nell'incubo",
+    "original_title": "Dreamscape",
+    "year": "1984",
+    "poster": "https://image.tmdb.org/t/p/w500/sNGdWTtmc6QTxiaAW4mTRlKlHSq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qtdLpv0Qtqv1QMnmmnyRP0hf2Ek.jpg",
+    "rating": 6.1,
+    "overview": "Per diagnosticare i traumi psichici subiti dai suoi pazienti, il dottor Paul Novotny fa entrare il giovane Alex Gardner nei loro sogni.",
+    "genres": [
+      "Dramma",
+      "Fantascienza",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 12184,
+    "imdb_id": "tt0467200",
+    "recent_until": 1792395616010,
+    "pegi": "",
+    "runtime": 115,
+    "title": "L'altra donna del re",
+    "original_title": "The Other Boleyn Girl",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/w500/Af7HzlChb3CBeBE44DT7XQ1NM7O.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jovVe4UGpmQEAE6ZEmV5xa6Kk1f.jpg",
+    "rating": 6.7,
+    "overview": "Enrico VIII regna sull'Inghilterra e desidera un figlio maschio che la moglie, Caterina di Aragona, non sembra essere in grado di dargli. Sir Thomas Boleyn (Bolena per noi italiani) vede nella figlia Anna una potenziale attrattiva per il re che va colta nel momento in cui costui verrà ospitato in casa per una battuta di caccia. Le cose non vanno come l'uomo vorrebbe perchè Enrico viene attratto dall'altra figlia dei Boleyn, Mary, che farà sua amante e da cui avrà un figlio. Ma, nel frattempo, Anna (temporaneamente inviata presso la corte di Francia) ha fatto ritorno in Patria ed appare al re sotto una luce diversa. Riuscirà a farla divenire sua moglie ripudiando Caterina e imponendo lo strappo con la Chiesa Cattolica che porterà alla formazione della Chiesa Anglicana. Ma anche questa sarà una relazione tormentata.",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 10223,
+    "imdb_id": "tt0120324",
+    "recent_until": 1792395616354,
+    "pegi": "T",
+    "runtime": 121,
+    "title": "Soldi sporchi",
+    "original_title": "A Simple Plan",
+    "year": "1998",
+    "poster": "https://image.tmdb.org/t/p/w500/m9nez7C4z2kobW7GpZ7N9vB0HgQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gtdCmYpubVkkvTQ8rdR9tkixDSj.jpg",
+    "rating": 7.22,
+    "overview": "La vita di quattro persone viene stravolta dal ritrovamento di un aereo da turismo in un bosco innevato, con a bordo quattro milioni di dollari. Sono soldi capaci di cambiare le loro vite; quelle miserabili di Lou e Jacob e quelle fintamente borghesi di Hank, fratello di Jacob, e di sua moglie Sara. Sarà l'inizio di un girotondo di paranoia, sospetti e morte.",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 9451,
+    "imdb_id": "tt0126886",
+    "recent_until": 1792395616573,
+    "pegi": "T",
+    "runtime": 104,
+    "title": "Election",
+    "original_title": "Election",
+    "year": "1999",
+    "poster": "https://image.tmdb.org/t/p/w500/u3otPERPLsuAdyc9Xe3qj5V32P6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lNPPNnYM3j0cb8IZ9CsJiDt0BK9.jpg",
+    "rating": 6.877,
+    "overview": "Jim McAllister oltre che consigliere del comitato studentesco, è un insegnante molto popolare. Dopo essere stato nominato per tre volte negli ultimi dodici anni 'insegnante dell'anno', ora è pronto a rimettere tutto in ballo per un'elezione scolastica. L'insegnante vuole, infatti, mettere un freno all'ambizione della studentessa Tracy Flick per la quale il liceo altro non è che il primo gradino della scala che la porterà ad una brillante carriera: il suo prossimo passo è la presidenza del comitato studentesco.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 20770,
+    "imdb_id": "tt0179116",
+    "recent_until": 1792395616799,
+    "pegi": "",
+    "runtime": 85,
+    "title": "Gonne al bivio",
+    "original_title": "But I'm a Cheerleader",
+    "year": "2000",
+    "poster": "https://image.tmdb.org/t/p/w500/8huDg3Q0EmcWuN9HgYsO8ylAp9f.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/f4ZgIaMpOWd6rewhCfoIIMqWquh.jpg",
+    "rating": 7.1,
+    "overview": "Megan è una cheerleader. Ha un ragazzo, ma non le piace troppo baciarlo. Ed è molto intima con le sue amiche. I suoi genitori temono sia lesbica e la mandano a una scuola di “rieducazione sessuale”, dove dovrà imparare a essere eterosessuale.",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 2084,
+    "imdb_id": "tt0188453",
+    "recent_until": 1792395617009,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Birthday Girl",
+    "original_title": "Birthday Girl",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/w500/g0oKFgHrMpWxq7Zf4XWmWCmP4dQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kq7a3jjof465gLwsIDhjtpyNURD.jpg",
+    "rating": 5.896,
+    "overview": "John Buckingham (Ben Chaplin) è un timido impiegato di banca in un piccola cittadina dell'hinterland londinese, nel sud Hertfordshire. Vive un'esistenza monotona e triste e decide di affidarsi alle promesse di un sito internet che propone ragazze straniere da conoscere, facendo arrivare dalla Russia Nadia (Nicole Kidman). John si accorge subito che qualcosa che non va: Nadia non parla inglese, come invece gli era stato promesso, e lui non parla una parola di russo.",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 10720,
+    "imdb_id": "tt0309530",
+    "recent_until": 1792395617223,
+    "pegi": "",
+    "runtime": 102,
+    "title": "Abbasso l'amore",
+    "original_title": "Down with Love",
+    "year": "2003",
+    "poster": "https://image.tmdb.org/t/p/w500/pAVys58Ca8RytUwIKjr6iTJawxk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gncvmif7zzVOpMNxnpAOPfSXgUq.jpg",
+    "rating": 6.135,
+    "overview": "New York, 1962. La scrittrice Barbara Novak conquista la vetta delle classifiche con il best-seller _Down With Love_, in cui esorta le donne a privilegiare la carriera a scapito dell'amore. Il giornalista rubacuori Catcher Block, incaricato di intervistarla, decide di farle cambiare idea ricorrendo a qualsiasi mezzo.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1730,
+    "imdb_id": "tt0460829",
+    "recent_until": 1792395617434,
+    "pegi": "T",
+    "runtime": 180,
+    "title": "Inland Empire - L'impero della mente",
+    "original_title": "Inland Empire",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/ze7y38gyujz2fhJcuPAYDL0rZSo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qyePa65qZVnuYWivTBXkHV9aI3A.jpg",
+    "rating": 7.0,
+    "overview": "Un'esperienza. Inland Empire di David Lynch non è un film organico, lineare, comprensibile, con un inizio e una fine definibili tali, ma è innanzitutto un'esperienza sensoriale. Un flusso di pensiero libero di un artista, che non richiede spiegazioni, ma solamente intuizioni, emozioni personali, positive o negative che siano. Si potrebbe parlare di mondi paralleli, di realtà e finzione che si fondono, si incontrano, si abbandonano, di cinema e televisione (e di pellicola e digitale), del concetto del Tempo, non sequenziale, \"random\" e assoluto.",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 304372,
+    "imdb_id": "tt3862750",
+    "recent_until": 1792395617658,
+    "pegi": "",
+    "runtime": 100,
+    "title": "The Perfect Guy",
+    "original_title": "The Perfect Guy",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/dYbbLWq6kzS7o5ysFKs95aOK9ub.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dFdLszJppFerIo1UrLo7pl7fqmJ.jpg",
+    "rating": 5.735,
+    "overview": "Leah ha incontrato quello che sembra l'uomo perfetto, Carter, ma presto viene esposta a un lato oscuro che si nasconde sotto la superficie. Quando un episodio di violenza la porta a concludere la loro relazione, Carter inizia a pedinare Leah e minaccia di rovinare la sua vita. Per sfuggire a questo incubo, Leah decide che deve cambiare le carte in tavola con il suo stalker, e la preda diventa il cacciatore.",
+    "genres": [
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 518068,
+    "imdb_id": "tt8116428",
+    "recent_until": 1792395617866,
+    "pegi": "",
+    "runtime": 141,
+    "title": "Along with the Gods: The Last 49 Days",
+    "original_title": "신과함께-인과 연",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/2ETx0U2Q5gUHtPJZiQ3hakTqyaR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ul4WiN9EJxsMokdg7z4Y6iisvHS.jpg",
+    "rating": 8.041,
+    "overview": "",
+    "genres": [
+      "Azione",
+      "Avventura",
+      "Fantasy",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 678491,
+    "imdb_id": "tt10449052",
+    "recent_until": 1792395618198,
+    "pegi": "",
+    "runtime": 114,
+    "title": "Il Confine della Vendetta - No Man's Land",
+    "original_title": "No Man's Land",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/7PloiGUSH2OUWrk6ctchGhMOL3s.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aUcpuhhQ98YpO39IPZUOvoYmKpj.jpg",
+    "rating": 6.2,
+    "overview": "Al confine tra Stati Uniti e Messico, un uomo uccide accidentalmente un giovane migrante. Mentre fugge dalla legge, tormentato dalla sua coscienza, dovrà fare i conti con il padre del ragazzo ucciso, assetato di vendetta. Un incredibile viaggio lungo la sottile linea tra il bene e il male.",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 986097,
+    "imdb_id": "tt20990442",
+    "recent_until": 1792395618742,
+    "pegi": "14+",
+    "runtime": 96,
+    "title": "HIM",
+    "original_title": "HIM",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/sn7l2zjeNsCvE94YdBSpV7LOUe5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
+    "rating": 5.6,
+    "overview": "Cameron Cade è un promettente quarterback che ha sacrificato tutto per il football. Alla vigilia del celebre scouting Combine della NFL, un’aggressione violenta da parte di un fan gli provoca un trauma cranico che rischia di porre fine alla sua carriera.",
+    "genres": [
+      "Horror",
+      "Mistero",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 97474,
     "imdb_id": "tt2121335",
     "recent_until": 1792310535087,
