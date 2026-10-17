@@ -77,20 +77,9 @@ VAVOO_CANALI_DESIDERATI = {
 }
 
 def normalizza_nome_vavoo(nome):
-
     nome = str(nome).strip()
-
-    # Rimuove i suffissi utilizzati da VAVOO
-    nome = re.sub(
-        r"\s*\.(c|s)\s*$",
-        "",
-        nome,
-        flags=re.IGNORECASE
-    )
-
-    # Rimuove E/H utilizzati nella M3U
-    nome = re.sub(
-        r"\s*\|[EH]\s*$",
-        "",
-        nome,
-        flags=re.IGNORECASE
+    nome = re.sub(r"\s*\.(c|s)\s*$", "", nome, flags=re.IGNORECASE)
+    nome = re.sub(r"\s*\|[EH]\s*$", "", nome, flags=re.IGNORECASE)
+    nome = re.sub(r"\s*\(BACKUP\)\s*$", "", nome, flags=re.IGNORECASE)
+    nome = re.sub(r"\s+", " ", nome)
+    return nome.strip().upper()
