@@ -200,6 +200,14 @@ else:
     vavoo_items = []
 
 print("Canali ricevuti dal catalogo:", len(vavoo_items))
+print("\n=== NOMI REALI RESTITUITI DA VAVOO ===")
+for item in vavoo_items[:50]:
+    print(
+        "name =", repr(item.get("name")),
+        "| id =", repr(item.get("id")),
+        "| url =", repr(item.get("url"))
+    )
+print("=== FINE NOMI CATALOGO ===\n")
 
 # ============================================================
 # FILTRA E PREPARA SOLO I CANALI DESIDERATI
