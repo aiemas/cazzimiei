@@ -76,42 +76,25 @@ VAVOO_CANALI_DESIDERATI = {
     "SKY PRIMAFILA PREMIERE 02"
 }
 
+
 def normalizza_nome_vavoo(nome):
+    nome = str(nome).strip().upper()
 
-    nome = str(nome).strip()
+    # Rimuove (BACKUP)
+    nome = re.sub(r"\s*\(BACKUP\)", "", nome)
 
-    # Rimuove i suffissi utilizzati da VAVOO
-    nome = re.sub(
-        r"\s*\.(c|s)\s*$",
-        "",
-        nome,
-        flags=re.IGNORECASE
-    )
+    # Rimuove il numero finale tra parentesi: (6), (7), ecc.
+    nome = re.sub(r"\s*\(\d+\)\s*$", "", nome)
 
-    # Rimuove E/H utilizzati nella M3U
-    nome = re.sub(
-        r"\s*\|[EH]\s*$",
-        "",
-        nome,
-        flags=re.IGNORECASE
-    )
-
-    # Rimuove diciture BACKUP
-    nome = re.sub(
-        r"\s*\(BACKUP\)\s*$",
-        "",
-        nome,
-        flags=re.IGNORECASE
-    )
+    # Uniforma alcune varianti dei nomi
+    nome = nome.replace("SKY SPORTS ", "SKY SPORT ")
+    nome = nome.replace("SKY SPORT MOTO GP", "SKY SPORT MOTOGP")
 
     # Rimuove spazi multipli
-    nome = re.sub(
-        r"\s+",
-        " ",
-        nome
-    )
+    nome = re.sub(r"\s+", " ", nome)
 
-    return nome.strip().upper()
+    return nome.strip()
+
 
 VAVOO_CANALI_DESIDERATI_NORMALIZZATI = {
     normalizza_nome_vavoo(nome) for nome in VAVOO_CANALI_DESIDERATI
