@@ -77,6 +77,7 @@ while True:
         channel_id = str(item.get("id", "")).strip()
         channel_name = str(item.get("name", "")).strip()
         channel_url = str(item.get("url", "")).strip()
+        print(json.dumps(item, ensure_ascii=False)[:1500])
 
         if not channel_id or not channel_name or not channel_url:
             continue
