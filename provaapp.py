@@ -16,61 +16,87 @@ VAVOO_HEADERS = {
 }
 
 # ============================================================
-# SCARICA IL CATALOGO SENZA FILTRI
+# SCARICA TUTTE LE PAGINE DEL CATALOGO
 # ============================================================
 
 print("=" * 60)
 print("SCARICAMENTO CATALOGO VAVOO COMPLETO")
 print("=" * 60)
 
-try:
-    response = requests.get(
-        VAVOO_CATALOG_URL,
-        headers=VAVOO_HEADERS,
-        timeout=30
-    )
-    
-    response.raise_for_status()
-    catalog_data = response.json()
+vavoo_items = []
+cursor = None
+pagina = 1
+cursori_usati = set()
 
-    print("Tipo risposta:", type(catalog_data).__name__)
+while True:
+    params = {"cursor": cursor} if cursor is not None else {}
 
-    if isinstance(catalog_data, dict):
-        print("Chiavi risposta:", list(catalog_data.keys()))
-        print("nextCursor:", catalog_data.get("nextCursor"))
-        print("cursor:", catalog_data.get("cursor"))
+    try:
+        response = requests.get(
+            VAVOO_CATALOG_URL,
+            headers=VAVOO_HEADERS,
+            params=params,
+            timeout=30
+        )
+        response.raise_for_status()
+        catalog_data = response.json()
 
-    print("Elementi estratti:", len(
-        catalog_data if isinstance(catalog_data, list)
-        else catalog_data.get("items", catalog_data.get("channels", []))
-        if isinstance(catalog_data, dict)
-        else []
-    ))
+    except Exception as e:
+        raise SystemExit(
+            f"Errore durante il download della pagina {pagina}: {e}"
+        )
 
-except Exception as e:
-    raise SystemExit(f"Errore durante il download del catalogo: {e}")
+    if isinstance(catalog_data, list):
+        items = catalog_data
+        next_cursor = None
 
+    elif isinstance(catalog_data, dict):
+        items = (
+            catalog_data.get("items", [])
+            or catalog_data.get("channels", [])
+        )
 
-if isinstance(catalog_data, list):
-    vavoo_items = catalog_data
+        if not items and isinstance(catalog_data.get("data"), list):
+            items = catalog_data["data"]
 
-elif isinstance(catalog_data, dict):
-    vavoo_items = (
-        catalog_data.get("items", [])
-        or catalog_data.get("channels", [])
-    )
+        next_cursor = catalog_data.get("nextCursor")
 
-    if not vavoo_items and isinstance(catalog_data.get("data"), list):
-        vavoo_items = catalog_data["data"]
+    else:
+        raise SystemExit(
+            f"Formato risposta non valido nella pagina {pagina}"
+        )
 
-else:
-    vavoo_items = []
+    if not isinstance(items, list):
+        raise SystemExit(
+            f"Elenco canali non valido nella pagina {pagina}"
+        )
+
+    print(f"\nPagina: {pagina}")
+    print("Elementi ricevuti:", len(items))
+    print("nextCursor:", next_cursor)
+
+    vavoo_items.extend(items)
+
+    if next_cursor is None or next_cursor == "":
+        print("\nFine del catalogo.")
+        break
+
+    cursor_key = str(next_cursor)
+
+    if cursor_key in cursori_usati:
+        raise SystemExit(
+            f"Cursore ripetuto: {cursor_key}. Download interrotto."
+        )
+
+    cursori_usati.add(cursor_key)
+    cursor = next_cursor
+    pagina += 1
 
 # ============================================================
 # MOSTRA TUTTI I NOMI RESTITUITI
 # ============================================================
 
-print(f"\nElementi ricevuti: {len(vavoo_items)}\n")
+print(f"\nElementi ricevuti complessivamente: {len(vavoo_items)}\n")
 
 for numero, item in enumerate(vavoo_items, start=1):
     if not isinstance(item, dict):
@@ -85,5 +111,6 @@ for numero, item in enumerate(vavoo_items, start=1):
 
 print("\n" + "=" * 60)
 print("FINE CATALOGO")
-print(f"Totale elementi ricevuti: {len(vavoo_items)}")
+print("Pagine ricevute:", pagina)
+print("Totale elementi ricevuti:", len(vavoo_items))
 print("=" * 60)
