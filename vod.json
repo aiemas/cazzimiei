@@ -1,5 +1,308 @@
 [
   {
+    "tmdb_id": 171013,
+    "imdb_id": "tt2463746",
+    "recent_until": 1792482928223,
+    "pegi": "G",
+    "runtime": 92,
+    "title": "La scoperta dell'alba",
+    "original_title": "La scoperta dell'alba",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/uMskNvFhD3T5Rzq51SxUhPIRakE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bURzByfcHWYIJpwFUn0eLq8ChTf.jpg",
+    "rating": 5.2,
+    "overview": "Tratto dal romanzo omonimo di Walter Veltroni.  Roma, 1981: il Professor Mario Tessandori viene ucciso con sette colpi di rivoltella da due brigatisti, nel cortile dell'università e sotto gli occhi di tutti. Muore tra le braccia di Lucio Astengo, suo amico e collega. Poche settimane dopo, Lucio Astengo scompare nel nulla.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1426968,
+    "imdb_id": "tt32140922",
+    "recent_until": 1792482928441,
+    "pegi": "",
+    "runtime": 89,
+    "title": "The Gentleman",
+    "original_title": "Ya no quedan junglas",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/dUvVVxE224wiwaBf3ttTigE8hK0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/klXhJ8IpWhzfjupJ1xZmyC2Uk1A.jpg",
+    "rating": 5.862,
+    "overview": "Theo, da alcuni conosciuto come il Gentiluomo, è un anziano militare statunitense in pensione, la cui vita solitaria e miserabile trascorre persa tra i ricordi di un passato migliore insieme alla moglie defunta, ore sprecate in un bar squallido e l'arrivo del giovedì. Il giovedì è il giorno in cui incontra Olga, prostituta ucraina che paga per chiacchierare e passare l'unica ora della settimana che lo faccia sentire vivo. Insieme, i due ricordano chi erano e fantasticano su cosa sarebbero potuti essere. Un giorno Olga viene brutalmente assassinata. I sospettati principali sono quattro avvocati e il Gentiluomo decide di vendicarsi personalmente di loro. La scia di sangue che Theo si lascia appresso viene investigata da Iborra, ispettore alcolizzato che sta attraversando una pesante crisi coniugale.",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Thriller",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 390675,
+    "imdb_id": "tt4503096",
+    "recent_until": 1792482928670,
+    "pegi": "T",
+    "runtime": 119,
+    "title": "On Air: Storia di Un Successo",
+    "original_title": "On Air: Storia di Un Successo",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/wmUSrIVNlMH000ThwCg6EWDhb15.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/X0csm5LFkOwmGVYoAcel5un4bl.jpg",
+    "rating": 5.0,
+    "overview": "Milano. Durante una riunione, un editore commissiona ad uno scrittore un'autobiografia di Marco Mazzoli, conduttore radiofonico della trasmissione Lo Zoo di 105: non conoscendo il personaggio lo scrittore è piuttosto scettico ma accetta comunque l'incarico. Successivamente va a casa del dj per il loro primo incontro, e proprio in quell'occasione Mazzoli scopre il tradimento dei suoi tre colleghi Fabio Alisei, Paolo Noise e Wender, che hanno deciso di passare alla concorrenza. Da qui in poi inizia il racconto della vita di Mazzoli, dall'infanzia trascorsa a Los Angeles fino alla nascita dello Zoo nel 1999, passando per la scoperta del suo amore per la radio nell'adolescenza e la lunga gavetta da giovane.",
+    "genres": [
+      "Musica",
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1340206,
+    "imdb_id": "tt33296751",
+    "recent_until": 1792482928895,
+    "pegi": "10+",
+    "runtime": 108,
+    "title": "Tuner - L’accordatore",
+    "original_title": "Tuner",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/zs3MvBkmM6ccC1Fpfc0faBbRwb9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+    "rating": 7.6,
+    "overview": "Le abilità meticolose di un accordatore di pianoforti lo portano a scoprire un'attitudine inaspettata per aprire casseforti, sconvolgendo la sua vita.",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 13703,
+    "imdb_id": "tt0093407",
+    "recent_until": 1792482929110,
+    "pegi": "",
+    "runtime": 98,
+    "title": "Al di là di tutti i limiti",
+    "original_title": "Less Than Zero",
+    "year": "1987",
+    "poster": "https://image.tmdb.org/t/p/w500/e6Bp2fJWDIrcQO2FJ4I3gZ7l9ck.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6Otwiru3uklbKPavWLdOLsgLFJU.jpg",
+    "rating": 6.411,
+    "overview": "A Los Angeles, Clay e la sua ragazza Blair si danno da fare in mille modi per strappare l'amico Julian dalla morsa della cocaina (anche se Julian aveva momentaneamente soffiato Blair a Clay). Julian deve anche guardarsi da Rip, pericoloso spacciatore con un grosso credito nei suoi confronti.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 2924,
+    "imdb_id": "tt0101393",
+    "recent_until": 1792482929322,
+    "pegi": "",
+    "runtime": 132,
+    "title": "Fuoco assassino",
+    "original_title": "Backdraft",
+    "year": "1991",
+    "poster": "https://image.tmdb.org/t/p/w500/7T6qypmaGD1xFuVFrOygvbLik8R.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bnwAfstkZ3KzJ75kM6o66r8rEzf.jpg",
+    "rating": 6.664,
+    "overview": "Stephen McCaffey è il comandante della squadra più efficiente del corpo dei vigili del fuoco di Chicago. Brian, il fratello minore di Stephen, è respinto ed affascinato dal fuoco, perché ha perso il padre - che era pompiere - in un incendio: nonostante questo anche lui segue le orme paterne ed entra nella stessa squadra del fratello. Al suo primo incendio, però, Brian è terrorizzato e l'unica cosa che riesce a fare è salvare un manichino e per questo viene deriso dai colleghi. Nel frattempo in città gli incendi e le vittime aumentano in modo incredibile e Ronald Bartel, un piromane rinchiuso in carcere che ha fatto del fuoco la sua filosofia di vita, intuisce che dietro a tanti incendi ci sia una mente criminale...",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Azione",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 2047,
+    "imdb_id": "tt0107927",
+    "recent_until": 1792482929544,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Una bionda tutta d'oro",
+    "original_title": "The Real McCoy",
+    "year": "1993",
+    "poster": "https://image.tmdb.org/t/p/w500/sxCOBoWbskrF3LfVQDvj4a7hxgm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fWuOFLP57Zapja5AqInxjDezdT2.jpg",
+    "rating": 5.7,
+    "overview": "A Karen McCoy, esercitando il pericoloso mestiere di rapinatrice di banche, è accaduto l'inevitabile: è finita in carcere e si è fatta sei anni nel penitenziario di Athens. Ora ne è venuta fuori, libera sulla parola. Ma la sua situazione è tutt'altro che rosea: l'ex marito, infatti, che nel frattempo si è risposato, ha raccontato al loro figlio, Patrick, che la mamma è morta.",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1154538,
+    "imdb_id": "tt35522483",
+    "recent_until": 1792482929757,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Nirvanna the Band the Show the Movie",
+    "original_title": "Nirvanna the Band the Show the Movie",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/rDH3MoA8AoR12IqeKr4ufdbC8lT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hs4QXgPuKJ4PPwYBWNTod61RKiA.jpg",
+    "rating": 7.6,
+    "overview": "Nirvanna the Band the Show the Movie, film diretto da Matt Johnson, segue Matt e Jay (Matt Johnson e Jay McCarrol) mentre cercano di organizzare uno spettacolo al Rivoli, ma con un piano totalmente disastroso. Nonostante vada tutto storto, qualcosa di imprevedibile accade: accidentalmente i due tornando indietro nel tempo. Al 2008!",
+    "genres": [
+      "Commedia",
+      "Fantascienza",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 7873,
+    "imdb_id": "tt0433387",
+    "recent_until": 1792482930086,
+    "pegi": "",
+    "runtime": 120,
+    "title": "Harsh Times - I giorni dell'odio",
+    "original_title": "Harsh Times",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/vu79Da4CpMaD9td027PQzDO3zJ6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lwK1HY1ml8bnTaQJzzcKfe2q93O.jpg",
+    "rating": 6.422,
+    "overview": "Il veterano della Guerra del Golfo Jim Davies non riesce a riconciliarsi con la vita civile: perseguitato da incubi e allergico ai lavori da scrivania, sperpera tutti i suoi risparmi in attesa di offerte che non arrivano mai. Jim, per poter sposare la sua ragazza messicana, si mette alla ricerca di un lavoro con il suo amico Mike, finendo a vagare per la città in cerca di guai. Il litigio con il ragazzo della sua ex, membro di una gang, sarà l'inizio della loro fine.",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Thriller",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 1252,
+    "imdb_id": "tt0441774",
+    "recent_until": 1792482930305,
+    "pegi": "",
+    "runtime": 108,
+    "title": "Lonely Hearts",
+    "original_title": "Lonely Hearts",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/wbWoF1a1MiThvU7emd6naUcNttG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cUh3QGvpXXdeNdms7I86XVDL4bv.jpg",
+    "rating": 6.058,
+    "overview": "La storia vera dell'indagine che portò alla cattura e al processo di Martha Beck e Raymond Fernandez, i terribili \"Lonely Hearts Killers\", rapinatori e assassini che trovavano le loro vittime grazie agli annunci personali.",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Crime",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 9986,
+    "imdb_id": "tt0413895",
+    "recent_until": 1792482930521,
+    "pegi": "",
+    "runtime": 97,
+    "title": "La tela di Carlotta",
+    "original_title": "Charlotte's Web",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/374P6KItlJuWN9S6MMLxwSgCXBV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/x7B2zT2OL8fKM53Wgzqz6nc7r02.jpg",
+    "rating": 6.234,
+    "overview": "È un triste Natale quello che si profila per Wilbur, simpatico suino della fattoria Zuckerman: è infatti candidato a ricoprire lo scomodo ruolo di \"piatto forte\" nell'imminente cenone organizzato dalla famiglia per festeggiare la Natività. Nonostante le amorevoli cure di una bambina, sarà Carlotta, un ragno dotato di abilità prodigiose, assieme ad altri animali, a salvare il tenero suino da un destino crudele…",
+    "genres": [
+      "Commedia",
+      "Famiglia",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 12246,
+    "imdb_id": "tt0416044",
+    "recent_until": 1792482930734,
+    "pegi": "",
+    "runtime": 126,
+    "title": "Mongol",
+    "original_title": "Монгол",
+    "year": "2007",
+    "poster": "https://image.tmdb.org/t/p/w500/8bs8Kq4iZG1zzJpszXU6CGVhic8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/m50btvvexrrDUpJjSey1C4IU1OD.jpg",
+    "rating": 6.814,
+    "overview": "L'infanzia e l'adolescenza del giovane Temudzhin, passato alla storia come Gengis Khan. La leggenda della moglie bambina, quella della rivalità con il migliore amico, la nascita dell'Orda che mise a ferro fuoco l'Asia all'inizio del XIII secolo e altri episodi di rilievo della vita del condottiero compongono un affresco shakespeariano sul senso del potere, il sogno della libertà, la volontà di conquista.",
+    "genres": [
+      "Storia",
+      "Guerra",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 79548,
+    "imdb_id": "tt1838544",
+    "recent_until": 1792482930943,
+    "pegi": "",
+    "runtime": 94,
+    "title": "Scomparsa",
+    "original_title": "Gone",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/fwQjxiY1wjSzZVNKPEp3JzrA7RM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nx0xf9ocWJmKUWWfuWMkUtUyHjh.jpg",
+    "rating": 6.23,
+    "overview": "Tornando a casa una sera e trovando il letto di sua sorella vuoto, Jill Parrish è convinta che il serial killer che l'aveva rapita due anni prima sia tornato. Gli investigatori della polizia non le credono e Jill è si vede costretta ad affrontare la situazione da sola.",
+    "genres": [
+      "Thriller",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 290999,
+    "imdb_id": "tt2535470",
+    "recent_until": 1792482931160,
+    "pegi": "",
+    "runtime": 92,
+    "title": "Road of the Dead - Wyrmwood",
+    "original_title": "Wyrmwood: Road of the Dead",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/5qrUehbmC0HP4IrkxdcLvyruevd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AihIoAQMD8GjIkKVfU22CNgYaz2.jpg",
+    "rating": 6.06,
+    "overview": "Barry, talentuoso meccanico e padre di famiglia, alla vigilia di una apocalisse zombie ha la vita sconvolta. La sorella Brooke è rapita da un gruppo di soldati che indossano maschere antigas per gli esperimenti di un medico psicotico. Mentre Brooke progetta di fuggire in qualche modo, Barry si mette alla sua ricerca alleandosi con Benny, insieme a cui dovrà combattere le orde di zombie che infestano il paesaggio australiano.",
+    "genres": [
+      "Horror",
+      "Azione",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 364733,
+    "imdb_id": "tt1935089",
+    "recent_until": 1792482931374,
+    "pegi": "",
+    "runtime": 98,
+    "title": "Amore inaspettato",
+    "original_title": "Blind",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/liII9mVr3Qq5Vmm5iAlXbed1KYR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ybYTvOXT0AkircVzSiP4DlNbLr7.jpg",
+    "rating": 6.1,
+    "overview": "Un romanziere che ha perso la vista in un incidente d'auto in cui è morta la moglie riscopre la passione per la vita e per la scrittura. La molla che lo spinge a tornare a vivere è la relazione con la moglie di un uomo d'affari rifiutata dal marito.",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 879957,
+    "imdb_id": "tt14858054",
+    "recent_until": 1792482931931,
+    "pegi": "",
+    "runtime": 88,
+    "title": "Wyrmwood: Apocalypse",
+    "original_title": "Wyrmwood: Apocalypse",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/b1OSwHDIflDSbirMr6k3Ivqf2yu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/q5awoAPmKvECUmuD5yGa64Em3XJ.jpg",
+    "rating": 5.766,
+    "overview": "",
+    "genres": [
+      "Azione",
+      "Horror"
+    ]
+  },
+  {
     "tmdb_id": 177271,
     "imdb_id": "tt2465238",
     "recent_until": 1792395614265,
