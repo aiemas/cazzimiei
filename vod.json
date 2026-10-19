@@ -1,5 +1,170 @@
 [
   {
+    "tmdb_id": 177590,
+    "imdb_id": "tt0094717",
+    "recent_until": 1792572105528,
+    "pegi": "",
+    "runtime": 98,
+    "title": "The Beat - Violenza alla deriva",
+    "original_title": "The Beat",
+    "year": "1988",
+    "poster": "https://image.tmdb.org/t/p/w500/pwwLoWVSDcbduWbWwLE0seUTeyw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zTR58vsFs08cNjz0ncCQzkZ6NJK.jpg",
+    "rating": 6.2,
+    "overview": "La scuola superiore di un sobborgo di New York è dominata dalla violenza provocata da bande di studenti, giovani sbandati, che se ne servono come campo di battaglia e teatro delle loro bravate.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 468212,
+    "imdb_id": "tt6901252",
+    "recent_until": 1792572105670,
+    "pegi": "",
+    "runtime": 86,
+    "title": "Tueurs - Al di sopra della legge",
+    "original_title": "Tueurs",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/fJmz7fZiUqNTxHgATEWC1FJm0l.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/p85Pusyrh8GjrVFCB522a79aAUc.jpg",
+    "rating": 5.862,
+    "overview": "Frank Valken, rapinatore ad alta quota, ha appena fatto un'ultima magistrale rottura. Almeno questo è ciò che crede... Sospetti ideali, Valken e la sua banda si ritrovano coinvolti in un procedimento penale di trent'anni. Sembra che i pazzi assassini siano tornati.",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1184418,
+    "imdb_id": "tt36911433",
+    "recent_until": 1792572105813,
+    "pegi": "",
+    "runtime": 111,
+    "title": "Anna",
+    "original_title": "Anna",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/6P0pmiLEnf5TI4SQ4aYNRLFO8ky.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tVLbbfcE0rjfeiZSMmnVJ4at6K8.jpg",
+    "rating": 5.5,
+    "overview": "Nella notte del 21 marzo 1956, Anna Magnani attende in solitudine la notizia della vittoria dell’Oscar per La rosa tatuata. Quella notte, colma di speranza e tensione, segna un punto di svolta: il trionfo pubblico si scontra con una frattura privata. Mentre il mondo la acclama, Anna affronta l’addio doloroso a Roberto Rossellini. La rottura segna l’inizio di un distacco crescente dal cinema e il ritorno al teatro, luogo più intimo e autentico. Ma soprattutto, comincia un viaggio interiore tra ferite, amore e memoria.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 22815,
+    "imdb_id": "tt0077381",
+    "recent_until": 1792572105958,
+    "pegi": "",
+    "runtime": 120,
+    "title": "Il principe e il povero",
+    "original_title": "The Prince and the Pauper",
+    "year": "1977",
+    "poster": "https://image.tmdb.org/t/p/w500/3uH2478VCFHhQJWAnvKXhJhxTEn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aUFKNRyr31IBTq7fnrfPrv6cpBx.jpg",
+    "rating": 6.1,
+    "overview": "Per sfuggire alle guardie che lo inseguono il ladruncolo Tom Canty si infila nella cappa di un camino e di lì cade  nella stanza del principe di Galles, Edoardo, figlio di Enrico VIII. A corte si dà un ballo mascherato e, poichè gli somiglia come una goccia d'acqua, il principe propone al furfante uno scambio di vestiti. Per un tiro del destino accade che Edoardo, scambiato per un vero pezzente, venga scacciato dalla reggia, e che Tom, malgrado dica la verità sul proprio conto, prenda il suo posto. Da quel giorno, mentre Tom assaporerà i piaceri che danno la ricchezza e il potere, ma capirà anche come sia difficile governare, il povero Edoardo scoprirà l'esistenza di un mondo fatto di povertà e di ingiustizie. Dopo molte avventure, però, i due giovani riprenderanno i loro relativi ruoli: Edoardo sarà incoronato re, ma Tom resterà al suo fianco come consigliere.",
+    "genres": [
+      "Dramma",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 22522,
+    "imdb_id": "tt0064030",
+    "recent_until": 1792572106099,
+    "pegi": "",
+    "runtime": 145,
+    "title": "Anna dei mille giorni",
+    "original_title": "Anne of the Thousand Days",
+    "year": "1969",
+    "poster": "https://image.tmdb.org/t/p/w500/u2p5SspAs1GqeuHXNXywryU3k37.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zyLU9jHFS2IInPagitMfasDwss.jpg",
+    "rating": 7.2,
+    "overview": "Enrico VIII ripudia la moglie Caterina d'Aragona per sposare Anna Bolena. Stancatosi anche di lei, che non riesce a dargli un maschio, lascia che venga decapitata, benché la donna neghi fermamente l'accusa di adulterio mossa a suo carico.",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 35080,
+    "imdb_id": "tt0266391",
+    "recent_until": 1792572106280,
+    "pegi": "",
+    "runtime": 114,
+    "title": "Hollywood Confidential",
+    "original_title": "The Cat's Meow",
+    "year": "2002",
+    "poster": "https://image.tmdb.org/t/p/w500/ks8rtBsvlofku7ggmk8uguc2RLY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wGKaxjaJ8gR1PQ2MWQYYS8jpN1D.jpg",
+    "rating": 5.8,
+    "overview": "La vera storia del misterioso omicidio del grande produttore e \"padre del Western\" Thomas H. Ince, avvenuto nel 1924 sull'Oneida, lo yacht del magnate dei media William Randolph Hearst sul quale si trovavano insieme in quello stesso week end ospiti illustri quali Charlie Chaplin, la diva Marion Davis (amante non segreta del proprietario) e la giornalista di gossip Louella Parsons.",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 2196,
+    "imdb_id": "tt0795368",
+    "recent_until": 1792572106422,
+    "pegi": "",
+    "runtime": 91,
+    "title": "Funeral Party",
+    "original_title": "Death at a Funeral",
+    "year": "2007",
+    "poster": "https://image.tmdb.org/t/p/w500/9At5DvVgblxrp4wYxJ83FQddzLG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lIXNL1uoEyuTLqaTAqtBYoc71WF.jpg",
+    "rating": 6.918,
+    "overview": "Una normale famiglia inglese, divisa da gelosie, odi e antichi dissapori, si riunisce il giorno del funerale del patriarca.  Il fidanzato della nipote del defunto assume, credendola Valium, una pastiglia allucinogena fabbricata dal fratello di lei.  Uno dei due figli, apprendista scrittore, deve tenere il discorso funebre, ma è schiacciato dal confronto con suo fratello, un romanziere cinico e inaffidabile.  Un nano misterioso è intenzionato a rivelare particolari torbidi riguardo il passato del morto, a meno che i suoi due discendenti non decidano di dividere con lui l'eredità…",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 14913,
+    "imdb_id": "tt0900357",
+    "recent_until": 1792572106562,
+    "pegi": "",
+    "runtime": 93,
+    "title": "Boogeyman 2 - Il ritorno dell'uomo nero",
+    "original_title": "Boogeyman 2",
+    "year": "2007",
+    "poster": "https://image.tmdb.org/t/p/w500/swC2FkjUF0kCVHQxjnWf1ivwYEi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tu0ci5qZNsozmMvGpLU3SX0Vyz1.jpg",
+    "rating": 5.435,
+    "overview": "Laura Porter quando era una bambina e nel giorno del suo compleanno ha visto uccidere, insieme al fratello Henry, entrambi i genitori. Per i due bambini l'assassino era l'Uomo Nero. Ora i due sono diventati due ragazzi e Laura conserva ancora quel ricordo e quella paura dentro di sé.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 4597,
+    "imdb_id": "tt0913354",
+    "recent_until": 1792572106704,
+    "pegi": "",
+    "runtime": 88,
+    "title": "Blindato",
+    "original_title": "Armored",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/p194PK6FdRpqsMMlkJBwwPMVPhL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/EOAv4NeWOxB5rfGmDJTofX3j3Z.jpg",
+    "rating": 5.757,
+    "overview": "Un gruppo di agenti di un trasporto corazzato di una compagnia di sicurezza rischiano la loro vita quando s'imbarcano nella rapina definitiva... contro la loro stessa compagnia. Armati di un piano che sembra a prova d'errore, gli uomini pianificano di riuscire a fare una fortuna senza far del male a nessuno. Ma quando un testimone inaspettato interferisce, il piano cade velocemente e tutto va a sfracello. Tutte le scommesse sono perse e ogni uomo deve combattere per sopravvivere in un competitivo campo di battaglia fatto d'acciaio.",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Dramma",
+      "Thriller",
+      "Mistero"
+    ]
+  },
+  {
     "tmdb_id": 171013,
     "imdb_id": "tt2463746",
     "recent_until": 1792482928223,

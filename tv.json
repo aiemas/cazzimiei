@@ -1,5 +1,113 @@
 [
   {
+    "tmdb_id": 68944,
+    "imdb_id": "tt4832020",
+    "recent_until": 1792572107588,
+    "type": "tv",
+    "title": "Hell's Kitchen Italia",
+    "original_title": "Hell's Kitchen Italia",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/stsOtYVFWQ4f5HX6HkNX6lXLlq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sef7HCpHaCsgLOlTW7ZDTRvpEyh.jpg",
+    "rating": 6.7,
+    "pegi": "T",
+    "runtime": 90,
+    "overview": "Hell's Kitchen Italia è un talent show che consiste in sfide di cucina condotto dallo chef Carlo Cracco. Il format italiano rispecchia la versione statunitense. Due squadre di aspiranti chef, equamente divisi tra uomini e donne, si sfidano con prove di cucina e di servizio al tavolo presso il ristorante Hell's Kitchen, supervisionati e giudicati dallo chef Carlo Cracco. Una delle caratteristiche fondamentali del programma è la pressione psicologica a cui chef Cracco sottopone i concorrenti; egli infatti non esita a rivolgersi a loro utilizzando insulti ed epiteti particolarmente offensivi, per criticarli, rimproverarli o per spronarli a lavorare in maniera più efficiente o cacciarli fuori dalla cucina.",
+    "genres": [
+      "Reality"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 16
+      },
+      {
+        "season": 2,
+        "episodes": 16
+      },
+      {
+        "season": 3,
+        "episodes": 16
+      },
+      {
+        "season": 4,
+        "episodes": 8
+      },
+      {
+        "season": 5,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 137924,
+    "imdb_id": null,
+    "recent_until": 1792572107727,
+    "type": "tv",
+    "title": "Storia di una famiglia perbene",
+    "original_title": "Storia di una famiglia perbene",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/rSsonADhoIm1wdCjpKmyucOtuCb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uzUgSHlU0oxUqTYEkPOIFePMw0J.jpg",
+    "rating": 7.1,
+    "pegi": "",
+    "runtime": null,
+    "overview": "La serie inizia nella seconda metà degli anni ottanta, quando Michele, figlio del contrabbandiere e trafficante Don Nicola Straziota, decide di non seguire le orme del padre e scappa dalla famiglia. È seguito da Maria, soprannominata Malacarne per il suo temperamento vivace ed insolente, che è innamorata di lui.",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 4
+      },
+      {
+        "season": 2,
+        "episodes": 4
+      }
+    ]
+  },
+  {
+    "tmdb_id": 71128,
+    "imdb_id": "tt6622316",
+    "recent_until": 1792572107907,
+    "type": "tv",
+    "title": "Hunter Street",
+    "original_title": "Hunter Street",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/rm1g7V1qMbus6rlwKP0aTxywhDH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jE0GkWgfEqoMv4pY7lSKx6TT6ut.jpg",
+    "rating": 7.5,
+    "pegi": "T",
+    "runtime": 22,
+    "overview": "Gli insidiosi fratelli adottivi Max, Tess, Sal, Anika e Daniel Hunter trovano nuove missioni, più misteri e persino nuovi fratelli Hunter!",
+    "genres": [
+      "Famiglia",
+      "Action & Adventure",
+      "Commedia",
+      "Kids",
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 20
+      },
+      {
+        "season": 2,
+        "episodes": 20
+      },
+      {
+        "season": 3,
+        "episodes": 30
+      },
+      {
+        "season": 4,
+        "episodes": 20
+      }
+    ]
+  },
+  {
     "tmdb_id": 61865,
     "imdb_id": "tt2874692",
     "recent_until": 1792482933672,
