@@ -1,5 +1,109 @@
 [
   {
+    "tmdb_id": 275139,
+    "imdb_id": "tt21952924",
+    "recent_until": 1792743960274,
+    "type": "tv",
+    "title": "Phony",
+    "original_title": "Phony",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
+    "rating": 6.1,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 303745,
+    "imdb_id": "tt45246384",
+    "recent_until": 1792743960467,
+    "type": "tv",
+    "title": "Amore sotto copertura",
+    "original_title": "나의 유죄인간",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/vw4jwwiwDDYFofzeSrhDT7fx97x.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+    "rating": 4.5,
+    "pegi": "",
+    "runtime": null,
+    "overview": "L'erede del gruppo Taekang, Yoon Yi-jun, è il principale sospettato di un brutale omicidio. Per scoprire la verità, la detective Kang Jae-hee si infiltra come sua segretaria, fingendosi un uomo. Ma più si avvicinano alla verità, più crescono i sentimenti tra i due. Riusciranno Jae-hee, che cela la propria identità, e Yi-jun, che nasconde un segreto, ad aprirsi l'uno all'altra?",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Crime",
+      "Action & Adventure"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 12
+      }
+    ]
+  },
+  {
+    "tmdb_id": 84609,
+    "imdb_id": "tt4589246",
+    "recent_until": 1792743960646,
+    "type": "tv",
+    "title": "Dystopia",
+    "original_title": "Dystopia",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/kX4xgpYWc6bmYJDzG6HiRIIn7rb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sFNrDMMXu4AipfmKEFT8dc4euhz.jpg",
+    "rating": 6.2,
+    "pegi": "",
+    "runtime": 45,
+    "overview": "",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 289423,
+    "imdb_id": "tt37737331",
+    "recent_until": 1792743960819,
+    "type": "tv",
+    "title": "Fammi battere il cuore",
+    "original_title": "나를 충전해줘",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/iRpbHcHh7RO6VkkXUAZBl07uE0q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+    "rating": 8.9,
+    "pegi": "",
+    "runtime": null,
+    "overview": "L'erede di un'azienda con un cuore artificiale incontra una donna letteralmente... elettrizzante! Tra loro nasce un patto al cardiopalma, in tutti i sensi.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Commedia",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
     "tmdb_id": 290148,
     "imdb_id": "tt36674331",
     "recent_until": 1792657368090,
