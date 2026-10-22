@@ -1,5 +1,86 @@
 [
   {
+    "tmdb_id": 335319,
+    "imdb_id": "tt46658083",
+    "recent_until": 1792830512123,
+    "type": "tv",
+    "title": "The New Stanford Prison Experiment",
+    "original_title": "The New Stanford Prison Experiment",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/heoESrHAdmPeYECs2B7R8RIqLyN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zdKp0ycLliNrN1PZHaluN3v24GH.jpg",
+    "rating": 8.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Reality"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 2685,
+    "imdb_id": "tt0096579",
+    "recent_until": 1792830512315,
+    "type": "tv",
+    "title": "Otto sotto un tetto",
+    "original_title": "Family Matters",
+    "year": "1989",
+    "poster": "https://image.tmdb.org/t/p/w500/a4fnqSWlpW4YFYbcCIjRNdrAS1n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vIeMoVqSqhEr2AaG9feqKBjeb8z.jpg",
+    "rating": 6.765,
+    "pegi": "T",
+    "runtime": 23,
+    "overview": "Carl Winslow è un ufficiale della polizia di Chicago: inizialmente è un sergente, poi viene promosso a tenente ed infine diventa anche capitano. Vive insieme alla sua numerosa famiglia (la moglie Harriet, i figli Edward, Laura e Judith, la madre Estelle, la cognata Rachel e il nipote Richard) in una grande casa a Chicago. Ma il personaggio probabilmente più conosciuto della serie è il loro vicino di casa, Steve Urkel: questi è un pasticcione clamoroso, commette immancabilmente disastri ed è innamorato (non corrisposto) di Laura, figlia di Carl. Molto nota è la sua frase tipica: \"Sono stato io a fare questo?\", che dice ogni volta che combina un disastro. Il personaggio di Steve è stato introdotto solo dopo il 12º episodio, con apparizioni brevi e sporadiche; l'immediato gradimento da parte del pubblico convinse la produzione a incentrare di più l'attenzione sul giovane innamorato e combinaguai.",
+    "genres": [
+      "Commedia",
+      "Famiglia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 22
+      },
+      {
+        "season": 2,
+        "episodes": 25
+      },
+      {
+        "season": 3,
+        "episodes": 25
+      },
+      {
+        "season": 4,
+        "episodes": 24
+      },
+      {
+        "season": 5,
+        "episodes": 24
+      },
+      {
+        "season": 6,
+        "episodes": 25
+      },
+      {
+        "season": 7,
+        "episodes": 24
+      },
+      {
+        "season": 8,
+        "episodes": 24
+      },
+      {
+        "season": 9,
+        "episodes": 22
+      }
+    ]
+  },
+  {
     "tmdb_id": 275139,
     "imdb_id": "tt21952924",
     "recent_until": 1792743960274,
