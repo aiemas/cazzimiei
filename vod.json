@@ -1,5 +1,246 @@
 [
   {
+    "tmdb_id": 1802723,
+    "imdb_id": "tt43636513",
+    "recent_until": 1792916688793,
+    "pegi": "",
+    "runtime": 0,
+    "title": "Diversa",
+    "original_title": "Diversa",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/iFW4yakO8VAVs5R8iJiLBxj2wPd.jpg",
+    "backdrop": null,
+    "rating": 0.0,
+    "overview": "",
+    "genres": []
+  },
+  {
+    "tmdb_id": 61755,
+    "imdb_id": "tt0085124",
+    "recent_until": 1792916689004,
+    "pegi": "",
+    "runtime": 92,
+    "title": "1990: I guerrieri del Bronx",
+    "original_title": "1990: I guerrieri del Bronx",
+    "year": "1982",
+    "poster": "https://image.tmdb.org/t/p/w500/ouD43yFhm8WtfBadWjbC0B0L2hu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dPSgR1xruQ8Wa40wWyZFgfuSXEX.jpg",
+    "rating": 5.0,
+    "overview": "Bronx, in un futuro e distopico 1990, il quartiere, dominato da bande di giovani teppisti, viene dichiarato \"Terra di Nessuno\" dal governo.",
+    "genres": [
+      "Azione",
+      "Fantascienza",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1198654,
+    "imdb_id": "tt29714073",
+    "recent_until": 1792916689217,
+    "pegi": "10+",
+    "runtime": 100,
+    "title": "Bad Apples",
+    "original_title": "Bad Apples",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+    "rating": 6.543,
+    "overview": "Maria è un'insegnante elementare in una prestigiosa scuola privata il cui lavoro viene compromesso da Danny, uno studente difficile e incontrollabile. Dopo un violento incidente, Maria commette l'impensabile rinchiudendo il bambino in casa.",
+    "genres": [
+      "Commedia",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 27636,
+    "imdb_id": "tt0057078",
+    "recent_until": 1792916689427,
+    "pegi": "",
+    "runtime": 87,
+    "title": "La frusta e il corpo",
+    "original_title": "La frusta e il corpo",
+    "year": "1963",
+    "poster": "https://image.tmdb.org/t/p/w500/6TeZIV4nV3yQPR8Rq0xhHa9hxsT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/EGIbG1zVCdlQnyDFkSwScyMzUo.jpg",
+    "rating": 6.4,
+    "overview": "Ripudiato in passato dal padre, Kurt Menliff, un nobile crudele e sadico, torna al castello di famiglia per reclamare la sua eredità.",
+    "genres": [
+      "Dramma",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 1589799,
+    "imdb_id": null,
+    "recent_until": 1792916689650,
+    "pegi": "T",
+    "runtime": 43,
+    "title": "SpongeBob and Patrick's Timeline Twist-Up",
+    "original_title": "SpongeBob and Patrick's Timeline Twist-Up",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/6kBZ2CTolHtaB9AyIkZl1lAg9j3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5lalD90RjKDHievqTAlGOPFSaFE.jpg",
+    "rating": 6.0,
+    "overview": "",
+    "genres": [
+      "Animazione",
+      "Famiglia",
+      "Commedia",
+      "televisione film"
+    ]
+  },
+  {
+    "tmdb_id": 10341,
+    "imdb_id": "tt0101458",
+    "recent_until": 1792916689903,
+    "pegi": "",
+    "runtime": 287,
+    "title": "Fino alla fine del mondo",
+    "original_title": "Bis ans Ende der Welt",
+    "year": "1991",
+    "poster": "https://image.tmdb.org/t/p/w500/czm5Ed0OThK6FAR1rNA7MJygHBz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wF08MKJWgBIJqmTQXSWwXbQe0OU.jpg",
+    "rating": 6.7,
+    "overview": "Una donna ha un incidente, che coinvolge alcuni rapinatori, con cui finisce per fare amicizia, unendosi a loro per un viaggio verso Parigi. Durante il tragitto incontra un altro uomo in fuga dalla legge, la cui attività è molto più misteriosa...",
+    "genres": [
+      "Dramma",
+      "Fantascienza",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 18502,
+    "imdb_id": "tt0090094",
+    "recent_until": 1792916690116,
+    "pegi": "",
+    "runtime": 85,
+    "title": "Stuff - Il gelato che uccide",
+    "original_title": "The Stuff",
+    "year": "1985",
+    "poster": "https://image.tmdb.org/t/p/w500/skeN3ZRB8gMm6IiJ9tu79swqp8N.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tbYg8aKDTLia2ZjT3b4ykAAHyel.jpg",
+    "rating": 6.0,
+    "overview": "A Midland , in Georgia due minatori scoprono una strana e cremosa sostanza, la assaggiano e decidono di metterla sul mercato. Questo nuovo dessert viene chiamato \"The stuff\" ed ha un enorme successo in tutta la nazione. Ma non è cosi innocuo quanto sembra infatti si impossessa del cervello di chi lo mangia e lo fa diventare uno zombie. Sarà il compito di David, un ex agente dell'FBI , della sua ragazza Nicole , che inizialmente faceva la pubblicità del dessert e di un ragazzino Jason, che ha visto tutta la sua famiglia trasformata in zombie per colpa del dessert, fermarlo.",
+    "genres": [
+      "Horror",
+      "Fantascienza",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1433680,
+    "imdb_id": "tt35657504",
+    "recent_until": 1792916690438,
+    "pegi": "",
+    "runtime": 106,
+    "title": "A cena con il dittatore",
+    "original_title": "La cena",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/vyXuBt4SWQOnxTI4AvplgNVTAkr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9C10gUV5uR1UZtvGs8uQtb6xi7Z.jpg",
+    "rating": 6.9,
+    "overview": "Due settimane dopo la fine della Guerra civile, Francisco Franco ordina una cena celebrativa al Palace Hotel. Un giovane tenente, un meticoloso maître e un gruppo di prigionieri repubblicani con competenze culinarie devono preparare un banchetto impeccabile in tempi record. Tutto sembra procedere senza intoppi, ma in cucina si sta preparando qualcosa di più di un semplice menù. Il piano di fuga è ufficialmente in atto.",
+    "genres": [
+      "Commedia",
+      "Storia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 13994,
+    "imdb_id": "tt0368222",
+    "recent_until": 1792916690692,
+    "pegi": "",
+    "runtime": 105,
+    "title": "Romance & Cigarettes",
+    "original_title": "Romance & Cigarettes",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/phSntD46jD5IfYAa2lSoU6xJDJ6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4RbxxPAUushqUYNO8EW09GSluBt.jpg",
+    "rating": 6.053,
+    "overview": "Nick, operaio, costruisce e ripara ponti. È sposato con Kitty Kane, sarta, donna forte e gentile che gli ha dato tre figlie, ma ha preso una sbandata per la giovane Tula. Farà di tutto per venirne fuori.",
+    "genres": [
+      "Commedia",
+      "Musica",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 16346,
+    "imdb_id": "tt1145144",
+    "recent_until": 1792916690949,
+    "pegi": "",
+    "runtime": 95,
+    "title": "Center Stage: Turn It Up",
+    "original_title": "Center Stage: Turn It Up",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/w500/ngD6GbYx9auu95YMgfNImOnC6uj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/Aec0DEgQEwzfGa9551qpiS85V3j.jpg",
+    "rating": 6.867,
+    "overview": "Tutto ciò che la ballerina autodidatta Kate Parker ha sempre voluto fare era esibirsi con l'American Academy of Ballet. Ma quando non ce la fa dopo l'audizione, scopre che ci vogliono più della precisione e della perfezione per avere successo nel mondo della danza.",
+    "genres": [
+      "Dramma",
+      "Musica",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 296626,
+    "imdb_id": "tt3534842",
+    "recent_until": 1792916691158,
+    "pegi": "",
+    "runtime": 84,
+    "title": "Non si gioca con Morte",
+    "original_title": "Finders Keepers",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/4yywVSSwaU8ZUXRYjHqORl6xJa6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/l1sP2eSmbvmInZLhVXey48dW1C0.jpg",
+    "rating": 4.88,
+    "overview": "La vita di una madre divorziata viene completamente sconvolta quando va a vivere in un nuovo appartamento insieme alla sua bambina. La piccola infatti, diventa ossessionata da un'inquietante bambola dalle fattezze malvagie, lasciata nella casa dai vecchi proprietari.",
+    "genres": [
+      "Mistero",
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 332502,
+    "imdb_id": "tt3774790",
+    "recent_until": 1792916691368,
+    "pegi": "",
+    "runtime": 91,
+    "title": "400 giorni",
+    "original_title": "400 Days",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/cFjPk9bURCK06CCalDUuD000aWH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/37bqZZ23ORR4hmvHXgJNiqlC0Vk.jpg",
+    "rating": 4.382,
+    "overview": "Quattro astronauti sono scelti per simulare una missione su un lontano pianeta per testare gli effetti psicologici dei viaggi nello spazio profondo. Lontani da casa per 400 giorni, vedranno il loro stato mentale deteriorarsi quando perderanno ogni contatto con il mondo esterno. Costretto a uscire dalla loro navicella, il gruppo scoprirà che la missione potrebbe non essere stata una simulazione.",
+    "genres": [
+      "Mistero",
+      "Fantascienza",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 291413,
+    "imdb_id": "tt3612320",
+    "recent_until": 1792916691579,
+    "pegi": "",
+    "runtime": 88,
+    "title": "Within - Presenze",
+    "original_title": "Within",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/wfOaPl9lfzRuMjbnJZ8joBHG1h2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/abYksHVv56UF1HKJpc4DNHGaWuX.jpg",
+    "rating": 5.431,
+    "overview": "John, rimasto vedovo e con una figlia, si risposa e si trasferisce con la nuova famiglia nella loro casa dei sogni. Tutto sembra andare bene finchè alcuni strani eventi non iniziano a manifestarsi nella casa, il cui precedente proprietario è misteriosamente scomparso.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 64807,
     "imdb_id": "tt1661382",
     "recent_until": 1792830508389,

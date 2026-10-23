@@ -1,5 +1,55 @@
 [
   {
+    "tmdb_id": 335535,
+    "imdb_id": "tt39387986",
+    "recent_until": 1792916693513,
+    "type": "tv",
+    "title": "Grande de España",
+    "original_title": "Grande de España",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/jhjVQtqQgSYjv91IoYWyZvMoqZF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 337609,
+    "imdb_id": "tt48356732",
+    "recent_until": 1792916693728,
+    "type": "tv",
+    "title": "Swipe Right on the Devil",
+    "original_title": "Swipe Right on the Devil",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg",
+    "rating": 7.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Documentario",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
     "tmdb_id": 335319,
     "imdb_id": "tt46658083",
     "recent_until": 1792830512123,
