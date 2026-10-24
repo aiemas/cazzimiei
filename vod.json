@@ -1,5 +1,429 @@
 [
   {
+    "tmdb_id": 1563588,
+    "imdb_id": "tt37664358",
+    "recent_until": 1793001600089,
+    "pegi": "",
+    "runtime": 81,
+    "title": "L'hangar rosso",
+    "original_title": "Hangar Rojo",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/owA1QtBUMmJ5DBN4eLL4fmrUxRH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7dvto6jc3R9w46uphDkupiLvqnv.jpg",
+    "rating": 7.9,
+    "overview": "Cile, 11 settembre 1973, colpo di stato militare. Il capitano Jorge Silva, ex capo dell’intelligence dell’Aeronautica, viene incaricato di trasformare l’Accademia in cui sta addestrando i giovani cadetti in un centro di detenzione e tortura. Mentre gli hangar si riempiono di prigionieri e la repressione diventa sempre più brutale, Silva si ritrova a un bivio: obbedire agli ordini e appoggiare il nuovo regime, o disobbedire e aiutare chi lotta per sopravvivere?",
+    "genres": [
+      "Dramma",
+      "Storia",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 42892,
+    "imdb_id": "tt1455810",
+    "recent_until": 1793001600253,
+    "pegi": "T",
+    "runtime": 90,
+    "title": "Happy Family",
+    "original_title": "Happy Family",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/pWrfIvygxbJTOrqMVqUDWvv1Ato.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7DvsXlSqZhPIVEVmutHo0YcxVgo.jpg",
+    "rating": 6.4,
+    "overview": "Filippo e Marta hanno sedici anni e la ferma decisione di sposarsi. Marta dovrà persuadere i suoi genitori, passando sopra l'isteria della madre e l'indolenza del padre, Filippo dovrà convincere la madre ma può contare sulla benedizione del suo secondo marito, Vincenzo. Alla cena che riunisce alla stessa tavola i figli cocciuti e i parenti sballati, finisce anche Ezio, il narratore di questa storia, coinvolto da un incidente in bicicletta e convinto da un colpo di fulmine in ascensore.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 21242,
+    "imdb_id": "tt0067921",
+    "recent_until": 1793001600402,
+    "pegi": "",
+    "runtime": 91,
+    "title": "Io sono Valdez",
+    "original_title": "Valdez Is Coming",
+    "year": "1971",
+    "poster": "https://image.tmdb.org/t/p/w500/znTcV0pW01FXboLdRAwM3zrl17u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1ElnSpktceRXLe5kr8D4mL57gX4.jpg",
+    "rating": 6.347,
+    "overview": "Il vecchio sceriffo messicano-americano Bob Valdez è sempre stato un rifugio di sanità mentale in una terra di follia quando si trattava di difendere la legge e l'ordine. Ma il contrabbandiere di armi Frank Tanner è avido e impulsivo. Quando Tanner provoca una sparatoria che provoca la morte di un uomo innocente e Valdez gli chiede di risarcire finanziariamente la vedova, Tanner si rifiuta di farlo e umilia severamente Valdez, che farà giustizia e vendicherà il suo onore, qualunque cosa accada.",
+    "genres": [
+      "Western"
+    ]
+  },
+  {
+    "tmdb_id": 66035,
+    "imdb_id": "tt0048248",
+    "recent_until": 1793001600545,
+    "pegi": "",
+    "runtime": 104,
+    "title": "Il kentuckiano",
+    "original_title": "The Kentuckian",
+    "year": "1955",
+    "poster": "https://image.tmdb.org/t/p/w500/8YI9seB4p7h3ZAyHBkyt83CVHlm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zZlm2z1UAefEqlcGMv1UsVPS6SQ.jpg",
+    "rating": 5.8,
+    "overview": "Beg Eli, un boscaiolo rimasto vedovo, vuole trasferirsi col figlio dal Kentucky in Texas. Beg vuole sfuggire a una faida che si trascina da tempo immemorabile, opponendo la sua famiglia a un'altra. Tuttavia durante il trasferimento si ferma in una città, dove viene raggiunto dai suoi implacabili inseguitori, che cercano di provocarlo a tutti costi, con uno stillicidio di offese e soprusi e coinvolgendolo anche in risse sanguinose.",
+    "genres": [
+      "Western"
+    ]
+  },
+  {
+    "tmdb_id": 289712,
+    "imdb_id": "tt2125685",
+    "recent_until": 1793001600693,
+    "pegi": "",
+    "runtime": 81,
+    "title": "Mockingbird - In diretta dall'inferno",
+    "original_title": "Mockingbird",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/h7tzWmIOqMlXqakPV21DPCGSFKr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mVNnXW3Hb5fahJRM1yUrSGg7vqK.jpg",
+    "rating": 4.705,
+    "overview": "Una coppia, una studentessa annoiata e un disoccupato ricevono una videocamera con le istruzioni per fare un filmato, credendo che sia un concorso per vincere denaro ma hanno tutti un marchio e la coppia e la studentessa cominciano ad essere perseguitati. Il disoccupato si traveste da clown e si fa mettere in ridicolo e scoprono che devono continuare a riprendere o moriranno.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1153576,
+    "imdb_id": "tt27419420",
+    "recent_until": 1793001600841,
+    "pegi": "10+",
+    "runtime": 120,
+    "title": "Street Fighter",
+    "original_title": "Street Fighter",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+    "rating": 6.366,
+    "overview": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guardare in faccia i demoni del passato. Perché qui non esistono seconde possibilità: se perdi, è GAME OVER.",
+    "genres": [
+      "Azione",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 6476,
+    "imdb_id": "tt0074553",
+    "recent_until": 1793001600988,
+    "pegi": "",
+    "runtime": 99,
+    "title": "Da mezzogiorno alle tre",
+    "original_title": "From Noon Till Three",
+    "year": "1976",
+    "poster": "https://image.tmdb.org/t/p/w500/p0pOI8Azp5tol5GEVTh8vjAmAxA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bJFKg1jx2grgZoUxkJFEs2LROhs.jpg",
+    "rating": 6.0,
+    "overview": "Mentre si recano a rubare una banca, dei malviventi si fermano in una casa per rubare un cavallo. Amanda, la proprietaria, adocchia uno della banda, Graham, che invece di seguire i compagni, si ferma con la donna, vedova.",
+    "genres": [
+      "Commedia",
+      "Western"
+    ]
+  },
+  {
+    "tmdb_id": 40352,
+    "imdb_id": "tt0085627",
+    "recent_until": 1793001601133,
+    "pegi": "",
+    "runtime": 94,
+    "title": "I guerrieri dell'anno 2072",
+    "original_title": "I guerrieri dell'anno 2072",
+    "year": "1984",
+    "poster": "https://image.tmdb.org/t/p/w500/wvZy4O4d9Lz8uQyOXojvvfks8LG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AwDCPQseSrJvRyCz7Wjaf1pgxI7.jpg",
+    "rating": 5.1,
+    "overview": "Nel 2072 tutta la Terra è oramai controllata e regolata dalla televisione. Le principali reti si fanno una concorrenza spietata nella corsa agli indici di gradimento più alti, per l'ottenimento dei quali tutti i mezzi sono buoni. Una rete (la \"W Basic\")  organizza un gioco mortale nell'arena del Colosseo e per garantire il successo dell'iniziativa fa sì che tra i gladiatori ci sia anche un campione di motociclismo condannato ingiustamente.",
+    "genres": [
+      "Azione",
+      "Fantascienza",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 38152,
+    "imdb_id": "tt0072198",
+    "recent_until": 1793001601291,
+    "pegi": "",
+    "runtime": 96,
+    "title": "La banda di Harry Spikes",
+    "original_title": "The Spikes Gang",
+    "year": "1974",
+    "poster": "https://image.tmdb.org/t/p/w500/tF3lKpF8mcdp5H9fSe3tS94NfLo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6YE0hLfI0GSFWravBxEc63oe63P.jpg",
+    "rating": 6.717,
+    "overview": "Henry Spikes, rapinatore di banche, trovato ferito e curato da Will, Les e Tod, suggestiona talmente i tre giovani che, questi, dopo la sua partenza, decidono di tentare la fortuna abbandonando il ranch. Data l'età acerba e l'inesperienza, i primi colpi non riescono; Tod incidentalmente uccide un senatore statunitense; la banda deve espatriare nel vicino Messico, ove, rincorsa per furti di poco conto, finisce tra le braccia della polizia che mette i 3 amici in guardina. Liberati dai dollari del riconoscente Henry, i Willy e compagni decidono di costituire una banda più efficiente, e tentano il colpo con la \"Banca degli allevatori di cavalli\" di New Alley.",
+    "genres": [
+      "Western",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 50433,
+    "imdb_id": "tt0086868",
+    "recent_until": 1793001601439,
+    "pegi": "",
+    "runtime": 88,
+    "title": "L'alcova",
+    "original_title": "L'alcova",
+    "year": "1985",
+    "poster": "https://image.tmdb.org/t/p/w500/l2CJZguM1GFtesUYc8nn7Ga1mpy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cxkxFkn8UJ9GCnTyMG46kmiTG8d.jpg",
+    "rating": 5.4,
+    "overview": "1936. Il comandante Elio torna dal fronte abissino. A casa, in Italia, lo aspettano la moglie e la segretaria di lui, anche amante di lei. L'uomo ha con sé una bella ragazza di colore, che scatena perversioni e gelosie. Sarà proprio quest'ultima a rimetterci la pelle, dopo di che tutto tornerà ad essere \"regolare\", almeno quanto prima.\r Ispirato al romanzo di Juditte Wexley, L'alcova di Joe D'Amato, al secolo Aristide Massaccesi, s'inscrive nella fase più \"raffinata\" della filmografia pornografica del regista, in compagnia di altri due titoli, Lussuria e Il Piacere.\r Laura Gemser recita qui dopo aver contribuito grandemente al successo di D'Amato, come protagonista della fortunata serie Emanuelle nera.",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 26119,
+    "imdb_id": "tt0066907",
+    "recent_until": 1793001601590,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Chato",
+    "original_title": "Chato's Land",
+    "year": "1972",
+    "poster": "https://image.tmdb.org/t/p/w500/rEcplN36UmuiOH10tLVaJed8czJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xKbC1dQkBA8omEumGm8wqqDzMuf.jpg",
+    "rating": 6.6,
+    "overview": "Chato è un meticcio Apache che varca la linea che separa due culture, rimanendo fedele alla sua tribù pur subendo il fascino del mondo dell'uomo bianco. Ma quando Chato uccide, per difendersi, un ambiguo sceriffo, si ritrova inseguito da una banda guidata dal crudele Quincey Whitmore, un ex ufficiale confederato determinato a vederlo impiccato. Sono 13 uomini contro uno, ma le probabilità di farcela si spostano a favore di Chato quando attira i suoi inseguitori nel territorio Apache, dove il paesaggio duro e crudele può uccidere quanto la pallottola di un pistolero.",
+    "genres": [
+      "Western"
+    ]
+  },
+  {
+    "tmdb_id": 17664,
+    "imdb_id": "tt0052902",
+    "recent_until": 1793001601774,
+    "pegi": "",
+    "runtime": 115,
+    "title": "Soldati a cavallo",
+    "original_title": "The Horse Soldiers",
+    "year": "1959",
+    "poster": "https://image.tmdb.org/t/p/w500/onVR37pSJpAdCvnXWGvS76xFriz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9ny2f4aVGSvuV3yUKlFAQ26677Y.jpg",
+    "rating": 6.9,
+    "overview": "Nel 1863, durante la guerra civile, una colonna di cavalleggeri nordisti penetra per ottocento chilometri nel territorio dei confederati sudisti per sabotare il nodo ferroviario di Newton da dove partono i rifornimenti per Vicksburg.",
+    "genres": [
+      "Western",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 14854,
+    "imdb_id": "tt0085862",
+    "recent_until": 1793001601920,
+    "pegi": "",
+    "runtime": 107,
+    "title": "Una magnum per McQuade",
+    "original_title": "Lone Wolf McQuade",
+    "year": "1983",
+    "poster": "https://image.tmdb.org/t/p/w500/poTBBjiMo3Ptt7zGnWSGQqv6Yxe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yR10dIRDAuRfRUxQ2azF4GSwJNb.jpg",
+    "rating": 6.475,
+    "overview": "Wilkes traffica in armi all'insaputa del suo boss, Falco. McQuade è un ranger del Texas, invischiato in questo traffico, ricattato e sorvegliato da Wilkes attraverso la bella Lola. Il ranger trova però la forza di reagire e, con l'aiuto di un agente Fbi e di un suo amico, ingaggia una lotta all'ultimo sangue con Wilkes, durante la quale muore anche Lola, nel frattempo innamoratasi per davvero di lui.",
+    "genres": [
+      "Azione",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 11536,
+    "imdb_id": "tt0055184",
+    "recent_until": 1793001602070,
+    "pegi": "T",
+    "runtime": 125,
+    "title": "Gli spostati",
+    "original_title": "The Misfits",
+    "year": "1961",
+    "poster": "https://image.tmdb.org/t/p/w500/kgFRSwrOUJkVz6CP0QJnJ07j32G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uCH6NY9qstOLbBTGv0rWxB1oJJH.jpg",
+    "rating": 7.0,
+    "overview": "Roslyn è a Reno per divorziare. Perce, Guido e Gay invece a Reno ci vivono, catturando cavalli selvaggi e partecipando a rodei. Tutti e tre sono attratti dalla bella Roslyn. Durante una caccia ai mustang, Perce si fa male e Roslyn ne è sconvolta: quel mondo duro e violento le fa vedere sotto un diverso aspetto Gay. Così quando Guido e Gay partecipano ad una nuova caccia a un branco di cavalli selvaggi, aiutata da Perce, la donna libera l'animale che i due hanno con tanta fatica catturato. Gay allora lo ricattura, per liberarlo però a sua volta, in omaggio a Roslyn...",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Western"
+    ]
+  },
+  {
+    "tmdb_id": 11248,
+    "imdb_id": "tt0109779",
+    "recent_until": 1793001602215,
+    "pegi": "",
+    "runtime": 106,
+    "title": "Delitto di stato",
+    "original_title": "Fatherland",
+    "year": "1994",
+    "poster": "https://image.tmdb.org/t/p/w500/woffg7jHtPHef00fSjoLs9TIDON.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/znWxInJXM4GZ3SzMYbfRZMjlEtQ.jpg",
+    "rating": 6.262,
+    "overview": "Dopo aver vinto la Seconda Guerra Mondiale, la Germania nazista negli anni ’60 è ancora in lotta contro la Russia e necessita disperatamente dell’alleanza degli Stati Uniti, per vincere definitivamente la macchina da guerra di Stalin. Un detective nazista della omicidi, Xavier March, indaga sulla misteriosa morte di un ufficiale del partito nazista, e scopre un collegamento con l’olocausto degli ebrei della seconda guerra mondiale. Con l’aiuto di un giornalista americano, March riesce a scoprire tutta la verità su ciò che accadde agli ebrei, una verità che potrebbe compromettere il processo di pace con gli USA.",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Azione",
+      "televisione film",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 11209,
+    "imdb_id": "tt0053580",
+    "recent_until": 1793001602360,
+    "pegi": "T",
+    "runtime": 202,
+    "title": "La battaglia di Alamo",
+    "original_title": "The Alamo",
+    "year": "1960",
+    "poster": "https://image.tmdb.org/t/p/w500/fWMilYlXYuwxjGgw3iNNQgMg49q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/j8uKvgcqCCoFx6BbJlWtmv78aBg.jpg",
+    "rating": 7.083,
+    "overview": "L'azione si svolge nell'anno 1836, in una vecchia missione fortificata del Texas: Alamo. Nel forte si trovano dei volontari al comando di Jim Bowie e del colonnello W.B. Travis, ed un gruppo di uomini venuti dal lontano Tennessee al comando di David Crockett. Per ben tre giorni, 185 uomini lottano disperatamente contro un'armata messicana di 7000 uomini, comandata dal generale Antonio Lopez de Santa Ana. Tutti vengono uccisi. Ma il loro sacrificio eroico non sarà vano. Alcuni giorni più tardi, il generale Sam Houston potrà, grazie alla resistenza di forte Alamo, vincere l'armata di Santa Ana, e ridare l'indipendenza al Texas.",
+    "genres": [
+      "Guerra",
+      "Avventura",
+      "Storia",
+      "Western"
+    ]
+  },
+  {
+    "tmdb_id": 9059,
+    "imdb_id": "tt0114608",
+    "recent_until": 1793001602510,
+    "pegi": "",
+    "runtime": 92,
+    "title": "Il cavaliere del male",
+    "original_title": "Tales from the Crypt: Demon Knight",
+    "year": "1995",
+    "poster": "https://image.tmdb.org/t/p/w500/rcI5Mi98c4EqbVEhfEcYed10oew.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dqcHYGdpePlF9ILQ0ajNJJJPl3n.jpg",
+    "rating": 6.856,
+    "overview": "Brayker possiede l'ultima di sette antiche chiavi (le quali custodirono il sangue di Cristo) che lo rende in grado di fermare l'avanzata delle forze del Male. Il prodigioso oggetto è ambito da molti: fra questi c'è il perfido \"Collezionista\" che, per ottenerlo e poter così far cadere l'universo nel caos, accusa Brayker di avergli rubato la chiave e lo denuncia alla polizia. Non pago, evoca dall'Aldilà una schiera di cadaveri...",
+    "genres": [
+      "Horror",
+      "Commedia",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 2436,
+    "imdb_id": "tt0106761",
+    "recent_until": 1793001602662,
+    "pegi": "",
+    "runtime": 96,
+    "title": "Double Dragon",
+    "original_title": "Double Dragon",
+    "year": "1994",
+    "poster": "https://image.tmdb.org/t/p/w500/hzFav3ZEpq6MwqVw9wyV5Eu72IF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gJXt3gMz4EF39mdyhvy5EsXdiPk.jpg",
+    "rating": 4.6,
+    "overview": "La Los Angeles del 2027 distrutta da un maremoto e parzialmente sommersa dalle acque, è in balìa di bande criminali. La più agguerrita è quella di Koga Shuko, che per conquistare il potere assoluto deve recuperare parte di un medaglione, proprietà di Satori. Quest'ultima è la protettrice di Billy e di Jimmy Lee, campioni di arti marziali, gli unici in grado di contrastare il progetto.",
+    "genres": [
+      "Azione",
+      "Avventura",
+      "Commedia",
+      "Fantasy",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1403,
+    "imdb_id": "tt0060355",
+    "recent_until": 1793001602814,
+    "pegi": "",
+    "runtime": 105,
+    "title": "Duello a El Diablo",
+    "original_title": "Duel at Diablo",
+    "year": "1966",
+    "poster": "https://image.tmdb.org/t/p/w500/rQZQ66cgjlKEJB3u61BBzXLCS1g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1ULaC1QZjZxoGHpdYzoSvxNzo5g.jpg",
+    "rating": 6.4,
+    "overview": "In viaggio verso Fort Creel, Jess Remsberg libera una donna bianca vissuta come schiava presso una tribù di indiani, e la riporta al marito. La coppia, insieme a Jess e a uno squadrone di cavalleria si dirige verso un altro forte, ma viene attaccata dagli indiani. Jess corre in cerca di aiuti ma, quando torna, trova la piccola carovana massacrata: solo la donna e suo figlio (avuto dal capo indiano) si sono salvati. Violento, movimentato, un western \"adulto\" e multirazziale del regista che cinque anni dopo firmerà \"Soldato blu\".",
+    "genres": [
+      "Western"
+    ]
+  },
+  {
+    "tmdb_id": 52036,
+    "imdb_id": "tt0335013",
+    "recent_until": 1793001603010,
+    "pegi": "",
+    "runtime": 112,
+    "title": "The Company",
+    "original_title": "The Company",
+    "year": "2003",
+    "poster": "https://image.tmdb.org/t/p/w500/izdTt7Fth8dAa9wGfDgrmsWuxpD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7crZgHFGctVmCmNiTtgxenEWQsI.jpg",
+    "rating": 5.3,
+    "overview": "Il Joffrey Ballet di Chicago è impegnato nella preparazione di un nuovo spettacolo,  \"The Blue Snake\". I sacrifici e le rivalità sono all'ordine del giorno nelle fila degli aspiranti ballerini: fra di loro c'è Ry, divisa tra la volontà di diventare un'\"étoile\" e la realtà di un lavoro da cameriera...",
+    "genres": [
+      "Romance",
+      "Musica",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 58428,
+    "imdb_id": "tt1594562",
+    "recent_until": 1793001603159,
+    "pegi": "",
+    "runtime": 101,
+    "title": "The Innkeepers",
+    "original_title": "The Innkeepers",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/f9xYGmHnfg2u144oOfFn2Y4lC4Y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hgP1lEgyxFFhU607nqn0FHmG859.jpg",
+    "rating": 5.371,
+    "overview": "Dopo un centinaio d'anni di attività, il Yankee Pedlar Hotel è in procinto di chiudere i battenti per sempre. Gli ultimi impiegati, Claire (Paxton), una ventenne che ha affrontato molti problemi nella vita, e Luke (Healy), un solitario esperto di computer, sono convinti che l'hotel è infestato e sono determinati a dimostrarlo. Man mano che si avvicinano gli ultimi giorni d'apertura, arrivano misteriosi ospiti tra cui Leanne Rease-Jones (McGillis), un ex attrice TV diventata una psichica, e un vecchio che insiste di essere ospite nella camera 353. Man mano comincia ad aumentare il numero di strani avvenimenti, sia Claire che Luke devono prendere delle decisioni cruciali su cosa credere e cosa non credere.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 256092,
+    "imdb_id": "tt2968804",
+    "recent_until": 1793001603305,
+    "pegi": "",
+    "runtime": 92,
+    "title": "Drive Hard",
+    "original_title": "Drive Hard",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/ki0SFXH1Y6BfuEPGTdgNXJ7mHtw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lVgb8ebWu0H1hphBUw31m6gKDYW.jpg",
+    "rating": 4.3,
+    "overview": "Ladro americano, Simon Keller arriva in un paese straniero in cerca di un pilota per una fuga. Invece di reclutarne uno dalla malavita, Simon decide però di prendere lezioni di guida da Peter Roberts, un ex pilota di Formula 1 che lavora come istruttore. Dopo che Keller rapina una banca durante una delle lezioni, Roberts non ha altra scelta che di usare il suo talento per sfuggire all'inseguimento di polizia e mafiosi.",
+    "genres": [
+      "Azione",
+      "Commedia",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 1225377,
+    "imdb_id": "tt30743549",
+    "recent_until": 1793001603992,
+    "pegi": "",
+    "runtime": 80,
+    "title": "La trappola per topi",
+    "original_title": "The Mouse Trap",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/3ovFaFeojLFIl5ClqhtgYMDS8sE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/go58BqpA6WYL1pzKsb2chi7qx9H.jpg",
+    "rating": 4.0,
+    "overview": "È il ventunesimo compleanno di Alex, ma lei è bloccata alla sala giochi per il turno di notte, così i suoi amici decidono di farle una sorpresa; tuttavia, un assassino mascherato vestito da Topolino decide di giocare una partita tutta sua con loro, alla quale lei dovrà sopravvivere.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1802723,
     "imdb_id": "tt43636513",
     "recent_until": 1792916688793,

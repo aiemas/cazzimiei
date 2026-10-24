@@ -1,5 +1,80 @@
 [
   {
+    "tmdb_id": 314360,
+    "imdb_id": "tt39980704",
+    "recent_until": 1793001604480,
+    "type": "tv",
+    "title": "YAGA",
+    "original_title": "YAGA",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2kxIViR7g3e08ZHLlvNFFJkgJtI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+    "rating": 6.8,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Il mito della strega Baba Yaga rivive quando un investigatore privato arriva in una piccola cittadina costiera per indagare sulla scomparsa di un giovane erede di una potente azienda ittica e si ritrova alle prese con un detective locale diffidente, una sexy professoressa universitaria con un debole per gli uomini più giovani e un labirinto di sospetti enigmatici, vite segrete e magia antica.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 339718,
+    "imdb_id": null,
+    "recent_until": 1793001604628,
+    "type": "tv",
+    "title": "LOL: Chi ride è fuori - Halloween Special",
+    "original_title": "LOL: Chi ride è fuori - Halloween Special",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/qhKY57FldzoQqHLJT8QUawhu42v.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o2G3yxq596meL92mpdgLTwNtFtk.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Per la festa di Halloween, LOL torna con uno speciale tutto da ridere e da… brividi! A sfidarsi 6 memorabili concorrenti delle passate edizioni. In un'atmosfera da notte delle streghe, i comici tenteranno non solo di non ridere ma anche di non spaventarsi. La control room sarà affidata all'inesorabile commento della Gialappa's band, affiancata da Lillo.",
+    "genres": [
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
+    "tmdb_id": 293610,
+    "imdb_id": "tt39328047",
+    "recent_until": 1793001604778,
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "original_title": "닥터X: 하얀 마피아의 시대",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xYFTiwC7Tl0xOUFiVFUPWXHTHnr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "rating": 9.45,
+    "pegi": "",
+    "runtime": null,
+    "overview": "In un ospedale dominato da ego e corruzione, una chirurga enigmatica ma brillante affronta casi all'apparenza impossibili tra forti opposizioni.",
+    "genres": [
+      "Mistero",
+      "Dramma",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 12
+      }
+    ]
+  },
+  {
     "tmdb_id": 335535,
     "imdb_id": "tt39387986",
     "recent_until": 1792916693513,
