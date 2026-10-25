@@ -1,5 +1,189 @@
 [
   {
+    "tmdb_id": 458534,
+    "imdb_id": "tt6838702",
+    "recent_until": 1793089018528,
+    "pegi": "",
+    "runtime": 107,
+    "title": "Tutti in piedi",
+    "original_title": "Tout le monde debout",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/wok93579iEtpjJ7bFLbAzjzl0jl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/f5GsxbAgEDl0kHUkxrl0da7QVta.jpg",
+    "rating": 6.516,
+    "overview": "Jocelyn mente tutto il tempo, ci prova tutto il tempo. Con tutte. Bionde, rosse, brune, indigene, straniere, alte, piccine, il catalogo è infinito e disparato. Appassionato corridore e playboy con azienda florida e Porsche fiammante, Jocelyn incontra Florence, una violinista con l'hobby del tennis costretta sulla sedia a rotelle. Un concorso di circostanze, affatto nobili e a cui proprio non riesce a sottrarsi, lo spingono a sedurla fingendosi paraplegico. Ma il sentimento che insorge improvvisamente per la donna complica dannatamente le cose e rimanda (troppo) a lungo il momento della verità. Colta e sensibile, Florence gli servirà un rovescio, costringendolo all'errore e alla resa totale.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1554116,
+    "imdb_id": "tt38821441",
+    "recent_until": 1793089018660,
+    "pegi": "",
+    "runtime": 95,
+    "title": "Qualcosa di Lilla",
+    "original_title": "Qualcosa di Lilla",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/vg76jfHwt3MACPYCO9cgH6B66LU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jDpJpHlTrweWdfFu0F8pJUTUs0p.jpg",
+    "rating": 5.4,
+    "overview": "La quindicenne Nicole (Federica Pala) vive un'adolescenza apparentemente felice e normale, nonostante il rapporto conflittuale con la mamma (Raffaella Resa). È molto portata per la matematica e ha la passione per la ricerca delle monete antiche, che condivide con il padre poliziotto (Alessandro Tersigni). Nicole si sta ancora adattando alla separazione dei genitori, e anche per questo si fa trascinare dall'energia distruttiva di una nuova compagna di classe, Luce, (Margherita Buoncristiani), carismatica e travolgente. Luce è bulimica sin da piccola e non è consapevole di essere malata. Nicole scivola insieme a lei nella malattia, quasi senza accorgersene.",
+    "genres": [
+      "Dramma",
+      "televisione film"
+    ]
+  },
+  {
+    "tmdb_id": 120922,
+    "imdb_id": "tt1233578",
+    "recent_until": 1793089018790,
+    "pegi": "T",
+    "runtime": 106,
+    "title": "Torno a vivere da solo",
+    "original_title": "Torno a vivere da solo",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/w500/kyVi6NIu50BBPmhi7CFLuTNyrzw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4cgM2clBmCj7z5HgH1lyIdHTDfH.jpg",
+    "rating": 4.17,
+    "overview": "Per scappare dallo stress quotidiano, ormai vera e propria malattia del nostro secolo, ma soprattutto per sfuggire alla moglie, una napoletana doc trapiantata a Milano, Giacomo, un agente immobiliare di successo, va via di casa...",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 8494,
+    "imdb_id": "tt0108539",
+    "recent_until": 1793089018919,
+    "pegi": "",
+    "runtime": 97,
+    "title": "Weekend con il morto 2",
+    "original_title": "Weekend at Bernie's II",
+    "year": "1993",
+    "poster": "https://image.tmdb.org/t/p/w500/7n5SiI4o0oTgyAbgqqt5AKTTkt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/t9kiAxPGXWziIEsj4X2w2xsYliW.jpg",
+    "rating": 5.102,
+    "overview": "Larry Wilson e Richard Parker vengono licenziati dalla compagnia di assicurazione per cui lavoravano, in quanto accusati di aver sottratto due milioni di dollari. Questo denaro, in realtà, era stato rubato da un dirigente della società, Bernie Lomax, morto tempo addietro, che avrebbe voluto uccidere i due proprio perché avevano scoperto del cospicuo ammanco. I due giovani cercano, così, di trovare i due milioni fingendo che Bernie sia vivo e utilizzando il suo corpo, che usano come una marionetta, per compiere gli atti necessari al ritrovamento. Anche Arthur Hummel, che ha licenziato Larry e Richard, è alla ricerca del denaro per conto della società truffata. Nel frattempo alcuni gangster, alle isole vergini, si rivolgono ad una sacerdotessa vudù, la quale incarica Charles e Henry di compiere un rito magico sul corpo di Bernie affinché li conduca al denaro.",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 15239,
+    "imdb_id": "tt0090190",
+    "recent_until": 1793089019049,
+    "pegi": "VM14",
+    "runtime": 110,
+    "title": "The Toxic Avenger",
+    "original_title": "The Toxic Avenger",
+    "year": "1984",
+    "poster": "https://image.tmdb.org/t/p/w500/vuxRW5GKuCnKvdYlUAYNxlicm54.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7DOuHRMoYhhSIVGBDqNdZpUoVsq.jpg",
+    "rating": 6.234,
+    "overview": "Melvin lavora in una palestra di body building nella quale è sistematicamente sbeffeggiato da tutti per il suo fisico. Poi un giorno si getta giù dalla finestra, cade su un camion che trasporta rifiuti tossici e diventa un supereroe. Schifosamente spassoso, ironico e inguardabile.",
+    "genres": [
+      "Azione",
+      "Commedia",
+      "Horror",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 8491,
+    "imdb_id": "tt0098627",
+    "recent_until": 1793089019178,
+    "pegi": "T",
+    "runtime": 97,
+    "title": "Weekend con il morto",
+    "original_title": "Weekend at Bernie's",
+    "year": "1989",
+    "poster": "https://image.tmdb.org/t/p/w500/sTsjlTt1VM6WJoXqGWWeIZTnfxE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xbGROemZqyVYrIlMOHKqmV2qmG0.jpg",
+    "rating": 6.425,
+    "overview": "Larry Wilson e Richard Parker, due giovanissimi addetti al computer di una società assicuratrice, sono fieri di una loro scoperta nei tabulati: per un solo sinistro risultano effettuati quattro pagamenti. Sicuri di un premio e forse di una promozione lo dicono al loro principale Bernie Lomax, il quale, dopo i rallegramenti di rito, li invita intanto per un festoso week-end nella sua bella villa in riva al mare. I due ingenui non hanno capito che Lomax è il colpevole dell'imbroglio e sbarcano tutti allegri su un'isola, ma ignorano anche che Lomax ha incaricato un boss malavitoso di eliminarli. Il delinquente, la cui amante lo tradisce con Lomax, decide altrimenti ed incarica un suo scagnozzo di uccidere Lomax invece di Larry e Richard. Il che avviene nella villa, per cui questi ultimi si ritrovano con il morto fra i piedi...",
+    "genres": [
+      "Commedia",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 6619,
+    "imdb_id": "tt0067445",
+    "recent_until": 1793089019307,
+    "pegi": "T",
+    "runtime": 120,
+    "title": "Morte a Venezia",
+    "original_title": "Morte a Venezia",
+    "year": "1971",
+    "poster": "https://image.tmdb.org/t/p/w500/qkf8bVQZ7xpbXBLIZbjvrtGlOZ5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tyWnJeMatQGLsiLfLsxBV0pp9nk.jpg",
+    "rating": 7.232,
+    "overview": "Tratto dall'omonimo romanzo di Thomas Mann. Durante una vacanza a Venezia, il compositore Gustav von Aschenbach dovrà affrontare il più grande turbamento della sua vita",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 907,
+    "imdb_id": "tt0059113",
+    "recent_until": 1793089019435,
+    "pegi": "",
+    "runtime": 197,
+    "title": "Il dottor Zivago",
+    "original_title": "Doctor Zhivago",
+    "year": "1965",
+    "poster": "https://image.tmdb.org/t/p/w500/ql7HAwisMMDR7GK9K2AS3JaPiWc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wUaDgHfW7fViru7IubWa6Nronq9.jpg",
+    "rating": 7.553,
+    "overview": "Durante la prima guerra mondiale Yurij Andrèevic Živago, medico e poeta sposato con la cugina Tonja, si innamora al fronte della crocerossina Lara Antipov. Nel 1917, scoppiata la rivoluzione bolscevica, si rifugia con moglie e figlio in un villaggio degli Urali dove incontra di nuovo Lara e ne diventa l'amante. La guerra civile li separa per due anni. Mentre Tonja con due figli è riparata all'estero, Živago si ricongiunge con Lara, ma le vicende politiche li dividerà ancora.",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 269,
+    "imdb_id": "tt0053472",
+    "recent_until": 1793089019564,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Fino all'ultimo respiro",
+    "original_title": "À bout de souffle",
+    "year": "1960",
+    "poster": "https://image.tmdb.org/t/p/w500/nXVik3Lxeffyy1eqp6bmO9axB6r.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4WGuyWf1f94CsEeVIIqDKGw5rmO.jpg",
+    "rating": 7.478,
+    "overview": "Michel Poiccard, ladro d'automobili, uccide un motociclista della polizia stradale che lo inseguiva per un sorpasso proibito. Tornato a Parigi, ritrova Patrizia, un'amichetta americana di cui s'era innamorato. Intanto la polizia, che l'ha identificato, lo ricerca.",
+    "genres": [
+      "Dramma",
+      "Crime",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 589174,
+    "imdb_id": "tt13273172",
+    "recent_until": 1793089019750,
+    "pegi": "",
+    "runtime": 113,
+    "title": "담보",
+    "original_title": "담보",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/w500/b6clzuYNbizWFUtcpLBsp00zXNe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/n9gE9CmUIKBIB4fKbQV1ulX4nV6.jpg",
+    "rating": 8.3,
+    "overview": "",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Famiglia"
+    ]
+  },
+  {
     "tmdb_id": 1563588,
     "imdb_id": "tt37664358",
     "recent_until": 1793001600089,
