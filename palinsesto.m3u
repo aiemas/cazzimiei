@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Canucks - Wild", EN 1
-https://sebn.dad/251026/sebn-15.html
-#EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Canucks - Wild", EN 2
-https://forprivateuse.sbs/roja539/extraplayer/10.php
-#EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Canucks - Wild", ES 1
-https://sebn.dad/251026/sebn-11.html
-#EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Canucks - Wild", ES 2
-https://forprivateuse.sbs/roja539/extraplayer/30.php
-#EXTINF:0 group-title="04:10 FÃºtbol Football (Liga MX): Tijuana - Santos", ES 1
-https://sebn.dad/251026/sebn-11.html
-#EXTINF:0 group-title="04:10 FÃºtbol Football (Liga MX): Tijuana - Santos", ES 2
-https://forprivateuse.sbs/roja539/extraplayer/30.php
-#EXTINF:0 group-title="04:10 FÃºtbol Football (Liga MX): Tijuana - Santos", DE
-https://www.laola1.at/de/video/player/2277229/ningbo-rockets---jilin-northeast-tigers/
 #EXTINF:0 group-title="12:35 Baloncesto Basketball (China CBA): Ningbo Rockets - Jilin", DE 1
 https://www.laola1.at/de/video/player/2277229/ningbo-rockets---jilin-northeast-tigers/
 #EXTINF:0 group-title="12:35 Baloncesto Basketball (China CBA): Ningbo Rockets - Jilin", DE 2
@@ -23,183 +9,353 @@ https://www.laola1.at/de/video/player/2277231/shanghai-sharks---guangdong-southe
 https://www.ertflix.gr/#/channels
 #EXTINF:0 group-title="13:45 FÃºtbol Football (Greece Super League 2): Zakynthos - Pyrgos", EL
 https://www.ertflix.gr/#/channels
+#EXTINF:0 group-title="13:45 FÃºtbol Football (Greece Super League 2): Zakynthos - Pyrgos", AR
+https://www.lnky.fun/live/live18
+#EXTINF:0 group-title="14:45 FÃºtbol Football (AFC Champions League Elite): Neftchi - Al Ittihad", AR
+https://www.lnky.fun/live/live18
+#EXTINF:0 group-title="14:45 FÃºtbol Football (AFC Champions League Elite): Neftchi - Al Ittihad", EL
+https://www.ertflix.gr/#/channels
 #EXTINF:0 group-title="16:00 Balonmano Handball (Greece A1): Kilkis - XANTH", EL
 https://www.ertflix.gr/#/channels
-#EXTINF:0 group-title="16:00 Balonmano Handball (Greece A1): Kilkis - XANTH", DE
+#EXTINF:0 group-title="16:00 Balonmano Handball (Greece A1): Kilkis - XANTH", ND
+https://www.lnky.fun/live/live15
+#EXTINF:0 group-title="16:00 FÃºtbol Football (Bulgaria Barva Liga): Lokomotiv Plovdiv - Slavia Sofia", ND
+https://www.lnky.fun/live/live15
+#EXTINF:0 group-title="16:00 FÃºtbol Football (Bulgaria Barva Liga): Lokomotiv Plovdiv - Slavia Sofia", DE
 https://www.laola1.at/de/video/player/2265434/vca-amstetten-noe---uvc-ried/
 #EXTINF:0 group-title="16:30 VÃ³leibol Volleyball (Austria AVL): Amstetten NO - Ried", DE
 https://www.laola1.at/de/video/player/2265434/vca-amstetten-noe---uvc-ried/
 #EXTINF:0 group-title="16:30 VÃ³leibol Volleyball (Austria AVL): Amstetten NO - Ried", EN 1
-https://sebn.dad/261026/sebn-14.html
+https://www.lnky.fun/live/live11
 #EXTINF:0 group-title="16:30 VÃ³leibol Volleyball (Austria AVL): Amstetten NO - Ried", EN 2
-https://9soccer.biz/R9-33/Ch1/92.html
+https://sebn.dad/261026/sebn-14.html
 #EXTINF:0 group-title="16:30 VÃ³leibol Volleyball (Austria AVL): Amstetten NO - Ried", EN 3
-https://buff-streams.buzz/roja-17/k92.php
+https://9soccer.biz/R9-33/Ch1/92.html
 #EXTINF:0 group-title="16:30 VÃ³leibol Volleyball (Austria AVL): Amstetten NO - Ried", EN 4
+https://buff-streams.buzz/roja-17/k92.php
+#EXTINF:0 group-title="16:30 VÃ³leibol Volleyball (Austria AVL): Amstetten NO - Ried", EN 5
 https://i5genz.cfd/roja-3/k92.php
 #EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Besiktas - Basaksehir", EN 1
-https://sebn.dad/261026/sebn-14.html
+https://www.lnky.fun/live/live11
 #EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Besiktas - Basaksehir", EN 2
-https://9soccer.biz/R9-33/Ch1/92.html
+https://sebn.dad/261026/sebn-14.html
 #EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Besiktas - Basaksehir", EN 3
-https://buff-streams.buzz/roja-17/k92.php
+https://9soccer.biz/R9-33/Ch1/92.html
 #EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Besiktas - Basaksehir", EN 4
+https://buff-streams.buzz/roja-17/k92.php
+#EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Besiktas - Basaksehir", EN 5
 https://i5genz.cfd/roja-3/k92.php
 #EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Besiktas - Basaksehir", ND 1
-https://9soccer.biz/R9-33/Ch1/92.html
+https://www.lnky.fun/live/live11
 #EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Besiktas - Basaksehir", ND 2
-https://buff-streams.buzz/roja-17/k92.php
+https://9soccer.biz/R9-33/Ch1/92.html
 #EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Besiktas - Basaksehir", ND 3
+https://buff-streams.buzz/roja-17/k92.php
+#EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Besiktas - Basaksehir", ND 4
 https://i5genz.cfd/roja-3/k92.php
 #EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Besiktas - Basaksehir", RO
 https://www.tvrplus.ro/live/tvr-sport
 #EXTINF:0 group-title="17:00 VÃ³leibol Volleyball (Romania Divizia A1): U. Cluj - Unirea Dej", RO
 https://www.tvrplus.ro/live/tvr-sport
-#EXTINF:0 group-title="17:00 VÃ³leibol Volleyball (Romania Divizia A1): U. Cluj - Unirea Dej", ND 1
+#EXTINF:0 group-title="17:00 VÃ³leibol Volleyball (Romania Divizia A1): U. Cluj - Unirea Dej", AR 1
+https://www.lnky.fun/live/live18
+#EXTINF:0 group-title="17:00 VÃ³leibol Volleyball (Romania Divizia A1): U. Cluj - Unirea Dej", AR 2
 https://sepehrtv.ir/frame/t/varzesh?logo=0
-#EXTINF:0 group-title="17:00 VÃ³leibol Volleyball (Romania Divizia A1): U. Cluj - Unirea Dej", ND 2
+#EXTINF:0 group-title="17:00 VÃ³leibol Volleyball (Romania Divizia A1): U. Cluj - Unirea Dej", AR 3
+https://varzeshtv.ir/live
+#EXTINF:0 group-title="17:00 FÃºtbol Football (AFC Champions League): Al Ain - Tractor SC", AR 1
+https://www.lnky.fun/live/live18
+#EXTINF:0 group-title="17:00 FÃºtbol Football (AFC Champions League): Al Ain - Tractor SC", AR 2
+https://sepehrtv.ir/frame/t/varzesh?logo=0
+#EXTINF:0 group-title="17:00 FÃºtbol Football (AFC Champions League): Al Ain - Tractor SC", AR 3
 https://varzeshtv.ir/live
 #EXTINF:0 group-title="17:00 FÃºtbol Football (AFC Champions League): Al Ain - Tractor SC", ND 1
 https://sepehrtv.ir/frame/t/varzesh?logo=0
 #EXTINF:0 group-title="17:00 FÃºtbol Football (AFC Champions League): Al Ain - Tractor SC", ND 2
 https://varzeshtv.ir/live
-#EXTINF:0 group-title="17:00 FÃºtbol Football (AFC Champions League): Al Ain - Tractor SC", LV
+#EXTINF:0 group-title="17:00 FÃºtbol Football (AFC Champions League): Al Ain - Tractor SC", AR 4
+https://www.lnky.fun/live/live17
+#EXTINF:0 group-title="17:00 FÃºtbol Football (AFC Champions League Elite): Al-Ahli - Al Gharafa", AR
+https://www.lnky.fun/live/live17
+#EXTINF:0 group-title="17:00 FÃºtbol Football (AFC Champions League Elite): Al-Ahli - Al Gharafa", LV
 https://sportacentrs.com/sportacentrs_tv/live/24102026-b_fk_grobina_riga_fc_b_br_tonybet_futbola
 #EXTINF:0 group-title="17:00 FÃºtbol Football (Latvia Virsliga): Grobina - Riga FC", LV
 https://sportacentrs.com/sportacentrs_tv/live/24102026-b_fk_grobina_riga_fc_b_br_tonybet_futbola
-#EXTINF:0 group-title="17:00 FÃºtbol Football (Latvia Virsliga): Grobina - Riga FC", DE
+#EXTINF:0 group-title="17:00 FÃºtbol Football (Latvia Virsliga): Grobina - Riga FC", ES 1
+https://www.lnky.fun/live/live03
+#EXTINF:0 group-title="17:00 FÃºtbol Football (Latvia Virsliga): Grobina - Riga FC", ES 2
+https://www.lnky.fun/live/live12
+#EXTINF:0 group-title="17:00 FÃºtbol Football (Latvia Virsliga): Grobina - Riga FC", ES 3
+https://www.lnky.fun/live/live23
+#EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Rizespor - Trabzonspor", ES 1
+https://www.lnky.fun/live/live03
+#EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Rizespor - Trabzonspor", ES 2
+https://www.lnky.fun/live/live12
+#EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Rizespor - Trabzonspor", ES 3
+https://www.lnky.fun/live/live23
+#EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Rizespor - Trabzonspor", ND
+https://www.lnky.fun/live/live12
+#EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Rizespor - Trabzonspor", FR
+https://www.lnky.fun/live/live23
+#EXTINF:0 group-title="17:00 FÃºtbol Football (Turkish Super Lig): Rizespor - Trabzonspor", DE
 https://www.laola1.at/de/video/player/2265435/unionvolleys-bisamberg-hollabrunn---tsv-hartberg/
 #EXTINF:0 group-title="17:30 VÃ³leibol Volleyball (Austria AVL): Bisamberg - TSV Hartberg", DE
 https://www.laola1.at/de/video/player/2265435/unionvolleys-bisamberg-hollabrunn---tsv-hartberg/
-#EXTINF:0 group-title="17:30 VÃ³leibol Volleyball (Austria AVL): Bisamberg - TSV Hartberg", ES
+#EXTINF:0 group-title="17:30 VÃ³leibol Volleyball (Austria AVL): Bisamberg - TSV Hartberg", ND
+https://www.lnky.fun/live/live14
+#EXTINF:0 group-title="18:00 FÃºtbol Football (Croatia 1. HNL): Istra - Hajduk", ND 1
+https://www.lnky.fun/live/live14
+#EXTINF:0 group-title="18:00 FÃºtbol Football (Croatia 1. HNL): Istra - Hajduk", ND 2
+https://www.lnky.fun/live/live15
+#EXTINF:0 group-title="18:30 FÃºtbol Football (Bulgaria Barva Liga): CSKA Sofia - Ludogorets", ND 1
+https://www.lnky.fun/live/live15
+#EXTINF:0 group-title="18:30 FÃºtbol Football (Bulgaria Barva Liga): CSKA Sofia - Ludogorets", ND 2
+https://www.lnky.fun/live/live13
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Denmark Superliga): Copenhagen - Odense", ND
+https://www.lnky.fun/live/live13
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Denmark Superliga): Copenhagen - Odense", RO
+https://www.lnky.fun/live/live16
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Romania Liga 1): Sepsi OSK - U Craiova", RO
+https://www.lnky.fun/live/live16
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Romania Liga 1): Sepsi OSK - U Craiova", AR 1
+https://www.lnky.fun/live/live18
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Romania Liga 1): Sepsi OSK - U Craiova", AR 2
 https://sebn.dad/261026/sebn-11.html
-#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League): Al Nassr - Al Wasl", ES
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League): Al Nassr - Al Wasl", AR 1
+https://www.lnky.fun/live/live18
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League): Al Nassr - Al Wasl", AR 2
 https://sebn.dad/261026/sebn-11.html
-#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League): Al Nassr - Al Wasl", EN 1
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League): Al Nassr - Al Wasl", ES 1
+https://sebn.dad/261026/sebn-11.html
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League): Al Nassr - Al Wasl", ES 2
+https://www.lnky.fun/live/live02
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League): Al Nassr - Al Wasl", ES 3
+https://www.lnky.fun/live/live17
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Quadisiya - Al Sadd", ES 1
+https://www.lnky.fun/live/live02
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Quadisiya - Al Sadd", ES 2
+https://www.lnky.fun/live/live17
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Quadisiya - Al Sadd", AR
+https://www.lnky.fun/live/live17
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Quadisiya - Al Sadd", ES 3
+https://www.lnky.fun/live/live08
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Quadisiya - Al Sadd", ES 4
+https://www.lnky.fun/live/live11
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Quadisiya - Al Sadd", ES 5
+https://www.lnky.fun/live/live22
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Quadisiya - Al Sadd", ES 6
 https://sebn.dad/261026/sebn-14.html
-#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League): Al Nassr - Al Wasl", EN 2
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Quadisiya - Al Sadd", ES 7
 https://9soccer.biz/R9-33/Ch1/91.html
-#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League): Al Nassr - Al Wasl", EN 3
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Quadisiya - Al Sadd", ES 8
 https://9soccer.biz/R9-33/Ch1/39.html
-#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League): Al Nassr - Al Wasl", EN 4
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Quadisiya - Al Sadd", ES 9
 https://buff-streams.buzz/roja-17/k91.php
-#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League): Al Nassr - Al Wasl", EN 5
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Quadisiya - Al Sadd", ES 10
 https://i5genz.cfd/roja-3/k91.php
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", EN 1
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", ES 1
+https://www.lnky.fun/live/live08
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", ES 2
+https://www.lnky.fun/live/live11
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", ES 3
+https://www.lnky.fun/live/live22
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", ES 4
 https://sebn.dad/261026/sebn-14.html
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", EN 2
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", ES 5
 https://9soccer.biz/R9-33/Ch1/91.html
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", EN 3
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", ES 6
 https://9soccer.biz/R9-33/Ch1/39.html
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", EN 4
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", ES 7
 https://buff-streams.buzz/roja-17/k91.php
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", EN 5
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", ES 8
 https://i5genz.cfd/roja-3/k91.php
 #EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", ND 1
-https://9soccer.biz/R9-33/Ch1/91.html
+https://www.lnky.fun/live/live11
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", FR
+https://www.lnky.fun/live/live22
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", EN 1
+https://sebn.dad/261026/sebn-14.html
 #EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", ND 2
-https://buff-streams.buzz/roja-17/k91.php
+https://9soccer.biz/R9-33/Ch1/91.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", EN 2
+https://9soccer.biz/R9-33/Ch1/39.html
 #EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", ND 3
+https://buff-streams.buzz/roja-17/k91.php
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", ND 4
 https://i5genz.cfd/roja-3/k91.php
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", EN 6
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", PT 1
+https://www.lnky.fun/live/live10
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", PT 2
+https://www.lnky.fun/live/live20
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", PT 3
+https://www.lnky.fun/live/live21
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", PT 4
 https://sebn.dad/261026/sebn-12.html
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", EN 7
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", PT 5
 https://9soccer.biz/R9-33/Ch1/21.html
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", EN 8
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", PT 6
 https://9soccer.biz/R9-33/Ch1/19.html
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", EN 9
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", PT 7
 https://buff-streams.buzz/roja-17/k21.php
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", EN 10
-https://i5genz.cfd/roja-3/k21.php
-#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", EN 1
-https://sebn.dad/261026/sebn-12.html
-#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", EN 2
-https://9soccer.biz/R9-33/Ch1/21.html
-#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", EN 3
-https://9soccer.biz/R9-33/Ch1/19.html
-#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", EN 4
-https://buff-streams.buzz/roja-17/k21.php
-#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", EN 5
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Turkish Super Lig): Galatasaray - Fenerbahce", PT 8
 https://i5genz.cfd/roja-3/k21.php
 #EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", PT 1
+https://www.lnky.fun/live/live10
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", PT 2
+https://www.lnky.fun/live/live20
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", PT 3
+https://www.lnky.fun/live/live21
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", PT 4
+https://sebn.dad/261026/sebn-12.html
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", PT 5
 https://9soccer.biz/R9-33/Ch1/21.html
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", PT 6
+https://9soccer.biz/R9-33/Ch1/19.html
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", PT 7
+https://buff-streams.buzz/roja-17/k21.php
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", PT 8
+https://i5genz.cfd/roja-3/k21.php
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", FR
+https://www.lnky.fun/live/live21
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", EN
+https://sebn.dad/261026/sebn-12.html
 #EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", DE
 https://9soccer.biz/R9-33/Ch1/19.html
-#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", PT 2
-https://buff-streams.buzz/roja-17/k21.php
-#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", PT 3
-https://i5genz.cfd/roja-3/k21.php
-#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", EN 6
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 1
+https://www.lnky.fun/live/live01
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 2
+https://www.lnky.fun/live/live03
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 3
+https://www.lnky.fun/live/live05
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 4
+https://www.lnky.fun/live/live09
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 5
+https://www.lnky.fun/live/live17
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 6
+https://www.lnky.fun/live/live25
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 7
+https://fast-streams.biz/stre-15/5.html
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 8
+https://fast-streams.biz/ro38/51.html
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 9
 https://sebn.dad/261026/sebn-15.html
-#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", EN 7
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 10
 https://9soccer.biz/R9-33/Ch1/51.html
-#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", EN 8
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 11
 https://buff-streams.buzz/roja-17/c5.php
-#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", EN 9
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 12
 https://buff-streams.buzz/roja-17/k51.php
-#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", EN 10
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 13
 https://i5genz.cfd/roja-3/c5.php
-#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", EN 11
-https://i5genz.cfd/roja-3/k51.php
-#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", EN 1
-https://sebn.dad/261026/sebn-15.html
-#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", EN 2
-https://9soccer.biz/R9-33/Ch1/51.html
-#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", EN 3
-https://buff-streams.buzz/roja-17/c5.php
-#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", EN 4
-https://buff-streams.buzz/roja-17/k51.php
-#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", EN 5
-https://i5genz.cfd/roja-3/c5.php
-#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", EN 6
-https://i5genz.cfd/roja-3/k51.php
-#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 1
-https://9soccer.biz/R9-33/Ch1/51.html
-#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 2
-https://buff-streams.buzz/roja-17/c5.php
-#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 3
-https://buff-streams.buzz/roja-17/k51.php
-#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 4
-https://i5genz.cfd/roja-3/c5.php
-#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 5
+#EXTINF:0 group-title="19:45 FÃºtbol Football (Portugal Primeira Liga): Santa Clara - Benfica", ES 14
 https://i5genz.cfd/roja-3/k51.php
 #EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 1
-https://sebn.dad/261026/sebn-13.html
+https://www.lnky.fun/live/live01
 #EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 2
-https://9soccer.biz/R9-33/Ch1/86.html
+https://www.lnky.fun/live/live03
 #EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 3
-https://9soccer.biz/R9-33/Ch1/1.html
+https://www.lnky.fun/live/live05
 #EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 4
-https://buff-streams.buzz/roja-17/c6.php
+https://www.lnky.fun/live/live09
 #EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 5
-https://buff-streams.buzz/roja-17/k86.php
+https://www.lnky.fun/live/live17
 #EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 6
-https://buff-streams.buzz/roja-17/6.php
+https://www.lnky.fun/live/live25
 #EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 7
-https://i5genz.cfd/roja-3/c6.php
+https://fast-streams.biz/stre-15/5.html
 #EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 8
-https://i5genz.cfd/roja-3/k86.php
+https://fast-streams.biz/ro38/51.html
 #EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 9
+https://sebn.dad/261026/sebn-15.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 10
+https://9soccer.biz/R9-33/Ch1/51.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 11
+https://buff-streams.buzz/roja-17/c5.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 12
+https://buff-streams.buzz/roja-17/k51.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 13
+https://i5genz.cfd/roja-3/c5.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 14
+https://i5genz.cfd/roja-3/k51.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 1
+https://www.lnky.fun/live/live05
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 2
+https://www.lnky.fun/live/live09
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", AR
+https://www.lnky.fun/live/live17
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", PT
+https://www.lnky.fun/live/live25
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 3
+https://fast-streams.biz/stre-15/5.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 4
+https://fast-streams.biz/ro38/51.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", EN
+https://sebn.dad/261026/sebn-15.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 5
+https://9soccer.biz/R9-33/Ch1/51.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 6
+https://buff-streams.buzz/roja-17/c5.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 7
+https://buff-streams.buzz/roja-17/k51.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 8
+https://i5genz.cfd/roja-3/c5.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", FR 9
+https://i5genz.cfd/roja-3/k51.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 15
+https://www.lnky.fun/live/live04
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 16
+https://www.lnky.fun/live/live06
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 17
+https://www.lnky.fun/live/live07
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 18
+https://sebn.dad/261026/sebn-13.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 19
+https://fast-streams.biz/stre-15/6.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 20
+https://9soccer.biz/R9-33/Ch1/86.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 21
+https://9soccer.biz/R9-33/Ch1/1.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 22
+https://buff-streams.buzz/roja-17/c6.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 23
+https://buff-streams.buzz/roja-17/k86.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 24
+https://buff-streams.buzz/roja-17/6.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 25
+https://i5genz.cfd/roja-3/c6.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 26
+https://i5genz.cfd/roja-3/k86.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (France Ligue 1): Paris Saint-Germain - Lyon", ES 27
 https://i5genz.cfd/roja-3/6.php
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", ES 1
-https://sebn.dad/261026/sebn-13.html
+https://www.lnky.fun/live/live04
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", ES 2
-https://9soccer.biz/R9-33/Ch1/86.html
+https://www.lnky.fun/live/live06
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", ES 3
-https://9soccer.biz/R9-33/Ch1/1.html
+https://www.lnky.fun/live/live07
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", ES 4
-https://buff-streams.buzz/roja-17/c6.php
+https://sebn.dad/261026/sebn-13.html
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", ES 5
-https://buff-streams.buzz/roja-17/k86.php
+https://fast-streams.biz/stre-15/6.html
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", ES 6
-https://buff-streams.buzz/roja-17/6.php
+https://9soccer.biz/R9-33/Ch1/86.html
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", ES 7
-https://i5genz.cfd/roja-3/c6.php
+https://9soccer.biz/R9-33/Ch1/1.html
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", ES 8
-https://i5genz.cfd/roja-3/k86.php
+https://buff-streams.buzz/roja-17/c6.php
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", ES 9
+https://buff-streams.buzz/roja-17/k86.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", ES 10
+https://buff-streams.buzz/roja-17/6.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", ES 11
+https://i5genz.cfd/roja-3/c6.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", ES 12
+https://i5genz.cfd/roja-3/k86.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", ES 13
 https://i5genz.cfd/roja-3/6.php
-#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", EN
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", EN 1
+https://www.lnky.fun/live/live07
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Primera Division): Sevilla - Osasuna", EN 2
 https://9soccer.biz/R9-33/Ch1/1.html
 #EXTINF:0 group-title="00:00 FÃºtbol Football (Chile Primera Division): U. de Chile - Everton", ES 1
 https://sebn.dad/261026/sebn-13.html
@@ -217,5 +373,75 @@ https://sebn.dad/261026/sebn-23.html
 https://sebn.dad/261026/sebn-23.html
 #EXTINF:0 group-title="00:00 Baloncesto Basketball (NBA): Hornets - Wizards", EN 2
 https://sebn.dad/261026/sebn-24.html
-#EXTINF:0 group-title="00:30 Baloncesto Basketball (NBA): Celtics - Bulls", EN
+#EXTINF:0 group-title="00:30 Baloncesto Basketball (NBA): Celtics - Bulls", EN 1
 https://sebn.dad/261026/sebn-24.html
+#EXTINF:0 group-title="00:30 Baloncesto Basketball (NBA): Celtics - Bulls", EN 2
+https://sebn.dad/261026/sebn-14.html
+#EXTINF:0 group-title="00:30 Baloncesto Basketball (NBA): Heat - Mavericks", EN 1
+https://sebn.dad/261026/sebn-14.html
+#EXTINF:0 group-title="00:30 Baloncesto Basketball (NBA): Heat - Mavericks", EN 2
+https://sebn.dad/261026/sebn-16.html
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Bucks - Pacers", EN 1
+https://sebn.dad/261026/sebn-16.html
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Bucks - Pacers", EN 2
+https://sebn.dad/261026/sebn-15.html
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Thunder - Suns", EN
+https://sebn.dad/261026/sebn-15.html
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Thunder - Suns", ES 1
+https://www.lnky.fun/live/live24
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Thunder - Suns", ES 2
+https://www.lnky.fun/live/live19
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Thunder - Suns", ES 3
+https://www.lnky.fun/live/live23
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Thunder - Suns", ES 4
+https://fast-streams.biz/stre-15/30.html
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Thunder - Suns", ES 5
+https://fast-streams.biz/ro38/1.html
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Thunder - Suns", ES 6
+https://sebn.dad/261026/sebn-12.html
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Thunder - Suns", ES 7
+https://9soccer.biz/R9-33/Ch1/1.html
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Thunder - Suns", ES 8
+https://9soccer.biz/R9-33/Ch1/2.html
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", ES 1
+https://www.lnky.fun/live/live24
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", ES 2
+https://www.lnky.fun/live/live19
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", ES 3
+https://www.lnky.fun/live/live23
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", ES 4
+https://fast-streams.biz/stre-15/30.html
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", ES 5
+https://fast-streams.biz/ro38/1.html
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", ES 6
+https://sebn.dad/261026/sebn-12.html
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", ES 7
+https://9soccer.biz/R9-33/Ch1/1.html
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", ES 8
+https://9soccer.biz/R9-33/Ch1/2.html
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", EN 1
+https://www.lnky.fun/live/live19
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", FR
+https://www.lnky.fun/live/live23
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", EN 2
+https://fast-streams.biz/stre-15/30.html
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", EN 3
+https://fast-streams.biz/ro38/1.html
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", EN 4
+https://sebn.dad/261026/sebn-12.html
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", EN 5
+https://9soccer.biz/R9-33/Ch1/1.html
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", EN 6
+https://9soccer.biz/R9-33/Ch1/2.html
+#EXTINF:0 group-title="01:15 FÃºtbol americano American football (NFL): Eagles - Cowboys ( 01:15 - 04:45 )", EN 7
+https://sebn.dad/261026/sebn-17.html
+#EXTINF:0 group-title="01:30 Baloncesto Basketball (NBA): Rockets - Hawks", EN 1
+https://sebn.dad/261026/sebn-17.html
+#EXTINF:0 group-title="01:30 Baloncesto Basketball (NBA): Rockets - Hawks", EN 2
+https://sebn.dad/261026/sebn-20.html
+#EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Flames - Leafs", EN
+https://sebn.dad/261026/sebn-20.html
+#EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Flames - Leafs", ES
+https://sebn.dad/261026/sebn-11.html
+#EXTINF:0 group-title="02:05 FÃºtbol Football (Colombia Primera Division): Ind. Santa Fe - Bucaramanga", ES
+https://sebn.dad/261026/sebn-11.html
