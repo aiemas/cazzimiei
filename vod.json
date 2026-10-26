@@ -1,5 +1,202 @@
 [
   {
+    "tmdb_id": 1628071,
+    "imdb_id": "tt38682795",
+    "recent_until": 1793177047407,
+    "pegi": "",
+    "runtime": 94,
+    "title": "Ip Man: Oltre la leggenda",
+    "original_title": "宗师叶问2",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/qU4xOstFQo3mZNfoKEWehA6t8Un.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
+    "rating": 7.0,
+    "overview": "Hong Kong, anni Cinquanta. Ip Man ha lasciato la divisa e aperto la sua scuola. Poi una palestra di pugilato occidentale si prende immobili e attività della comunità marziale locale, pezzo dopo pezzo. Ip Man non resta a guardare. Torna in campo e comincia a combattere. Duelli serrati, calci fulminei, scontri all'ultimo colpo contro avversari sempre più pericolosi.",
+    "genres": [
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 48584,
+    "imdb_id": "tt0075251",
+    "recent_until": 1793177047599,
+    "pegi": "",
+    "runtime": 103,
+    "title": "Spermula",
+    "original_title": "Spermula",
+    "year": "1976",
+    "poster": "https://image.tmdb.org/t/p/w500/wkb2JtxVzmJO9BQp07vF0XLSSl1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uuDoM1YmMgnulFsM8Jr3eo861m9.jpg",
+    "rating": 4.2,
+    "overview": "La storia si basa sugli \"spermuliti\", gli abitanti alieni di un pianeta morente. L'unico modo per salvare il loro pianeta è succhiare lo sperma agli uomini del pianeta Terra, come dei vampiri arrapati.",
+    "genres": [
+      "Horror",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 57704,
+    "imdb_id": "tt0181311",
+    "recent_until": 1793177047781,
+    "pegi": "",
+    "runtime": 102,
+    "title": "Best",
+    "original_title": "Best",
+    "year": "2000",
+    "poster": "https://image.tmdb.org/t/p/w500/XbphEucFBkAR2nEhEyVkRMiNPi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/TNqfH7KyCfv8hHYX8ebV9pjgw8.jpg",
+    "rating": 6.122,
+    "overview": "La notorietà ed il denaro travolgono il giovane campione che si lascia cadere progressivamente in una spirale di abuso di alcool, gioco d'azzardo e di notti folli che condizionano pesantemente sia i suoi rapporti sociali, sia quelli con il nuovo allenatore Tommy Docherty, ed infine con la sua società di appartenenza che, nonostante i successi, tollera sempre meno la sua condotta.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 42790,
+    "imdb_id": "tt0058564",
+    "recent_until": 1793177047968,
+    "pegi": "T",
+    "runtime": 113,
+    "title": "Sedotta e abbandonata",
+    "original_title": "Sedotta e abbandonata",
+    "year": "1964",
+    "poster": "https://image.tmdb.org/t/p/w500/eh28VoeMrAkBPH1mQjQNcthzhJ3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/f9VuFOKfb7xLR1e4Tex9vRqY8wf.jpg",
+    "rating": 7.7,
+    "overview": "Agnese, sedici anni, viene sedotta dal fidanzato della sorella Matilde. Il babbo pretende le nozze riparatrici, ma il seduttore nicchia. Costretto con le maniere forti, quando l'uomo accetta è Agnese a rifiutare. Il gentore non demorde e la giovane minaccia di rinchiudersi in convento.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 9096,
+    "imdb_id": "tt0104839",
+    "recent_until": 1793177048193,
+    "pegi": "",
+    "runtime": 106,
+    "title": "Mato Grosso",
+    "original_title": "Medicine Man",
+    "year": "1992",
+    "poster": "https://image.tmdb.org/t/p/w500/lS2RYaZ8u07kLH6dzQxqhPaJEUq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jsnzeDldCBScvH8ocuXG4ZK0Szn.jpg",
+    "rating": 5.972,
+    "overview": "Nella giungla sud-americana giunge all'improvviso la giovane biochimica Rae Crane per verificare le ricerche effettuate, per conto di una fondazione farmaceutica, dal dottor Robert Campbell, un sessantenne scienziato che da molti anni vive nella foresta amazzonica mentenendo segreti i risultati su di un farmaco per curare il tumore. Crane, accolta da Campbell con sdegnosa ironia, si rivela studiosa di indiscutibile competenza, tanto da trasformare il rude atteggiamento iniziale di Robert in ammirazione ed affetto.",
+    "genres": [
+      "Avventura",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 261,
+    "imdb_id": "tt0051459",
+    "recent_until": 1793177048397,
+    "pegi": "",
+    "runtime": 108,
+    "title": "La gatta sul tetto che scotta",
+    "original_title": "Cat on a Hot Tin Roof",
+    "year": "1958",
+    "poster": "https://image.tmdb.org/t/p/w500/A875Gs0XS2Oi8C0iHTENbsyqPVk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nXAP7rUMno8DjBFqkM5IZlnpybm.jpg",
+    "rating": 7.633,
+    "overview": "Una ricca famiglia del sud degli Stati Uniti, entra in crisi di fronte alla morte annunciata del padre-padrone. I figli riveleranno da una parte avidità e dall'altra fragilità di carattere.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 266353,
+    "imdb_id": "tt3347518",
+    "recent_until": 1793177048668,
+    "pegi": "",
+    "runtime": 93,
+    "title": "Ho sognato l'amore",
+    "original_title": "In My Dreams",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/nuowZBkeYtUE0rNjkagfrDYw99E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7pnm2yxYKYoQkoiDJCwMPISbPRL.jpg",
+    "rating": 6.422,
+    "overview": "Natalie Russo e Nick Smith sono due cuori solitari, convinti che non troveranno mai la loro dolce metà. Natalie gestisce con la famiglia un tradizionale ristorante italiano senza molta convinzione mentre Nick è un architetto alla mercè di un capo egoista che non gli lascia molte opportunità. Dopo aver gettato entrambi una monetina in una fontana che si dice porti fortuna agli innamorati, Natalie e Nick cominciano a fare dei sogni in cui si conoscono, si innamorano e stanno insieme per tutta la vita. Il problema per loro sarà far sì che i sogni diventino realtà.",
+    "genres": [
+      "Romance",
+      "Dramma",
+      "Fantasy",
+      "televisione film"
+    ]
+  },
+  {
+    "tmdb_id": 261037,
+    "imdb_id": "tt3128900",
+    "recent_until": 1793177048850,
+    "pegi": "",
+    "runtime": 88,
+    "title": "Miss Meadows",
+    "original_title": "Miss Meadows",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/fpYXvWGKPwk51UTk8hqo0qE13qk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/s6eh24u2kJjSiITYxvGVTS6rnev.jpg",
+    "rating": 5.877,
+    "overview": "",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1126336,
+    "imdb_id": "tt12583926",
+    "recent_until": 1793177049045,
+    "pegi": "",
+    "runtime": 111,
+    "title": "Anniversary",
+    "original_title": "Anniversary",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mNUciC3vHhoskveYsO3hiFypqMz.jpg",
+    "rating": 6.95,
+    "overview": "Quando il figlio di Ellen e Paul presenta la sua nuova ragazza in un bel pomeriggio durante la festa per il loro venticinquesimo anniversario, nessuno sospetta che quello sia l'inizio della fine per questa famiglia felice. La nuova ragazza è Liz, un'ex studentessa di Ellen, che alcuni anni prima aveva lasciato l'università dopo che Ellen l'aveva rimproverata in classe per le sue idee radicali.",
+    "genres": [
+      "Thriller",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 650036,
+    "imdb_id": "tt15144140",
+    "recent_until": 1793177049579,
+    "pegi": "",
+    "runtime": 100,
+    "title": "The Rage",
+    "original_title": "Бешенство",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/kQ9TmxMDeWcRHlkbDLZvQ8xAGXh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bxkAVrUQssmTbuXekqwMST492r9.jpg",
+    "rating": 5.878,
+    "overview": "Sta scoppiando un'epidemia senza precedenti di rabbia nella taiga. I lupi infetti diventano sempre più feroci, e anche il più piccolo morso porta la morte certa. Allo stesso tempo, un padre disperato decide di isolare con la forza il figlio in uno dei rifugi di caccia per salvarlo dalla dipendenza. Presto, lui e diversi residenti locali dovranno combattere non solo contro un branco rabbioso, ma anche contro il predatore più pericoloso della foresta.",
+    "genres": [
+      "Thriller",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1104937,
+    "imdb_id": "tt28231777",
+    "recent_until": 1793177049847,
+    "pegi": "",
+    "runtime": 96,
+    "title": "El Jockey",
+    "original_title": "El jockey",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/u8xyhzVLqq6HeIwlnzRrrJ0LHpZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fXt669559jwHXZkx3ZEhDbF90Wz.jpg",
+    "rating": 6.7,
+    "overview": "Il comportamento autodistruttivo di Remo mette in ombra il suo talento. Abril, una futura fantina, è incinta di Remo e deve decidere se avere un figlio o continuare la sua carriera. Entrambi competono per Sirena, un uomo d'affari che in passato ha salvato la vita a Remo.",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 458534,
     "imdb_id": "tt6838702",
     "recent_until": 1793089018528,

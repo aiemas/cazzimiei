@@ -1,5 +1,79 @@
 [
   {
+    "tmdb_id": 321221,
+    "imdb_id": "tt42220724",
+    "recent_until": 1793177050951,
+    "type": "tv",
+    "title": "Minimum Wage",
+    "original_title": "Minimum Wage",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 14
+      }
+    ]
+  },
+  {
+    "tmdb_id": 283186,
+    "imdb_id": "tt35589374",
+    "recent_until": 1793177051142,
+    "type": "tv",
+    "title": "Yellowstone to Yosemite with Kevin Costner",
+    "original_title": "Yellowstone to Yosemite with Kevin Costner",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/8Efem7thu8uxg53L6M8ohua1Vgf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/a2nziSK78GoYksUURv7B1agsTth.jpg",
+    "rating": 7.0,
+    "pegi": "",
+    "runtime": 46,
+    "overview": "Una miniserie in tre parti: da Glacier Point a El Capitan e alle Yosemite Falls, fino alle spettacolari immagini delle iconiche caratteristiche geologiche, della flora e della fauna dello Yosemite di oggi; unisciti a Kevin Costner in questo viaggio.",
+    "genres": [
+      "Documentario"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
+    "tmdb_id": 320754,
+    "imdb_id": "tt38732131",
+    "recent_until": 1793177051331,
+    "type": "tv",
+    "title": "Organize Isler: Money Trap",
+    "original_title": "Organize İşler",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
+    "rating": 5.8,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Dopo aver messo le mani su una mappa leggendaria, un mitico impostore decide di organizzare un'ultima truffa prima di voltare pagina per sempre.",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Action & Adventure"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
     "tmdb_id": 314360,
     "imdb_id": "tt39980704",
     "recent_until": 1793001604480,
