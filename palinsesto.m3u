@@ -1,162 +1,462 @@
 #EXTM3U
-#EXTINF:0 group-title="05:30 Tenis Tennis (WTA Guangzhou): D. Yastremska - K. Volynets", IT
-https://www.supertennis.tv/live-streaming
-#EXTINF:0 group-title="07:00 Tenis Tennis (WTA Tokyo): L. Fernandez - H. Sakatsume", IT
-https://www.supertennis.tv/live-streaming
-#EXTINF:0 group-title="07:00 Tenis Tennis (WTA Tokyo): L. Fernandez - H. Sakatsume", EN
-https://shd247.world/live-go-streaming-29.html
-#EXTINF:0 group-title="08:00 CrÃ­quet Cricket (3rd T20I): India - New Zealand ( 08:00 - 12:00 )", EN
-https://shd247.world/live-go-streaming-29.html
-#EXTINF:0 group-title="08:00 CrÃ­quet Cricket (3rd T20I): India - New Zealand ( 08:00 - 12:00 )", IT
-https://www.supertennis.tv/live-streaming
-#EXTINF:0 group-title="08:30 Tenis Tennis (WTA Guangzhou): L. Tagger - V. Williams", IT
-https://www.supertennis.tv/live-streaming
-#EXTINF:0 group-title="08:30 Tenis Tennis (WTA Guangzhou): L. Tagger - V. Williams", EN
+#EXTINF:0 group-title="09:00 CrÃ­quet Cricket (5th ODI): Pakistan - Sri Lanka ( 09:00 - 17:00 )", EN 1
 https://shd247.world/live-cricket-streaming.html
-#EXTINF:0 group-title="09:00 CrÃ­quet Cricket (5th ODI): Pakistan - Sri Lanka ( 09:00 - 17:00 )", EN
-https://shd247.world/live-cricket-streaming.html
-#EXTINF:0 group-title="09:00 CrÃ­quet Cricket (5th ODI): Pakistan - Sri Lanka ( 09:00 - 17:00 )", IT
-https://www.supertennis.tv/live-streaming
-#EXTINF:0 group-title="09:00 Tenis Tennis (WTA Tokyo): N. Osaka - J. Paolini", IT
-https://www.supertennis.tv/live-streaming
-#EXTINF:0 group-title="09:00 Tenis Tennis (WTA Tokyo): N. Osaka - J. Paolini", EN
+#EXTINF:0 group-title="09:00 CrÃ­quet Cricket (5th ODI): Pakistan - Sri Lanka ( 09:00 - 17:00 )", EN 2
 https://shd247.world/live-go-streaming-30.html
 #EXTINF:0 group-title="09:30 CrÃ­quet Cricket (3rd Test Day 1): South Africa - Australia ( 09:30 - 18:00 )", EN
 https://shd247.world/live-go-streaming-30.html
-#EXTINF:0 group-title="09:30 CrÃ­quet Cricket (3rd Test Day 1): South Africa - Australia ( 09:30 - 18:00 )", FR
-https://www.lnky.fun/live/live07
-#EXTINF:0 group-title="11:00 FÃºtbol Football (AFC Champions League Elite): Johor Darul Ta'zim - Port FC", FR
-https://www.lnky.fun/live/live07
-#EXTINF:0 group-title="11:00 FÃºtbol Football (AFC Champions League Elite): Johor Darul Ta'zim - Port FC", ND
-https://www.aspor.com.tr/webtv/canli-yayin
-#EXTINF:0 group-title="11:30 FÃºtbol Football (Turkey Cup Q): Etimesgut - Gaziantep", ND
-https://www.aspor.com.tr/webtv/canli-yayin
-#EXTINF:0 group-title="11:30 FÃºtbol Football (Turkey Cup Q): Etimesgut - Gaziantep", IT
-https://www.supertennis.tv/live-streaming
-#EXTINF:0 group-title="12:00 Tenis Tennis (WTA Guangzhou): X. Sun - M. Sawangkaew", IT
-https://www.supertennis.tv/live-streaming
-#EXTINF:0 group-title="12:00 Tenis Tennis (WTA Guangzhou): X. Sun - M. Sawangkaew", PL
+#EXTINF:0 group-title="09:30 CrÃ­quet Cricket (3rd Test Day 1): South Africa - Australia ( 09:30 - 18:00 )", PL
 https://sport.tvp.pl/96085364/gornik-leczna-gks-katowice-sts-puchar-polski-116-finalu-transmisja-w-tvp-sport-i-tvpsportpl-27102026
 #EXTINF:0 group-title="12:30 FÃºtbol Football (Poland Cup): Leczna - GKS Katowice", PL
 https://sport.tvp.pl/96085364/gornik-leczna-gks-katowice-sts-puchar-polski-116-finalu-transmisja-w-tvp-sport-i-tvpsportpl-27102026
-#EXTINF:0 group-title="12:30 FÃºtbol Football (Poland Cup): Leczna - GKS Katowice", FR
+#EXTINF:0 group-title="12:30 FÃºtbol Football (Poland Cup): Leczna - GKS Katowice", ND 1
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="12:30 FÃºtbol Football (Poland Cup): Leczna - GKS Katowice", ND 2
+https://shazysport.pro/livehd9.html
+#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Beijing Guoan - Jeonbuk Motor", ND 1
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Beijing Guoan - Jeonbuk Motor", ND 2
+https://shazysport.pro/livehd9.html
+#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Beijing Guoan - Jeonbuk Motor", FR 1
 https://www.lnky.fun/live/live07
-#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Ratchaburi - Kashiwa Reysol", FR
+#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Beijing Guoan - Jeonbuk Motor", FR 2
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Beijing Guoan - Jeonbuk Motor", FR 3
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Ratchaburi - Kashiwa Reysol", FR 1
 https://www.lnky.fun/live/live07
-#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Ratchaburi - Kashiwa Reysol", EN 1
+#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Ratchaburi - Kashiwa Reysol", FR 2
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Ratchaburi - Kashiwa Reysol", FR 3
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Ratchaburi - Kashiwa Reysol", ND 1
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Ratchaburi - Kashiwa Reysol", ND 2
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Ratchaburi - Kashiwa Reysol", ND 3
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Ratchaburi - Kashiwa Reysol", ND 4
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="13:30 FÃºtbol Football (Turkey Cup Q): Boluspor - Karsiyaka", ND 1
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="13:30 FÃºtbol Football (Turkey Cup Q): Boluspor - Karsiyaka", ND 2
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="13:30 FÃºtbol Football (Turkey Cup Q): Boluspor - Karsiyaka", ND 3
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="13:30 FÃºtbol Football (Turkey Cup Q): Boluspor - Karsiyaka", ND 4
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="13:30 Tenis Tennis (ATP Vienna Open): T. Paul - A. Rublev", ND 1
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="13:30 Tenis Tennis (ATP Vienna Open): T. Paul - A. Rublev", ND 2
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="13:30 Tenis Tennis (ATP Vienna Open): T. Paul - A. Rublev", ND 3
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="13:30 Tenis Tennis (ATP Vienna Open): T. Paul - A. Rublev", ND 4
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="14:00 Tenis Tennis (Basel Open): A. Tabilo - R. Jodar", ND 1
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="14:00 Tenis Tennis (Basel Open): A. Tabilo - R. Jodar", ND 2
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="14:00 Tenis Tennis (Basel Open): A. Tabilo - R. Jodar", ND 3
+https://shd247.world/live-go-streaming-14.html
+#EXTINF:0 group-title="14:00 Tenis Tennis (Basel Open): A. Tabilo - R. Jodar", ND 4
+https://shazysport.pro/livehd11.html
+#EXTINF:0 group-title="15:00 FÃºtbol Football (Greek Cup): Panserraikos - Niki Volos", ND 1
+https://shd247.world/live-go-streaming-14.html
+#EXTINF:0 group-title="15:00 FÃºtbol Football (Greek Cup): Panserraikos - Niki Volos", ND 2
+https://shazysport.pro/livehd11.html
+#EXTINF:0 group-title="15:00 FÃºtbol Football (Greek Cup): Panserraikos - Niki Volos", ES 1
+https://polocruz19.pages.dev/torre
+#EXTINF:0 group-title="15:00 FÃºtbol Football (Greek Cup): Panserraikos - Niki Volos", ES 2
+https://polocruz19.pages.dev/espn4
+#EXTINF:0 group-title="15:00 FÃºtbol Football (Greek Cup): Panserraikos - Niki Volos", ES 3
+https://nonstopservice.org/tcy66/
+#EXTINF:0 group-title="15:00 FÃºtbol Football (Greek Cup): Panserraikos - Niki Volos", ES 4
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="15:00 FÃºtbol Football (Greek Cup): Panserraikos - Niki Volos", ES 5
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="15:30 Tenis Tennis (ATP Vienna Open): K. Khachanov - C. Alcaraz", ES 1
+https://polocruz19.pages.dev/torre
+#EXTINF:0 group-title="15:30 Tenis Tennis (ATP Vienna Open): K. Khachanov - C. Alcaraz", ES 2
+https://polocruz19.pages.dev/espn4
+#EXTINF:0 group-title="15:30 Tenis Tennis (ATP Vienna Open): K. Khachanov - C. Alcaraz", ES 3
+https://nonstopservice.org/tcy66/
+#EXTINF:0 group-title="15:30 Tenis Tennis (ATP Vienna Open): K. Khachanov - C. Alcaraz", ES 4
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="15:30 Tenis Tennis (ATP Vienna Open): K. Khachanov - C. Alcaraz", ES 5
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="15:30 Tenis Tennis (ATP Vienna Open): K. Khachanov - C. Alcaraz", EN
+https://nonstopservice.org/tcy66/
+#EXTINF:0 group-title="15:30 Tenis Tennis (ATP Vienna Open): K. Khachanov - C. Alcaraz", ND 1
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="15:30 Tenis Tennis (ATP Vienna Open): K. Khachanov - C. Alcaraz", ND 2
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="15:30 Tenis Tennis (ATP Vienna Open): K. Khachanov - C. Alcaraz", ND 3
+https://shazysport.pro/livehd12.html
+#EXTINF:0 group-title="16:00 FÃºtbol Football (Bulgaria Parva Liga): Cherno More - Septemvri", ND
+https://shazysport.pro/livehd12.html
+#EXTINF:0 group-title="16:00 FÃºtbol Football (Bulgaria Parva Liga): Cherno More - Septemvri", RO
+https://shazysport.pro/livehd13.html
+#EXTINF:0 group-title="16:00 FÃºtbol Football (Cupa Romaniei): Progresul Spartac - Petrolul", RO
+https://shazysport.pro/livehd13.html
+#EXTINF:0 group-title="16:00 FÃºtbol Football (Cupa Romaniei): Progresul Spartac - Petrolul", ES
+https://polocruz19.pages.dev/dsports2
+#EXTINF:0 group-title="16:00 FÃºtbol Football (Russia Cup): Fakel - Akhmat Grozny", ES
+https://polocruz19.pages.dev/dsports2
+#EXTINF:0 group-title="16:00 FÃºtbol Football (Russia Cup): Fakel - Akhmat Grozny", ND 1
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="16:00 FÃºtbol Football (Russia Cup): Fakel - Akhmat Grozny", ND 2
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="16:00 FÃºtbol Football (Turkish Cup): Kocaelispor - Mazidagi", ND 1
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="16:00 FÃºtbol Football (Turkish Cup): Kocaelispor - Mazidagi", ND 2
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="16:00 FÃºtbol Football (Turkish Cup): Kocaelispor - Mazidagi", ND 3
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="16:00 FÃºtbol Football (Turkish Cup): Kocaelispor - Mazidagi", ND 4
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="16:00 Tenis Tennis (Basel Open): Mpetshi Perricard - A. Fils", ND 1
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="16:00 Tenis Tennis (Basel Open): Mpetshi Perricard - A. Fils", ND 2
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="16:00 Tenis Tennis (Basel Open): Mpetshi Perricard - A. Fils", ND 3
+https://shd247.world/live-go-streaming-18.html
+#EXTINF:0 group-title="16:00 Tenis Tennis (Basel Open): Mpetshi Perricard - A. Fils", ND 4
+https://shazysport.pro/livehd15.html
+#EXTINF:0 group-title="16:30 FÃºtbol Football (Greek Cup): Asteras Tripolis - Kifisia", ND 1
+https://shd247.world/live-go-streaming-18.html
+#EXTINF:0 group-title="16:30 FÃºtbol Football (Greek Cup): Asteras Tripolis - Kifisia", ND 2
+https://shazysport.pro/livehd15.html
+#EXTINF:0 group-title="16:30 FÃºtbol Football (Greek Cup): Asteras Tripolis - Kifisia", EN 1
 https://sebn.dad/271026/sebn-18.html
-#EXTINF:0 group-title="13:15 FÃºtbol Football (AFC Champions League Elite): Ratchaburi - Kashiwa Reysol", EN 2
+#EXTINF:0 group-title="16:30 FÃºtbol Football (Greek Cup): Asteras Tripolis - Kifisia", EN 2
 https://9soccer.biz/R9-34/Ch1/51.html
+#EXTINF:0 group-title="16:30 FÃºtbol Football (Greek Cup): Asteras Tripolis - Kifisia", EN 3
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="16:30 FÃºtbol Football (Greek Cup): Asteras Tripolis - Kifisia", EN 4
+https://shazysport.pro/livehd9.html
 #EXTINF:0 group-title="17:00 Baloncesto Basketball (Euroleague): Dubai - Paris", EN 1
 https://sebn.dad/271026/sebn-18.html
 #EXTINF:0 group-title="17:00 Baloncesto Basketball (Euroleague): Dubai - Paris", EN 2
 https://9soccer.biz/R9-34/Ch1/51.html
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Euroleague): Dubai - Paris", EN 3
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Euroleague): Dubai - Paris", EN 4
+https://shazysport.pro/livehd9.html
 #EXTINF:0 group-title="17:00 Baloncesto Basketball (Euroleague): Dubai - Paris", FR
 https://9soccer.biz/R9-34/Ch1/51.html
-#EXTINF:0 group-title="17:00 Baloncesto Basketball (Euroleague): Dubai - Paris", EN 3
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Euroleague): Dubai - Paris", ND 1
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Euroleague): Dubai - Paris", ND 2
+https://shazysport.pro/livehd9.html
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Euroleague): Dubai - Paris", ES
+https://polocruz19.pages.dev/espn5
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", ES
+https://polocruz19.pages.dev/espn5
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 1
+https://polocruz19.pages.dev/spo9
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 2
+https://polocruz19.pages.dev/eleven1
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 3
+https://polocruz19.pages.dev/br6
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 4
+https://gomstrieam.cfd/stream.php?ch=4
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 5
+https://freesportshd.cfd/?post=1793102271
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 6
 https://sebn.dad/271026/sebn-16.html
-#EXTINF:0 group-title="17:00 Baloncesto Basketball (Euroleague): Dubai - Paris", EN 4
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 7
 https://9soccer.biz/R9-34/Ch1/13.html
-#EXTINF:0 group-title="17:00 Baloncesto Basketball (Euroleague): Dubai - Paris", EN 5
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 8
 https://wolfstreams.cfd/wolf16/13.html
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 9
+https://shd247.world/live-go-streaming-15.html
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 10
+https://shazysport.pro/livehd12.html
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 11
+https://sportsinjection.group/zaee505/4.php
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 12
+https://wheelsports.lol/RJ52/tv/13.html
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 13
+https://ytstreams.club/YSports132/Nexa/13.html
+#EXTINF:0 group-title="18:00 Fútbol: Messi Cup 2026 ( 18:00 - 01:00 )", DE 14
+https://vivtops.st/vivo1/?ch=4
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 1
+https://polocruz19.pages.dev/spo9
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 2
+https://polocruz19.pages.dev/eleven1
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 3
+https://polocruz19.pages.dev/br6
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 4
+https://gomstrieam.cfd/stream.php?ch=4
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 5
+https://freesportshd.cfd/?post=1793102271
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 6
+https://sebn.dad/271026/sebn-16.html
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 7
+https://9soccer.biz/R9-34/Ch1/13.html
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 8
+https://wolfstreams.cfd/wolf16/13.html
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 9
+https://shd247.world/live-go-streaming-15.html
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 10
+https://shazysport.pro/livehd12.html
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 11
+https://sportsinjection.group/zaee505/4.php
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 12
+https://wheelsports.lol/RJ52/tv/13.html
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 13
+https://ytstreams.club/YSports132/Nexa/13.html
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 14
+https://vivtops.st/vivo1/?ch=4
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", PT 1
+https://polocruz19.pages.dev/eleven1
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", PT 2
+https://polocruz19.pages.dev/br6
 #EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", EN 1
 https://sebn.dad/271026/sebn-16.html
 #EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", EN 2
-https://9soccer.biz/R9-34/Ch1/13.html
+https://sportsinjection.group/zaee505/4.php
 #EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", EN 3
-https://wolfstreams.cfd/wolf16/13.html
-#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 1
-https://9soccer.biz/R9-34/Ch1/13.html
-#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", DE 2
-https://wolfstreams.cfd/wolf16/13.html
-#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", ES 1
+https://vivtops.st/vivo1/?ch=4
+#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", ES
+https://polocruz19.pages.dev/dsports2
+#EXTINF:0 group-title="18:30 FÃºtbol Football (Russia Cup): Krasnodar - Dinamo Moskva", ES 1
+https://polocruz19.pages.dev/dsports2
+#EXTINF:0 group-title="18:30 FÃºtbol Football (Russia Cup): Krasnodar - Dinamo Moskva", ES 2
+https://polocruz19.pages.dev/spo6
+#EXTINF:0 group-title="18:30 FÃºtbol Football (Russia Cup): Krasnodar - Dinamo Moskva", ES 3
 https://sebn.dad/271026/sebn-13.html
-#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", ES 2
+#EXTINF:0 group-title="18:30 FÃºtbol Football (Russia Cup): Krasnodar - Dinamo Moskva", ES 4
 https://9soccer.biz/R9-34/Ch1/27.html
-#EXTINF:0 group-title="18:00 FÃºtbol Football (German DFB Pokal): Hamburger - E. Frankfurt", ES 3
+#EXTINF:0 group-title="18:30 FÃºtbol Football (Russia Cup): Krasnodar - Dinamo Moskva", ES 5
 https://wolfstreams.cfd/wolf16/27.html
+#EXTINF:0 group-title="18:30 FÃºtbol Football (Russia Cup): Krasnodar - Dinamo Moskva", ES 6
+https://sportsinjection.group/zaee505/14.php
+#EXTINF:0 group-title="18:30 FÃºtbol Football (Russia Cup): Krasnodar - Dinamo Moskva", ES 7
+https://wheelsports.lol/RJ52/tv/27.html
+#EXTINF:0 group-title="18:30 FÃºtbol Football (Russia Cup): Krasnodar - Dinamo Moskva", ES 8
+https://ytstreams.club/YSports132/Nexa/27.html
+#EXTINF:0 group-title="18:30 FÃºtbol Football (Russia Cup): Krasnodar - Dinamo Moskva", ES 9
+https://vivtops.st/vivo1/?ch=14
 #EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", ES 1
-https://sebn.dad/271026/sebn-13.html
+https://polocruz19.pages.dev/spo6
 #EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", ES 2
-https://9soccer.biz/R9-34/Ch1/27.html
+https://sebn.dad/271026/sebn-13.html
 #EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", ES 3
-https://wolfstreams.cfd/wolf16/27.html
+https://9soccer.biz/R9-34/Ch1/27.html
 #EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", ES 4
-https://www.lnky.fun/live/live02
+https://wolfstreams.cfd/wolf16/27.html
 #EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", ES 5
-https://www.lnky.fun/live/live05
+https://sportsinjection.group/zaee505/14.php
 #EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", ES 6
-https://www.lnky.fun/live/live10
+https://wheelsports.lol/RJ52/tv/27.html
 #EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", ES 7
-https://www.lnky.fun/live/live11
+https://ytstreams.club/YSports132/Nexa/27.html
 #EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", ES 8
-https://www.lnky.fun/live/live18
-#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", ES 9
-https://sebn.dad/271026/sebn-11.html
-#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", ES 10
-https://9soccer.biz/R9-34/Ch1/47.html
-#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", ES 11
-https://wolfstreams.cfd/wolf16/47.html
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 1
+https://vivtops.st/vivo1/?ch=14
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", EN 1
+https://sportsinjection.group/zaee505/14.php
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", EN 2
+https://vivtops.st/vivo1/?ch=14
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", PT 1
+https://www.lnky.fun/live/live22
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", PT 2
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Sestao River - Espanyol", PT 3
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", PT 1
+https://www.lnky.fun/live/live22
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", PT 2
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", PT 3
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ND 1
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ND 2
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 1
+https://polocruz19.pages.dev/acer
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 2
+https://polocruz19.pages.dev/espn2
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 3
+https://polocruz19.pages.dev/espn2mx
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 4
+https://polocruz19.pages.dev/universo
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 5
+https://polocruz19.pages.dev/spo7
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 6
+https://polocruz19.pages.dev/pt2
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 7
 https://www.lnky.fun/live/live02
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 2
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 8
 https://www.lnky.fun/live/live05
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 9
+https://www.lnky.fun/live/live10
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 10
+https://www.lnky.fun/live/live11
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 11
+https://www.lnky.fun/live/live18
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 12
+https://www.lnky.fun/live/live21
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 13
+https://gomstrieam.cfd/stream.php?ch=1
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 14
+https://freesportshd.cfd/?post=1793102317
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 15
+https://sebn.dad/271026/sebn-11.html
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 16
+https://9soccer.biz/R9-34/Ch1/47.html
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 17
+https://wolfstreams.cfd/wolf16/47.html
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 18
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 19
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 20
+https://sportsinjection.group/zaee505/7.php
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 21
+https://wheelsports.lol/RJ52/tv/47.html
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 22
+https://ytstreams.club/YSports132/Nexa/47.html
+#EXTINF:0 group-title="19:15 FÃºtbol Football (AFC Champions League Elite): Al Shamal - Al Hilal", ES 23
+https://vivtops.st/vivo1/?ch=7
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 1
+https://polocruz19.pages.dev/acer
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 2
+https://polocruz19.pages.dev/espn2
 #EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 3
-https://www.lnky.fun/live/live10
+https://polocruz19.pages.dev/espn2mx
 #EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 4
-https://www.lnky.fun/live/live11
+https://polocruz19.pages.dev/universo
 #EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 5
-https://www.lnky.fun/live/live18
+https://polocruz19.pages.dev/spo7
 #EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 6
-https://sebn.dad/271026/sebn-11.html
+https://polocruz19.pages.dev/pt2
 #EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 7
-https://9soccer.biz/R9-34/Ch1/47.html
+https://www.lnky.fun/live/live02
 #EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 8
-https://wolfstreams.cfd/wolf16/47.html
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", IT 1
+https://www.lnky.fun/live/live05
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 9
 https://www.lnky.fun/live/live10
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", IT 2
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 10
 https://www.lnky.fun/live/live11
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", PT
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 11
 https://www.lnky.fun/live/live18
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", EN
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 12
+https://www.lnky.fun/live/live21
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 13
+https://gomstrieam.cfd/stream.php?ch=1
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 14
+https://freesportshd.cfd/?post=1793102317
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 15
 https://sebn.dad/271026/sebn-11.html
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", IT 3
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 16
 https://9soccer.biz/R9-34/Ch1/47.html
-#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", IT 4
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 17
 https://wolfstreams.cfd/wolf16/47.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 18
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 19
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 20
+https://sportsinjection.group/zaee505/7.php
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 21
+https://wheelsports.lol/RJ52/tv/47.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 22
+https://ytstreams.club/YSports132/Nexa/47.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", ES 23
+https://vivtops.st/vivo1/?ch=7
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", IT 1
+https://polocruz19.pages.dev/spo7
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", PT 1
+https://polocruz19.pages.dev/pt2
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", IT 2
+https://www.lnky.fun/live/live10
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", IT 3
+https://www.lnky.fun/live/live11
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", PT 2
+https://www.lnky.fun/live/live18
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", RU
+https://www.lnky.fun/live/live21
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", IT 4
+https://gomstrieam.cfd/stream.php?ch=1
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", IT 5
+https://freesportshd.cfd/?post=1793102317
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", EN 1
+https://sebn.dad/271026/sebn-11.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", IT 6
+https://9soccer.biz/R9-34/Ch1/47.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", IT 7
+https://wolfstreams.cfd/wolf16/47.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", PT 3
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", PT 4
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", EN 2
+https://sportsinjection.group/zaee505/7.php
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", IT 8
+https://wheelsports.lol/RJ52/tv/47.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", IT 9
+https://ytstreams.club/YSports132/Nexa/47.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", EN 3
+https://vivtops.st/vivo1/?ch=7
 #EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", DE 1
 https://www.lnky.fun/live/live15
 #EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", DE 2
 https://sebn.dad/271026/sebn-19.html
 #EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", DE 3
 https://9soccer.biz/R9-34/Ch1/98.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", DE 4
+https://wheelsports.lol/RJ52/tv/98.html
+#EXTINF:0 group-title="19:30 FÃºtbol Football (Italy Serie A): Sassuolo - Lazio", DE 5
+https://ytstreams.club/YSports132/Nexa/98.html
 #EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Bayern - Barcelona", DE 1
 https://www.lnky.fun/live/live15
 #EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Bayern - Barcelona", DE 2
 https://sebn.dad/271026/sebn-19.html
 #EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Bayern - Barcelona", DE 3
 https://9soccer.biz/R9-34/Ch1/98.html
+#EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Bayern - Barcelona", DE 4
+https://wheelsports.lol/RJ52/tv/98.html
+#EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Bayern - Barcelona", DE 5
+https://ytstreams.club/YSports132/Nexa/98.html
 #EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Bayern - Barcelona", EN 1
 https://sebn.dad/271026/sebn-19.html
 #EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Bayern - Barcelona", EN 2
 https://sebn.dad/271026/sebn-20.html
 #EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Bayern - Barcelona", EN 3
 https://9soccer.biz/R9-34/Ch1/99.html
+#EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Bayern - Barcelona", EN 4
+https://wheelsports.lol/RJ52/tv/99.html
+#EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Bayern - Barcelona", EN 5
+https://ytstreams.club/YSports132/Nexa/99.html
 #EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", EN 1
 https://sebn.dad/271026/sebn-20.html
 #EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", EN 2
 https://9soccer.biz/R9-34/Ch1/99.html
-#EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", DE
-https://9soccer.biz/R9-34/Ch1/99.html
 #EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", EN 3
-https://www.lnky.fun/live/live16
+https://wheelsports.lol/RJ52/tv/99.html
 #EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", EN 4
-https://sebn.dad/271026/sebn-21.html
+https://ytstreams.club/YSports132/Nexa/99.html
+#EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", DE 1
+https://9soccer.biz/R9-34/Ch1/99.html
+#EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", DE 2
+https://wheelsports.lol/RJ52/tv/99.html
+#EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", DE 3
+https://ytstreams.club/YSports132/Nexa/99.html
 #EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", EN 5
-https://9soccer.biz/R9-34/Ch1/97.html
+https://www.lnky.fun/live/live16
 #EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", EN 6
+https://sebn.dad/271026/sebn-21.html
+#EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", EN 7
+https://9soccer.biz/R9-34/Ch1/97.html
+#EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", EN 8
 https://9soccer.biz/R9-34/Ch1/23.html
+#EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", EN 9
+https://wheelsports.lol/RJ52/tv/23.html
+#EXTINF:0 group-title="20:00 FÃºtbol Football (Euroleague): Crvena Zvezda - Maccabi", EN 10
+https://ytstreams.club/YSports132/Nexa/23.html
 #EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", EN 1
 https://www.lnky.fun/live/live16
 #EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", EN 2
@@ -165,20 +465,32 @@ https://sebn.dad/271026/sebn-21.html
 https://9soccer.biz/R9-34/Ch1/97.html
 #EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", EN 4
 https://9soccer.biz/R9-34/Ch1/23.html
+#EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", EN 5
+https://wheelsports.lol/RJ52/tv/23.html
+#EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", EN 6
+https://ytstreams.club/YSports132/Nexa/23.html
 #EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", ND 1
 https://www.lnky.fun/live/live16
 #EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", DE
 https://9soccer.biz/R9-34/Ch1/97.html
 #EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", ND 2
 https://9soccer.biz/R9-34/Ch1/23.html
-#EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", EN 5
-https://www.lnky.fun/live/live17
-#EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", EN 6
-https://sebn.dad/271026/sebn-22.html
+#EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", ND 3
+https://wheelsports.lol/RJ52/tv/23.html
+#EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", ND 4
+https://ytstreams.club/YSports132/Nexa/23.html
 #EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", EN 7
-https://9soccer.biz/R9-34/Ch1/96.html
+https://www.lnky.fun/live/live17
 #EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", EN 8
+https://sebn.dad/271026/sebn-22.html
+#EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", EN 9
+https://9soccer.biz/R9-34/Ch1/96.html
+#EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", EN 10
 https://9soccer.biz/R9-34/Ch1/24.html
+#EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", EN 11
+https://wheelsports.lol/RJ52/tv/96.html
+#EXTINF:0 group-title="20:15 FÃºtbol Football (Euroleague): Panathinaikos - Olimpia Milano", EN 12
+https://ytstreams.club/YSports132/Nexa/96.html
 #EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 1
 https://www.lnky.fun/live/live17
 #EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 2
@@ -187,181 +499,405 @@ https://sebn.dad/271026/sebn-22.html
 https://9soccer.biz/R9-34/Ch1/96.html
 #EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 4
 https://9soccer.biz/R9-34/Ch1/24.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 5
+https://wheelsports.lol/RJ52/tv/96.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 6
+https://ytstreams.club/YSports132/Nexa/96.html
 #EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", ND 1
 https://www.lnky.fun/live/live17
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", DE
+#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", DE 1
 https://9soccer.biz/R9-34/Ch1/96.html
 #EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", ND 2
 https://9soccer.biz/R9-34/Ch1/24.html
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 5
-https://sebn.dad/271026/sebn-14.html
-#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 6
-https://9soccer.biz/R9-34/Ch1/4.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", DE 2
+https://wheelsports.lol/RJ52/tv/96.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", DE 3
+https://ytstreams.club/YSports132/Nexa/96.html
 #EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 7
+https://sebn.dad/271026/sebn-14.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 8
+https://9soccer.biz/R9-34/Ch1/4.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 9
 https://wolfstreams.cfd/wolf16/4.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 10
+https://sportsinjection.group/zaee505/11.php
+#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 11
+https://wheelsports.lol/RJ52/tv/4.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 12
+https://ytstreams.club/YSports132/Nexa/4.html
+#EXTINF:0 group-title="20:30 FÃºtbol Football (Euroleague): Valencia - Fenerbahce", EN 13
+https://vivtops.st/vivo1/?ch=11
 #EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", EN 1
 https://sebn.dad/271026/sebn-14.html
 #EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", EN 2
 https://9soccer.biz/R9-34/Ch1/4.html
 #EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", EN 3
 https://wolfstreams.cfd/wolf16/4.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", EN 4
+https://sportsinjection.group/zaee505/11.php
+#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", EN 5
+https://wheelsports.lol/RJ52/tv/4.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", EN 6
+https://ytstreams.club/YSports132/Nexa/4.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", EN 7
+https://vivtops.st/vivo1/?ch=11
+#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", FR
+https://sportsinjection.group/zaee505/11.php
 #EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", ES 1
-https://www.lnky.fun/live/live09
+https://polocruz19.pages.dev/espn3mx
 #EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", ES 2
-https://www.lnky.fun/live/live13
-#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", ES 3
-https://sebn.dad/271026/sebn-16.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", ES 4
-https://9soccer.biz/R9-34/Ch1/12.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", ES 5
-https://wolfstreams.cfd/wolf16/12.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 1
 https://www.lnky.fun/live/live09
-#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 2
+#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", ES 3
 https://www.lnky.fun/live/live13
-#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 3
+#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", ES 4
 https://sebn.dad/271026/sebn-16.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 4
+#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", ES 5
 https://9soccer.biz/R9-34/Ch1/12.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 5
+#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", ES 6
 https://wolfstreams.cfd/wolf16/12.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", ES 7
+https://sportsinjection.group/zaee505/10.php
+#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", ES 8
+https://wheelsports.lol/RJ52/tv/12.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", ES 9
+https://ytstreams.club/YSports132/Nexa/12.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (English EFL Cup): Bradford - Petersborough", ES 10
+https://vivtops.st/vivo1/?ch=10
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 1
+https://polocruz19.pages.dev/espn3mx
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 2
+https://www.lnky.fun/live/live09
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 3
+https://www.lnky.fun/live/live13
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 4
+https://sebn.dad/271026/sebn-16.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 5
+https://9soccer.biz/R9-34/Ch1/12.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 6
+https://wolfstreams.cfd/wolf16/12.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 7
+https://sportsinjection.group/zaee505/10.php
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 8
+https://wheelsports.lol/RJ52/tv/12.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 9
+https://ytstreams.club/YSports132/Nexa/12.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 10
+https://vivtops.st/vivo1/?ch=10
 #EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", DE 1
 https://www.lnky.fun/live/live13
-#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", EN
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", EN 1
 https://sebn.dad/271026/sebn-16.html
 #EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", DE 2
 https://9soccer.biz/R9-34/Ch1/12.html
 #EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", DE 3
 https://wolfstreams.cfd/wolf16/12.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 6
-https://www.lnky.fun/live/live02
-#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 7
-https://www.lnky.fun/live/live05
-#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 8
-https://www.lnky.fun/live/live06
-#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 9
-https://www.lnky.fun/live/live10
-#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 10
-https://www.lnky.fun/live/live18
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", EN 2
+https://sportsinjection.group/zaee505/10.php
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", DE 4
+https://wheelsports.lol/RJ52/tv/12.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", DE 5
+https://ytstreams.club/YSports132/Nexa/12.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", EN 3
+https://vivtops.st/vivo1/?ch=10
 #EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 11
-https://sebn.dad/271026/sebn-11.html
+https://polocruz19.pages.dev/acer
 #EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 12
-https://9soccer.biz/R9-34/Ch1/47.html
+https://polocruz19.pages.dev/espn2mx
 #EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 13
-https://9soccer.biz/R9-34/Ch1/18.html
+https://polocruz19.pages.dev/universo
 #EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 14
-https://wolfstreams.cfd/wolf16/47.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 1
+https://polocruz19.pages.dev/pt2
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 15
 https://www.lnky.fun/live/live02
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 2
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 16
 https://www.lnky.fun/live/live05
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 3
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 17
 https://www.lnky.fun/live/live06
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 4
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 18
 https://www.lnky.fun/live/live10
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 5
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 19
 https://www.lnky.fun/live/live18
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 6
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 20
+https://www.lnky.fun/live/live21
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 21
 https://sebn.dad/271026/sebn-11.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 7
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 22
+https://nonstopservice.org/ta83/
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 23
 https://9soccer.biz/R9-34/Ch1/47.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 8
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 24
 https://9soccer.biz/R9-34/Ch1/18.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 9
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 25
 https://wolfstreams.cfd/wolf16/47.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 26
+https://sportsinjection.group/zaee505/7.php
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 27
+https://wheelsports.lol/RJ52/tv/47.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 28
+https://ytstreams.club/YSports132/Nexa/47.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (German DFB Pokal): B. Dortmund - Werder Bremen", ES 29
+https://vivtops.st/vivo1/?ch=7
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 1
+https://polocruz19.pages.dev/acer
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 2
+https://polocruz19.pages.dev/espn2mx
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 3
+https://polocruz19.pages.dev/universo
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 4
+https://polocruz19.pages.dev/pt2
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 5
+https://www.lnky.fun/live/live02
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 6
+https://www.lnky.fun/live/live05
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 7
+https://www.lnky.fun/live/live06
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 8
+https://www.lnky.fun/live/live10
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 9
+https://www.lnky.fun/live/live18
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 10
+https://www.lnky.fun/live/live21
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 11
+https://sebn.dad/271026/sebn-11.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 12
+https://nonstopservice.org/ta83/
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 13
+https://9soccer.biz/R9-34/Ch1/47.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 14
+https://9soccer.biz/R9-34/Ch1/18.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 15
+https://wolfstreams.cfd/wolf16/47.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 16
+https://sportsinjection.group/zaee505/7.php
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 17
+https://wheelsports.lol/RJ52/tv/47.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 18
+https://ytstreams.club/YSports132/Nexa/47.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", ES 19
+https://vivtops.st/vivo1/?ch=7
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", PT 1
+https://polocruz19.pages.dev/pt2
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 1
 https://www.lnky.fun/live/live10
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", PT
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", PT 2
 https://www.lnky.fun/live/live18
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", EN
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", RU
+https://www.lnky.fun/live/live21
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", EN 1
 https://sebn.dad/271026/sebn-11.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", EN 2
+https://nonstopservice.org/ta83/
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 2
 https://9soccer.biz/R9-34/Ch1/47.html
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", DE
 https://9soccer.biz/R9-34/Ch1/18.html
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 3
 https://wolfstreams.cfd/wolf16/47.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", EN 3
+https://sportsinjection.group/zaee505/7.php
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 4
-https://www.lnky.fun/live/live12
+https://wheelsports.lol/RJ52/tv/47.html
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 5
-https://www.lnky.fun/live/live19
+https://ytstreams.club/YSports132/Nexa/47.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", EN 4
+https://vivtops.st/vivo1/?ch=7
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 6
-https://sebn.dad/271026/sebn-12.html
+https://polocruz19.pages.dev/spo2
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 7
-https://9soccer.biz/R9-34/Ch1/46.html
+https://polocruz19.pages.dev/disney8
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 8
-https://wolfstreams.cfd/wolf16/46.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 1
 https://www.lnky.fun/live/live12
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 2
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 9
 https://www.lnky.fun/live/live19
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 3
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 10
 https://sebn.dad/271026/sebn-12.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 4
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 11
+https://nonstopservice.org/ta81/
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 12
 https://9soccer.biz/R9-34/Ch1/46.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 5
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 13
 https://wolfstreams.cfd/wolf16/46.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 14
+https://sportsinjection.group/zaee505/8.php
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 15
+https://wheelsports.lol/RJ52/tv/46.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 16
+https://ytstreams.club/YSports132/Nexa/46.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Roma - Cagliari", IT 17
+https://vivtops.st/vivo1/?ch=8
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 1
+https://polocruz19.pages.dev/spo2
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 2
+https://polocruz19.pages.dev/disney8
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 3
+https://www.lnky.fun/live/live12
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 4
+https://www.lnky.fun/live/live19
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 5
+https://sebn.dad/271026/sebn-12.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 6
+https://nonstopservice.org/ta81/
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 7
+https://9soccer.biz/R9-34/Ch1/46.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 8
+https://wolfstreams.cfd/wolf16/46.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 9
+https://sportsinjection.group/zaee505/8.php
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 10
+https://wheelsports.lol/RJ52/tv/46.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 11
+https://ytstreams.club/YSports132/Nexa/46.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", IT 12
+https://vivtops.st/vivo1/?ch=8
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", EN 1
+https://polocruz19.pages.dev/disney8
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", PT
 https://www.lnky.fun/live/live19
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", EN 1
-https://sebn.dad/271026/sebn-12.html
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", EN 2
-https://www.lnky.fun/live/live01
+https://sebn.dad/271026/sebn-12.html
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", EN 3
-https://www.lnky.fun/live/live03
+https://nonstopservice.org/ta81/
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", EN 4
-https://www.lnky.fun/live/live04
+https://sportsinjection.group/zaee505/8.php
 #EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", EN 5
-https://www.lnky.fun/live/live07
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", EN 6
-https://sebn.dad/271026/sebn-15.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", EN 7
-https://9soccer.biz/R9-34/Ch1/5.html
-#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", EN 8
-https://wolfstreams.cfd/wolf16/5.html
-#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 1
+https://vivtops.st/vivo1/?ch=8
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 1
+https://polocruz19.pages.dev/torre
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 2
+https://polocruz19.pages.dev/espn1
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 3
+https://polocruz19.pages.dev/espn1mx
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 4
+https://polocruz19.pages.dev/spo1
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 5
+https://polocruz19.pages.dev/pt3
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 6
+https://polocruz19.pages.dev/br2
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 7
 https://www.lnky.fun/live/live01
-#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 2
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 8
 https://www.lnky.fun/live/live03
-#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 3
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 9
 https://www.lnky.fun/live/live04
-#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 4
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 10
 https://www.lnky.fun/live/live07
-#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 5
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 11
 https://sebn.dad/271026/sebn-15.html
-#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 6
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 12
 https://9soccer.biz/R9-34/Ch1/5.html
-#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 7
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 13
 https://wolfstreams.cfd/wolf16/5.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 14
+https://sportsinjection.group/zaee505/12.php
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 15
+https://wheelsports.lol/RJ52/tv/5.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 16
+https://ytstreams.club/YSports132/Nexa/5.html
+#EXTINF:0 group-title="20:45 FÃºtbol Football (Italy Serie A): Torino - Como", ES 17
+https://vivtops.st/vivo1/?ch=12
 #EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 1
-https://www.lnky.fun/live/live03
+https://polocruz19.pages.dev/torre
 #EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 2
+https://polocruz19.pages.dev/espn1
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 3
+https://polocruz19.pages.dev/espn1mx
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 4
+https://polocruz19.pages.dev/spo1
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 5
+https://polocruz19.pages.dev/pt3
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 6
+https://polocruz19.pages.dev/br2
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 7
+https://www.lnky.fun/live/live01
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 8
+https://www.lnky.fun/live/live03
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 9
 https://www.lnky.fun/live/live04
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 10
+https://www.lnky.fun/live/live07
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 11
+https://sebn.dad/271026/sebn-15.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 12
+https://9soccer.biz/R9-34/Ch1/5.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 13
+https://wolfstreams.cfd/wolf16/5.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 14
+https://sportsinjection.group/zaee505/12.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 15
+https://wheelsports.lol/RJ52/tv/5.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 16
+https://ytstreams.club/YSports132/Nexa/5.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 17
+https://vivtops.st/vivo1/?ch=12
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 1
+https://polocruz19.pages.dev/spo1
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", PT
+https://polocruz19.pages.dev/br2
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 2
+https://www.lnky.fun/live/live01
 #EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", FR
 https://www.lnky.fun/live/live07
-#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 3
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 3
+https://sebn.dad/271026/sebn-15.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 4
+https://9soccer.biz/R9-34/Ch1/5.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 5
+https://wolfstreams.cfd/wolf16/5.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 6
+https://sportsinjection.group/zaee505/12.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 7
+https://wheelsports.lol/RJ52/tv/5.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 8
+https://ytstreams.club/YSports132/Nexa/5.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", EN 9
+https://vivtops.st/vivo1/?ch=12
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 18
+https://polocruz19.pages.dev/spo5
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 19
 https://www.lnky.fun/live/live20
-#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 4
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 20
 https://sebn.dad/271026/sebn-13.html
-#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 5
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 21
 https://9soccer.biz/R9-34/Ch1/28.html
-#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 6
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 22
 https://wolfstreams.cfd/wolf16/28.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 23
+https://sportsinjection.group/zaee505/19.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 24
+https://wheelsports.lol/RJ52/tv/28.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 25
+https://ytstreams.club/YSports132/Nexa/28.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (English EFL Cup): Fleetwood - Arsenal", ES 26
+https://vivtops.st/vivo1/?ch=19
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", ES 1
-https://www.lnky.fun/live/live20
+https://polocruz19.pages.dev/spo5
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", ES 2
-https://sebn.dad/271026/sebn-13.html
+https://www.lnky.fun/live/live20
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", ES 3
-https://9soccer.biz/R9-34/Ch1/28.html
+https://sebn.dad/271026/sebn-13.html
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", ES 4
+https://9soccer.biz/R9-34/Ch1/28.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", ES 5
 https://wolfstreams.cfd/wolf16/28.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", ES 6
+https://sportsinjection.group/zaee505/19.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", ES 7
+https://wheelsports.lol/RJ52/tv/28.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", ES 8
+https://ytstreams.club/YSports132/Nexa/28.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", ES 9
+https://vivtops.st/vivo1/?ch=19
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", ND
 https://www.lnky.fun/live/live20
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", EN 1
-https://www.lnky.fun/live/live14
+https://sportsinjection.group/zaee505/19.php
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", EN 2
-https://sebn.dad/271026/sebn-18.html
+https://vivtops.st/vivo1/?ch=19
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", EN 3
+https://www.lnky.fun/live/live14
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", EN 4
+https://sebn.dad/271026/sebn-18.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Manacor - Villarreal", EN 5
 https://9soccer.biz/R9-34/Ch1/95.html
 #EXTINF:0 group-title="21:00 Baloncesto Basketball (Euroleague): Baskonia - Real Madrid", EN 1
 https://www.lnky.fun/live/live14
@@ -374,12 +910,126 @@ https://www.lnky.fun/live/live14
 #EXTINF:0 group-title="21:00 Baloncesto Basketball (Euroleague): Baskonia - Real Madrid", DE
 https://9soccer.biz/R9-34/Ch1/95.html
 #EXTINF:0 group-title="21:00 Baloncesto Basketball (Euroleague): Baskonia - Real Madrid", ES 1
-https://www.lnky.fun/live/live08
+https://polocruz19.pages.dev/dsports
 #EXTINF:0 group-title="21:00 Baloncesto Basketball (Euroleague): Baskonia - Real Madrid", ES 2
-https://sebn.dad/271026/sebn-17.html
-#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", ES 1
+https://polocruz19.pages.dev/dsportsar
+#EXTINF:0 group-title="21:00 Baloncesto Basketball (Euroleague): Baskonia - Real Madrid", ES 3
+https://polocruz19.pages.dev/pt1
+#EXTINF:0 group-title="21:00 Baloncesto Basketball (Euroleague): Baskonia - Real Madrid", ES 4
 https://www.lnky.fun/live/live08
+#EXTINF:0 group-title="21:00 Baloncesto Basketball (Euroleague): Baskonia - Real Madrid", ES 5
+https://sebn.dad/271026/sebn-17.html
+#EXTINF:0 group-title="21:00 Baloncesto Basketball (Euroleague): Baskonia - Real Madrid", ES 6
+https://sportsinjection.group/zaee505/13.php
+#EXTINF:0 group-title="21:00 Baloncesto Basketball (Euroleague): Baskonia - Real Madrid", ES 7
+https://wheelsports.lol/RJ52/tv/21.html
+#EXTINF:0 group-title="21:00 Baloncesto Basketball (Euroleague): Baskonia - Real Madrid", ES 8
+https://ytstreams.club/YSports132/Nexa/21.html
+#EXTINF:0 group-title="21:00 Baloncesto Basketball (Euroleague): Baskonia - Real Madrid", ES 9
+https://vivtops.st/vivo1/?ch=13
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", ES 1
+https://polocruz19.pages.dev/dsports
 #EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", ES 2
+https://polocruz19.pages.dev/dsportsar
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", ES 3
+https://polocruz19.pages.dev/pt1
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", ES 4
+https://www.lnky.fun/live/live08
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", ES 5
 https://sebn.dad/271026/sebn-17.html
-#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", EN
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", ES 6
+https://sportsinjection.group/zaee505/13.php
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", ES 7
+https://wheelsports.lol/RJ52/tv/21.html
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", ES 8
+https://ytstreams.club/YSports132/Nexa/21.html
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", ES 9
+https://vivtops.st/vivo1/?ch=13
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", PT 1
+https://polocruz19.pages.dev/pt1
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", EN 1
 https://sebn.dad/271026/sebn-17.html
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", PT 2
+https://sportsinjection.group/zaee505/13.php
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", PT 3
+https://wheelsports.lol/RJ52/tv/21.html
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", PT 4
+https://ytstreams.club/YSports132/Nexa/21.html
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", EN 2
+https://vivtops.st/vivo1/?ch=13
+#EXTINF:0 group-title="21:15 FÃºtbol Football (Taca de Portugal): Sporting - Maritimo", ES 10
+https://sebn.dad/271026/sebn-12.html
+#EXTINF:0 group-title="00:00 FÃºtbol Football (Colombia Primera Division): Cucuta - Aguilas Doradas", ES
+https://sebn.dad/271026/sebn-12.html
+#EXTINF:0 group-title="00:00 FÃºtbol Football (Colombia Primera Division): Cucuta - Aguilas Doradas", EN 1
+https://sebn.dad/271026/sebn-13.html
+#EXTINF:0 group-title="00:00 FÃºtbol Football (Colombia Primera Division): Cucuta - Aguilas Doradas", EN 2
+https://sportsinjection.group/zaee505/24.php
+#EXTINF:0 group-title="00:00 FÃºtbol Football (Colombia Primera Division): Cucuta - Aguilas Doradas", EN 3
+https://vivtops.st/vivo1/?ch=24
+#EXTINF:0 group-title="00:30 Baloncesto Basketball (NBA): Celtics - Nets", EN 1
+https://sebn.dad/271026/sebn-13.html
+#EXTINF:0 group-title="00:30 Baloncesto Basketball (NBA): Celtics - Nets", EN 2
+https://sportsinjection.group/zaee505/24.php
+#EXTINF:0 group-title="00:30 Baloncesto Basketball (NBA): Celtics - Nets", EN 3
+https://vivtops.st/vivo1/?ch=24
+#EXTINF:0 group-title="00:30 Baloncesto Basketball (NBA): Celtics - Nets", EN 4
+https://sebn.dad/271026/sebn-14.html
+#EXTINF:0 group-title="00:30 Baloncesto Basketball (NBA): Celtics - Nets", EN 5
+https://sportsinjection.group/zaee505/25.php
+#EXTINF:0 group-title="00:30 Baloncesto Basketball (NBA): Celtics - Nets", EN 6
+https://vivtops.st/vivo1/?ch=25
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Knicks - Pistons", EN 1
+https://sebn.dad/271026/sebn-14.html
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Knicks - Pistons", EN 2
+https://sportsinjection.group/zaee505/25.php
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Knicks - Pistons", EN 3
+https://vivtops.st/vivo1/?ch=25
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Knicks - Pistons", PT
+https://sportsinjection.group/zaee505/25.php
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Knicks - Pistons", EN 4
+https://sebn.dad/271026/sebn-15.html
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Knicks - Pistons", EN 5
+https://sportsinjection.group/zaee505/26.php
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Knicks - Pistons", EN 6
+https://vivtops.st/vivo1/?ch=26
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Spurs - Kings", EN 1
+https://sebn.dad/271026/sebn-15.html
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Spurs - Kings", EN 2
+https://sportsinjection.group/zaee505/26.php
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Spurs - Kings", EN 3
+https://vivtops.st/vivo1/?ch=26
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Spurs - Kings", PT
+https://sportsinjection.group/zaee505/26.php
+#EXTINF:0 group-title="01:00 Baloncesto Basketball (NBA): Spurs - Kings", EN 4
+https://sebn.dad/271026/sebn-17.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Blues - Canadiens", EN 1
+https://sebn.dad/271026/sebn-17.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Blues - Canadiens", EN 2
+https://sebn.dad/271026/sebn-16.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Jets - Panthers", EN
+https://sebn.dad/271026/sebn-16.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Jets - Panthers", ES
+https://sebn.dad/271026/sebn-12.html
+#EXTINF:0 group-title="02:05 FÃºtbol Football (Colombia Primera Division): Chico - Junior", ES
+https://sebn.dad/271026/sebn-12.html
+#EXTINF:0 group-title="02:05 FÃºtbol Football (Colombia Primera Division): Chico - Junior", EN
+https://sebn.dad/271026/sebn-11.html
+#EXTINF:0 group-title="03:00 FÃºtbol Football (CONCACAF Central American Cup): Alianza - Marathon", EN 1
+https://sebn.dad/271026/sebn-11.html
+#EXTINF:0 group-title="03:00 FÃºtbol Football (CONCACAF Central American Cup): Alianza - Marathon", EN 2
+https://sebn.dad/271026/sebn-18.html
+#EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Ducks - Canucks", EN 1
+https://sebn.dad/271026/sebn-18.html
+#EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Ducks - Canucks", EN 2
+https://sebn.dad/271026/sebn-19.html
+#EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Knights - Senators", EN 1
+https://sebn.dad/271026/sebn-19.html
+#EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Knights - Senators", EN 2
+https://sebn.dad/271026/sebn-13.html
+#EXTINF:0 group-title="03:00 Hockey hielo Ice hockey (NHL): Knights - Senators", EN 3
+https://vivtops.st/vivo1/?ch=27
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Lakers - Blazers", EN 1
+https://sebn.dad/271026/sebn-13.html
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Lakers - Blazers", EN 2
+https://vivtops.st/vivo1/?ch=27
