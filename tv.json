@@ -1,5 +1,40 @@
 [
   {
+    "tmdb_id": 240932,
+    "imdb_id": "tt29780951",
+    "recent_until": 1793263811948,
+    "type": "tv",
+    "title": "Wild Cards",
+    "original_title": "Wild Cards",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/hs4BfMkCDIuTTh3sauUYVf71gZx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iKQm68NeKhrQMV7sbP2Ivmtm1Uk.jpg",
+    "rating": 7.2,
+    "pegi": "",
+    "runtime": 45,
+    "overview": "Una vivace truffatrice e un detective declassato e ligio alle regole hanno la possibilità di redimersi. Il problema? Devono trovare un modo per lavorare insieme, ognuno sfruttando le proprie abilità uniche per risolvere i crimini.",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Mistero",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 13
+      },
+      {
+        "season": 3,
+        "episodes": 10
+      }
+    ]
+  },
+  {
     "tmdb_id": 321221,
     "imdb_id": "tt42220724",
     "recent_until": 1793177050951,
