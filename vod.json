@@ -1,5 +1,201 @@
 [
   {
+    "tmdb_id": 1433367,
+    "imdb_id": "tt37853455",
+    "recent_until": 1793352612689,
+    "pegi": "",
+    "runtime": 103,
+    "title": "One Night Only - Quando tutto è possibile",
+    "original_title": "One Night Only",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3afHil7EVm655wO2NS6RHxuyicE.jpg",
+    "rating": 6.461,
+    "overview": "Allie e Owen, due sconosciuti affamati d'amore si incontrano in una New York leggermente romanzata nell'unica notte dell'anno in cui ai single è permesso fare sesso. Owen, appena lasciato, e Allie, romantica e piena di speranze, potrebbero essere gli unici due single in città alla ricerca di qualcosa di più di un semplice incontro occasionale. Entrambi sentono una scintilla quando si incontrano, ma una serie di passi falsi e di vicissitudini complicano la loro serata, tenendoli separati. Mentre corrono l’uno verso l’altra e poi si allontanano attraverso la città, potrebbero scoprire che l’unica cosa che desiderano di più è più vicina di quanto pensino.",
+    "genres": [
+      "Romance",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1596275,
+    "imdb_id": "tt37180686",
+    "recent_until": 1793352612826,
+    "pegi": "",
+    "runtime": 102,
+    "title": "Drive - Cuori in pista",
+    "original_title": "Drive - The Pretenders",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/o1amTBOej7F2wdrTSKzGE6eG2CT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5aM6VbwVSFSzAkndENRj5qPk0fI.jpg",
+    "rating": 0.0,
+    "overview": "Savvy Jenkins, una meccanica determinata a farsi strada nel mondo delle corse, entra nel team di Dante Annunziata, un campione del mondo arrogante che la vede solo come una distrazione.",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 49850,
+    "imdb_id": "tt1521090",
+    "recent_until": 1793352612965,
+    "pegi": "T",
+    "runtime": 105,
+    "title": "Una vita tranquilla",
+    "original_title": "Una vita tranquilla",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/sQxta1vrCTyOUqvRsy5sG8U607V.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hUxJZfAlejUX373zcargLE4qizT.jpg",
+    "rating": 6.5,
+    "overview": "Rosario Russo ha poco più di cinquanta anni. Da dodici vive in Germania dove gestisce, insieme alla moglie Renate, un albergo ristorante. La sua vita scorre serena: ha un bambino (Mathias), un aiuto cuoco (Claudio) che è anche un amico, e molti progetti per il futuro. Un giorno di febbraio, però, tutto cambia. Nel ristorante di Rosario arrivano due ragazzi italiani. Il primo si chiama Edoardo ed è il figlio di Mario Fiore, capo di una delle più potenti famiglie di camorra. L'altro si chiama Diego, e Rosario lo riconosce subito perché Diego è suo figlio. Non si vedono da quindici anni, da quando Rosario si chiamava Antonio De Martino ed era uno dei più feroci e potenti camorristi del casertano. Allora si era fatto credere morto e si era ricostruito una seconda vita in Germania.",
+    "genres": [
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1785148,
+    "imdb_id": null,
+    "recent_until": 1793352613101,
+    "pegi": "",
+    "runtime": 81,
+    "title": "Solo Noi. Una stagione da Double",
+    "original_title": "Solo Noi. Una stagione da Double",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/qpL8sp47Iiri53PkFmnWfuVUuTp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fywHKrAVSH5akVsec0fzvvbKR0X.jpg",
+    "rating": 6.0,
+    "overview": "Il film evento che ripercorre la straordinaria annata dell'Inter culminata con la conquista del 21° Scudetto e della decima Coppa Italia con immagini inedite e interviste esclusive. Una produzione Inter Media House con tutti i protagonisti del Double e la voce di Stefano Accorsi",
+    "genres": []
+  },
+  {
+    "tmdb_id": 1638819,
+    "imdb_id": "tt36373283",
+    "recent_until": 1793352613241,
+    "pegi": "",
+    "runtime": 102,
+    "title": "Igor - L'eroe romantico del calcio",
+    "original_title": "Igor - L'eroe romantico del calcio",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/fqTB3Vy6M2LIactgufgBlaMcKE0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pZAvMJqtPUv1OueFczyJCuvQMRM.jpg",
+    "rating": 8.5,
+    "overview": "Il calcio anni 90 è il calcio dei campioni che sembrano eroi greci o carismatici personaggi byroniani volti verso il sublime, in soccorso dei più deboli. L'ultimo eroe romantico di quel calcio è il passionale Igor Protti, l’unico che si è laureato 4 volte capo-cannoniere in A (con una squadra retrocessa), B e C, e che è riuscito a farsi amare ovunque ha giocato, da Bari a Roma sponda Lazio, da Messina a Napoli, fino a Livorno, per il quale nel 1999 rinuncia a un ingaggio miliardario e al successo facile.",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1231163,
+    "imdb_id": "tt31595821",
+    "recent_until": 1793352613385,
+    "pegi": "",
+    "runtime": 92,
+    "title": "Dedalus",
+    "original_title": "Dedalus",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/OmLIE6umM2uuZkqqqxtE9l1isZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/foPyWU2WNMdTNegn9J70wCF8b3V.jpg",
+    "rating": 6.4,
+    "overview": "Michele, Tiziana, Nino, Antonella, Filippo e Linda sono i sei aspiranti content creator selezionati per partecipare al Dedalus, un nuovo social game che promette di rendere il vincitore ricco e famoso. Rinchiusi in un’arena isolata, i concorrenti partecipano a delle prove che si rivelano sempre più pericolose. Quello che sembrava un semplice gioco si trasforma lentamente in qualcosa di completamente diverso e i concorrenti, si ritrovano a essere carnefici e vittime di un’elaborata vendetta.",
+    "genres": [
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1446616,
+    "imdb_id": "tt36118360",
+    "recent_until": 1793352613524,
+    "pegi": "",
+    "runtime": 145,
+    "title": "Tu Yaa Main",
+    "original_title": "तू या मैं",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zIOBTZAqGwdKnOb5c6SvzxP7x86.jpg",
+    "rating": 6.4,
+    "overview": "La relazione tra un rapper di Nalasopara e un'influencer di South Mumbai è messa alla prova quando un monsone li intrappola con un coccodrillo affamato.",
+    "genres": [
+      "Thriller",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1477104,
+    "imdb_id": "tt36841161",
+    "recent_until": 1793352613660,
+    "pegi": "T",
+    "runtime": 88,
+    "title": "Shaun, vita da pecora - Operazione Z.U.C.C.A.",
+    "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/hIgvOtvwbNCUclH0uBvg2qn6Ye.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+    "rating": 7.3,
+    "overview": "Halloween è alle porte. Shaun e tutti gli animali della fattoria si preparano per festeggiarlo al meglio coltivando un magnifico campo di zucche. Ma quando tutto sembrava ormai pronto, il contadino misteriosamente scompare e arriva dal bosco uno spaventoso mostro. Sarà compito di Shaun e i suoi amici salvare la fattoria dalla pelosa creatura e ritrovare l’amato contadino in tempo per la grande festa. Tra esperimenti impazziti e colpi di scena inaspettati, sarà un’avventura a tutta pecora per tutta la famiglia.",
+    "genres": [
+      "Animazione",
+      "Fantascienza",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 11398,
+    "imdb_id": "tt0160009",
+    "recent_until": 1793352613839,
+    "pegi": "",
+    "runtime": 117,
+    "title": "L'arte della guerra",
+    "original_title": "The Art of War",
+    "year": "2000",
+    "poster": "https://image.tmdb.org/t/p/w500/wyspTMO3Ha6fFYfhT0QiH0e5RXE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dE6xTBdthy3d9GYIIbbndFr4AOD.jpg",
+    "rating": 5.7,
+    "overview": "Neil Shaw, un agente delle Nazioni Unite, viene accusato di aver ucciso un ambasciatore cinese. Decide di lasciare l'FBI e di cercare i veri responsabili dell'assassinio.",
+    "genres": [
+      "Azione",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 174316,
+    "imdb_id": "tt1817081",
+    "recent_until": 1793352613977,
+    "pegi": "",
+    "runtime": 89,
+    "title": "Una rete di bugie",
+    "original_title": "A Case of You",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/xltv2kTAcIE7H92TpS7ex9crgOn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oX29bzX5KNNPGg2bUZnZB7oOpUL.jpg",
+    "rating": 5.5,
+    "overview": "Un giovane scrittore (Justin Long) modifica i suoi profili sui social network con informazioni fittizie che lo rendano più interessante e affascinante agli occhi della ragazza dei suoi sogni (Evan Rachel Wood). Quando finalmente riesce a catturare la sua attenzione e i due decidono di incontrarsi, rimane incastrato nella sua stesse rete di bugie ed è costretto a interpretare un ruolo che non gli appartiene per evitare che lei possa scoprire la sua vera identità.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 308032,
+    "imdb_id": "tt0420293",
+    "recent_until": 1793352614118,
+    "pegi": "",
+    "runtime": 80,
+    "title": "Effetto Lucifero",
+    "original_title": "The Stanford Prison Experiment",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/wSHZALUyqRhATRITU15Dm0H6AYS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5cxaJCzHwQisLeVewv7jiuqsVLp.jpg",
+    "rating": 6.8,
+    "overview": "Ventiquattro studenti maschi su settantacinque vengono scelti per un gioco di ruolo che li trasformerà in maniera casuale in guardie e prigionieri all'interno di un carcere finto, situato nel seminterrato dell'edificio di psicologia a Stanford.",
+    "genres": [
+      "Thriller",
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
     "tmdb_id": 1005756,
     "imdb_id": "tt22037048",
     "recent_until": 1793263809413,
