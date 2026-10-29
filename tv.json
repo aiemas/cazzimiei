@@ -1,5 +1,53 @@
 [
   {
+    "tmdb_id": 297982,
+    "imdb_id": "tt37819415",
+    "recent_until": 1793439841153,
+    "type": "tv",
+    "title": "Irreplaceable",
+    "original_title": "无可替代",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/gLbtMLqbN6fgYsTuHFvzJu7Hopi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o91jmFILQk1UAqPbpEjT3D3OxoO.jpg",
+    "rating": 8.4,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Dopo la laurea, Xu Chi lotta per diventare una consulente professionista, ma in un ambiente di lavoro spietatamente competitivo dovrà imparare a capire di chi fidarsi.",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 20
+      }
+    ]
+  },
+  {
+    "tmdb_id": 334700,
+    "imdb_id": "tt45854934",
+    "recent_until": 1793439841360,
+    "type": "tv",
+    "title": "Il dono dell’inganno",
+    "original_title": "Dom de Iludir",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/odOJLtScJ7Wj4zFpZwAeThcUocR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": 45,
+    "overview": "Un furto d’arte da milioni di dollari porta alla luce segreti pericolosi, facendo scontrare una madre manipolatrice, sua figlia e una truffatrice esperta…",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
     "tmdb_id": 333533,
     "imdb_id": "tt44941753",
     "recent_until": 1793352614956,
