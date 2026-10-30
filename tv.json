@@ -1,5 +1,96 @@
 [
   {
+    "tmdb_id": 292741,
+    "imdb_id": "tt26598805",
+    "recent_until": 1793526602593,
+    "type": "tv",
+    "title": "Nocturne",
+    "original_title": "Nocturne",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/v3lygwSQZHw9IGGQvbeZeNYHspp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sWahRDCekZhfmLfO6N9CAgRHuWz.jpg",
+    "rating": 4.6,
+    "pegi": "VM14",
+    "runtime": null,
+    "overview": "Quando una vittima del famigerato serial killer Jurek Walter viene ritrovata viva, il detective Jonah Lynn affronta una corsa contro il tempo per trovare l'unica persona ancora dispersa, mentre la sua pupilla, Saga Bauer, opera sotto copertura per ottenere risposte dall'assassino in persona.",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "tmdb_id": 62413,
+    "imdb_id": "tt3952222",
+    "recent_until": 1793526602911,
+    "type": "tv",
+    "title": "Killjoys",
+    "original_title": "Killjoys",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/xnQ7WVAxlk9UAVWDLDeYGTKRaOf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pHmnJvu2kdH6TYb7NImwAP5rQbf.jpg",
+    "rating": 6.9,
+    "pegi": "",
+    "runtime": 43,
+    "overview": "Dutch, John e D'avin sono un trio di cacciatori di taglie interplanetari, chiamati killjoys, che lavorano per la Reclamation Apprehension Coalition (RAC) in un sistema di quattro pianeti e lune conosciuto come Quad, teatro di una sanguinosa guerra di classe. Ai fini dell'esecuzione dei mandati per arrestare persone o recuperare proprietà, gli agenti RAC sono investiti di un'alta autorità dall'agenzia. Come parte del loro lavoro, giurano di rimanere neutrali nei conflitti e non devono fedeltà a nessun sistema, governo o altre organizzazioni.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      },
+      {
+        "season": 3,
+        "episodes": 10
+      },
+      {
+        "season": 4,
+        "episodes": 10
+      },
+      {
+        "season": 5,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "tmdb_id": 79299,
+    "imdb_id": "tt6938856",
+    "recent_until": 1793526603122,
+    "type": "tv",
+    "title": "A Very English Scandal",
+    "original_title": "A Very English Scandal",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/xQU99bLRjTegRSGScLDVqpcx5QV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hEgzWYtXzbPVpNDWfAE9m273j6D.jpg",
+    "rating": 7.1,
+    "pegi": "",
+    "runtime": 60,
+    "overview": "Nel 1965 Jeremy Thorpe, un deputato liberale del Parlamento inglese, deve fare i conti con l'ex amante contrariato Norman Josiffe, che incontrò nel 1961 e con il quale ebbe una relazione per diversi anni. Thorpe aveva incontrato Norman quando quest'ultimo era un giovane stalliere nell'Oxfordshire. Subito dopo Thorpe iniziò con lui una lunga corrispondenza (Norman conservò quelle lettere). Norman, che perdeva tutti i lavori che riusciva a trovare, in particolare dopo aver perso la tessera della National Insurance (assicurazione nazionale), era instabile e aveva un debole per il dramma e l'auto compatimento, i quali si rivelarono sempre più problematici. Quando Thorpe si stancò di Norman insistette perché lo lasciasse, organizzando per lui una sistemazione a Londra; ma il giovane cominciò a minacciarlo di divulgare la loro relazione...",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
     "tmdb_id": 297982,
     "imdb_id": "tt37819415",
     "recent_until": 1793439841153,
