@@ -1,5 +1,104 @@
 [
   {
+    "tmdb_id": 289517,
+    "imdb_id": "tt36458668",
+    "recent_until": 1793611730149,
+    "type": "tv",
+    "title": "Dead-End Job",
+    "original_title": "꿀알바",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/yyA9CI8BLNg6LtVRvmVxki4xiGb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+    "rating": 7.8,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Un giovane sommerso dai debiti riceve da un'agenzia di collocamento misteriosa allettanti lavori part time, ma la sua corsa al denaro si trasforma in un incubo.",
+    "genres": [
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 329987,
+    "imdb_id": "tt41991040",
+    "recent_until": 1793611730350,
+    "type": "tv",
+    "title": "11 settembre: destini incrociati",
+    "original_title": "9/11: Reunited",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/3t0igkTYWQctmC9fL4mW3MY5fM6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/97MBKEskobZSHT0f0wzZVRYd2fg.jpg",
+    "rating": 8.5,
+    "pegi": "",
+    "runtime": null,
+    "overview": "I sopravvissuti all'11 settembre raccontano le loro storie e si ritrovano per il 25° anniversario.",
+    "genres": [
+      "Documentario"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1450,
+    "imdb_id": "tt0458253",
+    "recent_until": 1793611730670,
+    "type": "tv",
+    "title": "The Closer",
+    "original_title": "The Closer",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mL5qHLgVWqeoH5bbj6Q1gdyldhM.jpg",
+    "rating": 7.8,
+    "pegi": "",
+    "runtime": 46,
+    "overview": "Grazie alle sue precedenti esperienze con la CIA, Brenda Leigh Johnson viene trasferita a Los Angeles per fare da capo alla Priority Homicide Division.",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 13
+      },
+      {
+        "season": 2,
+        "episodes": 15
+      },
+      {
+        "season": 3,
+        "episodes": 15
+      },
+      {
+        "season": 4,
+        "episodes": 15
+      },
+      {
+        "season": 5,
+        "episodes": 15
+      },
+      {
+        "season": 6,
+        "episodes": 15
+      },
+      {
+        "season": 7,
+        "episodes": 21
+      }
+    ]
+  },
+  {
     "tmdb_id": 292741,
     "imdb_id": "tt26598805",
     "recent_until": 1793526602593,

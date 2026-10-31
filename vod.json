@@ -1,5 +1,187 @@
 [
   {
+    "tmdb_id": 161817,
+    "imdb_id": "tt0082905",
+    "recent_until": 1793611725964,
+    "pegi": "T",
+    "runtime": 85,
+    "title": "Pierino medico della SAUB",
+    "original_title": "Pierino medico della SAUB",
+    "year": "1981",
+    "poster": "https://image.tmdb.org/t/p/w500/rWicrooBs0MF56jlJPkWkEZihI5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lLTckR1YfUN2yeLUvgUFzUbO07Z.jpg",
+    "rating": 5.6,
+    "overview": "Alvaro Gasperoni, sempliciotto romano, dopo una carriera scolastica caratterizzata dalla licenza elementare conseguita a Roma, quella media a Frosinone, quella ginnasiale a Catanzaro e quella liceale a Canicattì, ottiene con relativa fatica un'agognata laurea in medicina ad Addis Abeba e, grazie alla potente raccomandazione del padre ottenuta dalla loggia massonica P2, inizia presto a lavorare come medico in un ospedale romano, contornato da colleghi rampanti ma altrettanto incompetenti. Il primario della clinica afferma che «il valore di un medico si misura dal numero di pazienti che ha», e quindi Alvaro fa ricoverare tutti i suoi parenti per ottenere la poltrona di viceprimario, che effettivamente ottiene salvo poi essere licenziato dall'assessore alla sanità che, mascherato da semplice paziente, si era fatto ricoverare per controllare l'andamento della struttura sanitaria.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 44716,
+    "imdb_id": "tt1340107",
+    "recent_until": 1793611726167,
+    "pegi": "",
+    "runtime": 113,
+    "title": "In un mondo migliore",
+    "original_title": "Hævnen",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/jVt2mm4ztXTCRNy75EGi72EdMUe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jso7QKHWwkdlEHFef68kFWHsltx.jpg",
+    "rating": 7.146,
+    "overview": "Christian (William Johnk Nielsen) ritorna in Danimarca con il padre e nella sua nuova scuola incontra Elias, (Markus Rygaard), ragazzo timido sempre preso di mira da bulli; a causa della solitudine e della fragilità i due giovani iniziano un percorso verso il male trasformando l'amicizia in una pericolosa alleanza mettendo a rischio la loro stessa esistenza.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1284186,
+    "imdb_id": "tt32268992",
+    "recent_until": 1793611726411,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Sacrifice",
+    "original_title": "Sacrifice",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/cBWWQKUtUWyckTKzT1CzPs3ZeTT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
+    "rating": 5.313,
+    "overview": "Durante un gala di beneficenza ricco di celebrità precipita nel caos quando un gruppo radicale irrompe convinto che l'unico modo per placare le forze della natura sia un sacrificio degno di essere ricordato.",
+    "genres": [
+      "Avventura",
+      "Commedia",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 81534,
+    "imdb_id": "tt1784575",
+    "recent_until": 1793611726614,
+    "pegi": "",
+    "runtime": 115,
+    "title": "The Parade - La Sfilata",
+    "original_title": "Parada",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/xiGFUqO2fqT57mPA6XNuY0Be5va.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/Fwv4Ae1OfXwGaGfftwchlkpXe6.jpg",
+    "rating": 6.692,
+    "overview": "Un gruppo di attivisti gay di Belgrado sta cercando di organizzare una gay pride: tra loro c’è è anche Mirko, un regista teatrale che si mette alla ricerca di qualcuno che possa garantire la sicurezza della manifestazione dopo i rifiuti della polizia. Il caso vuole, però, che il suo ragazzo, Radmilo, curi il cane di un losco individuo omofobo che gestisce un'agenzia di guardie del corpo, e che gli chieda di presidiare la parata...",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1507696,
+    "imdb_id": "tt37522541",
+    "recent_until": 1793611726818,
+    "pegi": "",
+    "runtime": 96,
+    "title": "Apocalipsis Z: Il Nuovo Mondo",
+    "original_title": "Apocalipsis Z: Nuevo mundo",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/Aaf1GNXi80i2qNvVHlIjpBGfs88.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+    "rating": 6.7,
+    "overview": "Le Isole Canarie sono diventate l'ultimo rifugio d'Europa in seguito allo scoppio dell'epidemia del virus TSJ. Quando una missione speciale parte per la terraferma alla ricerca di rifornimenti vitali, Roberto si unisce alla squadra con intenzioni discutibili. La pericolosa operazione si trasforma in una disperata corsa per la sopravvivenza, e Roberto e i suoi compagni si ritrovano intrappolati tra orde di infetti e lealtà divise.",
+    "genres": [
+      "Azione",
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 1571955,
+    "imdb_id": "tt38793125",
+    "recent_until": 1793611727018,
+    "pegi": "",
+    "runtime": 122,
+    "title": "Colisión",
+    "original_title": "Colisión",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/L2SDL6pi8jyvMRmh1vWbqfwHtf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+    "rating": 7.7,
+    "overview": "2013. Nel pieno di una crisi economica, una banda assalta una banca a Madrid innescando una catena di eventi imprevedibili. Quella che inizialmente sembra una semplice rapina, si trasforma rapidamente in un gioco di inganni, paura e sopravvivenza, dove ogni decisione conta, ogni gesto nasconde qualcosa e ognuno cerca di evitare un destino ben peggiore rispetto al carcere.",
+    "genres": [
+      "Dramma",
+      "Azione",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 8016,
+    "imdb_id": "tt0039417",
+    "recent_until": 1793611727222,
+    "pegi": "",
+    "runtime": 78,
+    "title": "Germania anno zero",
+    "original_title": "Germania anno zero",
+    "year": "1948",
+    "poster": "https://image.tmdb.org/t/p/w500/xpNiweTQ9L9A09VdcZkBBD3JFPo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vblx2TkQFrBrEORsEssizgEqakT.jpg",
+    "rating": 7.6,
+    "overview": "Nella Berlino del '46, devastata dai bombardamenti e dalla miseria, un ragazzino che mantiene tutta la famiglia uccide per disperazione il padre malato e si dà la morte. Il ritratto di un paese in ginocchio attraverso la disperazione di un innocente. Nell'itinerario di Rossellini un'opera di transizione tra il neorealismo sociale e l'attenzione ai drammi esistenziali dell'individuo. La passeggiata del bambino attraverso una Berlino ostile e sconvolta è una grande pagina di cinema. Carlo Lizzani collaborò alla sceneggiatura e vennero utilizzati numerosi attori non professionisti. Il titolo è preso da L'année zero de l'Allemagne di E. Marin. Premiato al Festival di Locarno.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 46315,
+    "imdb_id": "tt0066516",
+    "recent_until": 1793611727425,
+    "pegi": "18+",
+    "runtime": 77,
+    "title": "Fantasie di una tredicenne",
+    "original_title": "Valerie a týden divů",
+    "year": "1970",
+    "poster": "https://image.tmdb.org/t/p/w500/qTiJyZ7oL9BwjQ3yW9YVE0554Lf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cygF3MFce4MDpvyqDQXNvZiytc4.jpg",
+    "rating": 7.0,
+    "overview": "La trama si svolge in un imprecisato paese del XIX secolo, la protagonista è Valerie, una tredicenne  orfana che vive con la nonna, vive una bizzarra settimana che inizia simbolicamente con il suo menarca.  In questa settimana delle meraviglie i suoi sogni (e gli incubi) si mescoleranno alla realtà, e dovrà  confrontarsi con personaggi vampireschi e surreali.",
+    "genres": [
+      "Fantasy",
+      "Avventura",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 10413,
+    "imdb_id": "tt0107711",
+    "recent_until": 1793611727630,
+    "pegi": "",
+    "runtime": 94,
+    "title": "Accerchiato",
+    "original_title": "Nowhere to Run",
+    "year": "1993",
+    "poster": "https://image.tmdb.org/t/p/w500/wQDtwZBuXrVaCVoOfLKQho8phVd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5VF6N8dPSSPeyQdQoQ53mxDcUjw.jpg",
+    "rating": 6.564,
+    "overview": "Dopo una rocambolesca fuga costata la vita al suo migliore amico, il fuggitivo Sam Gillen trova ospitalità a casa di Clydie - una giovane e bellissima vedova con due figli. Sam si ritrova così ad affrontare e fermare una banda di spietati speculatori edili pronti a tutto pur di espropriare la casa a Clydie. Nessuno sa chi Sam sia, ma lui è più deciso che mai a proteggere quella famiglia.",
+    "genres": [
+      "Azione",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 104755,
+    "imdb_id": "tt1731697",
+    "recent_until": 1793611727933,
+    "pegi": "18+",
+    "runtime": 101,
+    "title": "Le streghe di Salem",
+    "original_title": "The Lords of Salem",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/7hkjySGIWeFRt2TpdNgdUMcYA24.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qdrmWfJPewIeZE9gU9ihr9diPbm.jpg",
+    "rating": 5.449,
+    "overview": "Heidi, una bionda pollastrella rock, DJ in una stazione radio locale, assieme a Whitey e Munster Herman, forma il “Big H Radio Team”. Arriva una misteriosa scatola di legno che contiene un disco in vinile, indirizzata a Heidi, con su scritto “Un regalo dei Lords”. Lei pensa che si tratti di una rock band che vuole pubblicizzare la sua musica. Mentre Heidi e Whitey ascoltano il disco, questo inizia a suonare al contrario e Heidi ricorda, in flashback, un trauma passato. In seguito, Whitey suona il disco dei Lord, battezzandoli The Lords of Salem, e con sua grande sorpresa il disco suona normalmente ed ottiene un enorme successo presso gli ascoltatori. Arriva un'altra scatola di legno per i Big H da parte dei Lords, con biglietti gratis, poster e dischi, per organizzare un concerto a Salem. Ben presto Heidi e i suoi colleghi scoprono che il concerto non è lo spettacolo rock che si aspettavano: i veri Signori di Salem stanno tornando, e vogliono sangue..",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1351701,
     "imdb_id": "tt32306905",
     "recent_until": 1793526598551,
