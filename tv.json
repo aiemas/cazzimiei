@@ -1,5 +1,63 @@
 [
   {
+    "tmdb_id": 60610,
+    "imdb_id": "tt3496764",
+    "recent_until": 1793701040721,
+    "type": "tv",
+    "title": "Gortimer Gibbon - La vita a Normal Street",
+    "original_title": "Gortimer Gibbon's Life on Normal Street",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/7rg22mGHtJkirhVEOTbcxTdWiqB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tmUC8gjuJ2GSXAvq5ZrMOgN8xSv.jpg",
+    "rating": 8.4,
+    "pegi": "",
+    "runtime": null,
+    "overview": "La vita è tutt'altro che normale per Gortimer e i suoi due migliori amici, Ranger e Mel, mentre percorrono Normal Street - un sobborgo ordinario che ha un accenno di qualcosa di magico proprio sotto la superficie.",
+    "genres": [
+      "Famiglia",
+      "Kids"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 13
+      },
+      {
+        "season": 2,
+        "episodes": 26
+      }
+    ]
+  },
+  {
+    "tmdb_id": 293607,
+    "imdb_id": "tt39201866",
+    "recent_until": 1793701040886,
+    "type": "tv",
+    "title": "100 Days of Deception",
+    "original_title": "100일의 거짓말",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wf7l8ZfGGkOKcQGF3Htt5DDhBxD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+    "rating": 9.3,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Cercando la libertà, la migliore borseggiatrice di Gyeongseong si infiltra nel governo coloniale giapponese per rubare segreti... ma si innamora del figlio del suo obiettivo.",
+    "genres": [
+      "Action & Adventure",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 1
+      },
+      {
+        "season": 1,
+        "episodes": 16
+      }
+    ]
+  },
+  {
     "tmdb_id": 289517,
     "imdb_id": "tt36458668",
     "recent_until": 1793611730149,

@@ -1,5 +1,170 @@
 [
   {
+    "tmdb_id": 1813355,
+    "imdb_id": null,
+    "recent_until": 1793701037907,
+    "pegi": "",
+    "runtime": 30,
+    "title": "A Story of Derry",
+    "original_title": "A Story of Derry",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/q2XCoT6AqBANz0mKmkgVeo4PyRQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+    "rating": 7.3,
+    "overview": "Centinaia di anni prima dell'arrivo di Pennywise, tre ragazzini si avventurano nel bosco dove incontrano un terrificante e antico spirito.",
+    "genres": [
+      "Dramma",
+      "Horror",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 297784,
+    "imdb_id": "tt3792124",
+    "recent_until": 1793701038085,
+    "pegi": "",
+    "runtime": 64,
+    "title": "L'epopea dei Barolo Boys",
+    "original_title": "Barolo Boys: The Story of a Revolution",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/sfh1HLKOfKshBqsaDjNqy9VV0AQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8zzbgFX4lvdJ3NaZHy0qpDto6uG.jpg",
+    "rating": 7.2,
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1283515,
+    "imdb_id": "tt32261958",
+    "recent_until": 1793701038260,
+    "pegi": "10+",
+    "runtime": 117,
+    "title": "Verity",
+    "original_title": "Verity",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+    "rating": 6.76,
+    "overview": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
+    "genres": [
+      "Mistero",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 19368,
+    "imdb_id": "tt0052293",
+    "recent_until": 1793701038421,
+    "pegi": "",
+    "runtime": 92,
+    "title": "Il contrabbandiere",
+    "original_title": "Thunder Road",
+    "year": "1958",
+    "poster": "https://image.tmdb.org/t/p/w500/zLvETidTYiTWR6XtWE4A6myQ3lD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/duWl0uqNW3WVG1QyyiPZXjB7FpQ.jpg",
+    "rating": 6.1,
+    "overview": "Dopo anni di beffe alla polizia, un contrabbandiere si mette contro un potente boss di Chicago. La situazione diventa difficile quando il delinquente si trova braccato dai poliziotti e dagli uomini del gangster.",
+    "genres": [
+      "Crime",
+      "Azione",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 11986,
+    "imdb_id": "tt0090563",
+    "recent_until": 1793701038591,
+    "pegi": "",
+    "runtime": 120,
+    "title": "Betty Blue",
+    "original_title": "37°2 le matin",
+    "year": "1986",
+    "poster": "https://image.tmdb.org/t/p/w500/MrPhkW302Jpu5K2JbkiZmBIayH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hZVBkgxgezyKEkWIbPVLiWAOsrl.jpg",
+    "rating": 7.213,
+    "overview": "La placida esistenza dell'aspirante scrittore Zorg viene sconvolta dall'arrivo della conturbante Betty. Tra i due scoppia una passione travolgente destinata a concludersi tragicamente quando le stranezze e l'instabilità di Betty sfoceranno nell'aperta follia. Film d'amore e di morte, amaro e inquietante, contrappuntato da una colonna sonora (opera di Gabriel Yared) tra le più originali ed interessanti di questi anni.",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 3681,
+    "imdb_id": "tt0059903",
+    "recent_until": 1793701038763,
+    "pegi": "",
+    "runtime": 108,
+    "title": "Ciao Pussycat",
+    "original_title": "What's New Pussycat?",
+    "year": "1965",
+    "poster": "https://image.tmdb.org/t/p/w500/yqLrnslGVM6iSE8ObzdFTlw4igm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rq8908sDqtyEGiRagGtPYuWSwFb.jpg",
+    "rating": 5.9,
+    "overview": "Uno sciupafemmine, che non vuole rinunciare al suo stile di vita edonistico per metter su famiglia con la propria innamorata, cerca l'aiuto di uno psicoanalista del tutto folle, a sua volta alle prese con problemi di cuore.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1088434,
+    "imdb_id": "tt14507394",
+    "recent_until": 1793701039018,
+    "pegi": "",
+    "runtime": 94,
+    "title": "Hellfire",
+    "original_title": "Hellfire",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1gLFGrxHqQebqLWpISmoFR6XWtJ.jpg",
+    "rating": 5.208,
+    "overview": "Rondo, Texas, 1988. Un vagabondo silenzioso arriva in una città stretta nel pugno del boss Jeremiah Whitfield. Si fa chiamare Nomada, chiede solo un lavoro nel bar di Owen e di sua figlia Lena, e sembra un uomo di passaggio come tanti. È una maschera: uno contro tutti, Nomada combatterà fino in fondo.",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 11088,
+    "imdb_id": "tt0252503",
+    "recent_until": 1793701039180,
+    "pegi": "",
+    "runtime": 107,
+    "title": "Il colpo",
+    "original_title": "Heist",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/w500/8ees9f4hPcEXucgdPgOwDJj6eEw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1acmRn1cnPnavQGQCrIJOERd6vX.jpg",
+    "rating": 6.319,
+    "overview": "Joe Moore (Gene Hackman) è felice, ha una bella moglie, molti soldi e un lavoro che ama. Joe Moore è un ladro. Ma ad un certo punto tutto inizia ad andare storto: viene ripreso da una telecamera mentre ruba, il suo ricettatore Bergman (Danny DeVito) si rifiuta di dargli dei soldi per un vecchio affare e sua moglie forse lo tradisce con un tenente della polizia.",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 417643,
+    "imdb_id": "tt5164184",
+    "recent_until": 1793701039349,
+    "pegi": "",
+    "runtime": 100,
+    "title": "In darkness - Nell'oscurità",
+    "original_title": "In Darkness",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/yYuQc0SFtVkVcH8HGtZRFSpwj5E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uxWFYm8pTzaUARJZMZGigkObqmn.jpg",
+    "rating": 6.0,
+    "overview": "Sofia, una pianista non vedente, sente una colluttazione al piano di sopra: la morte improvvisa della sua vicina di casa, Veronique, la costringerà ad uscire dal suo guscio per intraprendere intricate vicende di violenza e ricatti. Tutto ciò è legato al padre della donna morta, Milos Radic, un uomo d'affari serbo macchiatosi di crimini di guerra durante la guerra in Bosnia e ora sotto protezione a Londra. Ma anche Sofia nasconde dei segreti che la porteranno a cercare vendetta proprio in quegli ambienti.",
+    "genres": [
+      "Thriller",
+      "Mistero"
+    ]
+  },
+  {
     "tmdb_id": 161817,
     "imdb_id": "tt0082905",
     "recent_until": 1793611725964,
