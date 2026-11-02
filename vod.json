@@ -1,5 +1,415 @@
 [
   {
+    "tmdb_id": 1473124,
+    "imdb_id": "tt29064685",
+    "recent_until": 1793789401448,
+    "pegi": "T",
+    "runtime": 101,
+    "title": "Una fottuta bugia",
+    "original_title": "Una fottuta bugia",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/9amQ9U3p6Mfs59MHic46t3YkCM8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lOKmcZ5ErQWl87QyK0cqzSozuxi.jpg",
+    "rating": 3.8,
+    "overview": "Crescere come enfant prodige non è stato facile per Pietro, soprattutto perché all’alba dei trent’anni si ritrova ad essere disoccupato e senza entrate. Si trova incastrato in una serie di bugie a causa del suo coinquilino, Nicolas, che pur di non pagare l’affitto afferma che Pietro è affetto da una grave malattia. Immerso nella sua nuova interpretazione di malato terminale, Pietro incontra Claudia, una vera malata terminale, e la menzogna diventa rapidamente il motivo del loro legame. Un legame a cui Pietro, seppur tormentato dai rimorsi, non riesce a rinunciare.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 257245,
+    "imdb_id": "tt2340650",
+    "recent_until": 1793789401658,
+    "pegi": "",
+    "runtime": 100,
+    "title": "East Side Sushi",
+    "original_title": "East Side Sushi",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/hyDJxhPooTZQ3F889qxHyAUzBfO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zHf4EEJHkCHTBvLDo0gaAXzA93x.jpg",
+    "rating": 6.7,
+    "overview": "",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 25251,
+    "imdb_id": "tt0065486",
+    "recent_until": 1793789401862,
+    "pegi": "",
+    "runtime": 125,
+    "title": "Borsalino",
+    "original_title": "Borsalino",
+    "year": "1970",
+    "poster": "https://image.tmdb.org/t/p/w500/zcZ5UILFQsko7NlIaEDpIsQvSlS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gygNkDF0mTdVaaRO8nTeXvJwjFA.jpg",
+    "rating": 6.9,
+    "overview": "Nella Marsiglia del 1930, due piccoli truffatori uniscono le loro forze quando si incontrano litigando per una donna. Iniziando con corse di cavalli e risse fisse, iniziano a trovarsi a fare lavori per i boss della malavita locale. Quando decidono di mettersi in proprio, il loro approccio disinvolto al crimine comincia a cambiare.",
+    "genres": [
+      "Crime",
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1400940,
+    "imdb_id": "tt34890576",
+    "recent_until": 1793789402072,
+    "pegi": "14+",
+    "runtime": 109,
+    "title": "Clayface",
+    "original_title": "Clayface",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+    "rating": 7.451,
+    "overview": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 34732,
+    "imdb_id": "tt0066450",
+    "recent_until": 1793789402286,
+    "pegi": "",
+    "runtime": 108,
+    "title": "Omicidio al neon per l'ispettore Tibbs",
+    "original_title": "They Call Me Mister Tibbs!",
+    "year": "1970",
+    "poster": "https://image.tmdb.org/t/p/w500/55gVy5BTGuLiWo0yRjj5z5ORVHo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jmQb9ajubJ6hqSS5aa9RiYdszsA.jpg",
+    "rating": 5.9,
+    "overview": "Una prostituta è stata assassinata. Una voce anonima telefona alla polizia accusando dell'omicidio padre Logan, un sacerdote molto noto nel quartiere. L'ispettore Tibbs, amico del sacerdote, si incarica delle indagini. Alcuni elementi fanno sospettare proprio di padre Logan, ma nessuno in modo decisivo. Pertanto Tibbs archivia il caso anche perché si scopre l'anonimo telefonista. Ma una prostituta amica della vittima mette Tibbs sulle tracce dell'assassino. Un poliziesco crudo e convincente per Sidney Poitier che ritorna, dopo il clamoroso successo della \"Calda notte dell'ispettore Tibbs\", nei panni dell'investigatore.",
+    "genres": [
+      "Dramma",
+      "Azione",
+      "Thriller",
+      "Crime",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 31593,
+    "imdb_id": "tt0082220",
+    "recent_until": 1793789402493,
+    "pegi": "",
+    "runtime": 109,
+    "title": "Alla maniera di Cutter",
+    "original_title": "Cutter's Way",
+    "year": "1981",
+    "poster": "https://image.tmdb.org/t/p/w500/qXmlmrmNOYE7Ga1lYqGDi54YG8A.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/g8wlcoLYzxOgukkLasp4G8NkpP5.jpg",
+    "rating": 6.5,
+    "overview": "Alex Cutter torna dal fronte privo di un occhio, una gamba e con dentro ancora l'inferno della guerra. Neppure l'alcool e l'amore della sua famiglia sembrano placare la sua disperazione, fino a quando un amico non ritrova il cadavere di una ragazza in un vicolo. I sospetti ricadono su un magnate del petrolio, ma Cutter, non convinto della sua colpevolezza, tenterà in tutti i modi di scovare il responsabile, imbarcandosi in una crociata alla ricerca dell'assassino, assieme alla sconvolta sorella della vittima e a un nuovo amico...",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 30890,
+    "imdb_id": "tt0093818",
+    "recent_until": 1793789402707,
+    "pegi": "",
+    "runtime": 89,
+    "title": "Radio Days",
+    "original_title": "Radio Days",
+    "year": "1987",
+    "poster": "https://image.tmdb.org/t/p/w500/ljZ3yyYznAiq1vF6nHITdJn6qXB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rn3E4Kd7EUOGOF95Hsd0aOhQqZg.jpg",
+    "rating": 7.04,
+    "overview": "Rievocazione degli ultimi anni Trenta del Novecento in America, a New York, dove la radio imperava. Racconto di una famiglia di origine ebraica e del fortissimo rapporto con quella leggendaria finestra sul mondo.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 28043,
+    "imdb_id": "tt0057603",
+    "recent_until": 1793789402917,
+    "pegi": "",
+    "runtime": 92,
+    "title": "I tre volti della paura",
+    "original_title": "I tre volti della paura",
+    "year": "1963",
+    "poster": "https://image.tmdb.org/t/p/w500/p4ptj3rODlvirM1DiDMRUYCZYOX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cTo94twU2vAj4G74gV7ncf4F8Uo.jpg",
+    "rating": 7.2,
+    "overview": "Il telefono  In questo episodio, tratto da un racconto di F.G. Snyder (anche se nei titoli di testa è accreditato a Maupassant), una donna, durante tutta una sera, viene tormentata dalle telefonate di un uomo che minaccia di ucciderla. Terrorizzata chiede aiuto ad una sua cara amica, ma la donna non sa che il maniaco che la sta minacciando è proprio l'amica.  I Wurdalak  Tratto da un racconto di Aleksej Konstantinovič Tolstoj (Sem'ja vurdalaka, 1839), l'episodio narra della terribile sorte che incombe su una famiglia vittima di una forma di vampirismo.  La goccia d'acqua  In questo episodio tratto da un racconto di Anton Čechov, un'infermiera andrà incontro ad una maledizione, per aver rubato l'anello di una medium appena morta.",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 14689,
+    "imdb_id": "tt0060491",
+    "recent_until": 1793789403124,
+    "pegi": "",
+    "runtime": 189,
+    "title": "Hawaii",
+    "original_title": "Hawaii",
+    "year": "1966",
+    "poster": "https://image.tmdb.org/t/p/w500/cRqw7ajYhz7Kn4p0y559K6jR9Zi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1wf2appoWwC9CQS0cDnMoHbWiDB.jpg",
+    "rating": 6.3,
+    "overview": "Abner Hale, un missionario del New England rigido e privo di senso dell'umorismo, sposa la bella Jerusha Bromley e la porta nell'esotica isola regno delle Hawaii, con l'intento di convertire i nativi. Ma lo scontro tra le due culture è troppo grande e invece della comprensione arriva la tragedia.",
+    "genres": [
+      "Dramma",
+      "Avventura",
+      "Romance",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 11583,
+    "imdb_id": "tt0079240",
+    "recent_until": 1793789403331,
+    "pegi": "",
+    "runtime": 110,
+    "title": "1855 - La prima grande rapina al treno",
+    "original_title": "The First Great Train Robbery",
+    "year": "1978",
+    "poster": "https://image.tmdb.org/t/p/w500/wZEbSEw0BTd2eiyurA7t0Yc3MJP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hRqwp6ee3qKnUWLw6S4nj9yMwv0.jpg",
+    "rating": 6.681,
+    "overview": "Nel corso della guerra di Crimea nel 1855 due ladri di gran classe progettano di rapinare un treno che trasporta l'oro destinato a pagare i soldati.",
+    "genres": [
+      "Thriller",
+      "Avventura",
+      "Dramma",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 11302,
+    "imdb_id": "tt0066808",
+    "recent_until": 1793789403573,
+    "pegi": "",
+    "runtime": 78,
+    "title": "Il dittatore dello stato libero di Bananas",
+    "original_title": "Bananas",
+    "year": "1971",
+    "poster": "https://image.tmdb.org/t/p/w500/cogunN535CV1vpsmBGJWVk1V5kg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bnJrWEST2YVuWfZiYP4owjXpjwq.jpg",
+    "rating": 6.7,
+    "overview": "Deluso in amore, giovanotto americano parte per Bananas, piccola repubblica sudamericana, dove, dopo varie vicissitudini, viene nominato presidente dei rivoluzionari al potere e come tale torna negli Stati Uniti. 2° film di Allen regista, scritto come il primo con Mickey Rose. “Scandalosamente divertente” scrissero. Una collana di gag comiche ottime, discrete, mediocri. Uno dei suoi film più anarchici, comunque. Primo film, non accreditato, di S. Stallone nella particina di un teppista della metro.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 10849,
+    "imdb_id": "tt0089853",
+    "recent_until": 1793789403779,
+    "pegi": "",
+    "runtime": 78,
+    "title": "La rosa purpurea del Cairo",
+    "original_title": "The Purple Rose of Cairo",
+    "year": "1985",
+    "poster": "https://image.tmdb.org/t/p/w500/pFYDG5adm5IUG9j9Qoz4M45CTQ5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/afbfZtBOZIfxlzzvHCOfauI6pna.jpg",
+    "rating": 7.38,
+    "overview": "Nei primi anni '30 una barista che mantiene il marito disoccupato si consola andando al cinema finché un giorno il suo attore preferito esce dallo schermo. 13° film di Allen, il 2° (dopo Interiors) senza Allen attore. Fondato sul principio dell'attraversamento dalla realtà alla finzione e viceversa (ripreso da Keaton di Sherlock jr., 1924), è un film perfetto perché ha una trasparenza e una leggerezza che esimono da ogni sforzo d'interpretazione tanto incantevole è l'armonia tra la forma, il fondo e le sue componenti (intelligenza, tenerezza, malinconia, umorismo, comicità, ironia).",
+    "genres": [
+      "Fantasy",
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 10331,
+    "imdb_id": "tt0063350",
+    "recent_until": 1793789403988,
+    "pegi": "VM18",
+    "runtime": 96,
+    "title": "La notte dei morti viventi",
+    "original_title": "Night of the Living Dead",
+    "year": "1968",
+    "poster": "https://image.tmdb.org/t/p/w500/nD44WHJVshnksWwm92neZuFfHKT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5KtmBSqFtHY3I9t8lgH27Mc0bqY.jpg",
+    "rating": 7.602,
+    "overview": "Per motivi poco chiari i morti insepolti tornano in vita con impulsi cannibaleschi. Ogni persona ammazzata si trasforma in uno di loro. Sette persone cercano di resistere, barricandosi in una casa abbandonata.",
+    "genres": [
+      "Horror",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 9566,
+    "imdb_id": "tt0116277",
+    "recent_until": 1793789404193,
+    "pegi": "",
+    "runtime": 115,
+    "title": "The Fan - Il mito",
+    "original_title": "The Fan",
+    "year": "1996",
+    "poster": "https://image.tmdb.org/t/p/w500/n6iBEn60KcdmZg2avUYOexyJRK3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dISWllRkiQ1l5Nbn5JMZbz6RHoh.jpg",
+    "rating": 5.989,
+    "overview": "Gil Renard è un tifoso della squadra dei Giant. Non ha altro dalla vita e tutte le sue attenzioni sono per il baseball e i suoi eroi. Bobby Rayburn (Wesley Snipes), quattro volte campione della R.B.I. League, è il suo idolo. Ma quando si accorge che Bobby non è il mito da lui idealizzato, delusione e rabbia cominciano a montare e l`adorazione si tramuta in furia assassina...",
+    "genres": [
+      "Thriller",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 5143,
+    "imdb_id": "tt0091167",
+    "recent_until": 1793789404398,
+    "pegi": "",
+    "runtime": 103,
+    "title": "Hannah e le sue sorelle",
+    "original_title": "Hannah and Her Sisters",
+    "year": "1986",
+    "poster": "https://image.tmdb.org/t/p/w500/yz2KjC7YrJuZ5vUn0hmBgZoKBcU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jx6jUMCLhRWB05ngVjaGxPpLq5x.jpg",
+    "rating": 7.454,
+    "overview": "Hannah, figlia maggiore di genitori che lavorano nel mondo dello spettacolo e sposa devota, madre amorevole e attrice di successo. Oltre ad essere la spina dorsale emotiva dell'intera famiglia, Hannah rappresenta l'unico vero sostegno per Lee e Holly, sue sorelle senza aspirazioni, quasi risentite di aver maturato per lei un'autentica dipendenza.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1863,
+    "imdb_id": "tt0065782",
+    "recent_until": 1793789404605,
+    "pegi": "",
+    "runtime": 107,
+    "title": "I girasoli",
+    "original_title": "I girasoli",
+    "year": "1970",
+    "poster": "https://image.tmdb.org/t/p/w500/47UHXCCxSCIoO01KhEEd9y32eW4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qdsZrnGu2YQSIJIaCHt88ASMHVh.jpg",
+    "rating": 7.5,
+    "overview": "Alla fine della Seconda Guerra Mondiale Giovanna, una donna sposata che abita vicino a Milano, rifiuta di accettare la morte del marito Antonio, disperso in Russia. Un flashback riporta ricordi del corteggiamento, vicino a Napoli, la licenza per sposarsi, i tentativi di evitare la leva, e l'ultimo addio. Alcuni anni dopo la guerra, senza nessuna notizia di Antonio, Giovanna va in Russia a cercarlo...",
+    "genres": [
+      "Dramma",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 332,
+    "imdb_id": "tt0141369",
+    "recent_until": 1793789404915,
+    "pegi": "",
+    "runtime": 78,
+    "title": "Inspector Gadget",
+    "original_title": "Inspector Gadget",
+    "year": "1999",
+    "poster": "https://image.tmdb.org/t/p/w500/i80QAC5MNnPJrYfPF2JIKJFb2iy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7OsGo8yVkTgD1ZJMBi9M8GP5aes.jpg",
+    "rating": 4.541,
+    "overview": "Un giovane investigatore è vittima di un bruttissimo incidente, ma grazie ad un'amica, chirurgo robotico, viene rimesso in sesto con l'aggiunta di particolari e tecnologici \"gadgets\".",
+    "genres": [
+      "Azione",
+      "Avventura",
+      "Commedia",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 13922,
+    "imdb_id": "tt0326905",
+    "recent_until": 1793789405121,
+    "pegi": "",
+    "runtime": 132,
+    "title": "The Great Raid - Un pugno di eroi",
+    "original_title": "The Great Raid",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/58GOu2cD3Ii6rfjZm0yGvzi5weA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6gFB71pIo0PY3OOrojTQ97Qy8qq.jpg",
+    "rating": 6.6,
+    "overview": "Seconda guerra mondiale. 1945. Campo di prigionia di Cabanatuan, Filippine. L'esercito giapponese ha fatto prigionieri cinquecento militari alleati. Il colonnello Mucci, insieme ad un gruppo di giovani soldati, intraprende una pericolosa missione per liberare i prigionieri.",
+    "genres": [
+      "Azione",
+      "Storia",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 38368,
+    "imdb_id": "tt1588895",
+    "recent_until": 1793789405325,
+    "pegi": "",
+    "runtime": 114,
+    "title": "Lo zio Boonmee che si ricorda le vite precedenti",
+    "original_title": "ลุงบุญมีระลึกชาติ",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/yjGtunIPzJ1mP08xwXOUWK3ortw.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sraqqxwStjlhe82vb0mGx3VuHsD.jpg",
+    "rating": 6.6,
+    "overview": "Zio Boonmee, arrivato allo stadio terminale di una malattia ai reni, decide di andare a trascorrere i suoi ultimi giorni nella casa in campagna. Con lui alcuni membri della famiglia. All'improvviso però arrivano la moglie morta, sotto forma di fantasma, e il figlio creduto perduto, ormai diventato un uomo scimmia. Sperando di entrare in contatto con le sue vite passate, Boonmee si reca in una grotta nella quale compie un viaggio all'interno di sé stesso",
+    "genres": [
+      "Dramma",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 59963,
+    "imdb_id": "tt1507563",
+    "recent_until": 1793789405535,
+    "pegi": "",
+    "runtime": 94,
+    "title": "Dark Tide",
+    "original_title": "Dark Tide",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/gx56ZanaWd4pG930Z44eDLvnQ8N.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hpJsedRTewheDSzs1ezEtxJUWia.jpg",
+    "rating": 4.7,
+    "overview": "Brady, un professionista di immersioni subacquee, torna in acque profonde dopo nove anni da un incontro quasi fatale con un grande squalo bianco. Diventa istruttore di una felice coppia, Kate e Jeff. Tuttavia scoprono che l'incubo dal profondo del mare è ancora in agguato, ed è più carnivoro e affamato che mai.",
+    "genres": [
+      "Thriller",
+      "Avventura",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 74505,
+    "imdb_id": "tt1707392",
+    "recent_until": 1793789405751,
+    "pegi": "",
+    "runtime": 100,
+    "title": "I Segreti Oscuri di Molly",
+    "original_title": "Lovely Molly",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/1o2Ruw1LpWhkTqdzqOuwBk2liIq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yDpIzQaBwFti63qWqQWf0mgNC1m.jpg",
+    "rating": 5.1,
+    "overview": "I giovani sposi Molly e Tim si trasferiscono nella casa di campagna del defunto padre di Molly. Ex tossicodipendente con un passato profondamente turbato, Molly cerca di essere forte nella sua nuova vita. Ma disturbi inspiegabili durante la notte la colpiscono improvvisamente e questo innervosisce la coppia. Quando il marito va via per lavoro, Molly viene lasciata sola in una casa che contiene molti ricordi dolorosi. Il suo isolamento è presto infranto da una presenza maligna che scatena un malessere fisico e mentale. Mentre lotta per riconquistare la sua posizione nella vita di tutti i giorni, la presa di coscienza di Molly sulla realtà comincia a vacillare. Il suo comportamento strano è un segnale di avvertimento per i suoi amici e familiari, i cui interventi la guidano ulteriormente in un solitario tormento e in un soffocante buio interiore.",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 248087,
+    "imdb_id": "tt2404217",
+    "recent_until": 1793789405959,
+    "pegi": "",
+    "runtime": 144,
+    "title": "L'eterno 0",
+    "original_title": "永遠の0",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/zGGa0729JQrfVk4bXBKQLGeW4Ga.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/amLGmoZO78zXWD7pScbAC5U8RzT.jpg",
+    "rating": 7.0,
+    "overview": "Un giovane Kentaro Saeki (Haruma Miura) continua a fallire il suo test universitario e non sa più cosa fare. Sua sorella maggiore Keiko è una scrittrice freelance. Kentaro e Keiko iniziano a cercare informazioni sul nonno Kyuzo Miyabe (Junichi Okada) morto nelle forze speciali durante la seconda guerra mondiale. Il loro nonno Kyuzo Miyabe era terrorizzato dalla morte e ossessionato dalla vita. Perché si è unito alle forze speciali? Secondo i suoi compagni soldati della marina, Kyuzo Miyabe era un genio e anche un codardo. Kentaro e Keiko scoprono poi la scioccante verità che è stata nascosta per 60 anni.",
+    "genres": [
+      "Guerra",
+      "Dramma",
+      "Azione",
+      "Mistero"
+    ]
+  },
+  {
     "tmdb_id": 1813355,
     "imdb_id": null,
     "recent_until": 1793701037907,

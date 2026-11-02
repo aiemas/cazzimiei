@@ -1,5 +1,115 @@
 [
   {
+    "tmdb_id": 93514,
+    "imdb_id": "tt10810430",
+    "recent_until": 1793789407743,
+    "type": "tv",
+    "title": "La mente in poche parole",
+    "original_title": "The Mind, Explained",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/dfoV27sdEsiTqw845FAJ0q7l8pu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/w3XJr7prAfSNYjs8ijALp7KMwYU.jpg",
+    "rating": 7.5,
+    "pegi": "VM12",
+    "runtime": null,
+    "overview": "Ti sei mai chiesto cosa accade nella tua mente? Dai sogni ai disturbi d'ansia, scopri come funziona il cervello con questa serie illuminante.",
+    "genres": [
+      "Documentario"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 5
+      },
+      {
+        "season": 2,
+        "episodes": 5
+      }
+    ]
+  },
+  {
+    "tmdb_id": 40,
+    "imdb_id": "tt0077000",
+    "recent_until": 1793789407947,
+    "type": "tv",
+    "title": "Dallas",
+    "original_title": "Dallas",
+    "year": "1978",
+    "poster": "https://image.tmdb.org/t/p/w500/jmqo8bgHrhKYPc0RK5F71GHa8rm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sCTNR6iYgEAaYxjvibhzt8sc1nQ.jpg",
+    "rating": 6.903,
+    "pegi": "",
+    "runtime": 45,
+    "overview": "La famiglia Ewing è una dei clan più noto e potente del Texas, la sua fortuna poggia su vasti giacimenti petroliferi e la società è nelle mani del primogenito John Ross, conosciuto come J.R. Sposanto con la vulnerabile e volitiva Sue Ellen, J.R. è un uomo avido e spietato che non si ferma davanti a niente pur di ottenere quello che vuole, incluso il benessere e la felicità dei membri della sua famiglia. La serie ruota intorno alle vicende della famiglia Ewing e ai complotti tramati dal perfido J.R.",
+    "genres": [
+      "Soap",
+      "Dramma",
+      "Famiglia"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 1
+      },
+      {
+        "season": 1,
+        "episodes": 5
+      },
+      {
+        "season": 2,
+        "episodes": 24
+      },
+      {
+        "season": 3,
+        "episodes": 25
+      },
+      {
+        "season": 4,
+        "episodes": 23
+      },
+      {
+        "season": 5,
+        "episodes": 26
+      },
+      {
+        "season": 6,
+        "episodes": 28
+      },
+      {
+        "season": 7,
+        "episodes": 30
+      },
+      {
+        "season": 8,
+        "episodes": 30
+      },
+      {
+        "season": 9,
+        "episodes": 31
+      },
+      {
+        "season": 10,
+        "episodes": 29
+      },
+      {
+        "season": 11,
+        "episodes": 30
+      },
+      {
+        "season": 12,
+        "episodes": 26
+      },
+      {
+        "season": 13,
+        "episodes": 27
+      },
+      {
+        "season": 14,
+        "episodes": 23
+      }
+    ]
+  },
+  {
     "tmdb_id": 60610,
     "imdb_id": "tt3496764",
     "recent_until": 1793701040721,
