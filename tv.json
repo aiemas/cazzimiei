@@ -1,5 +1,62 @@
 [
   {
+    "tmdb_id": 32573,
+    "imdb_id": "tt1492179",
+    "recent_until": 1793875266416,
+    "type": "tv",
+    "title": "Strike Back - Senza regole",
+    "original_title": "Strike Back",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2tL3pNaPQb2ioEYswMkDGVTo1pt.jpg",
+    "rating": 7.422,
+    "pegi": "",
+    "runtime": 45,
+    "overview": "Strike Back segue le missioni della Sezione 20, un’unità segreta antiterrorismo del MI6, incaricata di neutralizzare minacce globali con operazioni clandestine e ad alto rischio. Al centro ci sono gli agenti Michael Stonebridge, soldato disciplinato e leale, e Damien Scott, ex Delta Force irriverente ma letale. Tra complotti internazionali, traffici d’armi e reti terroristiche, i due formano un’accoppiata esplosiva, costretta a mettere da parte le differenze per fermare nemici spietati e proteggere la sicurezza mondiale.\n\nStrike Back, nota in Italia anche come Strike Back - Senza regole, è una serie televisiva britannica prodotta dal 2010 e tratta dall'omonimo libro di Chris Ryan, ex agente del SAS britannico.\n\nLa serie segue John Porter, un soldato delle forze speciali britanniche richiamato in servizio dalla Sezione 20, un ramo immaginario del Servizio Segreto (Secret Intelligence Service).",
+    "genres": [
+      "Dramma",
+      "Action & Adventure"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 6
+      },
+      {
+        "season": 1,
+        "episodes": 6
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      },
+      {
+        "season": 3,
+        "episodes": 10
+      },
+      {
+        "season": 4,
+        "episodes": 10
+      },
+      {
+        "season": 5,
+        "episodes": 10
+      },
+      {
+        "season": 6,
+        "episodes": 10
+      },
+      {
+        "season": 7,
+        "episodes": 10
+      },
+      {
+        "season": 8,
+        "episodes": 10
+      }
+    ]
+  },
+  {
     "tmdb_id": 93514,
     "imdb_id": "tt10810430",
     "recent_until": 1793789407743,

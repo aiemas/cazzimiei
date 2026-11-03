@@ -1,5 +1,241 @@
 [
   {
+    "tmdb_id": 72231,
+    "imdb_id": "tt0282496",
+    "recent_until": 1793875261666,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Swarm - Minaccia dalla giungla",
+    "original_title": "Flying Virus",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/w500/llgaddjL5G0CKSIU0udKWhmacdW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xd6A8LAPJLZ6qHm8uLGVh8PJ3Dn.jpg",
+    "rating": 4.1,
+    "overview": "Dopo una serie di attacchi degli indiani dell'Amazzonia alle installazioni petrolifere di proprietà degli Stati Uniti in Brasile, entrambi i governi avviano un \"programma speciale\" segreto. In realtà gli uomini del colonnello Ezekial usano api killer geneticamente modificate per sradicare le tribù. Durante un attacco indiano, la reporter Ann Bauer viene punta, ma sopravvive dopo un misterioso salvataggio. Il dottor Stephen North si rende conto che il veleno ha poteri curativi inestimabili e contrabbanda l'ape a bordo di un volo per New York. Bauer, suo marito quasi divorziato, Martin, che è a bordo e il suo amico, Scotty, rappresentante del progetto del Dipartimento di Stato americano, affrontano una potenziale uccisione di massa dopo che una turbolenza libera le api a bordo.",
+    "genres": [
+      "Horror",
+      "Azione",
+      "Thriller",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 50567,
+    "imdb_id": "tt0054823",
+    "recent_until": 1793875261916,
+    "pegi": "",
+    "runtime": 92,
+    "title": "La bara del Dottor Sangue",
+    "original_title": "Doctor Blood's Coffin",
+    "year": "1961",
+    "poster": "https://image.tmdb.org/t/p/w500/rR9TQIQEhU0PJVtkhwGurN78BkL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dWgBxm52s06axo1M7dNrBC02t2n.jpg",
+    "rating": 5.3,
+    "overview": "Allontanato da Vienna a causa dei suoi folli propositi scientifici, il dottor Peter Sangue si trasferisce nel piccolo villaggio della Cornovaglia in cui vive suo padre. Smanioso di continuare i suoi esperimenti scientifici sugli umani, comincia ad uccidere molti degli abitanti del posto per estrarre loro il cuore e trapiantarlo in altri corpi. I suoi tentativi però finiscono male quando trapianta uno dei cuori sul marito defunto dell'infermiera Linda Parker.",
+    "genres": [
+      "Horror",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 43259,
+    "imdb_id": "tt0049322",
+    "recent_until": 1793875262118,
+    "pegi": "",
+    "runtime": 95,
+    "title": "Hollywood o morte!",
+    "original_title": "Hollywood or Bust",
+    "year": "1956",
+    "poster": "https://image.tmdb.org/t/p/w500/iVMePMGzCpq3qyd6nqFSLH9OvPx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dv97f0wt4s69u9kB2ZexunxSSqo.jpg",
+    "rating": 6.2,
+    "overview": "Grazie a una macchina vinta a una lotteria un commesso patito di cinema e un po' imbranato e un piccolo imbroglione partono per Hollywood, per andare a conoscere Anita Ekberg. Ultimo film della coppia Lewis-Martin, con alcuni numeri esilaranti.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 42581,
+    "imdb_id": "tt0052141",
+    "recent_until": 1793875262325,
+    "pegi": "",
+    "runtime": 103,
+    "title": "Il balio asciutto",
+    "original_title": "Rock-a-Bye Baby",
+    "year": "1958",
+    "poster": "https://image.tmdb.org/t/p/w500/pOw7dWUzZ2WPGp8IuU52hZrDDKF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9iRCGAdBOzGcQt0AXtKmUewzjyW.jpg",
+    "rating": 6.9,
+    "overview": "Qui vediamo Jerry Lewis alle prese con tre gemelli in qualità di \"balio\" per amore di una sua vecchia fiamma diventata diva del cinema e impossibilitata a far da mamma per impegni artistici.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1257147,
+    "imdb_id": "tt37458193",
+    "recent_until": 1793875262527,
+    "pegi": "",
+    "runtime": 125,
+    "title": "La mia migliore amica",
+    "original_title": "Minha Melhor Amiga",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6TWL1KEZUOMnwQe7ufncpLvSrfL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
+    "rating": 8.4,
+    "overview": "Due grandi amiche con la sindrome del nido vuoto seguono le figlie adolescenti in Portogallo, dove troveranno l'amore, il divertimento e un nuovo significato della parola amicizia.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 44747,
+    "imdb_id": "tt0045589",
+    "recent_until": 1793875262729,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Occhio alla palla",
+    "original_title": "The Caddy",
+    "year": "1953",
+    "poster": "https://image.tmdb.org/t/p/w500/uJ2IDrOsSbjukYlM7JicUbLul72.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gbRBItDONx9WgXbFxzIdCJU3EcM.jpg",
+    "rating": 6.4,
+    "overview": "Due disoccupati in cerca di lavoro decidono di iscriversi a un torneo di golf. Dopo la vittoria, danno una festa e combinano una serie di guai. Nonostante perdano l'incontro successivo, un impresario li scrittura come comici.",
+    "genres": [
+      "Commedia",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 30712,
+    "imdb_id": "tt0120678",
+    "recent_until": 1793875262940,
+    "pegi": "",
+    "runtime": 91,
+    "title": "In fuga col malloppo",
+    "original_title": "Free Money",
+    "year": "1998",
+    "poster": "https://image.tmdb.org/t/p/w500/axyGeaaALaU0AEhkuhBCroJucvq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fheyOmaLi8m5Iv3C83A5HQMqwUv.jpg",
+    "rating": 5.4,
+    "overview": "Un cattivissimo direttore di un carcere della provincia americana preferisce uccidere e tormentare i detenuti piuttosto che dare vita ad un serio piano di reinserimento nella società. Non prova nessun sentimento di pietà, anzi usa gli stessi sistemi con i due sprovveduti generi che hanno deciso di compiere una rapina a un treno.",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 5755,
+    "imdb_id": "tt0110875",
+    "recent_until": 1793875263156,
+    "pegi": "",
+    "runtime": 84,
+    "title": "Notte di tenebre",
+    "original_title": "Possessed by the Night",
+    "year": "1994",
+    "poster": "https://image.tmdb.org/t/p/w500/hEDxG300kF8uSVp7bc0WdXGdGKs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9O6BVTo4Qr3Tfis1iGre6Khv7EP.jpg",
+    "rating": 4.6,
+    "overview": "",
+    "genres": [
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 28635,
+    "imdb_id": "tt0254871",
+    "recent_until": 1793875263513,
+    "pegi": "",
+    "runtime": 89,
+    "title": "Wishmaster 3 - La pietra del diavolo",
+    "original_title": "Wishmaster 3: Beyond the Gates of Hell",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/w500/2yRV92DRkaMSTvKxoPEly1rP9Qe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bQhC7BgN35hWOR7fA7k1yZH3jkL.jpg",
+    "rating": 4.3,
+    "overview": "Diana Collins è un'ottima assistente di un prestigioso college, dove studia mitologie e antiche religioni assieme al professore Joel Barash. Un giorno Diana apre un'antica scatola custodita nell'ufficio del docente, liberando così il demone Djiin, che libera la sua razza per distruggere l'intero mondo.",
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 38157,
+    "imdb_id": "tt0254872",
+    "recent_until": 1793875263718,
+    "pegi": "",
+    "runtime": 92,
+    "title": "Wishmaster 4 - La profezia maledetta",
+    "original_title": "Wishmaster: The Prophecy Fulfilled",
+    "year": "2002",
+    "poster": "https://image.tmdb.org/t/p/w500/rrNjrrhAV1DoewPdf3VSIWjV23q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cjIY7VLjVGLVp46WqrhQemImEfr.jpg",
+    "rating": 4.6,
+    "overview": "Lisa e Sam sembrano decisi a vivere insieme per sempre felici e contenti; ma le cose cambiano notevolmente poiché Sam, dopo essere stato coinvolto in un incidente stradale, perde l’uso delle gambe e immediatamente il rapporto con la sua ragazza, la quale ha da tempo una relazione segreta con il loro avvocato Steven, comincia a logorarsi. Un giorno Steven regala alla ragazza un’antica scatola contenente un piccolo gioiello rosso. Lisa risveglia inconsapevolmente il Djinn, demone mitologico che vive nella gemma rossa e che desidera avverare i tre desideri della persona che lo ha risvegliato per poter riportare sulla terra la sua malefica razza. Questa volta il Djinn riuscirà ad ottenere tutti e tre i desideri, ma avverare l’ultimo non sarà semplice poiché deve riuscire a far innamorare di se la giovane Lisa.",
+    "genres": [
+      "Horror",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 13107,
+    "imdb_id": "tt1029120",
+    "recent_until": 1793875263930,
+    "pegi": "",
+    "runtime": 99,
+    "title": "Henry Poole - Lassù qualcuno ti ama",
+    "original_title": "Henry Poole Is Here",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/w500/jUDrRxSuA7ZSHsIVd1MnFRtwLOf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yIDjueqZWVwLWvkqGXvuWbincoC.jpg",
+    "rating": 5.9,
+    "overview": "Henry Poole ha scoperto che gli restano solo sei settimane di vita. Decide perciò di abbandonare la sua fidanzata e il suo lavoro per trascorrere i suoi ultimi giorni da solo, rintanandosi fuori città per nutrirsi di pizza, vodka e dolcetti. La scoperta di un \"miracolo\" da parte di una vicina impicciona disturberà la sua quiete, ma contribuirà anche a restituirgli la fiducia nella vita.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 322518,
+    "imdb_id": "tt3496372",
+    "recent_until": 1793875264136,
+    "pegi": "",
+    "runtime": 92,
+    "title": "The Intruders",
+    "original_title": "The Intruders",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/FtGq3onEsKLiza8Hwcps7fAfML.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3Nx6Z0K8jY6ZYQdtU0nUFljmmBZ.jpg",
+    "rating": 5.3,
+    "overview": "Seguendo il padre architetto che sta ristrutturando una vecchia abitazione vittoriana, Rose Halshford è testimone di alcuni strani eventi che la portano a scoprire che nella casa viveva una giovane ragazza, poi scomparsa. Convinta che il colpevole sia l'inquietante vicino di casa, assolto dalle indagini della polizia, Rose è determinata a trovare la verità e ciò la porta in situazioni sempre più pericolose. Sull'orlo dell'instabilità emotiva, Rose tenterà di arrivare a una soluzione prima che la prossima a scomparire sia proprio lei.",
+    "genres": [
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 989473,
+    "imdb_id": "tt11773810",
+    "recent_until": 1793875264745,
+    "pegi": "",
+    "runtime": 93,
+    "title": "Invito a un omicidio",
+    "original_title": "Invitation to a Murder",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/fMR3GHztz2ytftXuEQWqSS2md9T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hu2K1XlEyRjO2JvzIHBa6cPQRAi.jpg",
+    "rating": 5.5,
+    "overview": "Un miliardario solitario invita sei sconosciuti apparentemente casuali nella sua tenuta su un'isola nel sud dell'Inghilterra. L'aspirante detective Miranda Green trova il misterioso invito troppo allettante per lasciarselo sfuggire. Quando un altro ospite viene trovato morto, Miranda deve andare a fondo della trama malefica che si cela dietro il raduno.",
+    "genres": [
+      "Mistero",
+      "Thriller",
+      "televisione film"
+    ]
+  },
+  {
     "tmdb_id": 1473124,
     "imdb_id": "tt29064685",
     "recent_until": 1793789401448,
