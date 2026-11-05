@@ -1,5 +1,262 @@
 [
   {
+    "tmdb_id": 78064,
+    "imdb_id": "tt8118950",
+    "recent_until": 1794047972509,
+    "type": "tv",
+    "title": "Il Cacciatore",
+    "original_title": "Il Cacciatore",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/p4EILVYxSoB6ICfoTNEDgsaf4DB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/Aj2MJyi9c5IISxSEuJtsoQinBfO.jpg",
+    "rating": 7.297,
+    "pegi": "",
+    "runtime": 55,
+    "overview": "Le vicende di Saverio Barone, un giovane PM che nei primi anni Novanta diventa il protagonista della \"caccia\" ai mafiosi nella stagione immediatamente successiva alle stragi di Capaci e Via D'Amelio. Liberamente ispirato alla vera storia del magistrato antimafia Alfonso Sabella.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 12
+      },
+      {
+        "season": 2,
+        "episodes": 8
+      },
+      {
+        "season": 3,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 258989,
+    "imdb_id": "tt15715850",
+    "recent_until": 1794047972645,
+    "type": "tv",
+    "title": "The Greatest",
+    "original_title": "The Greatest",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+    "rating": 4.917,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Fresco dell'oro olimpico del '60, Cassius Clay punta dritto al titolo dei pesi massimi. Ma tra una fama travolgente, dubbi e drammi familiari, il giovane talento si scontra con un'America in fermento. Capirà presto che la battaglia più feroce non si combatte a suon di pugni sul ring, ma contro una società ostile, impreparata ad accettare la nascita di un uomo libero: il futuro Muhammad Ali.",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 279246,
+    "imdb_id": "tt39325975",
+    "recent_until": 1794047972782,
+    "type": "tv",
+    "title": "L’imperatrice risposata",
+    "original_title": "재혼 황후",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+    "rating": 8.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Al centro della storia c'è Navier, imperatrice irreprensibile dell’Impero d’Oriente, allontanata da un giorno all’altro dall’uomo che credeva di conoscere meglio di chiunque altro: suo marito, l’imperatore Sovieshu. La sua brusca caduta diventa tuttavia il punto di partenza di una rinascita inaspettata.",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "tmdb_id": 314271,
+    "imdb_id": "tt39957390",
+    "recent_until": 1794047972919,
+    "type": "tv",
+    "title": "Bass X Machina",
+    "original_title": "Bass X Machina",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+    "rating": 7.5,
+    "pegi": "",
+    "runtime": null,
+    "overview": "In un Far West steampunk invaso da fuorilegge, macchine e forze soprannaturali, un padre è costretto a diventare giudice, giuria e boia per proteggere la sua famiglia.",
+    "genres": [
+      "Animazione",
+      "Western",
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 69926,
+    "imdb_id": "tt3590338",
+    "recent_until": 1794047973061,
+    "type": "tv",
+    "title": "Puffin Rock",
+    "original_title": "Puffin Rock",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/8ZYTNkpubnG8epqlJLjaWbbO30R.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cRTqtQJjYrJnF35D7o2bG5ksFaA.jpg",
+    "rating": 7.7,
+    "pegi": "T",
+    "runtime": 7,
+    "overview": "La vita è dolce sulla bellissima Puffin Rock, dove la puffin Oona, il suo fratellino Baba ei loro amici imparano a conoscere la natura, l'amicizia e la famiglia. Segui i puffling nelle loro avventure mentre esplorano l'isola selvaggia!",
+    "genres": [
+      "Animazione",
+      "Kids"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 1
+      },
+      {
+        "season": 1,
+        "episodes": 39
+      },
+      {
+        "season": 2,
+        "episodes": 39
+      },
+      {
+        "season": 3,
+        "episodes": 21
+      }
+    ]
+  },
+  {
+    "tmdb_id": 256694,
+    "imdb_id": "tt32603995",
+    "recent_until": 1794047973203,
+    "type": "tv",
+    "title": "Adventure Time: Missioni Leggendarie",
+    "original_title": "Adventure Time: Side Quests",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/9CzcOB5J2ld2mIRMzHIwYGYx1Cn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/l75H7ymGd96jPWdIjvOXW0qvEM4.jpg",
+    "rating": 9.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Il giovane eroe Finn e il suo migliore amico Jake, un cane magico, si lanciano in avventure attraverso la fantastica terra di Ooo, festeggiando con il popolo delle nuvole e dando una bella lezione al male lungo il percorso.",
+    "genres": [
+      "Animazione",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 20
+      },
+      {
+        "season": 2,
+        "episodes": 20
+      }
+    ]
+  },
+  {
+    "tmdb_id": 32900,
+    "imdb_id": "tt1513168",
+    "recent_until": 1794047973376,
+    "type": "tv",
+    "title": "Morgan Freeman Science Show",
+    "original_title": "Through the Wormhole",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/2u1Bws0eUiHCz2eDNhAli8lRq9y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pSCOyP2VKzEmwXmDCjWU0pL0WD7.jpg",
+    "rating": 7.7,
+    "pegi": "",
+    "runtime": 44,
+    "overview": "Morgan Freeman presenta i misteri più profondi e le domande che hanno sconcertato l'umanità per secoli.",
+    "genres": [
+      "Documentario"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 1
+      },
+      {
+        "season": 1,
+        "episodes": 8
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      },
+      {
+        "season": 3,
+        "episodes": 10
+      },
+      {
+        "season": 4,
+        "episodes": 10
+      },
+      {
+        "season": 5,
+        "episodes": 10
+      },
+      {
+        "season": 6,
+        "episodes": 6
+      },
+      {
+        "season": 7,
+        "episodes": 4
+      },
+      {
+        "season": 8,
+        "episodes": 4
+      }
+    ]
+  },
+  {
+    "tmdb_id": 30892,
+    "imdb_id": "tt1389371",
+    "recent_until": 1794047973514,
+    "type": "tv",
+    "title": "Rubicon",
+    "original_title": "Rubicon",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/aYvsIIHsHkIz8fv3qbQCJpkgmLO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/frzKDMAu6BPcz68mJfyzCMkoUSC.jpg",
+    "rating": 7.5,
+    "pegi": "",
+    "runtime": 45,
+    "overview": "New York. L'analista in un think tank governativo Will Travers, sconvolto dalla morte della moglie e della figlia negli attentati dell'11 settembre, scopre, a partire da strane coincidenze contenute in alcuni cruciverba, l'esistenza di una cospirazione ordita da una società segreta, che vuole manipolare eventi mondiali su larga scala.",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 13
+      }
+    ]
+  },
+  {
     "tmdb_id": 32573,
     "imdb_id": "tt1492179",
     "recent_until": 1793875266416,

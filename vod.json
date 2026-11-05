@@ -1,5 +1,373 @@
 [
   {
+    "tmdb_id": 71200,
+    "imdb_id": "tt0100645",
+    "recent_until": 1794047968963,
+    "pegi": "",
+    "runtime": 94,
+    "title": "Snake Eater - Vendetta a tutti i costi",
+    "original_title": "Snake Eater",
+    "year": "1989",
+    "poster": "https://image.tmdb.org/t/p/w500/kbDqaTklBZxLTkinsxVO7Qd74v5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ldmlO9gxbZvShdCVQdyUDfeWubZ.jpg",
+    "rating": 5.4,
+    "overview": "I Mangiatori di Serpenti sono una divisione d'élite dei Marines appositamente addestrata per missioni di ricerca e distruzione.  Questo film d'azione racconta le gesta di uno di loro che è diventato un poliziotto.  Conosciuto come un duro solitario, ritorna per trovare la banda di cattivi ragazzi che hanno ucciso i suoi genitori e rapito sua sorella.",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1437396,
+    "imdb_id": "tt35856037",
+    "recent_until": 1794047969104,
+    "pegi": "14+",
+    "runtime": 112,
+    "title": "Your Mother Your Mother Your Mother",
+    "original_title": "Your Mother Your Mother Your Mother",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jiFLiatBtBALlAzV5R72gzspBad.jpg",
+    "rating": 7.421,
+    "overview": "",
+    "genres": [
+      "Dramma",
+      "Crime",
+      "Thriller",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 1570488,
+    "imdb_id": "tt38515310",
+    "recent_until": 1794047969238,
+    "pegi": "",
+    "runtime": 102,
+    "title": "Un cucciolo per Natale",
+    "original_title": "A Dog's Perfect Christmas",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+    "rating": 8.3,
+    "overview": "Un'emergenza medica divide la famiglia Goss e il determinato cane Winstead farà di tutto per far ricongiungere i suoi padroni prima della vigilia di Natale.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 293270,
+    "imdb_id": "tt0069794",
+    "recent_until": 1794047969375,
+    "pegi": "T",
+    "runtime": 110,
+    "title": "Sistemo l'America e torno",
+    "original_title": "Sistemo l'America e torno",
+    "year": "1974",
+    "poster": "https://image.tmdb.org/t/p/w500/9BsjfMgs8DnJAaqIykpkOlOA8Ax.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dqyzqGRHKEG9Loh8in27sjK57g5.jpg",
+    "rating": 5.4,
+    "overview": "Un giovanotto al servizio di un industriale di Busto Arsizio che ha organizzato una squadra aziendale di basket viene mandato negli USA per scritturare un campione nero, che li renda invincibili. Una volta sul posto, lo spaesato ragazzo scopre che il prescelto in realtà non ha solo l'interesse dello sport, ma anche della politica...",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 41028,
+    "imdb_id": "tt0056110",
+    "recent_until": 1794047969517,
+    "pegi": "",
+    "runtime": 83,
+    "title": "Sherlocko... investigatore sciocco",
+    "original_title": "It's Only Money",
+    "year": "1962",
+    "poster": "https://image.tmdb.org/t/p/w500/rdH2qnKrcjD8XjeyOiPDmEDozB9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mxe97VxKAg2B7lAcA8CnoGDkeZZ.jpg",
+    "rating": 6.2,
+    "overview": "Lester March è un orfano venticinquenne, riparatore di apparecchi elettronici. La sua vera passione sono però i romanzi gialli e i racconti con protagonisti i detective, professione che lui spera di poter intraprendere un giorno. Il suo migliore amico Pete Flint è proprio un detective, e un giorno mentre il ragazzo mostra al detective la televisione da lui appena riparata, i due sentono una notizia del telegiornale che parla di una ricca donna sola, Cecilia Albright, alla ricerca disperata del nipote perduto. La ricompensa di 100.000 dollari desta la loro attenzione. Flint chiede quindi a March di unirsi a lui per introdursi nella residenza degli Albright nella speranza di risolvere il mistero e intascare la ricompensa.",
+    "genres": [
+      "Commedia",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 28333,
+    "imdb_id": "tt0055069",
+    "recent_until": 1794047969655,
+    "pegi": "",
+    "runtime": 95,
+    "title": "L'idolo delle donne",
+    "original_title": "The Ladies Man",
+    "year": "1961",
+    "poster": "https://image.tmdb.org/t/p/w500/9Qlq25HkfTOGYEoEkGYTWfaN9l1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vH5yM2yod8DZqCk713zyWQWcKjc.jpg",
+    "rating": 6.3,
+    "overview": "Herbert H. Heebert (Jerry Lewis) è un giovanotto lasciato dalla propria ragazza il giorno della laurea, che decide di non innamorarsi mai più e di tenersi alla larga dalle donne. In seguito, per ironia della sorte, trova lavoro come tuttofare proprio in un pensionato femminile, diretto da Helen Wellenmellen (Helen Traubel), ex cantante lirica. Nonostante la maggior parte delle ragazze lo tratti solo come un cameriere e cerchi di ingraziarsi Herbert solo per servirsi di lui, Fay (Pat Stanley), una delle ragazze, lo aiuterà a superare la sua paura delle donne.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 52122,
+    "imdb_id": "tt0059166",
+    "recent_until": 1794047969795,
+    "pegi": "",
+    "runtime": 99,
+    "title": "I 7 magnifici Jerry",
+    "original_title": "The Family Jewels",
+    "year": "1965",
+    "poster": "https://image.tmdb.org/t/p/w500/sy2iUT4giGcAykX19bLb1D4sBpj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pWw8wrDKUJRszAHKJqJ9Fn0oFWl.jpg",
+    "rating": 6.5,
+    "overview": "Sei zii un po' matti si contendono un'eredità che ha per clausola l'adozione della nipote. L'autista avrà la meglio.",
+    "genres": [
+      "Commedia",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 1404304,
+    "imdb_id": "tt35051162",
+    "recent_until": 1794047969932,
+    "pegi": "",
+    "runtime": 95,
+    "title": "L'oro rubato",
+    "original_title": "The Isolate Thief",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/lUdsMjr3PzIWMAuFD9SPNJTivxp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
+    "rating": 7.1,
+    "overview": "Una giovane donna intrappolata come unica custode di un remoto avamposto dell'Unione durante un rigido inverno della Guerra Civile deve sconfiggere una banda di spietati fuorilegge a caccia di oro rubato.",
+    "genres": [
+      "Azione",
+      "Dramma",
+      "Western"
+    ]
+  },
+  {
+    "tmdb_id": 1294189,
+    "imdb_id": "tt13611778",
+    "recent_until": 1794047970067,
+    "pegi": "",
+    "runtime": 99,
+    "title": "The Mongoose",
+    "original_title": "The Mongoose",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
+    "rating": 6.852,
+    "overview": "Un veterano di guerra decorato fugge da una scena del crimine a 210 km/h su una Mustang Shelby GT500, sfuggendo alla legge per risolvere il mistero.",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1375441,
+    "imdb_id": "tt34206385",
+    "recent_until": 1794047970202,
+    "pegi": "10+",
+    "runtime": 110,
+    "title": "Primetime",
+    "original_title": "Primetime",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+    "rating": 6.8,
+    "overview": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
+    "genres": [
+      "Thriller",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1313056,
+    "imdb_id": "tt22479188",
+    "recent_until": 1794047970343,
+    "pegi": "",
+    "runtime": 101,
+    "title": "Sicilian Holiday",
+    "original_title": "Sicilian Holiday",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/sl4UJWOTjrjeRLcSA05FM0i8L6q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sWWqcU5FNtVdHNIpnj3NxaOIRfA.jpg",
+    "rating": 4.6,
+    "overview": "",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 112755,
+    "imdb_id": "tt1957898",
+    "recent_until": 1794047970484,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Evelyn - Venduta",
+    "original_title": "Evelyn",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/1xGaXiw6FIEj4LUaPuJdh4xIxti.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xhJlUgNnTlStUzAQp503uAv9cx7.jpg",
+    "rating": 6.3,
+    "overview": "Attirata dalla promessa di una vita migliore, una giovane donna finisce vittima della tratta in un mondo brutale di sfruttamento sessuale.",
+    "genres": [
+      "Thriller",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 35189,
+    "imdb_id": "tt0054853",
+    "recent_until": 1794047970627,
+    "pegi": "",
+    "runtime": 92,
+    "title": "Il mattatore di Hollywood",
+    "original_title": "The Errand Boy",
+    "year": "1961",
+    "poster": "https://image.tmdb.org/t/p/w500/u7GPvkca62QFnN56pTkvsR2fl31.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/awSueB6D7HcBR9rm7DWpyPxXNfY.jpg",
+    "rating": 6.2,
+    "overview": "Un giovane appassionato di cinema si reca a Hollywood per cercare lavoro. Il suo primo impiego è quello di attacchino, poi è barista, comparsa in un film, controfigura. Finalmente è promosso protagonista a tempo pieno.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 31214,
+    "imdb_id": "tt0077373",
+    "recent_until": 1794047970763,
+    "pegi": "",
+    "runtime": 109,
+    "title": "Così come sei",
+    "original_title": "Così come sei",
+    "year": "1978",
+    "poster": "https://image.tmdb.org/t/p/w500/3bL7FSzFjYwrwlnEUWY0x97nPLo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3qmCS5E7nx105CRb2o7zrjDsKcN.jpg",
+    "rating": 5.8,
+    "overview": "Un maturo architetto romano, di ritorno a Firenze dopo molti anni, conosce una splendida adolescente, Francesca, e ci va a letto. Ma, poco dopo, un vecchio amico gli fa nascere il sospetto che la ragazza possa essere sua figlia: l'architetto è stato infatti, in passato, l'amante della madre. L'uomo si tormenta nel dubbio, ma non sa resistere al richiamo della ragazza. I due si amano senza pensare né alla possibilità d'incesto, né alle convenzioni sociali. Sarà la fanciulla, consapevole che la cosa non può durare, ad avere la forza di metter fine alla relazione.",
+    "genres": [
+      "Romance",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 9529,
+    "imdb_id": "tt0103919",
+    "recent_until": 1794047970899,
+    "pegi": "",
+    "runtime": 99,
+    "title": "Candyman - Terrore dietro lo specchio",
+    "original_title": "Candyman",
+    "year": "1992",
+    "poster": "https://image.tmdb.org/t/p/w500/bwToEOrEfGXr70Zym1lqLUGZntX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/l0JgqFNxeMb1OoHq1CzdYC3Y5J8.jpg",
+    "rating": 6.674,
+    "overview": "A due amiche viene la cattiva idea di indagare su una serie di delitti, opera di un fantomatico Candyman. Reincarnazione di uno schiavo nero, divorato da un tremendo sciame di api, basta nominare il suo nome tre volte per fare una brutta fine.  Tratto da una storia di Clive Barker, un buon film horror; la musica di Philip Glass, insolita per il genere horror, avvolge in maniera inquietante il film.",
+    "genres": [
+      "Dramma",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 931,
+    "imdb_id": "tt0069995",
+    "recent_until": 1794047971045,
+    "pegi": "VM18",
+    "runtime": 110,
+    "title": "A Venezia... un dicembre rosso shocking",
+    "original_title": "Don't Look Now",
+    "year": "1973",
+    "poster": "https://image.tmdb.org/t/p/w500/5P9Om0yLc8sfeTEMs1EDjFl9cCr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8qi3gplNf48uLZnne09iiL4OvFG.jpg",
+    "rating": 6.926,
+    "overview": "Dopo la morte della figlioletta, il restauratore John Baxter e la moglie Laura sentono il bisogno di cambiare aria e si trasferiscono a Venezia: qui una veggente cieca entra in contatto con lo spirito della figlia e avverte la coppia con presagi di futuri fatti di sangue... destinati a verificarsi.",
+    "genres": [
+      "Thriller",
+      "Dramma",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 5551,
+    "imdb_id": "tt0186566",
+    "recent_until": 1794047971223,
+    "pegi": "T",
+    "runtime": 130,
+    "title": "Space Cowboys",
+    "original_title": "Space Cowboys",
+    "year": "2000",
+    "poster": "https://image.tmdb.org/t/p/w500/uGuz1DS8bgEwtNi8SmgYtzHuEmX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sUye6BrOjlpoAKRMjcP0YwiUvHW.jpg",
+    "rating": 6.386,
+    "overview": "Quattro anziani piloti sono improvvisamente richiamati in servizio dalla Nasa. Un satellite degli anni sessanta in avaria rischia di precipitare sulla terra e solo loro sono in grado di aggiustarlo. Cosi, dopo avere inutilmente coltivato da giovani l'idea di andare nello spazio, i quattro astronauti hanno l'imprevista possibilita di realizzare un antico sogno perduto.",
+    "genres": [
+      "Azione",
+      "Avventura",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 9842,
+    "imdb_id": "tt0462519",
+    "recent_until": 1794047971371,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Scuola per canaglie",
+    "original_title": "School for Scoundrels",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/eYxqwDV2v358jhW4Y4Pp2ZChL6M.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/KT4E9HZWkx0rqEnoTWyNhInqPZ.jpg",
+    "rating": 5.479,
+    "overview": "Roger é un ausiliario del traffico che ha poca fiducia in se stesso e per questo, non riesce a fare colpo sulla ragazza che gli piace. Decide così, di iscriversi ad una scuola dove insegnano ad essere più sicuri di se stessi e delle proprie capacità, ma quando si accorge che il suo stesso insegnante cerca di conquistare la ragazza per la quale sta lottando, il gioco si fa duro.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 320413,
+    "imdb_id": "tt4381236",
+    "recent_until": 1794047971517,
+    "pegi": "",
+    "runtime": 93,
+    "title": "The Greasy Strangler",
+    "original_title": "The Greasy Strangler",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/lsIJ8iTA2DK12SNTKf0vLKh1BGm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/flz1hSZTUl5wNs2i4nmcyX8Tg7n.jpg",
+    "rating": 5.517,
+    "overview": "",
+    "genres": [
+      "Commedia",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 426030,
+    "imdb_id": "tt4538916",
+    "recent_until": 1794047971662,
+    "pegi": "",
+    "runtime": 111,
+    "title": "Ricomincio da noi",
+    "original_title": "Finding Your Feet",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/7KBQrYYS3v4ZXcOhMArsT9cl0WU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hD2JAEBW9ikYNmiWRcexKkRZWgz.jpg",
+    "rating": 7.0,
+    "overview": "Sandra è una signora borghese che se ne va di casa quando scopre che il marito (con il quale è sposata da 40 anni) ha una relazione con la sua migliore amica. Sandra si rifugia da sua sorella Bif, una sessantenne \"alternativa\" che vive da sola in un quartiere popolare. Grazie a lei, Sandra scoprirà una curiosa scuola di ballo e soprattutto conoscerà Charlie, un eccentrico restauratore di mobili che vive su una barca. Catapultata in un ambiente per lei insolito, Sandra inizierà una nuova vita.",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Famiglia",
+      "Musica",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 72231,
     "imdb_id": "tt0282496",
     "recent_until": 1793875261666,
