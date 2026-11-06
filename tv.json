@@ -1,5 +1,82 @@
 [
   {
+    "tmdb_id": 300146,
+    "imdb_id": "tt42576855",
+    "recent_until": 1794134369666,
+    "type": "tv",
+    "title": "Where the Mask Ends",
+    "original_title": "嫁金钗",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
+    "rating": 6.7,
+    "pegi": "",
+    "runtime": null,
+    "overview": "La somiglianza sconcertante dell'umile A-Chou con una ricca ereditiera la porta a sposare un nobile gravemente malato al posto suo... ma la sua nuova vita è piena di pericoli.",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 4
+      },
+      {
+        "season": 1,
+        "episodes": 30
+      }
+    ]
+  },
+  {
+    "tmdb_id": 292742,
+    "imdb_id": "tt36984433",
+    "recent_until": 1794134369860,
+    "type": "tv",
+    "title": "S.W.A.T. Exiles",
+    "original_title": "S.W.A.T. Exiles",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/pPiEujhVa2MBSowmvnNWqEzxH0x.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mNIc5QqjBuXHeeyj6P4WSqTCBu9.jpg",
+    "rating": 6.1,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Dopo che una missione di alto profilo prende una brutta piega, Daniel \"Hondo\" Harrelson viene richiamato dal suo pensionamento forzato per guidare un'unità SWAT sperimentale, un'ultima chance composta da giovani reclute inesperte e imprevedibili. Hondo dovrà colmare il divario generazionale, gestire personalità in conflitto e trasformare un gruppo di \"outsider\" in una squadra capace di proteggere la città e salvare il programma che lo ha reso l'uomo che è oggi.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "tmdb_id": 227520,
+    "imdb_id": "tt27052640",
+    "recent_until": 1794134370162,
+    "type": "tv",
+    "title": "Kevin Costner's The West",
+    "original_title": "Kevin Costner's The West",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/bOQgliYRKC8tnQJUjqIY9uZRZoV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/njlmpkH0fErBI9a9XwjjWElzibW.jpg",
+    "rating": 7.3,
+    "pegi": "",
+    "runtime": 43,
+    "overview": "Esplora attraverso un ritratto a più livelli della frontiera americana, dai veri pionieri alle forze dell'ordine e alle battaglie per la terra e la libertà.",
+    "genres": [
+      "Documentario"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
     "tmdb_id": 78064,
     "imdb_id": "tt8118950",
     "recent_until": 1794047972509,
