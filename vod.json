@@ -1,5 +1,132 @@
 [
   {
+    "tmdb_id": 1127384,
+    "imdb_id": "tt29516222",
+    "recent_until": 1794217871665,
+    "pegi": "6+",
+    "runtime": 107,
+    "title": "Deep Water - Incubo degli abissi",
+    "original_title": "Deep Water",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ejYdwL5CAtekoZ3zV4hYRAQUmgN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+    "rating": 7.385,
+    "overview": "Un gruppo di passeggeri internazionali a bordo di un volo da Los Angeles a Shanghai è costretto a effettuare un atterraggio di emergenza in acque infestate da squali. Il gruppo, terrorizzato, è costretto a collaborare e a superare le proprie divergenze se vuole salvarsi dall'aereo che affonda e dalla furia degli squali attratti dal relitto.",
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 1432207,
+    "imdb_id": "tt36987417",
+    "recent_until": 1794217871811,
+    "pegi": "",
+    "runtime": 83,
+    "title": "Blue",
+    "original_title": "Blue",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/7twlevJFJzq2icPbIgKCeIrS9TB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mnk9eSwyzKSj31z9qkX3GAtsQmJ.jpg",
+    "rating": 6.75,
+    "overview": "Il film racconta la storia di Luce, una giovane studentessa alle prese con scelte difficili e con il mondo illusorio di una piattaforma digitale.  Ambientato e girato nelle Marche, il film prodotto da Camaleo intreccia il simbolismo del Carnevale – con le sue maschere e la sua atmosfera di trasgressione – alla complessità del mondo online",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1483525,
+    "imdb_id": "tt37803364",
+    "recent_until": 1794217871946,
+    "pegi": "",
+    "runtime": 165,
+    "title": "Possible Love",
+    "original_title": "가능한 사랑",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/uPOpXBUMtMslIBAxldQwJwBQkad.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
+    "rating": 7.3,
+    "overview": "Un operaio licenziato e sua moglie incontrano una regista di documentari e suo marito, e si ritrovano a confrontarsi con i loro desideri nascosti.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 18886,
+    "imdb_id": "tt0099587",
+    "recent_until": 1794217872093,
+    "pegi": "",
+    "runtime": 115,
+    "title": "L'ultimo attacco",
+    "original_title": "Flight of the Intruder",
+    "year": "1991",
+    "poster": "https://image.tmdb.org/t/p/w500/2QOzebO08I5MGCdONZEZsq8rUjD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6JVtYVIqJzsD1XmmhYO8O9bUVc8.jpg",
+    "rating": 5.8,
+    "overview": "Vietnam. Per colpire un deposito missilistico di Hanoi, viene reclutato Cole un cinico bombardiere, col compito di volare sopra le linee nemiche in una missione non autorizzata. Il rischio é la corte marziale..se riusciranno a sopravvivere fino al loro ritorno.",
+    "genres": [
+      "Azione",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 1493859,
+    "imdb_id": "tt37209937",
+    "recent_until": 1794217872229,
+    "pegi": "",
+    "runtime": 98,
+    "title": "Pizza Movie",
+    "original_title": "Pizza Movie",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/3rovbwvxJ5eQrWrQnF1VfJoPcMD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/75UkXLlLedidOGo0VogF0A0NPfC.jpg",
+    "rating": 6.414,
+    "overview": "Un gruppo di studenti universitari scende nella hall del dormitorio per ritirare una pizza. C'è solo un problema: sono strafatti di una droga artigianale. La semplice discesa di due rampe di scale si trasforma così in una missione epica e psichedelica.",
+    "genres": [
+      "Commedia",
+      "Avventura",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 1422562,
+    "imdb_id": "tt35524793",
+    "recent_until": 1794217872421,
+    "pegi": "",
+    "runtime": 103,
+    "title": "The Moment",
+    "original_title": "The Moment",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lQUsfSUcai6ZOHQHgobSlF0IDUV.jpg",
+    "rating": 6.273,
+    "overview": "Una stella nascente del pop affronta la fama e le pressioni dell'industria musicale mentre si prepara per il suo tour di debutto nelle arene, rivelando la trasformazione della cultura underground in successo mainstream.",
+    "genres": [
+      "Musica",
+      "Commedia",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 9009,
+    "imdb_id": "tt0382628",
+    "recent_until": 1794217872559,
+    "pegi": "",
+    "runtime": 105,
+    "title": "Dark Water",
+    "original_title": "Dark Water",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/ds7xUbQ4o5TVq9d9CEXge9UwF2E.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/XKZjyePvRYPn7JdfRGZO3Q87qu.jpg",
+    "rating": 5.664,
+    "overview": "Una giovane donna, con alcuni problemi, é decisa a lasciarsi alle spalle la storia col suo ex marito; cambia lavoro e casa e pensa solo a crescere nel miglior modo possibile sua figlia. Ma quando inizia una dura battaglia legale per la custodia della bambina, tutto le crolla addosso e per di più dalla sua nuova casa, si diffondono misteriosi e cupi rumori accompagnati da una strana perdita di acqua scura dal soffitto..",
+    "genres": [
+      "Horror",
+      "Mistero"
+    ]
+  },
+  {
     "tmdb_id": 36298,
     "imdb_id": "tt1421040",
     "recent_until": 1794134366202,

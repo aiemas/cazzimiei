@@ -1,5 +1,147 @@
 [
   {
+    "tmdb_id": 303044,
+    "imdb_id": "tt39943756",
+    "recent_until": 1794217873439,
+    "type": "tv",
+    "title": "Campus Drivers",
+    "original_title": "Campus Drivers",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+    "rating": 7.8,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Loïs arriva alla Belrose con Max, l'amore della sua vita. Lane, il creatore di Campus Drivers, l'app più in voga all'università, è noto per non affezionarsi mai a nessuno. Le loro strade non si sarebbero mai dovute incrociare. Ma alcuni incontri cambiano tutto, riaprendo vecchie ferite. E quando l'amore arriva e non te lo aspetti, non hai più certezze.",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 339697,
+    "imdb_id": "tt45114341",
+    "recent_until": 1794217873578,
+    "type": "tv",
+    "title": "Melania Rea",
+    "original_title": "Melania Rea",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/yK9Q4ORFEHEaqFRthTlC9jdU0Ac.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/r5ecc4Wjejsp6B507GdZXOPTNMo.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Il 20 aprile 2011 il corpo della ventinovenne Melania Rea viene ritrovato nel parco nazionale d'Abruzzo, non lontano da dove viveva con il marito, il caporal maggiore dell'esercito Salvatore Parolisi, e con la loro figlia di 18 mesi, Vittoria. È l'inizio di una delle indagini più mediatiche e controverse degli ultimi anni, un caso che contribuito a portare al centro del dibattito pubblico il tema della violenza di genere e il concetto di \"femminicidio\".",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 4
+      }
+    ]
+  },
+  {
+    "tmdb_id": 306179,
+    "imdb_id": "tt38992068",
+    "recent_until": 1794217873718,
+    "type": "tv",
+    "title": "Awkwafina: Una chef improbabile",
+    "original_title": "Awkwafina: The Unlikely Cook",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6Z0VtU59tMTfJZuBdnRkhdcOz87.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vSMW22GgtzgsRaAmZaTM6xtPdNP.jpg",
+    "rating": 3.25,
+    "pegi": "",
+    "runtime": null,
+    "overview": "L’attrice e comica hollywoodiana Nora Lum (alias Awkwafina) discende da una famiglia di grandi ristoratori... ma non sa cucinare. Accompagna questa star in uno stimolante viaggio culinario, mentre impara il mestiere e cerca di rilanciare l’amato ristorante cinese della sua famiglia.",
+    "genres": [
+      "Documentario"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 334470,
+    "imdb_id": "tt35926686",
+    "recent_until": 1794217873863,
+    "type": "tv",
+    "title": "Può solo andar peggio",
+    "original_title": "It Gets Worse",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/vdvHHnAzYGt4OEhTmUdErjZIGBG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oDCgEryrnOVeygypH6gj99H1D7.jpg",
+    "rating": 4.8,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 66980,
+    "imdb_id": "tt4378376",
+    "recent_until": 1794217874043,
+    "type": "tv",
+    "title": "Babylon Berlin",
+    "original_title": "Babylon Berlin",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/jYShWyYllx9DhOS6d92mN2yVsbA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7hezSIqkDjhP7MNGFN9vRkyWgO9.jpg",
+    "rating": 7.752,
+    "pegi": "",
+    "runtime": null,
+    "overview": "La serie si svolge nella Berlino degli anni '20, nel periodo della Repubblica di Weimar. Il protagonista è il commissario Gereon Rath, che viene trasferito da Colonia a Berlino per indagare nel contesto di un caso di ricatto. Incontra Charlotte Ritter presso la sede della polizia di Berlino e inizia le sue indagini insieme al suo collega Bruno Wolter di Berlino, dove entra in contatto con droghe, politiche, omicidi, arte, emancipazione e estremismo.",
+    "genres": [
+      "Dramma",
+      "Crime",
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 35
+      },
+      {
+        "season": 1,
+        "episodes": 8
+      },
+      {
+        "season": 2,
+        "episodes": 8
+      },
+      {
+        "season": 3,
+        "episodes": 12
+      },
+      {
+        "season": 4,
+        "episodes": 12
+      },
+      {
+        "season": 5,
+        "episodes": 8
+      }
+    ]
+  },
+  {
     "tmdb_id": 300146,
     "imdb_id": "tt42576855",
     "recent_until": 1794134369666,
