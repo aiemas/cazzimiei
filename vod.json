@@ -1,5 +1,117 @@
 [
   {
+    "tmdb_id": 108465,
+    "imdb_id": "tt0117725",
+    "recent_until": 1794305057910,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Squillo",
+    "original_title": "Squillo",
+    "year": "1996",
+    "poster": "https://image.tmdb.org/t/p/w500/ptvQb3zkCXjKu138P02UOjbjXSm.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5MaUuFoZzGyVEUxO7psu6JU8ro8.jpg",
+    "rating": 3.7,
+    "overview": "Una giovane ragazza polacca, Maria, arriva a Milano con l'intenzione di fare una sorpresa alla sorella maggiore, Eva. Sono sette anni che non si vedono. Maria osserva sbalordita il lussuoso appartamento di Eva e non tarda a capire che la sorella fa la prostituta. Un giorno Eva scompare e le indagini vengono affidate al detective Messina.",
+    "genres": [
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1465063,
+    "imdb_id": "tt36583977",
+    "recent_until": 1794305058108,
+    "pegi": "6+",
+    "runtime": 109,
+    "title": "L'isola dei ricordi",
+    "original_title": "Forgotten Island",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+    "rating": 8.0,
+    "overview": "Jo e Raissa, amiche fin dall’infanzia,  dopo essersi diplomate sono ormai pronte a intraprendere strade diverse nella vita. Durante la loro ultima notte insieme, le due ragazze si imbattono in un misterioso portale che le trasporta sull’isola fantastica di Nakali, un luogo popolato da creature magiche e mitologiche di cui hanno sempre sentito parlare nelle storie delle loro famiglie filippine. Alcune di queste creature diventeranno alleate, altre nemiche. Insieme a Raww, un licantropo-cane benintenzionato ma un po’ pasticcione, e a un piccolo ma agguerrito gruppo di nuovi compagni, Jo e Raissa dovranno affrontare la temibile Manananggal, la creatura più pericolosa dell’isola. Quando scoprono che il prezzo per tornare a casa è sacrificare tutti i ricordi della loro amicizia, le due dovranno trovare un modo per lasciare Nakali prima di dimenticarsi per sempre l’una dell’altra.",
+    "genres": [
+      "Animazione",
+      "Avventura",
+      "Fantasy",
+      "Commedia",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 14643,
+    "imdb_id": "tt0870204",
+    "recent_until": 1794305058322,
+    "pegi": "",
+    "runtime": 99,
+    "title": "Boot Camp - Il campo del terrore",
+    "original_title": "Boot Camp",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/w500/rSAIVxNJGRGcfvnzUzsL2VZJL7g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/monpF0nc8wPYGCZ37mcyLPoFeyb.jpg",
+    "rating": 5.9,
+    "overview": "Un'adolescente ribelle viene inviata in un rigido campo di addestramento nelle isole Fiji per correggere il suo comportamento. Presto scoprirà che i metodi sono estremamente duri e che dovrà lottare per sopravvivere, affrontando le subdole manipolazioni psicologiche nascoste all'interno del campus.",
+    "genres": [
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 10705,
+    "imdb_id": "tt0097499",
+    "recent_until": 1794305058529,
+    "pegi": "",
+    "runtime": 137,
+    "title": "Enrico V",
+    "original_title": "Henry V",
+    "year": "1989",
+    "poster": "https://image.tmdb.org/t/p/w500/96md8lbuL0QqrKFWBuC5tnKQmR0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/usbfKNeqx5FrHByBf7Fzf9WDuIl.jpg",
+    "rating": 7.073,
+    "overview": "Salito sul trono d’Inghilterra nel 1413, dopo una giovinezza trascorsa insieme ad amici scapestrati, Enrico V è un re saggio e rigoroso. Due anni dopo l’ascesa al trono, dichiara guerra a Carlo VI re di Francia. Sbarcato con un esercito non molto numeroso rispetto a quello nemico, ma disciplinato, riesce a far cadere la cittadina di Harfleur e a sbaragliare i nemici nella sanguinosa battaglia di Anzicourt.",
+    "genres": [
+      "Guerra",
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 72207,
+    "imdb_id": "tt1195478",
+    "recent_until": 1794305058852,
+    "pegi": "",
+    "runtime": 124,
+    "title": "5 anni di fidanzamento",
+    "original_title": "The Five-Year Engagement",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/np7gKJQlSKRu8zon8HdXtInKBUI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hpCVGnsOzdciHsPSgdDdj4FKwuw.jpg",
+    "rating": 5.85,
+    "overview": "Violet e Tom si sono incontrati a una festa di capodanno in costume a San Francisco. Lui era vestito da super coniglio e lei da Lady Diana. È stato amore a prima vista e un anno dopo i due stanno per sposarsi. Lui è un cuoco in carriera e lei una laureata che aspira al dottorato. Proposta che arriva. Da un un'università del Michigan però. Così Tom, per amore, molla il ben avviato lavoro e trova un impiego decisamente inferiore alle sue capacità mentre Violet entra nelle grazie di un professore di psicologia comportamentale che ne favorisce l'ascesa. La promessa di matrimonio reggerà dinanzi a questa nuova situazione?",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 153738,
+    "imdb_id": "tt1925435",
+    "recent_until": 1794305059058,
+    "pegi": "",
+    "runtime": 84,
+    "title": "Frankenstein's Army",
+    "original_title": "Frankenstein's Army",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/mYRqIfpn0p1BOjKEUqEml1sk9WD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4N2Kg5G3xOkzbwKr2af8ATmK7Jb.jpg",
+    "rating": 6.054,
+    "overview": "Siamo verso la fine della seconda guerra mondiale. Un gruppo di soldati russi, durante alcune ispezioni nella Germania orientale, si imbatte in un laboratorio segreto nazista, in cui scopre che gli scienziati, per eseguire i loro esperimenti, si sono ispirati al lavoro del leggendario dott. Viktor Frankenstein. Il risultato è che hanno creato un esercito di uomini ottenuti riassemblando le parti dei corpi dei soldati morti in battaglia. Un'ultimo gesto disperato da parte di Hitler per sfuggire a un'atroce sconfitta.",
+    "genres": [
+      "Azione",
+      "Horror"
+    ]
+  },
+  {
     "tmdb_id": 1127384,
     "imdb_id": "tt29516222",
     "recent_until": 1794217871665,

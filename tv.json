@@ -1,5 +1,84 @@
 [
   {
+    "tmdb_id": 310290,
+    "imdb_id": "tt37158600",
+    "recent_until": 1794305060777,
+    "type": "tv",
+    "title": "Mis muertos tristes",
+    "original_title": "Mis muertos tristes",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/7Yv3av3ULmndtGYC4n0zWNVakY5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gvBZ7qSCsszgUX74y8VLNw2in03.jpg",
+    "rating": 6.5,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Emma può vedere i defunti. Ma l’arrivo di sua nipote sconvolge migliaia di vite in questa inquietante miniserie tratta dalle opere di Mariana Enriquez…",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 4
+      }
+    ]
+  },
+  {
+    "tmdb_id": 62725,
+    "imdb_id": "tt3596178",
+    "recent_until": 1794305061067,
+    "type": "tv",
+    "title": "Bella e i Bulldogs",
+    "original_title": "Bella and the Bulldogs",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/5jTmX79QjbuBuVnH9xVoA8jFAMT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gxbkD5VT4wUf9ModAwAQWt3wVun.jpg",
+    "rating": 7.674,
+    "pegi": "T",
+    "runtime": 30,
+    "overview": "La vita di una capo cheerleader prende una svolta inaspettata quando il suo braccio da lancio simile a un fucile la porta da bordo campo a diventare il quarterback titolare della sua scuola media. Bella Dawson è un'adolescente sicura di sé, premurosa e di talento, che all'improvviso si ritrova a realizzare il sogno di una vita ma anche a dover navigare nel mondo dei suoi compagni di squadra Troy, Sawyer e Newt, senza perdere i suoi due migliori amici, Pepper e Sophie della squadra di tifo.",
+    "genres": [
+      "Famiglia",
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 20
+      },
+      {
+        "season": 2,
+        "episodes": 20
+      }
+    ]
+  },
+  {
+    "tmdb_id": 72615,
+    "imdb_id": "tt1034007",
+    "recent_until": 1794305061264,
+    "type": "tv",
+    "title": "L'altra Grace",
+    "original_title": "Alias Grace",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/bZfy00f4brEcl7Z352EzuSwrRHD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/870FbfjWlt98dcSarTbYH0X0tje.jpg",
+    "rating": 7.215,
+    "pegi": "",
+    "runtime": 46,
+    "overview": "Nel Canada dell'800, uno psichiatra si trova a valutare se un'assassina deve essere assolta per infermità mentale in questa storia tratta dal romanzo di Margaret Atwood.",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
     "tmdb_id": 303044,
     "imdb_id": "tt39943756",
     "recent_until": 1794217873439,
