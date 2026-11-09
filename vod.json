@@ -1,5 +1,117 @@
 [
   {
+    "tmdb_id": 1616419,
+    "imdb_id": "tt39453578",
+    "recent_until": 1794395633045,
+    "pegi": "",
+    "runtime": 114,
+    "title": "Un buon avvocato",
+    "original_title": "Un bon avocat",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/iy7Ersw8H4I1U5cA9bFyJpMrTTM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+    "rating": 7.0,
+    "overview": "Finito in riabilitazione dopo un'overdose in aula, un avvocato ha una settimana di tempo per salvarsi la carriera e prepararsi al processo con l'aiuto di una tenace tirocinante.",
+    "genres": [
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1171634,
+    "imdb_id": "tt29482291",
+    "recent_until": 1794395633238,
+    "pegi": "T",
+    "runtime": 104,
+    "title": "Sotto le foglie",
+    "original_title": "Quand vient l'automne",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/ylFpYGIoplBBtJn6CoaQAyoRyQB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/z3zeYgp8P8SqTypwatOHINDCnHM.jpg",
+    "rating": 6.603,
+    "overview": "La premurosa nonna Michelle (Hélène Vincent) vive la sua tranquilla pensione in un piccolo villaggio della Borgogna, vicino alla migliore amica Marie-Claude (Josiane Balasko). Michelle non vede l’ora di trascorrere l’estate con il nipote Lucas, ma quando sua figlia Valérie (Ludivine Sagnier) e Lucas arrivano a casa le cose iniziano a prendere una strana piega e nulla sembra andare per il verso giusto: Valérie mangia dei funghi velenosi raccolti da Michelle e il ritorno di Vincent (Pierre Lottin), il figlio di Marie-Claude appena uscito di prigione, sembra sconvolgere ulteriormente gli equilibri...",
+    "genres": [
+      "Dramma",
+      "Thriller",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1477712,
+    "imdb_id": "tt36893729",
+    "recent_until": 1794395633471,
+    "pegi": "18+",
+    "runtime": 86,
+    "title": "Ice Cream Man",
+    "original_title": "Ice Cream Man",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bnZUCOLv2Br3VOxnDMo5qPOncJF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+    "rating": 5.372,
+    "overview": "Un'idilliaca cittadina di villeggiatura estiva precipita nell’orrore, quando un gelataio offre ai bambini dolci prelibatezze dalle conseguenze terrificanti.",
+    "genres": [
+      "Horror",
+      "Commedia",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 415010,
+    "imdb_id": "tt6243140",
+    "recent_until": 1794395633657,
+    "pegi": "",
+    "runtime": 104,
+    "title": "I Famelici",
+    "original_title": "Les affamés",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/ir9IkfprrdC8CwHcHprB8x8vPMX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qvcgcaP5TFyBudPPrhT2788GFTL.jpg",
+    "rating": 5.9,
+    "overview": "In un piccolo e remoto villaggio del Quebec, le cose stanno cambiando rapidamente. Gli abitanti non sono più gli stessi: i loro corpi si stanno lentamente sfaldando e mostrano una certa attrazione per la carne.",
+    "genres": [
+      "Horror",
+      "Dramma",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 27523,
+    "imdb_id": "tt0055399",
+    "recent_until": 1794395633844,
+    "pegi": "",
+    "runtime": 123,
+    "title": "Salvatore Giuliano",
+    "original_title": "Salvatore Giuliano",
+    "year": "1962",
+    "poster": "https://image.tmdb.org/t/p/w500/4vUw9HxqzpPm08Rpm9YlAK9RdkY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/d3pyIqXlKSJy8LfJ983PUhrYbC2.jpg",
+    "rating": 7.508,
+    "overview": "Salvatore Giuliano è un famoso bandito del movimento separatista siciliano, sorto nel secondo dopoguerra. Compiendo azioni criminose contro uomini dello stato Giuliano diventò inconsapevolmente uno strumento della mafia.",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 377274,
+    "imdb_id": "tt4929038",
+    "recent_until": 1794395634122,
+    "pegi": "",
+    "runtime": 118,
+    "title": "O Ornitólogo",
+    "original_title": "O Ornitólogo",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/pWJOb9kQimujOt7wNr5mbQMpQ1j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4zN1G8Fiqkuuk0QU1bXbVC5PMbK.jpg",
+    "rating": 6.0,
+    "overview": "Fernando è un ornitologo che sta conducendo una ricerca in solitaria su una specie di cicogna nera, in pericolo di estinzione, che vive lungo un fiume nel Nord del Portogallo. Travolto dalla corrente delle rapide, è tratto in salvo da una coppia di cinesi in pellegrinaggio alla volta di Santiago de Compostela e cerca di tornare indietro, attraversando una foresta scura e impenetrabile. Lungo il cammino incapperà in ostacoli imprevisti e personaggi inattesi che lo metteranno alla prova. La metamorfosi interiore trasformerà Fernando in un uomo nuovo: ispirato, poliedrico e illuminato.",
+    "genres": [
+      "Avventura",
+      "Dramma",
+      "Mistero"
+    ]
+  },
+  {
     "tmdb_id": 108465,
     "imdb_id": "tt0117725",
     "recent_until": 1794305057910,
