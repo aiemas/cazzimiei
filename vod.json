@@ -1,5 +1,138 @@
 [
   {
+    "tmdb_id": 58251,
+    "imdb_id": "tt1426362",
+    "recent_until": 1794480961308,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Daddy Longlegs",
+    "original_title": "Daddy Longlegs",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/lnHRAJ5ucoIXDRCVxfdABpK60OS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/i3FQdpLOWKFvKVOBkQ3L0sGHvBG.jpg",
+    "rating": 6.6,
+    "overview": "Lenny è un trentaquattrenne solitario e triste; arriva finalmente per lui il momento di passare due settimane con i suoi due figli, Sage e Frey. In difficoltà nel ruolo di padre, più a suo agio in quello di amico, Lenny spera che le due settimane sembrino mesi; decide così di intraprendere con loro un viaggio a nord dello stato di New York, incontrando strani personaggi e riflettendo sul suo ruolo di padre.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 35650,
+    "imdb_id": "tt0220627",
+    "recent_until": 1794480961520,
+    "pegi": "",
+    "runtime": 87,
+    "title": "Maelström",
+    "original_title": "Maelström",
+    "year": "2000",
+    "poster": "https://image.tmdb.org/t/p/w500/icV1B4ouHmPttcN20og84v8gv0e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rxaga3bJXuwgHidnTcdwVHifLpH.jpg",
+    "rating": 6.241,
+    "overview": "Bibiane Champagne è una giovane donna di venticinque anni, bella e di successo. Proveniente da una ricca famiglia influente, frequenta diversi negozi di abbigliamento di lusso, ha un bellissimo appartamento e passa le notti in locali alla moda. Una piovosa sera d'estate, Bibiane investe accidentalmente un passante con la sua auto. Il ferito, un pescivendolo cinquantatreenne, tornato a casa, lentamente muore. La vita Bibiane scivola in un caos inimmaginabile: dopo aver cercato di cancellare ogni traccia del suo gesto gettando l'auto in un bacino portuale, cerca di saperne di più sull'uomo che ha ucciso...",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 285024,
+    "imdb_id": "tt3687186",
+    "recent_until": 1794480961728,
+    "pegi": "",
+    "runtime": 97,
+    "title": "Heaven Knows What",
+    "original_title": "Heaven Knows What",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/4oyWMOWJ6trsRuyzn5cHPv50zVH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5Da8RNj3e98iYWKL8GplmPFZNTQ.jpg",
+    "rating": 6.4,
+    "overview": "",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 499546,
+    "imdb_id": "tt6671244",
+    "recent_until": 1794480961931,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Wij",
+    "original_title": "Wij",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/7nsSIsB0Rx2f2SM2YR91e5xPRx0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3kb5b8IQCX4vd3baNBoZqAboP41.jpg",
+    "rating": 5.4,
+    "overview": "",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 300,
+    "imdb_id": "tt0354899",
+    "recent_until": 1794480962243,
+    "pegi": "",
+    "runtime": 105,
+    "title": "L'arte del sogno",
+    "original_title": "La Science des rêves",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/ouRulNgCGIxM8jlJMYr886Jsn4j.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/on2LtRJ41aS3vwQfu8F5H1cyV6D.jpg",
+    "rating": 7.0,
+    "overview": "Dopo la morte del padre in Messico, Stéphane, un giovane creativo che confonde realtà e sogno, torna a Parigi su richiesta della madre. Ad attenderlo ci sono un impiego da illustratore in una piccola impresa di calendari promozionali e una bella vicina di casa, Stéphanie, che cuce per hobby giocattoli di pezza. Invaghitosi della fanciulla, Stéphane la corteggia in sogno e da sveglio costruisce per lei pupazzi meccanici o improbabili macchine del tempo. Ma in amore, sogno e realtà non coincidono quasi mai. È ancora una volta il cervello il protagonista del cinema surreale di Michel Gondry. Il cervello che dimentica in Se mi lasci ti cancello, e quello che si abbandona al sonno nell'Arte del sogno. Viaggio nella memoria per Jim Carrey per rielaborare una relazione affettiva, e viaggio nel sogno per Gael García Bernal per vivere un sentimento amoroso non corrisposto nella veglia.",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 12903,
+    "imdb_id": "tt1295021",
+    "recent_until": 1794480962534,
+    "pegi": "",
+    "runtime": 75,
+    "title": "Scooby-Doo! e il re dei Goblin",
+    "original_title": "Scooby-Doo! and the Goblin King",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/w500/xkTPDTqYXMWhohojAdVTyARgUSr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/llm8JA9OnDI29exEvBlriO5Lsjj.jpg",
+    "rating": 7.593,
+    "overview": "Incredibile Krudsky, un fallito mago del carnevale, ha rubato la magia della luce alla Principessa delle Fat. Scooby-Doo e Shaggy devono fermarlo prima che trasformi tutti in orribili mostri di Halloween.",
+    "genres": [
+      "Avventura",
+      "Animazione",
+      "Commedia",
+      "Famiglia",
+      "Fantasy",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 16390,
+    "imdb_id": "tt1421378",
+    "recent_until": 1794480962740,
+    "pegi": "",
+    "runtime": 68,
+    "title": "Scooby-Doo! e la spada del Samurai",
+    "original_title": "Scooby-Doo! and the Samurai Sword",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/3W80nU4gLejy9jFcFc8JLsvNWXs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v9rjmKUcvoUFUNx7XprWGiUmkau.jpg",
+    "rating": 7.6,
+    "overview": "Scooby-Doo ed i suoi amici della Mystery Inc. sono di nuovo insieme per risolvere un mistero nel mondo delle arti marziali. La gang viaggia verso il Giappone circumnavigando l'Asia ed il Pacifico alla ricerca di un tesoro che li aiuterà a risolvere una serie di antichi enigmi. Sarà una corsa contro il vendicativo Samurai Nero e i suoi Guerrieri Fantasma per trovare la leggendaria Spada del Destino, un'antica lama capace di sprigionare straordinari poteri.",
+    "genres": [
+      "Famiglia",
+      "Mistero",
+      "Animazione",
+      "Commedia",
+      "Azione",
+      "Fantasy"
+    ]
+  },
+  {
     "tmdb_id": 1616419,
     "imdb_id": "tt39453578",
     "recent_until": 1794395633045,
