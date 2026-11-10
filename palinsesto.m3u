@@ -1,139 +1,845 @@
 #EXTM3U
-#EXTINF:0 group-title="14:00 Snooker (Champion of Champions): N. Robertson - P. Channoi ( 14:00 - 15:55 )", EN
-https://www.itv.com/watch?channel=itv4
-#EXTINF:0 group-title="14:00 Snooker (Champion of Champions): N. Robertson - P. Channoi ( 14:00 - 15:55 )", ND
-https://sport.ceskatelevize.cz/videostream/ms-v-hokeji-zen-cesko-nemecko-3140
-#EXTINF:0 group-title="15:00 Hockey hielo Ice hockey (WCH Women): Czech Republic - Germany", ND
-https://sport.ceskatelevize.cz/videostream/ms-v-hokeji-zen-cesko-nemecko-3140
-#EXTINF:0 group-title="15:00 Hockey hielo Ice hockey (WCH Women): Czech Republic - Germany", SR
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Basketball Champions League): Sabah - Trabzonspor", SR 1
 https://www.yallalive.yoga/live/live08
-#EXTINF:0 group-title="17:00 Baloncesto Basketball (Basketball Champions League): Sabah - Trabzonspor", SR
-https://www.yallalive.yoga/live/live08
-#EXTINF:0 group-title="17:00 Baloncesto Basketball (Basketball Champions League): Sabah - Trabzonspor", ND
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Basketball Champions League): Sabah - Trabzonspor", SR 2
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Basketball Champions League): Sabah - Trabzonspor", SR 3
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Basketball Champions League): Sabah - Trabzonspor", SR 4
+https://cbcsport.az/live/
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Basketball Champions League): Sabah - Trabzonspor", ND 1
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Basketball Champions League): Sabah - Trabzonspor", ND 2
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Basketball Champions League): Sabah - Trabzonspor", ND 3
+https://cbcsport.az/live/
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Basketball Champions League): Sabah - Trabzonspor", ND 4
 https://www.yallalive.yoga/live/live09
-#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Balkan - PAOK", ND
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Basketball Champions League): Sabah - Trabzonspor", ND 5
+https://shazysport.pro/livehd9.html
+#EXTINF:0 group-title="17:00 Baloncesto Basketball (Basketball Champions League): Sabah - Trabzonspor", ND 6
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Balkan - PAOK", ND 1
 https://www.yallalive.yoga/live/live09
-#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Balkan - PAOK", SR
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Balkan - PAOK", ND 2
+https://shazysport.pro/livehd9.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Balkan - PAOK", ND 3
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Balkan - PAOK", SR 1
 https://www.yallalive.yoga/live/live10
-#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Cluj-Napoca - Turk Telekom", SR
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Balkan - PAOK", SR 2
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Balkan - PAOK", SR 3
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Cluj-Napoca - Turk Telekom", SR 1
 https://www.yallalive.yoga/live/live10
-#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Cluj-Napoca - Turk Telekom", PL
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Cluj-Napoca - Turk Telekom", SR 2
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Cluj-Napoca - Turk Telekom", SR 3
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Cluj-Napoca - Turk Telekom", ND 1
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Cluj-Napoca - Turk Telekom", ND 2
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Cluj-Napoca - Turk Telekom", PL 1
 https://www.yallalive.yoga/live/live11
-#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Neptunas - Slask Wroclaw", PL
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Cluj-Napoca - Turk Telekom", PL 2
+https://shazysport.pro/livehd11.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Cluj-Napoca - Turk Telekom", PL 3
+https://shd247.world/live-go-streaming-14.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Neptunas - Slask Wroclaw", PL 1
 https://www.yallalive.yoga/live/live11
-#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Neptunas - Slask Wroclaw", DE
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Neptunas - Slask Wroclaw", PL 2
+https://shazysport.pro/livehd11.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Neptunas - Slask Wroclaw", PL 3
+https://shd247.world/live-go-streaming-14.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Neptunas - Slask Wroclaw", ND 1
+https://shazysport.pro/livehd11.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Neptunas - Slask Wroclaw", ND 2
+https://shd247.world/live-go-streaming-14.html
+#EXTINF:0 group-title="18:00 Baloncesto Basketball (Eurocup): Neptunas - Slask Wroclaw", ND 3
+https://sport.ceskatelevize.cz/videostream/me-ragbistu-do-18-let-spanelsko-cesko-3141
+#EXTINF:0 group-title="18:30 Rugby (U18): Spain - Czechia ( 18:30 - 20:25 )", ND
+https://sport.ceskatelevize.cz/videostream/me-ragbistu-do-18-let-spanelsko-cesko-3141
+#EXTINF:0 group-title="18:30 Rugby (U18): Spain - Czechia ( 18:30 - 20:25 )", DE 1
 https://www.yallalive.yoga/live/live12
-#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", DE
+#EXTINF:0 group-title="18:30 Rugby (U18): Spain - Czechia ( 18:30 - 20:25 )", DE 2
+https://forprivateuse.sbs/roja559/extraplayer/12.php
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", DE 1
 https://www.yallalive.yoga/live/live12
-#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", EN 1
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", DE 2
+https://forprivateuse.sbs/roja559/extraplayer/12.php
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 1
+https://polocruzxl2.pages.dev/acer
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 2
+https://polocruzxl2.pages.dev/espn2
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 3
+https://polocruzxl2.pages.dev/espndeportes
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 4
+https://polocruzxl2.pages.dev/spo9
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 5
+https://polocruzxl2.pages.dev/spo10
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 6
+https://polocruzxl2.pages.dev/br6
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 7
 https://www.yallalive.yoga/live/live13
-#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", EN 2
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 8
 https://sebn.dad/101126/sebn-11.html
-#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", EN 3
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 9
 https://buff-streams.buzz/roja-32/k8.php
-#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", EN 4
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 10
 https://buff-streams.buzz/roja-32/9.php
-#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", EN 5
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 11
 https://i5genz.cfd/roja-18/k8.php
-#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", EN 6
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 12
 https://i5genz.cfd/roja-18/9.php
-#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", EN 1
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 13
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 14
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 15
+https://sport.tvp.pl/96388493/real-madryt-paris-fc-na-zywo-transmisja-online-meczu-ligi-mistrzyn-live-stream-10112026
+#EXTINF:0 group-title="18:30 Baloncesto Basketball (Basketball Champions League): Hapoel Holon - Rasta Vechta", ES 16
+https://forprivateuse.sbs/roja559/extraplayer/8.php
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 1
+https://polocruzxl2.pages.dev/acer
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 2
+https://polocruzxl2.pages.dev/espn2
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 3
+https://polocruzxl2.pages.dev/espndeportes
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 4
+https://polocruzxl2.pages.dev/spo9
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 5
+https://polocruzxl2.pages.dev/spo10
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 6
+https://polocruzxl2.pages.dev/br6
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 7
 https://www.yallalive.yoga/live/live13
-#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", EN 2
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 8
 https://sebn.dad/101126/sebn-11.html
-#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", EN 3
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 9
 https://buff-streams.buzz/roja-32/k8.php
-#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", EN 4
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 10
 https://buff-streams.buzz/roja-32/9.php
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 11
+https://i5genz.cfd/roja-18/k8.php
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 12
+https://i5genz.cfd/roja-18/9.php
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 13
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 14
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 15
+https://sport.tvp.pl/96388493/real-madryt-paris-fc-na-zywo-transmisja-online-meczu-ligi-mistrzyn-live-stream-10112026
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 16
+https://forprivateuse.sbs/roja559/extraplayer/8.php
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", EN 1
+https://polocruzxl2.pages.dev/spo10
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", PT
+https://polocruzxl2.pages.dev/br6
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", EN 2
+https://www.yallalive.yoga/live/live13
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", EN 3
+https://sebn.dad/101126/sebn-11.html
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", EN 4
+https://buff-streams.buzz/roja-32/k8.php
 #EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", EN 5
 https://i5genz.cfd/roja-18/k8.php
 #EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", EN 6
-https://i5genz.cfd/roja-18/9.php
-#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 1
-https://buff-streams.buzz/roja-32/9.php
-#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 2
-https://i5genz.cfd/roja-18/9.php
-#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 3
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", EN 7
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", PL
+https://sport.tvp.pl/96388493/real-madryt-paris-fc-na-zywo-transmisja-online-meczu-ligi-mistrzyn-live-stream-10112026
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", EN 8
+https://forprivateuse.sbs/roja559/extraplayer/8.php
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 17
+https://www.lpfplay.com/event/6aeba64c4afa889cfe869286
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 18
+https://www.lpfplay.com/event/6aeba66f4afa889cfe86928c
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 19
+https://www.lpfplay.com/event/6aeba6977dfbd1bf0d4dcd40
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 20
+https://www.lpfplay.com/event/6aeba62f7dfbd1bf0d4dcd21
+#EXTINF:0 group-title="18:45 FÃºtbol Football (UEFA Womens CL): Real Madrid - Paris FC", ES 21
+https://www.lpfplay.com/event/6aeba60a7dfbd1bf0d4dcd11
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Argentina): Torneo Proyección ( 19:00 - 21:00 )", ES 1
+https://www.lpfplay.com/event/6aeba64c4afa889cfe869286
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Argentina): Torneo Proyección ( 19:00 - 21:00 )", ES 2
+https://www.lpfplay.com/event/6aeba66f4afa889cfe86928c
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Argentina): Torneo Proyección ( 19:00 - 21:00 )", ES 3
+https://www.lpfplay.com/event/6aeba6977dfbd1bf0d4dcd40
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Argentina): Torneo Proyección ( 19:00 - 21:00 )", ES 4
+https://www.lpfplay.com/event/6aeba62f7dfbd1bf0d4dcd21
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Argentina): Torneo Proyección ( 19:00 - 21:00 )", ES 5
+https://www.lpfplay.com/event/6aeba60a7dfbd1bf0d4dcd11
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Argentina): Torneo Proyección ( 19:00 - 21:00 )", RO
+https://www.tvrplus.ro/live/tvr-sport
+#EXTINF:0 group-title="19:00 Balonmano Handball (Romania Women's Liga Nationala): Rapid Bucuresti - Baia Mare", RO
+https://www.tvrplus.ro/live/tvr-sport
+#EXTINF:0 group-title="19:00 Balonmano Handball (Romania Women's Liga Nationala): Rapid Bucuresti - Baia Mare", ES 1
+https://polocruzxl2.pages.dev/mlaliga
+#EXTINF:0 group-title="19:00 Balonmano Handball (Romania Women's Liga Nationala): Rapid Bucuresti - Baia Mare", ES 2
 https://www.yallalive.yoga/live/live07
-#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Anaitasuna - Alaves", ES
+#EXTINF:0 group-title="19:00 Balonmano Handball (Romania Women's Liga Nationala): Rapid Bucuresti - Baia Mare", ES 3
+https://vivtops.st/vivo1/?ch=20
+#EXTINF:0 group-title="19:00 Balonmano Handball (Romania Women's Liga Nationala): Rapid Bucuresti - Baia Mare", ES 4
+https://play.tvaztecaguate.com/home
+#EXTINF:0 group-title="19:00 Balonmano Handball (Romania Women's Liga Nationala): Rapid Bucuresti - Baia Mare", ES 5
+https://matchtv.ru/football/copa_del_rey/matchtvvideo_NI2381322_translation_Anaitasuna___Alaves_Kubok_Ispanii_1_64_finala
+#EXTINF:0 group-title="19:00 Balonmano Handball (Romania Women's Liga Nationala): Rapid Bucuresti - Baia Mare", ES 6
+https://forprivateuse.sbs/roja559/extraplayer/29.php
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Anaitasuna - Alaves", ES 1
+https://polocruzxl2.pages.dev/mlaliga
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Anaitasuna - Alaves", ES 2
 https://www.yallalive.yoga/live/live07
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Anaitasuna - Alaves", ES 3
+https://vivtops.st/vivo1/?ch=20
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Anaitasuna - Alaves", ES 4
+https://play.tvaztecaguate.com/home
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Anaitasuna - Alaves", ES 5
+https://matchtv.ru/football/copa_del_rey/matchtvvideo_NI2381322_translation_Anaitasuna___Alaves_Kubok_Ispanii_1_64_finala
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Anaitasuna - Alaves", ES 6
+https://forprivateuse.sbs/roja559/extraplayer/29.php
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Anaitasuna - Alaves", EN
+https://vivtops.st/vivo1/?ch=20
+#EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Anaitasuna - Alaves", RU
+https://matchtv.ru/football/copa_del_rey/matchtvvideo_NI2381322_translation_Anaitasuna___Alaves_Kubok_Ispanii_1_64_finala
 #EXTINF:0 group-title="19:00 FÃºtbol Football (Spain Copa del Rey): Anaitasuna - Alaves", ND
+https://www.svtplay.se/kanaler/svt2
+#EXTINF:0 group-title="19:00 Hockey hielo Ice hockey (Women's WCH): Sweden - Denmark", ND
+https://www.svtplay.se/kanaler/svt2
+#EXTINF:0 group-title="19:00 Hockey hielo Ice hockey (Women's WCH): Sweden - Denmark", IT 1
+https://rsi.ch/sport/risultati/#/live/hockey/1844430
+#EXTINF:0 group-title="19:00 Hockey hielo Ice hockey (Women's WCH): Sweden - Denmark", IT 2
+https://www.rts.ch/sport/resultats/#/live/hockey/1844430
+#EXTINF:0 group-title="19:00 Hockey hielo Ice hockey (Women's WCH): Sweden - Denmark", IT 3
+https://www.srf.ch/sport/resultcenter/live/hockey/1844430
+#EXTINF:0 group-title="19:00 Hockey hielo Ice hockey (Women's WCH): Switzerland - Austria", IT 1
+https://rsi.ch/sport/risultati/#/live/hockey/1844430
+#EXTINF:0 group-title="19:00 Hockey hielo Ice hockey (Women's WCH): Switzerland - Austria", IT 2
+https://www.rts.ch/sport/resultats/#/live/hockey/1844430
+#EXTINF:0 group-title="19:00 Hockey hielo Ice hockey (Women's WCH): Switzerland - Austria", IT 3
+https://www.srf.ch/sport/resultcenter/live/hockey/1844430
+#EXTINF:0 group-title="19:00 Hockey hielo Ice hockey (Women's WCH): Switzerland - Austria", FR
+https://www.rts.ch/sport/resultats/#/live/hockey/1844430
+#EXTINF:0 group-title="19:00 Hockey hielo Ice hockey (Women's WCH): Switzerland - Austria", DE
+https://www.srf.ch/sport/resultcenter/live/hockey/1844430
+#EXTINF:0 group-title="19:00 Hockey hielo Ice hockey (Women's WCH): Switzerland - Austria", ND 1
 https://www.yallalive.yoga/live/live14
-#EXTINF:0 group-title="19:30 Baloncesto Basketball (Eurocup): JL Bourg - Buducnost", ND
+#EXTINF:0 group-title="19:00 Hockey hielo Ice hockey (Women's WCH): Switzerland - Austria", ND 2
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="19:00 Hockey hielo Ice hockey (Women's WCH): Switzerland - Austria", ND 3
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="19:30 Baloncesto Basketball (Eurocup): JL Bourg - Buducnost", ND 1
 https://www.yallalive.yoga/live/live14
-#EXTINF:0 group-title="19:30 Baloncesto Basketball (Eurocup): JL Bourg - Buducnost", DE
+#EXTINF:0 group-title="19:30 Baloncesto Basketball (Eurocup): JL Bourg - Buducnost", ND 2
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="19:30 Baloncesto Basketball (Eurocup): JL Bourg - Buducnost", ND 3
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="19:30 Baloncesto Basketball (Eurocup): JL Bourg - Buducnost", DE 1
 https://www.yallalive.yoga/live/live15
+#EXTINF:0 group-title="19:30 Baloncesto Basketball (Eurocup): JL Bourg - Buducnost", DE 2
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="19:30 Baloncesto Basketball (Eurocup): JL Bourg - Buducnost", DE 3
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="19:30 Baloncesto Basketball (Eurocup): JL Bourg - Buducnost", DE 4
+https://www.rtve.es/play/videos/directo/deportes/baloncesto-bilbao-alba-berlin-10-noviembre/
+#EXTINF:0 group-title="19:30 Baloncesto Basketball (Eurocup): JL Bourg - Buducnost", DE 5
+https://forprivateuse.sbs/roja559/extraplayer/12.php
 #EXTINF:0 group-title="20:00 Baloncesto Basketball (Basketball Champions League): Bilbao - Alba Berlin", DE 1
 https://www.yallalive.yoga/live/live15
 #EXTINF:0 group-title="20:00 Baloncesto Basketball (Basketball Champions League): Bilbao - Alba Berlin", DE 2
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Basketball Champions League): Bilbao - Alba Berlin", DE 3
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Basketball Champions League): Bilbao - Alba Berlin", DE 4
+https://www.rtve.es/play/videos/directo/deportes/baloncesto-bilbao-alba-berlin-10-noviembre/
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Basketball Champions League): Bilbao - Alba Berlin", DE 5
+https://forprivateuse.sbs/roja559/extraplayer/12.php
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Basketball Champions League): Bilbao - Alba Berlin", ND 1
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Basketball Champions League): Bilbao - Alba Berlin", ND 2
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Basketball Champions League): Bilbao - Alba Berlin", ES
+https://www.rtve.es/play/videos/directo/deportes/baloncesto-bilbao-alba-berlin-10-noviembre/
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Basketball Champions League): Bilbao - Alba Berlin", ND 3
+https://shazysport.pro/livehd12.html
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Basketball Champions League): Bilbao - Alba Berlin", ND 4
+https://shd247.world/live-go-streaming-15.html
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Champions League): Spartak - Cholet", ND 1
+https://shazysport.pro/livehd12.html
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Champions League): Spartak - Cholet", ND 2
+https://shd247.world/live-go-streaming-15.html
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Champions League): Spartak - Cholet", DE 1
 https://www.yallalive.yoga/live/live17
-#EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Rostock - Cedevita Olimpija", DE
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Champions League): Spartak - Cholet", DE 2
+https://shazysport.pro/livehd13.html
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Champions League): Spartak - Cholet", DE 3
+https://shd247.world/live-go-streaming-16.html
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Champions League): Spartak - Cholet", DE 4
+https://forprivateuse.sbs/roja559/extraplayer/11.php
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Rostock - Cedevita Olimpija", DE 1
 https://www.yallalive.yoga/live/live17
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Rostock - Cedevita Olimpija", DE 2
+https://shazysport.pro/livehd13.html
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Rostock - Cedevita Olimpija", DE 3
+https://shd247.world/live-go-streaming-16.html
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Rostock - Cedevita Olimpija", DE 4
+https://forprivateuse.sbs/roja559/extraplayer/11.php
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Rostock - Cedevita Olimpija", ND 1
+https://shazysport.pro/livehd13.html
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Rostock - Cedevita Olimpija", ND 2
+https://shd247.world/live-go-streaming-16.html
 #EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Rostock - Cedevita Olimpija", SR
 https://www.yallalive.yoga/live/live16
-#EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Trento - Tofas", SR 1
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Trento - Tofas", SR
 https://www.yallalive.yoga/live/live16
-#EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Trento - Tofas", SR 2
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Trento - Tofas", ES 1
+https://sport.ceskatelevize.cz/videostream/kvalifikace-me-basketbalistek-spanelsko-cesko-3179
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Trento - Tofas", ES 2
+https://www.rtve.es/play/videos/directo/deportes/baloncesto-espana-republica-checa-10-noviembre/
+#EXTINF:0 group-title="20:00 Baloncesto Basketball (Eurocup): Trento - Tofas", ES 3
+https://www.rtve.es/play/videos/directo/tdp/
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (EuroBasket Women Q): Spain - Czech Republic", ES 1
+https://sport.ceskatelevize.cz/videostream/kvalifikace-me-basketbalistek-spanelsko-cesko-3179
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (EuroBasket Women Q): Spain - Czech Republic", ES 2
+https://www.rtve.es/play/videos/directo/deportes/baloncesto-espana-republica-checa-10-noviembre/
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (EuroBasket Women Q): Spain - Czech Republic", ES 3
+https://www.rtve.es/play/videos/directo/tdp/
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (EuroBasket Women Q): Spain - Czech Republic", ND
+https://sport.ceskatelevize.cz/videostream/kvalifikace-me-basketbalistek-spanelsko-cesko-3179
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (EuroBasket Women Q): Spain - Czech Republic", SR 1
 https://www.yallalive.yoga/live/live18
-#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): London Lions - Venezia", SR
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (EuroBasket Women Q): Spain - Czech Republic", SR 2
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): London Lions - Venezia", SR 1
 https://www.yallalive.yoga/live/live18
-#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): London Lions - Venezia", EN 1
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): London Lions - Venezia", SR 2
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): London Lions - Venezia", ND 1
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): London Lions - Venezia", ND 2
+https://shazysport.pro/livehd9.html
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): London Lions - Venezia", ND 3
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ND 1
+https://shazysport.pro/livehd9.html
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ND 2
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 1
+https://polocruzxl2.pages.dev/espndeportes
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 2
+https://polocruzxl2.pages.dev/spo9
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 3
+https://polocruzxl2.pages.dev/spo10
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 4
+https://polocruzxl2.pages.dev/br2
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 5
 https://www.yallalive.yoga/live/live13
-#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): London Lions - Venezia", EN 2
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 6
 https://sebn.dad/101126/sebn-11.html
-#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): London Lions - Venezia", EN 3
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 7
 https://buff-streams.buzz/roja-32/k8.php
-#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): London Lions - Venezia", EN 4
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 8
 https://buff-streams.buzz/roja-32/k86.php
-#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): London Lions - Venezia", EN 5
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 9
 https://i5genz.cfd/roja-18/k8.php
-#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): London Lions - Venezia", EN 6
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 10
 https://i5genz.cfd/roja-18/k86.php
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 11
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 12
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 13
+https://tv.nrk.no/direkte/nrk2
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 14
+https://forprivateuse.sbs/roja559/extraplayer/8.php
+#EXTINF:0 group-title="20:30 Baloncesto Basketball (Eurocup): Manresa - Bosna", ES 15
+https://forprivateuse.sbs/roja559/extraplayer/86.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 1
+https://polocruzxl2.pages.dev/espndeportes
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 2
+https://polocruzxl2.pages.dev/spo9
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 3
+https://polocruzxl2.pages.dev/spo10
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 4
+https://polocruzxl2.pages.dev/br2
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 5
+https://www.yallalive.yoga/live/live13
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 6
+https://sebn.dad/101126/sebn-11.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 7
+https://buff-streams.buzz/roja-32/k8.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 8
+https://buff-streams.buzz/roja-32/k86.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 9
+https://i5genz.cfd/roja-18/k8.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 10
+https://i5genz.cfd/roja-18/k86.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 11
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 12
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 13
+https://tv.nrk.no/direkte/nrk2
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 14
+https://forprivateuse.sbs/roja559/extraplayer/8.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 15
+https://forprivateuse.sbs/roja559/extraplayer/86.php
 #EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", EN 1
-https://www.yallalive.yoga/live/live13
+https://polocruzxl2.pages.dev/spo10
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", PT
+https://polocruzxl2.pages.dev/br2
 #EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", EN 2
-https://sebn.dad/101126/sebn-11.html
+https://www.yallalive.yoga/live/live13
 #EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", EN 3
-https://buff-streams.buzz/roja-32/k8.php
+https://sebn.dad/101126/sebn-11.html
 #EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", EN 4
-https://buff-streams.buzz/roja-32/k86.php
+https://buff-streams.buzz/roja-32/k8.php
 #EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", EN 5
-https://i5genz.cfd/roja-18/k8.php
+https://buff-streams.buzz/roja-32/k86.php
 #EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", EN 6
+https://i5genz.cfd/roja-18/k8.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", EN 7
 https://i5genz.cfd/roja-18/k86.php
-#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", EN 8
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", EN 9
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ND
+https://tv.nrk.no/direkte/nrk2
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", EN 10
+https://forprivateuse.sbs/roja559/extraplayer/8.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 16
+https://polocruzxl2.pages.dev/mlaliga
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 17
 https://www.yallalive.yoga/live/live07
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 18
+https://vivtops.st/vivo1/?ch=21
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Womens CL): Paris St. Germain - Bayern", ES 19
+https://forprivateuse.sbs/roja559/extraplayer/29.php
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Tavernes - Valencia", ES 1
-https://www.yallalive.yoga/live/live07
+https://polocruzxl2.pages.dev/mlaliga
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Tavernes - Valencia", ES 2
-https://www.yallalive.yoga/live/live19
+https://www.yallalive.yoga/live/live07
 #EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Tavernes - Valencia", ES 3
+https://vivtops.st/vivo1/?ch=21
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Tavernes - Valencia", ES 4
+https://forprivateuse.sbs/roja559/extraplayer/29.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Tavernes - Valencia", EN
+https://vivtops.st/vivo1/?ch=21
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Tavernes - Valencia", DE 1
+https://polocruzxl2.pages.dev/spo11
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Tavernes - Valencia", DE 2
+https://www.rts.ch/sport/directs/whatson:10208428917812.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Tavernes - Valencia", DE 3
+https://www.rts.ch/sport/directs/whatson:10038773001812.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Tavernes - Valencia", DE 4
+https://www.srf.ch/sport/resultcenter/live/generic/1854642
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Tavernes - Valencia", DE 5
+https://sport.ceskatelevize.cz/videostream/liga-mistryn-uefa-as-rim-servette-zeneva-3142
+#EXTINF:0 group-title="21:00 FÃºtbol Football (Spain Copa del Rey): Tavernes - Valencia", DE 6
+https://forprivateuse.sbs/roja559/extraplayer/10.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", DE 1
+https://polocruzxl2.pages.dev/spo11
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", DE 2
+https://www.rts.ch/sport/directs/whatson:10208428917812.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", DE 3
+https://www.rts.ch/sport/directs/whatson:10038773001812.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", DE 4
+https://www.srf.ch/sport/resultcenter/live/generic/1854642
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", DE 5
+https://sport.ceskatelevize.cz/videostream/liga-mistryn-uefa-as-rim-servette-zeneva-3142
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", DE 6
+https://forprivateuse.sbs/roja559/extraplayer/10.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", FR 1
+https://www.rts.ch/sport/directs/whatson:10208428917812.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", FR 2
+https://www.rts.ch/sport/directs/whatson:10038773001812.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", ND
+https://sport.ceskatelevize.cz/videostream/liga-mistryn-uefa-as-rim-servette-zeneva-3142
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", EN
+https://forprivateuse.sbs/roja559/extraplayer/10.php
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", ES 1
+https://polocruzxl2.pages.dev/torre
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", ES 2
+https://polocruzxl2.pages.dev/espn3
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", ES 3
+https://polocruzxl2.pages.dev/espn2mx
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", ES 4
+https://polocruzxl2.pages.dev/tsn2
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", ES 5
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", ES 6
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="21:00 FÃºtbol Football (UEFA Women's Champions League): AS Roma - Servette Geneve", ES 7
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="21:00 Tenis Tennis (WTA Finals Indian Wells): M. Kostyuk - J. Pegula", ES 1
+https://polocruzxl2.pages.dev/torre
+#EXTINF:0 group-title="21:00 Tenis Tennis (WTA Finals Indian Wells): M. Kostyuk - J. Pegula", ES 2
+https://polocruzxl2.pages.dev/espn3
+#EXTINF:0 group-title="21:00 Tenis Tennis (WTA Finals Indian Wells): M. Kostyuk - J. Pegula", ES 3
+https://polocruzxl2.pages.dev/espn2mx
+#EXTINF:0 group-title="21:00 Tenis Tennis (WTA Finals Indian Wells): M. Kostyuk - J. Pegula", ES 4
+https://polocruzxl2.pages.dev/tsn2
+#EXTINF:0 group-title="21:00 Tenis Tennis (WTA Finals Indian Wells): M. Kostyuk - J. Pegula", ES 5
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="21:00 Tenis Tennis (WTA Finals Indian Wells): M. Kostyuk - J. Pegula", ES 6
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="21:00 Tenis Tennis (WTA Finals Indian Wells): M. Kostyuk - J. Pegula", ES 7
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="21:00 Tenis Tennis (WTA Finals Indian Wells): M. Kostyuk - J. Pegula", EN
+https://polocruzxl2.pages.dev/tsn2
+#EXTINF:0 group-title="21:00 Tenis Tennis (WTA Finals Indian Wells): M. Kostyuk - J. Pegula", ND 1
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="21:00 Tenis Tennis (WTA Finals Indian Wells): M. Kostyuk - J. Pegula", ND 2
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="21:00 Tenis Tennis (WTA Finals Indian Wells): M. Kostyuk - J. Pegula", IT
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="23:00 Tenis Tennis (WTA Finals Indian Wells): C. Gauff - L. Noskova", ES 1
+https://polocruzxl2.pages.dev/torre
+#EXTINF:0 group-title="23:00 Tenis Tennis (WTA Finals Indian Wells): C. Gauff - L. Noskova", ES 2
+https://polocruzxl2.pages.dev/espn3
+#EXTINF:0 group-title="23:00 Tenis Tennis (WTA Finals Indian Wells): C. Gauff - L. Noskova", ES 3
+https://polocruzxl2.pages.dev/espn2mx
+#EXTINF:0 group-title="23:00 Tenis Tennis (WTA Finals Indian Wells): C. Gauff - L. Noskova", ES 4
+https://polocruzxl2.pages.dev/tsn2
+#EXTINF:0 group-title="23:00 Tenis Tennis (WTA Finals Indian Wells): C. Gauff - L. Noskova", ES 5
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="23:00 Tenis Tennis (WTA Finals Indian Wells): C. Gauff - L. Noskova", ES 6
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="23:00 Tenis Tennis (WTA Finals Indian Wells): C. Gauff - L. Noskova", ES 7
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="23:00 Tenis Tennis (WTA Finals Indian Wells): C. Gauff - L. Noskova", EN
+https://polocruzxl2.pages.dev/tsn2
+#EXTINF:0 group-title="23:00 Tenis Tennis (WTA Finals Indian Wells): C. Gauff - L. Noskova", ND 1
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="23:00 Tenis Tennis (WTA Finals Indian Wells): C. Gauff - L. Noskova", ND 2
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="23:00 Tenis Tennis (WTA Finals Indian Wells): C. Gauff - L. Noskova", IT
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="23:00 Tenis Tennis (WTA Finals Indian Wells): C. Gauff - L. Noskova", ES 8
+https://www.yallalive.yoga/live/live19
+#EXTINF:0 group-title="23:00 Tenis Tennis (WTA Finals Indian Wells): C. Gauff - L. Noskova", ES 9
 https://sebn.dad/101126/sebn-20.html
 #EXTINF:0 group-title="00:30 FÃºtbol Football (Copa Colombia): Inter Bogota - America de Cali", ES 1
 https://www.yallalive.yoga/live/live19
 #EXTINF:0 group-title="00:30 FÃºtbol Football (Copa Colombia): Inter Bogota - America de Cali", ES 2
 https://sebn.dad/101126/sebn-20.html
 #EXTINF:0 group-title="00:30 FÃºtbol Football (Copa Colombia): Inter Bogota - America de Cali", EN
+https://shd247.world/live-go-streaming-29.html
+#EXTINF:0 group-title="01:00 FÃºtbol americano American football (NCAA): Kent State - Bowling Green ( 01:00 - 04:00 )", EN 1
+https://shd247.world/live-go-streaming-29.html
+#EXTINF:0 group-title="01:00 FÃºtbol americano American football (NCAA): Kent State - Bowling Green ( 01:00 - 04:00 )", EN 2
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="01:00 FÃºtbol americano American football (NCAA): Kent State - Bowling Green ( 01:00 - 04:00 )", EN 3
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="01:00 FÃºtbol americano American football (NCAA): Western Michigan - Akron ( 01:00 - 04:00 )", EN 1
+https://shazysport.pro/livehd14.html
+#EXTINF:0 group-title="01:00 FÃºtbol americano American football (NCAA): Western Michigan - Akron ( 01:00 - 04:00 )", EN 2
+https://shd247.world/live-go-streaming-17.html
+#EXTINF:0 group-title="01:00 FÃºtbol americano American football (NCAA): Western Michigan - Akron ( 01:00 - 04:00 )", EN 3
 https://sebn.dad/101126/sebn-19.html
+#EXTINF:0 group-title="01:00 FÃºtbol americano American football (NCAA): Western Michigan - Akron ( 01:00 - 04:00 )", EN 4
+https://shazysport.pro/livehd3.html
+#EXTINF:0 group-title="01:00 FÃºtbol americano American football (NCAA): Western Michigan - Akron ( 01:00 - 04:00 )", EN 5
+https://shd247.world/live-go-streaming-23.html
+#EXTINF:0 group-title="01:00 FÃºtbol americano American football (NCAA): Western Michigan - Akron ( 01:00 - 04:00 )", EN 6
+https://forprivateuse.sbs/roja559/extraplayer/8.php
 #EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Canadiens - Wild", EN 1
 https://sebn.dad/101126/sebn-19.html
 #EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Canadiens - Wild", EN 2
+https://shazysport.pro/livehd3.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Canadiens - Wild", EN 3
+https://shd247.world/live-go-streaming-23.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Canadiens - Wild", EN 4
+https://forprivateuse.sbs/roja559/extraplayer/8.php
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Canadiens - Wild", EN 5
 https://sebn.dad/101126/sebn-16.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Canadiens - Wild", EN 6
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Canadiens - Wild", EN 7
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Canadiens - Wild", EN 8
+https://forprivateuse.sbs/roja559/extraplayer/10.php
 #EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Jets - Devils", EN 1
 https://sebn.dad/101126/sebn-16.html
 #EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Jets - Devils", EN 2
+https://shazysport.pro/livehd.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Jets - Devils", EN 3
+https://shd247.world/live-go-streaming-21.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Jets - Devils", EN 4
+https://forprivateuse.sbs/roja559/extraplayer/10.php
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Jets - Devils", EN 5
 https://sebn.dad/101126/sebn-18.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Jets - Devils", EN 6
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Jets - Devils", EN 7
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Jets - Devils", EN 8
+https://forprivateuse.sbs/roja559/extraplayer/7.php
 #EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Leafs - Avalanche", EN 1
 https://sebn.dad/101126/sebn-18.html
 #EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Leafs - Avalanche", EN 2
+https://shazysport.pro/livehd8.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Leafs - Avalanche", EN 3
+https://shd247.world/live-go-streaming-11.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Leafs - Avalanche", EN 4
+https://forprivateuse.sbs/roja559/extraplayer/7.php
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Leafs - Avalanche", EN 5
 https://sebn.dad/101126/sebn-17.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Leafs - Avalanche", EN 6
+https://shazysport.pro/livehd2.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Leafs - Avalanche", EN 7
+https://shd247.world/live-go-streaming-22.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Leafs - Avalanche", EN 8
+https://forprivateuse.sbs/roja559/extraplayer/9.php
 #EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Senators - Capitals", EN 1
 https://sebn.dad/101126/sebn-17.html
 #EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Senators - Capitals", EN 2
-https://www.yallalive.yoga/live/live01
+https://shazysport.pro/livehd2.html
 #EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Senators - Capitals", EN 3
+https://shd247.world/live-go-streaming-22.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Senators - Capitals", EN 4
+https://forprivateuse.sbs/roja559/extraplayer/9.php
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Senators - Capitals", IT 1
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Senators - Capitals", IT 2
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="01:00 Hockey hielo Ice hockey (NHL): Senators - Capitals", IT 3
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="01:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Siniakova/Townsend - Perez/Schuurs", IT 1
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="01:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Siniakova/Townsend - Perez/Schuurs", IT 2
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="01:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Siniakova/Townsend - Perez/Schuurs", IT 3
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="01:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Siniakova/Townsend - Perez/Schuurs", ND 1
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="01:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Siniakova/Townsend - Perez/Schuurs", ND 2
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="01:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Siniakova/Townsend - Perez/Schuurs", EN 1
+https://www.yallalive.yoga/live/live01
+#EXTINF:0 group-title="01:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Siniakova/Townsend - Perez/Schuurs", EN 2
 https://sebn.dad/101126/sebn-11.html
+#EXTINF:0 group-title="01:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Siniakova/Townsend - Perez/Schuurs", EN 3
+https://vivtops.st/vivo1/?ch=22
+#EXTINF:0 group-title="01:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Siniakova/Townsend - Perez/Schuurs", EN 4
+https://shazysport.pro/livehd4.html
+#EXTINF:0 group-title="01:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Siniakova/Townsend - Perez/Schuurs", EN 5
+https://shd247.world/live-go-streaming-24.html
+#EXTINF:0 group-title="01:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Siniakova/Townsend - Perez/Schuurs", EN 6
+https://forprivateuse.sbs/roja559/extraplayer/1.php
 #EXTINF:0 group-title="01:30 Baloncesto Basketball (NBA): Knicks - Bucks", EN 1
 https://www.yallalive.yoga/live/live01
 #EXTINF:0 group-title="01:30 Baloncesto Basketball (NBA): Knicks - Bucks", EN 2
 https://sebn.dad/101126/sebn-11.html
+#EXTINF:0 group-title="01:30 Baloncesto Basketball (NBA): Knicks - Bucks", EN 3
+https://vivtops.st/vivo1/?ch=22
+#EXTINF:0 group-title="01:30 Baloncesto Basketball (NBA): Knicks - Bucks", EN 4
+https://shazysport.pro/livehd4.html
+#EXTINF:0 group-title="01:30 Baloncesto Basketball (NBA): Knicks - Bucks", EN 5
+https://shd247.world/live-go-streaming-24.html
+#EXTINF:0 group-title="01:30 Baloncesto Basketball (NBA): Knicks - Bucks", EN 6
+https://forprivateuse.sbs/roja559/extraplayer/1.php
+#EXTINF:0 group-title="01:30 Baloncesto Basketball (NBA): Knicks - Bucks", ND
+https://sport.ceskatelevize.cz/videostream/ms-baseballistu-do-23-let-cesko-nikaragua-2140
+#EXTINF:0 group-title="01:30 BÃ©isbol Baseball (World Cup U23): Nicaragua - Czechia", ND
+https://sport.ceskatelevize.cz/videostream/ms-baseballistu-do-23-let-cesko-nikaragua-2140
+#EXTINF:0 group-title="01:30 BÃ©isbol Baseball (World Cup U23): Nicaragua - Czechia", EN 1
+https://shazysport.pro/livehd9.html
+#EXTINF:0 group-title="01:30 BÃ©isbol Baseball (World Cup U23): Nicaragua - Czechia", EN 2
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="01:30 BÃ©isbol Baseball (World Cup U23): Nicaragua - Czechia", EN 3
+https://forprivateuse.sbs/roja559/extraplayer/31.php
+#EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Panthers - Blue Jackets", EN 1
+https://shazysport.pro/livehd9.html
+#EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Panthers - Blue Jackets", EN 2
+https://shd247.world/live-go-streaming-12.html
+#EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Panthers - Blue Jackets", EN 3
+https://forprivateuse.sbs/roja559/extraplayer/31.php
+#EXTINF:0 group-title="01:30 Hockey hielo Ice hockey (NHL): Panthers - Blue Jackets", EN 4
+https://shd247.world/live-go-streaming-30.html
+#EXTINF:0 group-title="02:00 FÃºtbol americano American football (NCAA): Ohio Bobcats - Miami-OH ( 02:00 - 05:00 )", EN 1
+https://shd247.world/live-go-streaming-30.html
+#EXTINF:0 group-title="02:00 FÃºtbol americano American football (NCAA): Ohio Bobcats - Miami-OH ( 02:00 - 05:00 )", EN 2
+https://www.yallalive.yoga/live/live02
+#EXTINF:0 group-title="02:00 FÃºtbol americano American football (NCAA): Ohio Bobcats - Miami-OH ( 02:00 - 05:00 )", EN 3
+https://sebn.dad/101126/sebn-12.html
+#EXTINF:0 group-title="02:00 FÃºtbol americano American football (NCAA): Ohio Bobcats - Miami-OH ( 02:00 - 05:00 )", EN 4
+https://vivtops.st/vivo1/?ch=23
+#EXTINF:0 group-title="02:00 FÃºtbol americano American football (NCAA): Ohio Bobcats - Miami-OH ( 02:00 - 05:00 )", EN 5
+https://shazysport.pro/livehd5.html
+#EXTINF:0 group-title="02:00 FÃºtbol americano American football (NCAA): Ohio Bobcats - Miami-OH ( 02:00 - 05:00 )", EN 6
+https://shd247.world/live-go-streaming-26.html
+#EXTINF:0 group-title="02:00 FÃºtbol americano American football (NCAA): Ohio Bobcats - Miami-OH ( 02:00 - 05:00 )", EN 7
+https://forprivateuse.sbs/roja559/extraplayer/2.php
+#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): 76ers - Celtics", EN 1
+https://www.yallalive.yoga/live/live02
+#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): 76ers - Celtics", EN 2
+https://sebn.dad/101126/sebn-12.html
+#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): 76ers - Celtics", EN 3
+https://vivtops.st/vivo1/?ch=23
+#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): 76ers - Celtics", EN 4
+https://shazysport.pro/livehd5.html
+#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): 76ers - Celtics", EN 5
+https://shd247.world/live-go-streaming-26.html
+#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): 76ers - Celtics", EN 6
+https://forprivateuse.sbs/roja559/extraplayer/2.php
+#EXTINF:0 group-title="02:00 Baloncesto Basketball (NBA): 76ers - Celtics", ES
+https://vix.com/live/transmission-matchid-2700321
+#EXTINF:0 group-title="02:00 FÃºtbol Football (Mexico Liga MX Femenil): UNAM Pumas - Tigres UANL", ES
+https://vix.com/live/transmission-matchid-2700321
+#EXTINF:0 group-title="02:00 FÃºtbol Football (Mexico Liga MX Femenil): UNAM Pumas - Tigres UANL", EN 1
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="02:00 FÃºtbol Football (Mexico Liga MX Femenil): UNAM Pumas - Tigres UANL", EN 2
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="02:00 FÃºtbol Football (Mexico Liga MX Femenil): UNAM Pumas - Tigres UANL", EN 3
+https://forprivateuse.sbs/roja559/extraplayer/32.php
+#EXTINF:0 group-title="02:00 Hockey hielo Ice hockey (NHL): Red Wings - Blues", EN 1
+https://shazysport.pro/livehd10.html
+#EXTINF:0 group-title="02:00 Hockey hielo Ice hockey (NHL): Red Wings - Blues", EN 2
+https://shd247.world/live-go-streaming-13.html
+#EXTINF:0 group-title="02:00 Hockey hielo Ice hockey (NHL): Red Wings - Blues", EN 3
+https://forprivateuse.sbs/roja559/extraplayer/32.php
+#EXTINF:0 group-title="02:00 Hockey hielo Ice hockey (NHL): Red Wings - Blues", ES 1
+https://www.yallalive.yoga/live/live19
+#EXTINF:0 group-title="02:00 Hockey hielo Ice hockey (NHL): Red Wings - Blues", ES 2
+https://sebn.dad/101126/sebn-20.html
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Colombia): Once Caldas - Atl. Nacional", ES 1
+https://www.yallalive.yoga/live/live19
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Colombia): Once Caldas - Atl. Nacional", ES 2
+https://sebn.dad/101126/sebn-20.html
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Colombia): Once Caldas - Atl. Nacional", EN 1
+https://www.yallalive.yoga/live/live03
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Colombia): Once Caldas - Atl. Nacional", EN 2
+https://sebn.dad/101126/sebn-13.html
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Colombia): Once Caldas - Atl. Nacional", EN 3
+https://vivtops.st/vivo1/?ch=25
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Colombia): Once Caldas - Atl. Nacional", EN 4
+https://shazysport.pro/livehd6.html
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Colombia): Once Caldas - Atl. Nacional", EN 5
+https://shd247.world/live-go-streaming-27.html
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Colombia): Once Caldas - Atl. Nacional", EN 6
+https://shd247.world/live-go-streaming-28.html
+#EXTINF:0 group-title="02:30 FÃºtbol Football (Copa Colombia): Once Caldas - Atl. Nacional", EN 7
+https://forprivateuse.sbs/roja559/extraplayer/4.php
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Jazz - Heat", EN 1
+https://www.yallalive.yoga/live/live03
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Jazz - Heat", EN 2
+https://sebn.dad/101126/sebn-13.html
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Jazz - Heat", EN 3
+https://vivtops.st/vivo1/?ch=25
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Jazz - Heat", EN 4
+https://shazysport.pro/livehd6.html
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Jazz - Heat", EN 5
+https://shd247.world/live-go-streaming-27.html
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Jazz - Heat", EN 6
+https://shd247.world/live-go-streaming-28.html
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Jazz - Heat", EN 7
+https://forprivateuse.sbs/roja559/extraplayer/4.php
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Jazz - Heat", EN 8
+https://www.yallalive.yoga/live/live04
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Jazz - Heat", EN 9
+https://sebn.dad/101126/sebn-14.html
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Jazz - Heat", EN 10
+https://vivtops.st/vivo1/?ch=24
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Jazz - Heat", EN 11
+https://shazysport.pro/livehd7.html
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Jazz - Heat", EN 12
+https://forprivateuse.sbs/roja559/extraplayer/3.php
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Suns - Clippers", EN 1
+https://www.yallalive.yoga/live/live04
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Suns - Clippers", EN 2
+https://sebn.dad/101126/sebn-14.html
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Suns - Clippers", EN 3
+https://vivtops.st/vivo1/?ch=24
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Suns - Clippers", EN 4
+https://shazysport.pro/livehd7.html
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Suns - Clippers", EN 5
+https://forprivateuse.sbs/roja559/extraplayer/3.php
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Suns - Clippers", IT 1
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Suns - Clippers", IT 2
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="03:00 Baloncesto Basketball (NBA): Suns - Clippers", IT 3
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="03:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Bucsa/Melichar - Errani/Paolini", IT 1
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="03:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Bucsa/Melichar - Errani/Paolini", IT 2
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="03:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Bucsa/Melichar - Errani/Paolini", IT 3
+https://www.supertennis.tv/live-streaming
+#EXTINF:0 group-title="03:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Bucsa/Melichar - Errani/Paolini", ND 1
+https://shazysport.pro/livehd16.html
+#EXTINF:0 group-title="03:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Bucsa/Melichar - Errani/Paolini", ND 2
+https://shd247.world/live-go-streaming-19.html
+#EXTINF:0 group-title="03:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Bucsa/Melichar - Errani/Paolini", EN 1
+https://www.yallalive.yoga/live/live05
+#EXTINF:0 group-title="03:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Bucsa/Melichar - Errani/Paolini", EN 2
+https://sebn.dad/101126/sebn-15.html
+#EXTINF:0 group-title="03:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Bucsa/Melichar - Errani/Paolini", EN 3
+https://vivtops.st/vivo1/?ch=26
+#EXTINF:0 group-title="03:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Bucsa/Melichar - Errani/Paolini", EN 4
+https://shazysport.pro/livehd11.html
+#EXTINF:0 group-title="03:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Bucsa/Melichar - Errani/Paolini", EN 5
+https://shd247.world/live-go-streaming-14.html
+#EXTINF:0 group-title="03:00 Tenis Tennis (WTA Finals Indian Wells Doubles): Bucsa/Melichar - Errani/Paolini", EN 6
+https://forprivateuse.sbs/roja559/extraplayer/5.php
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Magic", EN 1
+https://www.yallalive.yoga/live/live05
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Magic", EN 2
+https://sebn.dad/101126/sebn-15.html
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Magic", EN 3
+https://vivtops.st/vivo1/?ch=26
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Magic", EN 4
+https://shazysport.pro/livehd11.html
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Magic", EN 5
+https://shd247.world/live-go-streaming-14.html
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Magic", EN 6
+https://forprivateuse.sbs/roja559/extraplayer/5.php
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Magic", EN 7
+https://sebn.dad/101126/sebn-16.html
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Magic", EN 8
+https://shazysport.pro/livehd12.html
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Magic", EN 9
+https://shd247.world/live-go-streaming-15.html
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Magic", EN 10
+https://shd247.world/live-go-streaming-16.html
+#EXTINF:0 group-title="04:00 Baloncesto Basketball (NBA): Kings - Magic", EN 11
+https://forprivateuse.sbs/roja559/extraplayer/33.php
+#EXTINF:0 group-title="04:00 Hockey hielo Ice hockey (NHL): Kings - Predators", EN 1
+https://sebn.dad/101126/sebn-16.html
+#EXTINF:0 group-title="04:00 Hockey hielo Ice hockey (NHL): Kings - Predators", EN 2
+https://shazysport.pro/livehd12.html
+#EXTINF:0 group-title="04:00 Hockey hielo Ice hockey (NHL): Kings - Predators", EN 3
+https://shd247.world/live-go-streaming-15.html
+#EXTINF:0 group-title="04:00 Hockey hielo Ice hockey (NHL): Kings - Predators", EN 4
+https://shd247.world/live-go-streaming-16.html
+#EXTINF:0 group-title="04:00 Hockey hielo Ice hockey (NHL): Kings - Predators", EN 5
+https://forprivateuse.sbs/roja559/extraplayer/33.php
+#EXTINF:0 group-title="04:00 Hockey hielo Ice hockey (NHL): Kings - Predators", EN 6
+https://www.yallalive.yoga/live/live06
+#EXTINF:0 group-title="04:00 Hockey hielo Ice hockey (NHL): Kings - Predators", EN 7
+https://sebn.dad/101126/sebn-11.html
+#EXTINF:0 group-title="04:00 Hockey hielo Ice hockey (NHL): Kings - Predators", EN 8
+https://vivtops.st/vivo1/?ch=27
+#EXTINF:0 group-title="04:00 Hockey hielo Ice hockey (NHL): Kings - Predators", EN 9
+https://shazysport.pro/livehd13.html
+#EXTINF:0 group-title="04:00 Hockey hielo Ice hockey (NHL): Kings - Predators", EN 10
+https://forprivateuse.sbs/roja559/extraplayer/6.php
+#EXTINF:0 group-title="05:00 Baloncesto Basketball (NBA): Blazers - Thunder", EN 1
+https://www.yallalive.yoga/live/live06
+#EXTINF:0 group-title="05:00 Baloncesto Basketball (NBA): Blazers - Thunder", EN 2
+https://sebn.dad/101126/sebn-11.html
+#EXTINF:0 group-title="05:00 Baloncesto Basketball (NBA): Blazers - Thunder", EN 3
+https://vivtops.st/vivo1/?ch=27
+#EXTINF:0 group-title="05:00 Baloncesto Basketball (NBA): Blazers - Thunder", EN 4
+https://shazysport.pro/livehd13.html
+#EXTINF:0 group-title="05:00 Baloncesto Basketball (NBA): Blazers - Thunder", EN 5
+https://forprivateuse.sbs/roja559/extraplayer/6.php
+#EXTINF:0 group-title="05:00 Baloncesto Basketball (NBA): Blazers - Thunder", EN 6
+https://shd247.world/live-cricket-streaming.html
+#EXTINF:0 group-title="05:30 CrÃ­quet Cricket (1st Test Day 3): Pakistan - Sri Lanka ( 05:30 - 13:00 )", EN
+https://shd247.world/live-cricket-streaming.html
