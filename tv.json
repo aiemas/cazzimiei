@@ -1,5 +1,103 @@
 [
   {
+    "tmdb_id": 338562,
+    "imdb_id": "tt39390491",
+    "recent_until": 1794566267049,
+    "type": "tv",
+    "title": "La Ley de Alicia",
+    "original_title": "La Ley de Alicia",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 1
+      }
+    ]
+  },
+  {
+    "tmdb_id": 291507,
+    "imdb_id": "tt8014982",
+    "recent_until": 1794566267249,
+    "type": "tv",
+    "title": "The Body",
+    "original_title": "The Body",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/zksg8e0GZAmg1nLhVP5tKso3QRs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yfLPesZIbTrwBE9BzmiK4ypqz3L.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Dramma",
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 336243,
+    "imdb_id": "tt37214564",
+    "recent_until": 1794566267458,
+    "type": "tv",
+    "title": "ChiaroScuro",
+    "original_title": "ChiaroScuro",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Cosmo Speranza è un brillante consulente d’arte con uno straordinario talento nel riconoscere immediatamente se un’opera è autentica o falsa. Quando il direttore di un’importante galleria di Roma viene trovato assassinato, con il corpo disposto come una figura tratta da un dipinto di Artemisia Gentileschi, Cosmo viene coinvolto nelle indagini della polizia.\n\nÈ costretto a collaborare con l’ispettore Angelo Tiberi, un uomo molto diverso da lui. Nonostante le loro personalità opposte, i due finiscono per formare un’inaspettata ed efficace coppia investigativa. Quando altri crimini sembrano essere collegati a opere d’arte, il caso diventa personale dopo il ritrovamento, sulla scena di un delitto, di un quadro che raffigura la casa d’infanzia di Cosmo.\n\nCosmo comincia così a sospettare che l’assassino stia comunicando direttamente con lui, costringendolo ad affrontare i segreti del proprio passato e le misteriose circostanze legate alla morte di suo padre.",
+    "genres": [
+      "Commedia",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 338818,
+    "imdb_id": "tt38281194",
+    "recent_until": 1794566267658,
+    "type": "tv",
+    "title": "Livatino - Il giudice e i suoi assassini",
+    "original_title": "Livatino - Il giudice e i suoi assassini",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/kTBYaXUcWMoXgpOLguOlPBh32xO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tL19iK4KUSUWjsp6ZuBc6Z9Btxx.jpg",
+    "rating": 3.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "“Il giudice e i suoi assassini” è la storia di Rosario Livatino, giovane magistrato di Agrigento che, nei difficili anni Ottanta, sfida un sistema mafioso mettendo in gioco la propria vita per difendere valori irrinunciabili: il rispetto della Legge, la Giustizia, il diritto a vivere in pace. Livatino si batte contro la criminalità organizzata, fino al 21 settembre 1990, quando viene ucciso in un brutale attentato mafioso. Il protagonista, nel ruolo del giudice, è Giuseppe De Domenico, affiancato da Leonardo Maltese, Nino Frassica, Michela De Rossi, Brenno Placido, Ninni Bruschetta, Francesco Benigno, Vito Lopriore, Matilde Piana, Roberta Procida, Gabriele Cicirello, Francesco Giulio Cerilli, Salvatore Madonia, Francesco Cassibba, Vincenzo Ficarra  e da un cast di attrici e attori eccezionali.",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 4
+      }
+    ]
+  },
+  {
     "tmdb_id": 310290,
     "imdb_id": "tt37158600",
     "recent_until": 1794305060777,

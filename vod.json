@@ -1,5 +1,132 @@
 [
   {
+    "tmdb_id": 1559980,
+    "imdb_id": "tt38420997",
+    "recent_until": 1794566263753,
+    "pegi": "",
+    "runtime": 103,
+    "title": "The Gospel of Christmas",
+    "original_title": "The Gospel of Christmas",
+    "year": "2026",
+    "poster": null,
+    "backdrop": "https://image.tmdb.org/t/p/w1280/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
+    "rating": 0.0,
+    "overview": "Scritto e diretto da Tyler Perry, The Gospel of Christmas racconta la storia di un pastore in difficoltà che eredita la chiesa di famiglia in un quartiere degradato di New York. Tra dubbi, tentazioni e un avversario inquietante, dovrà ritrovare la fede e la forza nella preghiera per salvare la sua chiesa, la sua famiglia e la sua comunità in tempo per il Natale.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 56381,
+    "imdb_id": "tt0107040",
+    "recent_until": 1794566263953,
+    "pegi": "T",
+    "runtime": 98,
+    "title": "Il grande cocomero",
+    "original_title": "Il Grande Cocomero",
+    "year": "1993",
+    "poster": "https://image.tmdb.org/t/p/w500/7oWwb1sFEhJleL2Qy0FhyVwVNne.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v8S7LXdvkoMhsep0m1IGV0JnJD4.jpg",
+    "rating": 6.682,
+    "overview": "La dodicenne Pippi, preda di crisi epilettiche fin dall'infanzia, approda al reparto di neuropsichiatria infantile diretto dal giovane Arturo. Questi si rende presto conto che il problema è riconducibile all'ambiente familiare, costituito da genitori arricchiti e assenti, privi di ogni capacità di ascolto e slancio comunicativo. Decide perciò di tentare una terapia analitica. Il rapporto, intenso e non sempre facile, con la ragazzina sarà un'occasione anche per lui - reduce da una crisi coniugale - per ritrovare un senso alla propria esistenza.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 25239,
+    "imdb_id": "tt0077713",
+    "recent_until": 1794566264198,
+    "pegi": "VM18",
+    "runtime": 101,
+    "title": "Non violentate Jennifer",
+    "original_title": "Day of the Woman",
+    "year": "1978",
+    "poster": "https://image.tmdb.org/t/p/w500/rlJ3COWVqZmmjyNcwdLKlslRIMS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6BMkto59sKvORnbRDjGBxJnISOn.jpg",
+    "rating": 6.001,
+    "overview": "Un'affascinante scrittrice di nome Jennifer va a vivere in una villetta isolata in un paesino rurale americano. La donna viene aggredita da quattro contadini del posto che la violenteranno ripetutamente e la sevizieranno brutalmente. Creduta morta, i manigoldi l'abbandonerano nella casa isolata ma Jennifer ripresasi lentamente dallo shock fisico e psicologico mediterà vendetta. Alle fine i quattro verranno uccisi uno per uno tramite impiccagione, castrazione e mutilazioni varie.",
+    "genres": [
+      "Horror",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 275601,
+    "imdb_id": "tt3623726",
+    "recent_until": 1794566264437,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Dove eravamo rimasti",
+    "original_title": "Ricki and the Flash",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/vPX5aICyD6oUsYjCrKRFb8q7SGJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eugEjTlfllNOJyySa77exfJtxO.jpg",
+    "rating": 5.785,
+    "overview": "Ricki, una popolare rockstar che ha dato tutto per realizzare il sogno di diventare una celebrità, decide di ritornare a casa per recuperare il rapporto con la sua famiglia.",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 1815524,
+    "imdb_id": null,
+    "recent_until": 1794566264678,
+    "pegi": "",
+    "runtime": 91,
+    "title": "Azzurrina – Oltre il tempo",
+    "original_title": "Azzurrina – Oltre il tempo",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2t4vd35oC0bFCYbvUPPwQyeALez.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4Y548Tx3nbX6nX9i2vMXoZNeFEk.jpg",
+    "rating": 3.0,
+    "overview": "Nel castello di Montebello, nel XIV secolo, nasce Guendalina, una bambina albina che tutti chiamano Azzurrina. La sua diversità la rende oggetto di paura e diffidenza, mentre attorno a lei si addensano intrighi e segreti. Secoli dopo, nel 2026, la sua storia torna a intrecciarsi con quella di un bambino, riaprendo un legame tra passato e presente.",
+    "genres": [
+      "Fantascienza",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 1339210,
+    "imdb_id": "tt33249097",
+    "recent_until": 1794566264884,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Affection",
+    "original_title": "Affection",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/3b3wC8JFjURlMsFj9gqbv0SyTJs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/a7VEgrESjAnoAUgonPEDXkzol2f.jpg",
+    "rating": 5.459,
+    "overview": "Ellie soffre di una misteriosa condizione che azzera ripetutamente la sua memoria. Non riesce a riconoscere l’uomo e la bambina che sostengono di essere suo marito e sua figlia. I frammenti di una vita sconosciuta la spingono a cercare la verità prima del successivo vuoto di memoria.",
+    "genres": [
+      "Horror",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 40205,
+    "imdb_id": "tt1646876",
+    "recent_until": 1794566265197,
+    "pegi": "",
+    "runtime": 94,
+    "title": "I 16 desideri",
+    "original_title": "16 Wishes",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/aY1pNGm082gy0Iefr0DnzRNhmCI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/53gLUhvVffVXSXOPAuXPeHkqEe9.jpg",
+    "rating": 6.318,
+    "overview": "La mattina del sedicesimo compleanno, Abby (Debby Ryan) riceve in dono una scatola che contiene sedici magiche candeline, ognuna capace di realizzare un desiderio. In poco tempo, grazie al loro aiuto, diviene la ragazza più popolare e invidiata della scuola ma scopre che ogni cosa ottenuta ha comportato un elevato prezzo da pagare, perdendo gli ultimi anni di spensieratezza adolescenziale. Riuscirà a riavere indietro il suo mondo solo grazie all’aiuto dell’amico Jay (Jean-Luc Bilodeau).",
+    "genres": [
+      "Fantasy",
+      "Dramma",
+      "Famiglia"
+    ]
+  },
+  {
     "tmdb_id": 58251,
     "imdb_id": "tt1426362",
     "recent_until": 1794480961308,
