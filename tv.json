@@ -1,5 +1,164 @@
 [
   {
+    "tmdb_id": 338874,
+    "imdb_id": "tt39391133",
+    "recent_until": 1794653438120,
+    "type": "tv",
+    "title": "Memoriæ",
+    "original_title": "Memoriæ",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/iwPUt05HJ9JXDXbsat2x64BctVF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/k8HxSu1OJYTlW3VyyvGno8K8Qm6.jpg",
+    "rating": 7.5,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Una misteriosa catastrofe si abbatte su Vallata: gli abitanti perdono sei anni di memoria e vengono messi in quarantena. Isolati dal mondo, devono scoprire cosa è successo e ricostruire il loro passato perduto.",
+    "genres": [],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 12
+      }
+    ]
+  },
+  {
+    "tmdb_id": 299952,
+    "imdb_id": "tt37884717",
+    "recent_until": 1794653438250,
+    "type": "tv",
+    "title": "The Early Spring",
+    "original_title": "早春晴朗",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/nLWFbYv1r99Yy7dWvjoxMRegoe0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+    "rating": 8.2,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Una neo dipendente dal cuore d'oro e il suo brillante capo affrontano insieme i ritmi frenetici del lavoro, nascondendo una relazione segreta che potrebbe mettere tutto a rischio.",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 24
+      }
+    ]
+  },
+  {
+    "tmdb_id": 297491,
+    "imdb_id": "tt37762350",
+    "recent_until": 1794653438378,
+    "type": "tv",
+    "title": "Palacio - Sotto assedio",
+    "original_title": "Palacio",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ju6k9yjDo4kmGq2nylFtBCSmfML.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
+    "rating": 6.167,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Novembre 1985: il gruppo guerrigliero M-19 prese d'assalto il Palazzo di Giustizia di Bogotá, scatenando una giornata di violenza che avrebbe cambiato per sempre la Colombia. Intrappolata nel fuoco incrociato, con ostaggi disperati, un esercito implacabile e una forza guerrigliera disposta a perdere tutto, la nazione assistette per la prima volta a una guerra che dilaniava il cuore della città. Le conseguenze dell'assedio avrebbero lasciato un segno indelebile sui sopravvissuti e sulle famiglie che avrebbero cercato giustizia per decenni. Alle 27 ore di orrore sarebbero seguiti 40 anni di domande senza risposta.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 333010,
+    "imdb_id": "tt39312324",
+    "recent_until": 1794653438514,
+    "type": "tv",
+    "title": "Erica una detective per caso",
+    "original_title": "Erica una detective per caso",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/yRwiQmurh81deQWT0Hahh3zY9cJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/aMviReQWyrb8Jc3lQ448C1OjcV.jpg",
+    "rating": 7.5,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Erica Magliani, celebre giallista, torna nella sua città natale dopo anni di assenza, sperando di trovare rifugio dai una crisi creativa e dai suoi fantasmi. Ma la scomparsa improvvisa di una persona a lei vicina la spinge nella prima di una serie di indagini inattese, per le quali Erica userà il suo talento nel decifrare misteri che sembrano usciti direttamente dai suoi romanzi.",
+    "genres": [],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
+    "tmdb_id": 330912,
+    "imdb_id": "tt36586787",
+    "recent_until": 1794653438666,
+    "type": "tv",
+    "title": "The Varnell Hill Show",
+    "original_title": "The Varnell Hill Show",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/nZbQHs1WCf2H8NJ8hzR0n5LoeT6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tE5EU20M9fHufcLXw2I8lM1hTMu.jpg",
+    "rating": 1.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 33880,
+    "imdb_id": "tt1695360",
+    "recent_until": 1794653438831,
+    "type": "tv",
+    "title": "La leggenda di Korra",
+    "original_title": "The Legend of Korra",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/13FjyHQSi1HhUpTqS8nKd06eJmy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bauKfP3CX5JPAXpmveOlPG1pngC.jpg",
+    "rating": 8.224,
+    "pegi": "T",
+    "runtime": 23,
+    "overview": "Un'avatar in grado di controllare gli elementi lotta per proteggere la sua città dalle forze oscure del mondo fisico e di quello spirituale.",
+    "genres": [
+      "Animazione",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 47
+      },
+      {
+        "season": 1,
+        "episodes": 12
+      },
+      {
+        "season": 2,
+        "episodes": 14
+      },
+      {
+        "season": 3,
+        "episodes": 13
+      },
+      {
+        "season": 4,
+        "episodes": 13
+      }
+    ]
+  },
+  {
     "tmdb_id": 338562,
     "imdb_id": "tt39390491",
     "recent_until": 1794566267049,
