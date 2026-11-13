@@ -1,5 +1,109 @@
 [
   {
+    "tmdb_id": 305245,
+    "imdb_id": "tt38961437",
+    "recent_until": 1794739582715,
+    "type": "tv",
+    "title": "Wśród nocnej ciszy",
+    "original_title": "Wśród nocnej ciszy",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/avV8XpBHNSnqYHzUNskv9LVVTFu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1G36FygY3hPf3qBJXJn7oxllJSS.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 254630,
+    "imdb_id": "tt32375763",
+    "recent_until": 1794739582884,
+    "type": "tv",
+    "title": "12 12 12",
+    "original_title": "12 12 12",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/cuk89BAhoyDKCByq7tyJHv5Wa8W.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6qCcXg7zXD3Xp5Whk8DwwFQNwAM.jpg",
+    "rating": 3.25,
+    "pegi": "VM14",
+    "runtime": null,
+    "overview": "Dodici mesi per pianificare il colpo. Dodici ore per eseguirlo. Dodici giorni per prendere il ladro. Su tre linee temporali adrenaliniche, un agente dell'FBI e un criminale incallito si sfidano in una caccia senza tregua attraverso l'Europa.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 249565,
+    "imdb_id": "tt31842126",
+    "recent_until": 1794739583069,
+    "type": "tv",
+    "title": "The Good Daughter",
+    "original_title": "The Good Daughter",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+    "rating": 9.667,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Charlotte e Samantha Quinn sono due sorelle separate da anni di distanza emotiva e geografica. Una violenta aggressione subita dalla famiglia quando erano giovani ha segnato entrambe. Charlotte, chiamata Charlie, è diventata avvocata nella cittadina di Pikeville, in Georgia; Samantha, detta Sam, ha costruito altrove una carriera legale. Quando una nuova esplosione di violenza investe la comunità e Charlie si trova direttamente coinvolta come testimone, il padre Rusty chiede a Sam di tornare a casa. L’indagine sulle morti avvenute nella scuola locale fa emergere ricordi e contraddizioni legati al passato.",
+    "genres": [
+      "Dramma",
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 204154,
+    "imdb_id": "tt21056886",
+    "recent_until": 1794739583302,
+    "type": "tv",
+    "title": "Scavengers Reign",
+    "original_title": "Scavengers Reign",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/bFlVZV8TQbs8hcIY7PVYonYFMgK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rTViEeltl4rO974PmkUAdhQqW2R.jpg",
+    "rating": 8.473,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Quando un mercantile nello spazio profondo viene danneggiato da un'eruzione solare, il suo equipaggio sopravvissuto viene arenato su un pianeta bellissimo e spietato. Cominciano a conoscere la vera natura di questo pianeta mentre cercano di sopravvivere abbastanza a lungo per scappare o essere salvati.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Dramma",
+      "Animazione",
+      "Action & Adventure"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 12
+      }
+    ]
+  },
+  {
     "tmdb_id": 338874,
     "imdb_id": "tt39391133",
     "recent_until": 1794653438120,

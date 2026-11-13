@@ -1,5 +1,332 @@
 [
   {
+    "tmdb_id": 56920,
+    "imdb_id": "tt0056604",
+    "recent_until": 1794739578127,
+    "pegi": "",
+    "runtime": 98,
+    "title": "Totò diabolicus",
+    "original_title": "Totò diabolicus",
+    "year": "1962",
+    "poster": "https://image.tmdb.org/t/p/w500/eMFarI2PQTXbVBPhPzC3u8ydYGP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/51Hq5jVODhKyKHSqpFblSIwJJb6.jpg",
+    "rating": 7.1,
+    "overview": "Il marchese Galeazzo di Torrealta viene pugnalato da un misterioso assassino. I sospetti cadono sui quattro fratelli, eredi di una straordinaria fortuna.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1543469,
+    "imdb_id": "tt38213251",
+    "recent_until": 1794739578314,
+    "pegi": "",
+    "runtime": 0,
+    "title": "Heartland",
+    "original_title": "Heartland",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+    "rating": 0.0,
+    "overview": "",
+    "genres": [
+      "Mistero",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1050981,
+    "imdb_id": "tt15095848",
+    "recent_until": 1794739578485,
+    "pegi": "",
+    "runtime": 127,
+    "title": "Being Heumann",
+    "original_title": "Being Heumann",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zJlR94jpHWKiqErqQi4zhU8iyeC.jpg",
+    "rating": 8.0,
+    "overview": "Stanca di essere trattata come un peso, l’indomita Judy Heumann trasforma la sua indignazione in una rivoluzione. Nel 1977, insieme a oltre 100 attivisti per i diritti dei disabili lancia un messaggio: “È il sistema a essere sbagliato, non noi”.",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 69901,
+    "imdb_id": "tt0184240",
+    "recent_until": 1794739578662,
+    "pegi": "T",
+    "runtime": 101,
+    "title": "Baci e abbracci",
+    "original_title": "Baci e abbracci",
+    "year": "1999",
+    "poster": "https://image.tmdb.org/t/p/w500/j1XD3Z2vAkRQvRyPglNjOkBlULx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9o8oArm21TRqoX3QoNPe2j79Y3b.jpg",
+    "rating": 6.3,
+    "overview": "Mario, ristoratore fallito che, dopo aver tentato inutilmente il suicidio, (prendendo del sonnifero e utilizzando i gas di scarico dell'auto, che però rimane senza benzina mentre lui stava dormendo) si sveglia e per un'omonimia, viene accolto alla stazione ferroviaria da una famiglia di allevatori di struzzi, che invece sta aspettando l'arrivo di un assessore regionale (anche lui si chiamava Mario) che dovrebbe garantire dei sussidi alla loro traballante attività. Il protagonista, sempre più spaesato, si ritrova circondato dalla premurosa attenzione dei suoi ospiti, fino al chiarimento finale, che genera uno sbigottimento superato da un superbo pranzo di Natale, in cui Mario dimostra la sua bravura di cuoco.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1560001,
+    "imdb_id": null,
+    "recent_until": 1794739578828,
+    "pegi": "",
+    "runtime": 0,
+    "title": "Come il giorno e la notte",
+    "original_title": "Come il giorno e la notte",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/h3faaQcnwTBz9YSnBtB5OnEzPTq.jpg",
+    "backdrop": null,
+    "rating": 10.0,
+    "overview": "Il commissario Vincenzo Buonocore viaggia da Napoli a Caorle nel tentativo di dimostrare il collegamento tra una serie di brutali omicidi. Una volta in Veneto dovrà forzatamente fare squadra con Fiorella Giordano. La completa diversità dei due porterà a uno scontro di caratteri imprevedibilmente fruttuoso, e forse all’avvicinamento di due solitudini",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 400888,
+    "imdb_id": "tt5471654",
+    "recent_until": 1794739579051,
+    "pegi": "",
+    "runtime": 97,
+    "title": "The Sion Sono",
+    "original_title": "園子温という生きもの",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/kBwPDbHAYW6kVJA9nGcZ8WuzB2T.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/Xiqi99Fofp9Bh29qIhd08cs7Px.jpg",
+    "rating": 6.4,
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 70088,
+    "imdb_id": "tt0086483",
+    "recent_until": 1794739579225,
+    "pegi": "",
+    "runtime": 85,
+    "title": "Tu mi turbi",
+    "original_title": "Tu mi turbi",
+    "year": "1983",
+    "poster": "https://image.tmdb.org/t/p/w500/6Sk2R4fwjqDUoYZR9N4YqYZzpjx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fXtbr0Dm438ScA44eSAmGP3HiPs.jpg",
+    "rating": 6.7,
+    "overview": "4 sketch. “Durante Cristo”: il pastore Benigno vigila su Gesù bambino mentre Giuseppe e Maria sono a cena da amici. “Angelo”: Benigno in smoking cerca disperatamente il suo Angelo Custode che l'ha abbandonato e che poi è un'Angela. “In banca”: il nullatenente Benigno pretende di farsi dare da una banca un mutuo di cento milioni senza garanzie. “I militi”: due bersaglieri sono di guardia al Milite Ignoto e parlano, sbeffeggiandosi l'un l'altro. Scritto da R. Benigni con Giuseppe Bertolucci, è un primo film di una pulizia che sfiora il rigore, senza sbavature né volgarità. Musiche di Paolo Conte: una scelta che è un programma.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 437941,
+    "imdb_id": "tt6278008",
+    "recent_until": 1794739579423,
+    "pegi": "",
+    "runtime": 132,
+    "title": "La ballerina del Bolshoi",
+    "original_title": "Большой",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/hBz18GpUsYqm14NznpbqX2D8WF7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/m3UY4N3nc4PSRDhKagxnYXAkNEa.jpg",
+    "rating": 6.1,
+    "overview": "Yulka è una giovane ballerina russa incredibilmente talentuosa. Può diventare una grande ballerina che lotta per il suo posto al Bolshoi di Mosca. Ma per perseguire questo scopo deve rinunciare a tutto: gli interessi della famiglia, il suo primo amore, l'amicizia. Più volte dovrà affrontare una scelta complessa tra il sogno della bellezza e la vita reale.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1616687,
+    "imdb_id": "tt39370926",
+    "recent_until": 1794739579618,
+    "pegi": "",
+    "runtime": 137,
+    "title": "Never Surrender",
+    "original_title": "Serangan Balik",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/9wypfSz5OyWnew6mt5hviGw6WhM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+    "rating": 6.9,
+    "overview": "Un veterano tormentato dai sensi di colpa deve unire le forze con i nipoti che conosce a malapena per sopravvivere a una banda spietata che assalta la sua casa isolata.",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 49397,
+    "imdb_id": "tt0064208",
+    "recent_until": 1794739579801,
+    "pegi": "",
+    "runtime": 115,
+    "title": "Da uomo a uomo",
+    "original_title": "Da uomo a uomo",
+    "year": "1967",
+    "poster": "https://image.tmdb.org/t/p/w500/obvGfc4doA3vLGlz0B8fINEuzGf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9FbiHF7JcBNxeNrOgHa1kRlioZU.jpg",
+    "rating": 7.0,
+    "overview": "Cinque banditi assaltano una casa colonica: quattro di questi uccidono e violentano la famiglia, il quinto (Van Cleef) riesce a mettere in salvo il piccolo Bill. Divenuto grande, Bill (Law) si mette alla ricerca dei colpevoli per vendicarsi, ma dovrà dividere la sua opera proprio con Ryan, il quinto bandito, anch'esso desideroso di vendicarsi della ferocia degli ex compagni. Solito western spaghetti girato in Spagna col vecchio e incolpevole Van Cleef e con una mandria di attori italiani di secondo piano. Tra questi, nel ruolo di Burt, c'è anche Anthony Dawson ovvero Antonio Margheriti, celebre regista della serie B nostrana. Colonna sonora di Ennio Morricone.",
+    "genres": [
+      "Western"
+    ]
+  },
+  {
+    "tmdb_id": 16153,
+    "imdb_id": "tt0071115",
+    "recent_until": 1794739579964,
+    "pegi": "T",
+    "runtime": 110,
+    "title": "Alice non abita più qui",
+    "original_title": "Alice Doesn't Live Here Anymore",
+    "year": "1974",
+    "poster": "https://image.tmdb.org/t/p/w500/egNphOgYNTnqaJL4wnxUQ86iRBD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5AibuYyzAlJesXvZVjW4vFeqKpj.jpg",
+    "rating": 7.0,
+    "overview": "Il film narra le disavventure di Alice, una donna rimasta vedova con un figlio. Alice cerca un lavoro e nel frattempo si imbatte in una serie di personaggi negativi finché non incontra David. Suo figlio non accetta David e fugge di casa insieme a una sua coetanea. Gli agenti lo ricondurranno a casa e il ragazzo si convincerà dell'affetto di David.",
+    "genres": [
+      "Romance",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 12185,
+    "imdb_id": "tt0077663",
+    "recent_until": 1794739580141,
+    "pegi": "T",
+    "runtime": 96,
+    "title": "Il paradiso può attendere",
+    "original_title": "Heaven Can Wait",
+    "year": "1978",
+    "poster": "https://image.tmdb.org/t/p/w500/5S6poaxYHsodYqZvPSLuq83r7d5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/yucBYHGAMaTu2HsxM2k9JWRxSlj.jpg",
+    "rating": 6.7,
+    "overview": "L'anima di Joe Pendleton, giocatore di football americano, viene portata in cielo da un angelo troppo frettoloso. Joe infatti non è ancora morto. Per di più stava per giocare una partita importantissima. In paradiso rimediano: gli assegnano il corpo di un miliardario che sta per essere ucciso dalla moglie e dal segretario. Joe accetta, anche per amore di una bella maestrina, ma come trovare rimedio alla \"seconda\" morte?",
+    "genres": [
+      "Fantasy",
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1559984,
+    "imdb_id": "tt34254116",
+    "recent_until": 1794739580385,
+    "pegi": "",
+    "runtime": 84,
+    "title": "My Weird School",
+    "original_title": "My Weird School",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/y0rRAxg4WBC91IKRAaGckQysrG0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xXKMcz8m9E3x7fMhKpu9nZYZ1py.jpg",
+    "rating": 8.5,
+    "overview": "",
+    "genres": [
+      "Commedia",
+      "Famiglia",
+      "televisione film",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 36293,
+    "imdb_id": "tt0194722",
+    "recent_until": 1794739580575,
+    "pegi": "",
+    "runtime": 92,
+    "title": "Il ponte del dragone",
+    "original_title": "Bridge of Dragons",
+    "year": "1999",
+    "poster": "https://image.tmdb.org/t/p/w500/q41yXOUQ4PLIQGtzO3669jc63I5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/psUtgZRTrlz8tfYKeDpPcfb3eFq.jpg",
+    "rating": 5.6,
+    "overview": "Nel corso di una violenta guerra di potere in Giappone, il killer Warchyld - apparentemente gelido e privo di sentimenti - affronta per la prima volta un conflitto di coscienza e si rifiuta di uccidere un uomo completamente indifeso. Constatata la renitenza di Warchyld a eseguire l'ordine ricevuto, il suo boss scatena una lotta senza esclusione di colpi.",
+    "genres": [
+      "Azione",
+      "Fantascienza",
+      "Thriller",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 24137,
+    "imdb_id": "tt0122541",
+    "recent_until": 1794739580748,
+    "pegi": "",
+    "runtime": 97,
+    "title": "Un marito ideale",
+    "original_title": "An Ideal Husband",
+    "year": "1999",
+    "poster": "https://image.tmdb.org/t/p/w500/ibSQGb0o2kDWh0AFWMaOSKlOWM4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ttAOV3BdJoPwYPExHw4dW4TN72P.jpg",
+    "rating": 6.5,
+    "overview": "Tratto da una commedia di Oscar Wilde, il film è ambientato a Londra nel 1890. Sir Robert Chiltern è un uomo politico di successo e un marito ideale per la seducente Lady Chiltern. Tutto procede per il meglio fino a quando compare la signora Cheveley che è a conoscenza di alcuni segreti riguardanti il passato del gentiluomo. Timoroso di perdere la sua reputazione e soprattutto l'amore della sua bella moglie, Sir Chilthern si rivolge a Lord Arthur Goring, donnaiolo amante della libertà e della vita mondana. Quest'ultimo si troverà al centro di una rete di bugie, inganni e convegni amorosi che metterà a repentaglio ciò a cui crede di più: il celibato. In fondo anche lui potrebbe diventare un marito ideale proprio come il suo amico. Bravissimi gli attori e perfetta la ricostruzione d' epoca.",
+    "genres": [
+      "Dramma",
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 550020,
+    "imdb_id": "tt9033712",
+    "recent_until": 1794739580919,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Innamorarsi a Natale",
+    "original_title": "Christmas in Love",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/aSeJWTA8Uq5w8Pj15qj9R6mPw5z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/opvymPgWyoOvwL2YXdGryKYSagn.jpg",
+    "rating": 5.979,
+    "overview": "Il Natale si avvicina e nella piccola cittadina di White Deer, nel Missouri, Ellie Hartman lavora nella pasticceria che fornisce alcune note paste a una grossa catena. Aspirante pittrice, Ellie mostrerà al nuovo ceo della compagnia Nick Carlingson, arrivato in visita da una grande città, che sono le persone e non le macchine a garantire il successo di un buon prodotto.",
+    "genres": [
+      "televisione film",
+      "Romance",
+      "Famiglia",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1145635,
+    "imdb_id": "tt28237077",
+    "recent_until": 1794739581461,
+    "pegi": "",
+    "runtime": 84,
+    "title": "Un Natale molto scozzese",
+    "original_title": "A Merry Scottish Christmas",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/joJJfcxIO106BS4iy1kAdbgJxeQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uQvVfVDuS84Vc3DVLg8LgMMeVJU.jpg",
+    "rating": 6.2,
+    "overview": "Brad è un commercialista affermato, sua sorella Lindsay la titolare di uno studio medico. Hanno perso il loro rapporto da tempo, ma un giorno, la madre li riunisce in Scozia per Natale per fare loro una rivelazione.",
+    "genres": [
+      "televisione film",
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1361248,
+    "imdb_id": "tt33253213",
+    "recent_until": 1794739581710,
+    "pegi": "",
+    "runtime": 84,
+    "title": "Sotto le luci di Natale",
+    "original_title": "Christmas Under the Lights",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/4HXUO4jOTZRU6F4X3SkY72z4Rjn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6sjpWeRcx3xEIa5kzgY9ZWcuMzs.jpg",
+    "rating": 6.059,
+    "overview": "",
+    "genres": [
+      "Dramma",
+      "televisione film"
+    ]
+  },
+  {
     "tmdb_id": 1757174,
     "imdb_id": "tt39313557",
     "recent_until": 1794653436428,
