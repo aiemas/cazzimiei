@@ -1,5 +1,246 @@
 [
   {
+    "tmdb_id": 646106,
+    "imdb_id": "tt9348848",
+    "recent_until": 1794823269445,
+    "pegi": "",
+    "runtime": 96,
+    "title": "The Crossing - Oltre il confine",
+    "original_title": "Flukten over grensen",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/w500/x2gi261egmQ1pVs5CRly2AIgWAs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ooATGkHxlPXE1CTSAdeaHscuon6.jpg",
+    "rating": 6.2,
+    "overview": "Norvegia, dicembre 1942. Sarah e Daniel, due fratellini ebrei, vengono aiutati a fuggire in Svezia da Gerda e Otto, che li trovano nello scantinato di casa.",
+    "genres": [
+      "Famiglia",
+      "Guerra",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 82483,
+    "imdb_id": "tt0043777",
+    "recent_until": 1794823269650,
+    "pegi": "",
+    "runtime": 75,
+    "title": "Mamma mia, che impressione!",
+    "original_title": "Mamma mia, che impressione!",
+    "year": "1951",
+    "poster": "https://image.tmdb.org/t/p/w500/iKvtq1AXpEEnecz1vhqxHa2LkzK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dARhPhkWyr8naiN3AW6eUn8a4mE.jpg",
+    "rating": 6.0,
+    "overview": "Timido, goffo e petulante, Alberto cerca in ogni modo di fare colpo su Margherita. Con la speranza di vincere il primo premio, partecipa a una corsa. Da un soggetto di Sordi sceneggiato dall'attore con Cesare Zavattini e Vittorio De Sica (che si dice abbia diretto gran parte del film), un filmetto un po' melenso ma interessante come specchio della Roma postbellica. Nel suo primo film da protagonista Sordi ha voluto portare sullo schermo i temi, i modi e l'umorismo di un suo popolare programma radiofonico.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 43361,
+    "imdb_id": "tt0044000",
+    "recent_until": 1794823269858,
+    "pegi": "T",
+    "runtime": 86,
+    "title": "Lo sceicco bianco",
+    "original_title": "Lo sceicco bianco",
+    "year": "1952",
+    "poster": "https://image.tmdb.org/t/p/w500/rIXhzvyJZtnLpeoVOxHNMdRvX0K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oSU98IDxfeR8q6IimvKaLmkorro.jpg",
+    "rating": 7.2,
+    "overview": "Una coppia di sposini della provincia laziale è in luna di miele a Roma. Wanda, la giovane moglie appassionata di fotoromanzi, approfitta del viaggio per incontrare lo \"Sceicco bianco\", idolo del suo fotoromanzo preferito.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1755291,
+    "imdb_id": "tt44766123",
+    "recent_until": 1794823270078,
+    "pegi": "10+",
+    "runtime": 77,
+    "title": "NAZA",
+    "original_title": "NAZA",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/qfdNOEmMroHjPLpZhNkORcVzgrQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/inju8joDtL7KHtlFEGjFZ2UuqFa.jpg",
+    "rating": 7.958,
+    "overview": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1058424,
+    "imdb_id": "tt27369017",
+    "recent_until": 1794823270284,
+    "pegi": "",
+    "runtime": 157,
+    "title": "Hope",
+    "original_title": "호프",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
+    "rating": 6.8,
+    "overview": "I rinforzi sono stati richiamati per fronteggiare i devastanti incendi boschivi e ogni comunicazione con l’esterno è stata interrotta. Nel piccolo posto di polizia di Hope, il comandante Bum-seok e l’agente Sung-ae lottano per proteggere un villaggio popolato quasi esclusivamente da anziani. Nel frattempo, tra le montagne, Sung-ki e gli abitanti del luogo partono sulle tracce della misteriosa creatura, ma la battuta di caccia si trasforma presto in un incubo e diventano loro stessi prede.",
+    "genres": [
+      "Fantascienza",
+      "Mistero",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 1180663,
+    "imdb_id": "tt29258217",
+    "recent_until": 1794823270490,
+    "pegi": "",
+    "runtime": 84,
+    "title": "Tutte pazze per Chris",
+    "original_title": "Never Been Chris'd",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/g1T35Q7w80sH63d5Y6FbREm2hKv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pxZdSB5N0PS99cJQd1nMR0Dgh9G.jpg",
+    "rating": 5.2,
+    "overview": "Le migliori amiche, Naomi e Liz, tornano a casa per le vacanze e contemporaneamente entrano in un triangolo amoroso quando entrambe si riconnettono con la loro cotta del liceo, Chris Silver.",
+    "genres": [
+      "televisione film",
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 208828,
+    "imdb_id": "tt0088068",
+    "recent_until": 1794823270698,
+    "pegi": "",
+    "runtime": 98,
+    "title": "Uno scugnizzo a New York",
+    "original_title": "Uno scugnizzo a New York",
+    "year": "1984",
+    "poster": "https://image.tmdb.org/t/p/w500/5Pd5YjBkKeN4Wv6c7RMwTNm3UfZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/r9VHFI1mhjmQULvMac4fBQ1O1Jg.jpg",
+    "rating": 5.0,
+    "overview": "Napoletano trapiantato a New York, Nino ha un amico di colore, Matumba, con il quale sogna di ritornare nella sua terra di origine.",
+    "genres": [
+      "Commedia",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 15888,
+    "imdb_id": "tt0918628",
+    "recent_until": 1794823270913,
+    "pegi": "",
+    "runtime": 94,
+    "title": "Fishtales",
+    "original_title": "Fishtales",
+    "year": "2007",
+    "poster": "https://image.tmdb.org/t/p/w500/Ag0Hb68U5vNK69LFHqbBP5JmIxp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1mpPqmQxXV4rGxgMbms1JoZjvWX.jpg",
+    "rating": 4.6,
+    "overview": "",
+    "genres": [
+      "Fantasy",
+      "Dramma",
+      "Commedia",
+      "Romance",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 11287,
+    "imdb_id": "tt0104694",
+    "recent_until": 1794823271120,
+    "pegi": "",
+    "runtime": 128,
+    "title": "Ragazze vincenti",
+    "original_title": "A League of Their Own",
+    "year": "1992",
+    "poster": "https://image.tmdb.org/t/p/w500/tr7zNokTHghQf1khQ8b1syLJYx5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kb2FuXGruaPA6ErjOpcifpCyPyY.jpg",
+    "rating": 7.21,
+    "overview": "Oregon 1943. Quasi tutti i giovani sono in guerra e le ragazze cercano di sostituirli in alcuni ruoli indispensabili come per esempio il baseball. Dottie e Kit, sorelle, organizzano una squadra e, contro ogni previsione, la faccenda funziona. Ad allenare c'è un certo Jimmy, preparato ma chiuso e pieno di problemi. Fra una partita e l'altra, un traguardo dopo l'altro, le ragazze vivono la loro vita, si fanno esperienze e si realizzano. Quella stagione rimarrà per tutti indimenticabile. Dopo molti anni il gruppetto si ritrova, alcuni sono nonni, altri non ci sono più. È bello e commovente ricordare quei tempi.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1449400,
+    "imdb_id": "tt34706535",
+    "recent_until": 1794823271444,
+    "pegi": "",
+    "runtime": 91,
+    "title": "Nessuna tregua",
+    "original_title": "Reckless",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/fswUkvbkmWHQwBu6nJtZHaqkkLG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v82syfG9jrap5k7A82xuQzLssCJ.jpg",
+    "rating": 6.3,
+    "overview": "Uscito in libertà vigilata, un ex detenuto ha una sola priorità: ritrovare il bottino del colpo che gli è costato gli anni di galera. Un numero, un indirizzo, un nome: ogni pista apre una corsa diversa, con la polizia sempre a un semaforo di distanza e vecchi complici pronti a fargli le scarpe.",
+    "genres": [
+      "Azione",
+      "Commedia",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 14778,
+    "imdb_id": "tt0253200",
+    "recent_until": 1794823271659,
+    "pegi": "",
+    "runtime": 109,
+    "title": "L'ultimo bicchiere",
+    "original_title": "Last Orders",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/w500/1zgWKQ7wWWXomw0ppthZow6cYL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/z4YiI1tyo1xifoWHTHAcBRoFoQa.jpg",
+    "rating": 6.042,
+    "overview": "Un anziano macellaio è appena morto, e i suoi tre amici di una vita, accompagnati dal suo figlio adottivo, cercano di esaudirne l'ultimo desiderio: vedere versate le proprie ceneri in mare dal molo di Margate. L'occasione è buona per colossali bevute in nome dell'amico scomparso, e per un bilancio della propria esistenza, segnata da tradimenti e piccole grandi vigliaccherie, mentre la vedova del defunto preferisce non unirsi al gruppetto per andare a far visita alla figlia handicappata.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 412094,
+    "imdb_id": "tt5996202",
+    "recent_until": 1794823271871,
+    "pegi": "T",
+    "runtime": 114,
+    "title": "Il prigioniero coreano",
+    "original_title": "그물",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/1YkuLVOfPuUtOBeRUy6pbefJf9s.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/c9X1HSLMT6CU6FdPQPjtNcBK5Va.jpg",
+    "rating": 7.385,
+    "overview": "Il motore della barca di un pescatore nordcoreano si rompe e lo scafo viaggia alla deriva verso la Corea del Sud. Una volta giunto nella nazione nemica e dopo aver sopportato delle brutali indagini, l'uomo viene rispedito al Nord ma prima di ripartire si accorge di quanto sia diverso il Sud dall'immagine di terra \"sviluppata\" che aveva in mente e di come il progresso economico non garantisca felicità al popolo. Una volta rimpatriato, subisce poi un trattamento identico da parte della polizia del Nord.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 716594,
+    "imdb_id": "tt13507778",
+    "recent_until": 1794823272316,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Ted Bundy: Confessioni di un serial killer",
+    "original_title": "No Man of God",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/f63TMarMcRWU5Z4jB7l2agrAidq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cRAvKRY5S84T4cO08I05QeVGBBk.jpg",
+    "rating": 6.558,
+    "overview": "Per comprendere meglio i delitti messi a segno da uno dei più famigerati serial killer, l'investigatore dell'Fbi Bill Hagmaier decide di trascorrere del tempo faccia a faccia con Ted Bundy incontrandolo più volte in carcere nell'arco di cinque anni. Le loro conversazioni porteranno a risultati inaspettati, sia sul piano filosofico sia su quello personale.",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Thriller",
+      "Storia"
+    ]
+  },
+  {
     "tmdb_id": 56920,
     "imdb_id": "tt0056604",
     "recent_until": 1794739578127,
