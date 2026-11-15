@@ -1,5 +1,79 @@
 [
   {
+    "tmdb_id": 320507,
+    "imdb_id": "tt42006761",
+    "recent_until": 1794911844866,
+    "type": "tv",
+    "title": "La vita segreta delle mogli Mormoni: Orange County",
+    "original_title": "The Secret Lives of Mormon Wives: Orange County",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/rEcJkRhfs663zsjWCJhtsbRWv7g.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ztlemjhfgbj6wtYosghkUjBOj8o.jpg",
+    "rating": 1.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "In una comunità dove la fede non è solo religione ma la tua stessa identità, un gruppo di giovani madri si mette in gioco. Sebbene abbiano tutte un'educazione religiosa, le loro strade si sono divise: alcune sono devote alla Chiesa, altre hanno abbandonato la vita da mormoni. Decise a sostenersi a vicenda, creano la loro versione di #MomTok, ma il progetto parte col piede sbagliato. Scandali e segreti emergono, minacciando di distruggere famiglie, amicizie e il loro legame. Riuscirà questa sorellanza a superare le divergenze e a cambiare il proprio destino e quello della comunità?",
+    "genres": [
+      "Reality"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 335981,
+    "imdb_id": "tt47021035",
+    "recent_until": 1794911845407,
+    "type": "tv",
+    "title": "Cunk on Cinema",
+    "original_title": "Cunk on Cinema",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/YC6FrtGixdxrvub3ECPloVuG6q.jpg",
+    "rating": 7.2,
+    "pegi": "",
+    "runtime": null,
+    "overview": "In questa irriverente serie mockumentary Philomena Cunk ripercorre in grande stile la storia del cinema, lasciando di stucco gli esperti del settore.",
+    "genres": [
+      "Commedia",
+      "Documentario"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
+    "tmdb_id": 281011,
+    "imdb_id": "tt38220632",
+    "recent_until": 1794911845529,
+    "type": "tv",
+    "title": "Would You Marry Me?",
+    "original_title": "우주메리미",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/wjv7gQ87AiAIsm6fF3zrbgvJ7dx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
+    "rating": 8.264,
+    "pegi": "",
+    "runtime": 60,
+    "overview": "Poco prima delle nozze, Meri scopre che il fidanzato la tradisce. Come se non bastasse, viene truffata e perde la casa, ma la fortuna le sorride: vince una residenza di lusso da 5 miliardi di won, la \"Beauté Palace\", a un evento per neosposi. La condizione? Essere sposata e presentarsi alla premiazione con il marito. Il divorzio non è ancora ufficiale, ma l'ex l'ha bloccata. Disperata, Meri chiede a Kim Wooju, un uomo appena conosciuto che ha lo stesso nome del suo ex, di fingersi suo marito per un giorno. Il piano però si complica: per ingannare un ficcanaso che vive lì accanto, i due devono recitare ogni giorno la parte della coppia felice. Riusciranno a proteggere il loro segreto e a tenersi la casa da 5 miliardi?",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 12
+      }
+    ]
+  },
+  {
     "tmdb_id": 305245,
     "imdb_id": "tt38961437",
     "recent_until": 1794739582715,

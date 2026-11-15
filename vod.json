@@ -1,5 +1,118 @@
 [
   {
+    "tmdb_id": 21964,
+    "imdb_id": "tt0070800",
+    "recent_until": 1794911843570,
+    "pegi": "",
+    "runtime": 105,
+    "title": "Cinque dita di violenza",
+    "original_title": "天下第一拳",
+    "year": "1972",
+    "poster": "https://image.tmdb.org/t/p/w500/4SZ5d4p43jfSnFT8HRPRhdCLs40.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/37NOpfixwDvVJ9gTxKnNbwXE9sh.jpg",
+    "rating": 6.691,
+    "overview": "Un ragazzo si allena per il campionato di arti marziali e il suo maestro gli insegna un colpo invincibile. Una gang di avversari gli farà massacrare la mano, ma la battaglia è soltanto agli inizi.",
+    "genres": [
+      "Azione",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1418709,
+    "imdb_id": null,
+    "recent_until": 1794911843694,
+    "pegi": "",
+    "runtime": 98,
+    "title": "Bagarre",
+    "original_title": "Bagarre",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/lQRKadGZSBUjkFfjF7kDV047MUN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/w4ISfPkFLdG0ew07XcrlQSB4O4q.jpg",
+    "rating": 5.409,
+    "overview": "Naïm ha bisogno di soldi per aiutare il suo cane e finisce a fare il lottatore a pagamento per un'organizzazione clandestina di Marsiglia, dove risolve i problemi a suon di pugni.",
+    "genres": [
+      "Azione",
+      "Avventura",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1186428,
+    "imdb_id": "tt29688322",
+    "recent_until": 1794911843818,
+    "pegi": "",
+    "runtime": 75,
+    "title": "Clorofilla",
+    "original_title": "Clorofilla",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/fLy5Odhvkk0HZnAlci9fKYgTGS3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7IKdmuErfu1ETOhGq9iqaZd0zXT.jpg",
+    "rating": 3.8,
+    "overview": "Maia è una giovane donna, i suoi capelli e il suo sangue sono naturalmente verdi e un’attrazione inspiegabile la porta insistentemente a cercare un contatto con la natura, gli alberi, i fiori. Questo è anche il mondo di Teo, che con la sua timidezza e i segreti della sua serra le starà vicino e la aiuterà a capire qualcosa in più di se stessa.",
+    "genres": [
+      "Romance",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 1284465,
+    "imdb_id": "tt32273171",
+    "recent_until": 1794911843936,
+    "pegi": "10+",
+    "runtime": 123,
+    "title": "Robin Hood - Il prezzo del sangue",
+    "original_title": "The Death of Robin Hood",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+    "rating": 6.71,
+    "overview": "Il principe dei ladri, il difensore degli oppressi, l’eroe che ruba ai ricchi per dare ai poveri. Sono tutte bugie: Robin Hood non è mai stato un paladino della giustizia, ma solo un efferato bandito, e le sue “allegre scorribande” erano vere e proprie carneficine. Ma quando dedichi la tua vita al crimine, alla violenza e alla menzogna, devi essere pronto a pagarne il prezzo…",
+    "genres": [
+      "Avventura",
+      "Dramma",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 10653,
+    "imdb_id": "tt0048605",
+    "recent_until": 1794911844059,
+    "pegi": "T",
+    "runtime": 105,
+    "title": "Quando la moglie è in vacanza",
+    "original_title": "The Seven Year Itch",
+    "year": "1955",
+    "poster": "https://image.tmdb.org/t/p/w500/iJApa10t2nWUCemt0I0VhWZDDjf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o1rW0pM3nxyY6YKl0bQVXbEqKHt.jpg",
+    "rating": 7.04,
+    "overview": "È il desiderio del settimo anno. Rimasto solo in casa (la famiglia è in villeggiatura), funzionario editoriale è messo a dura prova dalla procace e svampita vicina di casa. Resisterà la sua virtù? Commedia satirica sulle ossessioni erotiche dell'americano medio con cui Wilder traccia una feroce critica del consumismo e dei miti del mezzo secolo sulla scorta di una commedia (1952) di George Axelrod di cui mantiene l'impianto teatrale, pur facendone il film più metacinematografico della sua carriera con frequenti citazioni e rimandi parodistici ad altri film. Una delle migliori interpretazioni di M. Monroe.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 6116,
+    "imdb_id": "tt0120185",
+    "recent_until": 1794911844208,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Spice Girls - Il film",
+    "original_title": "Spice World",
+    "year": "1997",
+    "poster": "https://image.tmdb.org/t/p/w500/ztW9Nzv8Hu56zYap2yxyODQ5GLF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zZEJu3db4Ld4urK5klPvQxkWzaX.jpg",
+    "rating": 4.9,
+    "overview": "Un autobus dipinto con la Union Jack corre per le vie di Londra porta le cinque ragazze speziate ad un loro concerto. Le ragazze hanno il tempo di litigare con i giornalisti che vogliono lo scoop e trovano il modo di fare un incontro ravvicinato del terzo tipo con gli alieni.",
+    "genres": [
+      "Avventura",
+      "Fantasy",
+      "Dramma",
+      "Commedia",
+      "Musica"
+    ]
+  },
+  {
     "tmdb_id": 646106,
     "imdb_id": "tt9348848",
     "recent_until": 1794823269445,
