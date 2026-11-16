@@ -1,5 +1,39 @@
 [
   {
+    "tmdb_id": 69272,
+    "imdb_id": "tt6559980",
+    "recent_until": 1794999240221,
+    "type": "tv",
+    "title": "L'allieva",
+    "original_title": "L'allieva",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/ayOrsTXNfDktbuiMSP512tq2DZJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/m9sPbSzMZJtuZukyVXsw6PGGad.jpg",
+    "rating": 7.2,
+    "pegi": "",
+    "runtime": 50,
+    "overview": "Alice, goffa ed entusiasta specializzanda in Medicina Legale, è alle prese con le difficoltà nel mondo lavorativo e sentimentale. Sebbene abbia ancora molto da imparare, ha una grande qualità: un’empatia con le vittime che la porta ad avere intuizioni decisive nei casi in cui è coinvolta.",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Mistero"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 11
+      },
+      {
+        "season": 2,
+        "episodes": 12
+      },
+      {
+        "season": 3,
+        "episodes": 12
+      }
+    ]
+  },
+  {
     "tmdb_id": 320507,
     "imdb_id": "tt42006761",
     "recent_until": 1794911844866,

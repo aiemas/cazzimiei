@@ -1,5 +1,260 @@
 [
   {
+    "tmdb_id": 1400837,
+    "imdb_id": "tt36586020",
+    "recent_until": 1794999235422,
+    "pegi": "14+",
+    "runtime": 93,
+    "title": "Mammina",
+    "original_title": "Other Mommy",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+    "rating": 6.305,
+    "overview": "Un viaggio terrificante nel mondo sempre più oscuro di Bela, una ragazzina che instaura un rapporto con un’entità sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
+    "genres": [
+      "Horror",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 1359604,
+    "imdb_id": "tt32604419",
+    "recent_until": 1794999235629,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Il lato dolce del Natale",
+    "original_title": "A Sprinkle of Christmas",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/DVGnHeRQu9tlhsUrvNjAiWJERd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AuSSrmIhw8rzHw6s4VoFE6PXBpG.jpg",
+    "rating": 6.4,
+    "overview": "Libby, una fornaia, apre la sua attività giusto in tempo per Natale. Presto si ritrova in una accesa faida online con Peter dopo aver dato alla panetteria una feroce recensione.",
+    "genres": [
+      "televisione film",
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 89673,
+    "imdb_id": "tt1969012",
+    "recent_until": 1794999235843,
+    "pegi": "T",
+    "runtime": 97,
+    "title": "Com'è bello far l'amore",
+    "original_title": "Com'è bello far l'amore",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/etfeBmDne0HMhErXox8CK1lXEuH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/93M9ejFUVOALHLzeWMUtytxScG4.jpg",
+    "rating": 5.351,
+    "overview": "Andrea e Giulia, sposati da quasi vent'anni, attraversano un periodo di crisi. Soprattutto la loro vita sessuale è al minimo storico: fanno l'amore poco e male. Sarà l'arrivo imprevisto del miglior amico di lei, il carismatico Max, che di professione fa il pornodivo, a cambiare le regole del gioco. I due coniugi si lasceranno trascinare in buffe \"lezioni di sesso\" alla ricerca dell'entusiasmo perduto.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 61218,
+    "imdb_id": "tt0091837",
+    "recent_until": 1794999236054,
+    "pegi": "T",
+    "runtime": 101,
+    "title": "Regalo di Natale",
+    "original_title": "Regalo di Natale",
+    "year": "1986",
+    "poster": "https://image.tmdb.org/t/p/w500/i2UDcAcNK9sXxt5e0kOFTQRGt7v.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vfphkP2UBaOTT7RB9puXNeI8GJ3.jpg",
+    "rating": 7.334,
+    "overview": "Nella notte di Natale quattro amici e un industrialotto, il pollo da spennare, si trovano per una partita di poker che sarà, in molti sensi, un regolamento di conti. Come si addice a una partita di poker, che è il fulcro del film, c'è suspense, ma vien fuori bene anche la conoscenza che il bolognese Avati ha della vita in provincia e del suo continuo peggioramento. Sua è l'orchestrazione sapiente di un quintetto di attori eterogenei che hanno le facce giuste.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1417419,
+    "imdb_id": null,
+    "recent_until": 1794999236260,
+    "pegi": "T",
+    "runtime": 90,
+    "title": "Una vita da sogno - L'abbaglio",
+    "original_title": "Una vita da sogno - L'abbaglio",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/m3KBqk8eXJhmcA86V96BHRqYPd6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qjCRmjWYZows5Kg0f86A1qYjkjo.jpg",
+    "rating": 0.0,
+    "overview": "Nicola, ristoratore pugliese, diventa amico di Johnny Light, famoso attore americano, che s’innamora del suo ristorante e della sua cucina. Prima di lasciare la Puglia, Johnny invita Nicola e la figlia Aqua a trasferirsi a Los Angeles per gestire il suo ristorante a Hollywood e diventare soci. Nicola è totalmente sedotto dalla star, ci crede davvero e inizia a pianificare il suo futuro in America. Non sempre però le cose vanno come previsto.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 20815,
+    "imdb_id": "tt0099731",
+    "recent_until": 1794999236466,
+    "pegi": "",
+    "runtime": 108,
+    "title": "Il racconto dell'ancella",
+    "original_title": "The Handmaid's Tale",
+    "year": "1990",
+    "poster": "https://image.tmdb.org/t/p/w500/jP8Yrcc6d3u3Y8Hhs7DyRcfKi8k.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ti84zQAKUm049pf2yLIZqy53Hw1.jpg",
+    "rating": 6.075,
+    "overview": "In un futuro prossimo gli Stati Uniti sono governati da dei fondamentalisti di destra e le poche donne ancora fertili devono procreare forzatamente su commissione.",
+    "genres": [
+      "Dramma",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 11165,
+    "imdb_id": "tt0066473",
+    "recent_until": 1794999236670,
+    "pegi": "",
+    "runtime": 144,
+    "title": "Tora! Tora! Tora!",
+    "original_title": "Tora! Tora! Tora!",
+    "year": "1970",
+    "poster": "https://image.tmdb.org/t/p/w500/8zaleiWixY2EuxdWxuEZpsjozxJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/z2mntgw06VvPybd1YlNBi5prg7N.jpg",
+    "rating": 7.176,
+    "overview": "Dall'omonimo libro di Gordon A. Prange, è la ricostruzione del 7 dicembre 1941, quando i giapponesi attaccarono la base di Pearl Harbor, raccontata dal punto di vista americano e da quello giapponese.",
+    "genres": [
+      "Guerra",
+      "Storia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 11158,
+    "imdb_id": "tt0104437",
+    "recent_until": 1794999236878,
+    "pegi": "",
+    "runtime": 89,
+    "title": "Tesoro, mi si è allargato il ragazzino",
+    "original_title": "Honey, I Blew Up the Kid",
+    "year": "1992",
+    "poster": "https://image.tmdb.org/t/p/w500/772LhN7ZnaNJ4VYkhFfZv1SX3eP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/r4Vx7kne6dovybAJR4LsR4eQCxP.jpg",
+    "rating": 5.295,
+    "overview": "Per colpa del padre, un inventore senza alcun futuro, un'intera famiglia si ritrova nei guai a causa della sua ultima invenzione: un raggio dilatatore.",
+    "genres": [
+      "Avventura",
+      "Commedia",
+      "Famiglia",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 9691,
+    "imdb_id": "tt0112401",
+    "recent_until": 1794999237082,
+    "pegi": "VM14",
+    "runtime": 132,
+    "title": "Assassins",
+    "original_title": "Assassins",
+    "year": "1995",
+    "poster": "https://image.tmdb.org/t/p/w500/kq7aVTQIBE88zpThL4pIDubxTmX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sYpmWBe1IO7Fxthtw3UmlzQEylK.jpg",
+    "rating": 6.498,
+    "overview": "Spionaggio industriale con omicidi su commissione, un sicario anziano e stanco, un sicario giovane e senza scrupoli che vuole soppiantare l'altro e una callida esperta di sistemi di vigilanza.",
+    "genres": [
+      "Azione",
+      "Avventura",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 12079,
+    "imdb_id": "tt0283003",
+    "recent_until": 1794999237392,
+    "pegi": "VM18",
+    "runtime": 101,
+    "title": "Spun",
+    "original_title": "Spun",
+    "year": "2003",
+    "poster": "https://image.tmdb.org/t/p/w500/aRSDMzIYX3xuziQVJYnEtMaaVzt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/57CjdO0N8erYJq234HCyYwkhq5K.jpg",
+    "rating": 6.6,
+    "overview": "Il racconto di un ragazzo apparentemente normale che, tra droghe spacciatori e sesso si ritrova coinvolto in una serie di eventi dai contorni a volte grotteschi, a volte tragici, all'insegna dello sballo perenne e dello stare sveglio ad ogni costo.",
+    "genres": [
+      "Crime",
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 7515,
+    "imdb_id": "tt0449061",
+    "recent_until": 1794999237603,
+    "pegi": "",
+    "runtime": 92,
+    "title": "London",
+    "original_title": "London",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/zvNHklUZcrwdN8xpL7Vsqedru5l.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uqchYxRnt7QRRRPa6Dm5NFigDXW.jpg",
+    "rating": 6.019,
+    "overview": "Syd è sconvolto dopo la fine della sua relazione con la bella e sexy London, così si distrugge con il consumo di alcool e sostanze stupefacenti. Quando verrà a sapere che la ragazza intende lasciare la città, farà di tutto per impedirglielo, presentandosi alla festa di addio che le hanno organizzato i suoi amici.",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 44009,
+    "imdb_id": "tt1431181",
+    "recent_until": 1794999237805,
+    "pegi": "",
+    "runtime": 129,
+    "title": "Another Year",
+    "original_title": "Another Year",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/25QAG3R4DKOX5CwB1r9N51mY1ho.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8VPwE9Owon0lOUi1FdTfakEPVZM.jpg",
+    "rating": 6.985,
+    "overview": "Primavera, estate, autunno e inverno. La famiglia e l'amicizia. Amore e comfort. Gioia e dolore. Speranza e disperazione. Fraternità. La solitudine. Una nascita. Una morte. Il tempo passa... Quattro stagioni, un anno di vita di diversi personaggi che ruotano intorno a Gerri e Tom, una coppia felice cui la vita ha regalato tutto: loro figlio Joe, gli amici Mary e Ken, il fratello di Tom, Ronnie, e altri ancora. Ma se la vita dei due coniugi appare perfetta, lo stesso non si può dire per gli altri.",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 111083,
+    "imdb_id": "tt1937149",
+    "recent_until": 1794999238012,
+    "pegi": "",
+    "runtime": 110,
+    "title": "El cuerpo",
+    "original_title": "El cuerpo",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/kN0Qh860I0MxmojG6lNRFkhB7C3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/z3gZRm7ZnWVyKpZHJ4vho7wRZW3.jpg",
+    "rating": 7.5,
+    "overview": "Una guardia notturna viene accidentalmente uccisa durante la fuga in preda al panico dall'obitorio dove lavora. A condurre le indagini viene chiamata la polizia, che in breve tempo scopre che il cadavere di una donna recentemente morta è scomparso. L'ispettore  Jaime Peña decide allora di rivolgersi al neo vedovo e nel corso di una sorprendente serata scopre la verità che si cela dietro la morte della donna prima di risolvere il mistero del corpo trafugato.",
+    "genres": [
+      "Thriller",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 934660,
+    "imdb_id": "tt12156974",
+    "recent_until": 1794999238561,
+    "pegi": "",
+    "runtime": 90,
+    "title": "We Feed People - Uno Chef in prima linea",
+    "original_title": "We Feed People",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/h2XPkbSmoPAqO9ib00Q7XeWO6qP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uEDZNUSBs4dURMauY3bNUYJBvnU.jpg",
+    "rating": 7.0,
+    "overview": "\"We Feed People - Uno Chef in prima linea\" punta i riflettori sullo chef Josè Andrès e sulla sua World Central Kitchen, impegnata in un'incredibile missione in continua evoluzione da più di 12 anni.",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
     "tmdb_id": 21964,
     "imdb_id": "tt0070800",
     "recent_until": 1794911843570,
