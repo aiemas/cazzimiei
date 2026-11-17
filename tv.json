@@ -1,5 +1,103 @@
 [
   {
+    "tmdb_id": 46511,
+    "imdb_id": "tt2384811",
+    "recent_until": 1795088322627,
+    "type": "tv",
+    "title": "Utopia",
+    "original_title": "Utopia",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/snOU6W5CU7aGVSVu29wBWzdzNzi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tynEoLA2cYONcUSz2OrCU0wSp6K.jpg",
+    "rating": 7.9,
+    "pegi": "",
+    "runtime": 50,
+    "overview": "La serie è un thriller cospirativo che racconta la storia dei possessori del sequel di un graphic novel, \"The Utopia Experiments\". Essi sono il bersaglio di una pericolosa organizzazione, capeggiata dal misterioso Mr. Rabbit, che tenterà con qualsiasi mezzo di procurarsi il manoscritto e conoscere il segreto di Utopia.",
+    "genres": [
+      "Mistero",
+      "Dramma",
+      "Commedia",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 4
+      },
+      {
+        "season": 1,
+        "episodes": 6
+      },
+      {
+        "season": 2,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 104877,
+    "imdb_id": "tt12439466",
+    "recent_until": 1795088322828,
+    "type": "tv",
+    "title": "Love Is in the Air",
+    "original_title": "Sen Çal Kapımı",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/w500/nzBenFJ2D2MCWTwTt2uc4BGWLtA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9qq8LpOoBLYq8MxiMugn0gf9qJd.jpg",
+    "rating": 8.2,
+    "pegi": "",
+    "runtime": 130,
+    "overview": "La giovane e bella Eda Yildiz, aspirante architetto, attribuisce all'attraente Serkan la colpa di aver dovuto rinunciare ad un'importante borsa di studio, l'occasione della sua vita. Serkan, per rimediare, le propone di fingersi la sua fidanzata per qualche mese, dietro lauto compenso, affinché lei possa riprendere gli studi e laurearsi. Questo strano sodalizio avrà risvolti inaspettati.",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 39
+      },
+      {
+        "season": 2,
+        "episodes": 13
+      }
+    ]
+  },
+  {
+    "tmdb_id": 133670,
+    "imdb_id": "tt15548198",
+    "recent_until": 1795088323027,
+    "type": "tv",
+    "title": "Work Later, Drink Now",
+    "original_title": "술꾼도시여자들",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/8xAhACoI550LTSzAPKlzdRUoPsh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zZZJeUCF2LSdFuQcHTIHLvLGKDh.jpg",
+    "rating": 8.1,
+    "pegi": "",
+    "runtime": 38,
+    "overview": "Tre donne single trentenni si riuniscono e parlano della vita di tutti i giorni, dal lavoro all'amore. Niente è più importante per loro che godersi un drink dopo il lavoro.",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": 5
+      },
+      {
+        "season": 1,
+        "episodes": 12
+      },
+      {
+        "season": 2,
+        "episodes": 12
+      }
+    ]
+  },
+  {
     "tmdb_id": 69272,
     "imdb_id": "tt6559980",
     "recent_until": 1794999240221,
