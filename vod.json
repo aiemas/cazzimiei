@@ -1,5 +1,259 @@
 [
   {
+    "tmdb_id": 1131943,
+    "imdb_id": "tt24818230",
+    "recent_until": 1795173938464,
+    "pegi": "",
+    "runtime": 110,
+    "title": "Madden",
+    "original_title": "Madden",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
+    "rating": 0.0,
+    "overview": "",
+    "genres": [
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1551025,
+    "imdb_id": "tt6611324",
+    "recent_until": 1795173938659,
+    "pegi": "",
+    "runtime": 0,
+    "title": "Guarding Stars",
+    "original_title": "Guarding Stars",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+    "rating": 0.0,
+    "overview": "Una bodyguard risoluta raggiunge un ranch in Montana con l'attore famoso che deve proteggere, ma fingersi una coppia per Natale farà presto nascere una vera storia d'amore.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 59037,
+    "imdb_id": "tt0166476",
+    "recent_until": 1795173938863,
+    "pegi": "18+",
+    "runtime": 89,
+    "title": "Amore tossico",
+    "original_title": "Amore tossico",
+    "year": "1983",
+    "poster": "https://image.tmdb.org/t/p/w500/hQwo0Nwek1kH9QE4ZOO0TN7XAgU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/866aJcimh30DVYRo3IMTqaKK3JR.jpg",
+    "rating": 7.3,
+    "overview": "Le storie di alcuni tossicodipendenti, Cesare, Roberto, Enzo, Massimo, Michela e Debora, e la loro incessante ricerca di una dose di droga fra la spiaggia di Ostia e il quartiere di Centocelle di Roma. Un'esistenza che si potrebbe definire di routine, con abitudini quotidiane incentrate sul consumo di stupefacenti.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 473262,
+    "imdb_id": "tt7186092",
+    "recent_until": 1795173939071,
+    "pegi": "T",
+    "runtime": 93,
+    "title": "Nico, 1988",
+    "original_title": "Nico, 1988",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/x3krhl7ZC1oaIWZXvmVkwvqFx3w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pGbeVDqwxvjD2R63dGeQRiDwbK1.jpg",
+    "rating": 6.725,
+    "overview": "Nico, 1988 è un road-movie dedicato agli ultimi anni di Christa Päffgen, in arte Nico. Musa di Warhol, cantante dei Velvet Underground e donna dalla bellezza leggendaria, Nico vive una seconda vita dopo la storia che tutti conoscono, quando inizia la sua carriera da solista. La sua musica è tra le più originali degli anni ‘70 e ‘80 ed ha influenzato tutta la produzione musicale successiva. La \"sacerdotessa delle tenebre\", così veniva chiamata, ritrova veramente se stessa dopo i quarant'anni, quando si libera del peso della sua bellezza e riesce a ricostruire un rapporto con il suo unico figlio dimenticato. Nico, 1988 racconta degli ultimi tour di Nico e della band che l'accompagnava in giro per l'Europa degli anni '80. È la storia di una rinascita, di un'artista, di una madre, di una donna oltre la sua icona.",
+    "genres": [
+      "Dramma",
+      "Musica"
+    ]
+  },
+  {
+    "tmdb_id": 574883,
+    "imdb_id": "tt8620646",
+    "recent_until": 1795173939288,
+    "pegi": "",
+    "runtime": 82,
+    "title": "An Affair to Die For - Relazione Omicida",
+    "original_title": "An Affair to Die For",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/sRVRyTTmUTk2JLxLgixIZo5hzlW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/l2iiSqwUYzM5l9sA0fAPZxdTyhr.jpg",
+    "rating": 5.725,
+    "overview": "La dottoressa Holly mente al marito Russell sulla relazione che intrattiene con un giovane di nome Everett. Gli racconta di essere a una conferenza a Santa Barbara ma in realtà parte per un resort a Palm Springs. Ben presto, finirà vittima del desiderio di vendetta del marito, che l’ha seguita fin lì…",
+    "genres": [
+      "Thriller",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 56366,
+    "imdb_id": "tt0065662",
+    "recent_until": 1795173939491,
+    "pegi": "T",
+    "runtime": 107,
+    "title": "Dramma della gelosia (tutti i particolari in cronaca)",
+    "original_title": "Dramma della gelosia (tutti i particolari in cronaca)",
+    "year": "1970",
+    "poster": "https://image.tmdb.org/t/p/w500/sPLTQXuzT1ikn8TFbfkbv0THgX4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sbJZTwa4VcJ6OH3QBWJLpqFZFxv.jpg",
+    "rating": 7.191,
+    "overview": "Oreste (Mastroianni), muratore maturo e coniugato, conosce la fioraia Adelaide (Vitti) e tra i due sboccia l'amore. Poi lei si innamora anche di un giovane pizzaiolo e Adelaide vorrebbe dividersi tra i due, ma Oreste non ci sta. Sconvolto dalla gelosia, quando l'amata decide di sposare l'altro, involontariamente la uccide.",
+    "genres": [
+      "Commedia",
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 23942,
+    "imdb_id": "tt0084469",
+    "recent_until": 1795173939689,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Paradise",
+    "original_title": "Paradise",
+    "year": "1982",
+    "poster": "https://image.tmdb.org/t/p/w500/oabFANpJkPqyN0CEQxPJ0xa78vs.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8f7TgUsnDTvJpdfOh6hPKmXiyuI.jpg",
+    "rating": 5.996,
+    "overview": "1823: una ragazza inglese rimane orfana a Bagdad. Sulla strada di Damasco, grazie a un provvidenziale mercante di schiavi arabo e assassino, resta sola con un ragazzo americano col quale scopre le gioie dell'amore in un'oasi nel deserto.",
+    "genres": [
+      "Romance",
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 18990,
+    "imdb_id": "tt0053085",
+    "recent_until": 1795173939891,
+    "pegi": "",
+    "runtime": 88,
+    "title": "La mummia",
+    "original_title": "The Mummy",
+    "year": "1959",
+    "poster": "https://image.tmdb.org/t/p/w500/eMzjPFPVOIkd8Ht77LmJFyoiASW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ie03Js6ZTipFr4i6eBGhNHmp0t0.jpg",
+    "rating": 6.7,
+    "overview": "Gli archeologi che scoprono 4.000 anni tomba della principessa Ananka vengono brutalmente assassinati, uno ad uno. Kharis, sommo sacerdote in Egitto 40 secoli fa, è stato portato in vita dal potere degli antichi dei ed il suo unico scopo è quello di distruggere i responsabili della profanazione della tomba sacra. Ma Isobel, moglie di uno degli esploratori, ricorda la bella principessa...",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 12530,
+    "imdb_id": "tt0068240",
+    "recent_until": 1795173940091,
+    "pegi": "",
+    "runtime": 138,
+    "title": "Che cosa è successo tra mio padre e tua madre?",
+    "original_title": "Avanti!",
+    "year": "1972",
+    "poster": "https://image.tmdb.org/t/p/w500/nWaQMdciqT6WYvXSmVVwrKZ7upb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/61jP8dg2Ui0GFjJm3HqayUmjQUt.jpg",
+    "rating": 6.937,
+    "overview": "Wendell Armbruster, un imprenditore di Baltimora, incontra la commessa londinese Pamela Piggott a Ischia, dove i due devono recarsi per ritirare le salme della madre di lei e del padre di lui, che sono rimasti uccisi in un incidente stradale dopo essersi amati per dieci anni.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 43947,
+    "imdb_id": "tt1242432",
+    "recent_until": 1795173940384,
+    "pegi": "",
+    "runtime": 108,
+    "title": "I Spit on Your Grave",
+    "original_title": "I Spit on Your Grave",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/sD5mBllYcBR5sQTyR2VGYhpHf6B.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/f4QIQvecRkKD5t7aPclyIr3SEP.jpg",
+    "rating": 6.517,
+    "overview": "Remake del film del 1978 Non violentate Jennifer. Jennifer è una giovane scrittrice che, per lavorare al suo nuovo libro, decide di lasciare la città in cui vive per isolarsi in una casa isolata di campagna. La sua presenza suscita curiosità e fastidio negli abitanti del paese adiacente: e una notte alcuni di loro entrano in casa sua per spaventarla. Ma quello che nasce come un gesto vandalico si trasforma presto in un orrido stupro di gruppo. Dopo aver subito violenza e torture. Data per morta dai suoi assalitori, jennifer riuscirà invece a sopravvivere e deciderà di vendicarsi dei suoi carnefici con la stessa crudeltà che le avevano riservato. Se non peggio.",
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 50204,
+    "imdb_id": "tt1320239",
+    "recent_until": 1795173940591,
+    "pegi": "",
+    "runtime": 91,
+    "title": "Ladri di cadaveri - Burke & Hare",
+    "original_title": "Burke & Hare",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/rMJHxUJfJjkvOdHdDpG9vAAFxts.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lmglBJjuzAqdvmvVomX69AXHYNk.jpg",
+    "rating": 6.088,
+    "overview": "Basato su una storia vera, il film racconta di due amici irlandesi nella Edimburgo dell'Ottocento, famosa in quel periodo per le prestigiose università di medicina. I protagonisti danno inizio ad una nuova professione: procurano cadaveri a medici e scienziati impegnati a studiare l'anatomia del corpo umano. Ma quando le salme cominciano a scarseggiare, Burk ed Hare metteranno in piedi i piani più strampalati per 'procurarseli' in maniera non proprio lecita.",
+    "genres": [
+      "Commedia",
+      "Crime",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1387382,
+    "imdb_id": "tt32537226",
+    "recent_until": 1795173940803,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Hunting season - Caccia estrema",
+    "original_title": "Hunting Season",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/hG4WWZf0eKe58rzBCxSNK82Cfzx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+    "rating": 7.351,
+    "overview": "Quando un survivalista solitario e sua figlia salvano una misteriosa donna ferita da un fiume, si ritrovano invischiati in una letale rete di violenza e vendetta, costretti ad affrontare un criminale brutale per sopravvivere.",
+    "genres": [
+      "Azione",
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 390401,
+    "imdb_id": "tt4575930",
+    "recent_until": 1795173941008,
+    "pegi": "",
+    "runtime": 104,
+    "title": "Custody",
+    "original_title": "Custody",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/9HBvD29HeQf0DeQx2ec4TgmRtS7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6u7MIOKpUgvOpfo6V7DdnAVTS6w.jpg",
+    "rating": 6.9,
+    "overview": "Quando una madre single laboriosa, Sara Diaz, si fa portare via i figli dopo essere sospettata di aver ferito suo figlio, Ally Fisher, neolaureata in giurisprudenza, viene incaricata di rappresentare il suo caso davanti al giudice Martha Schulman, una veterana del Sistema dei tribunali di famiglia.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 380225,
+    "imdb_id": "tt4621872",
+    "recent_until": 1795173941214,
+    "pegi": "T",
+    "runtime": 116,
+    "title": "La pazza gioia",
+    "original_title": "La pazza gioia",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/xOcKiBmOOiviDzEAzOzu3LATC88.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lmVtUoozJqZdXRB3pFM5aOzZprk.jpg",
+    "rating": 7.366,
+    "overview": "Beatrice è una sedicente contessa, chiacchierona e miliardaria, che ama credere di essere in intimità con i leader di tutto il mondo. Donatella è una giovane donna tatuata e tranquilla, chiusa nel proprio alone di mistero. Entrambe sono ricoverate in un istituto mentale e soggette a misure di custodia cautelare. Insieme danno vita a un'imprevedibile amicizia che le porta a fuggire dalle costrizioni del trattamento per un'avventura alla ricerca di divertimento e di amore in quel manicomio a cielo aperto che è il mondo delle persone sane.",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
     "tmdb_id": 659063,
     "imdb_id": "tt13669344",
     "recent_until": 1795088320050,

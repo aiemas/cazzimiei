@@ -1,5 +1,128 @@
 [
   {
+    "tmdb_id": 288120,
+    "imdb_id": "tt31844371",
+    "recent_until": 1795173943065,
+    "type": "tv",
+    "title": "Vienna Game",
+    "original_title": "Vienna Game",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 6
+      }
+    ]
+  },
+  {
+    "tmdb_id": 318420,
+    "imdb_id": "tt39161219",
+    "recent_until": 1795173943259,
+    "type": "tv",
+    "title": "I 12 segni di Valentina",
+    "original_title": "Os 12 Signos de Valentina",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Dopo un tradimento, Valentina giunge alla conclusione che il problema risieda nello zodiaco. Per dimostrare la sua tesi, decide di frequentare 12 uomini — uno per ogni segno zodiacale — e di raccontare tutto in un videocast. Ciò che non si aspettava è di trovare un nuovo amore.",
+    "genres": [
+      "Commedia"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 340280,
+    "imdb_id": "tt41559886",
+    "recent_until": 1795173943464,
+    "type": "tv",
+    "title": "Gordon",
+    "original_title": "Gordon",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 7
+      }
+    ]
+  },
+  {
+    "tmdb_id": 332839,
+    "imdb_id": "tt44079238",
+    "recent_until": 1795173943665,
+    "type": "tv",
+    "title": "La legge della bestia",
+    "original_title": "Prawo bestii",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xH8G1Knsus1dTqbSmdIOqHJ0nSu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Il panico torna a diffondersi in Polonia quando un assassino di minori è prossimo al rilascio, riaccendendo il conflitto morale tra la psichiatra e l'investigatrice coinvolte.",
+    "genres": [
+      "Dramma",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 4
+      }
+    ]
+  },
+  {
+    "tmdb_id": 337700,
+    "imdb_id": "tt46066662",
+    "recent_until": 1795173943872,
+    "type": "tv",
+    "title": "The Serial Killer Connection",
+    "original_title": "The Serial Killer Connection",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2QVTk55dw9tMUHDlG4027cOTNOv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6GYk6Fw9Biyfk39D70Y4oz2LgHL.jpg",
+    "rating": 7.333,
+    "pegi": "",
+    "runtime": null,
+    "overview": "La serie indaga sul serial killer Richard \"Marc\" Evonitz, che ha rapito, aggredito e ucciso diverse ragazze (tra cui Sofia Marlene Silva, Kristin Michelle Lisk e Kathryn Nicole Lisk).",
+    "genres": [
+      "Documentario",
+      "Crime"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
     "tmdb_id": 46511,
     "imdb_id": "tt2384811",
     "recent_until": 1795088322627,
