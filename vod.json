@@ -1,5 +1,76 @@
 [
   {
+    "tmdb_id": 1464883,
+    "imdb_id": "tt36580119",
+    "recent_until": 1795260236320,
+    "pegi": "",
+    "runtime": 106,
+    "title": "La torta del presidente",
+    "original_title": "The President's Cake",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/qvxykSWxdbjjpSweWaiIdGFXldx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
+    "rating": 7.404,
+    "overview": "Mentre la popolazione dell'Iraq degli anni '90 lotta per sopravvivere alla guerra e alla carestia, in tutte le scuole del Paese è obbligatorio preparare una torta per festeggiare il compleanno del Presidente Saddam Hussein. Nonostante le sue preghiere di non essere scelta, la piccola Lamia di 9 anni viene sorteggiata per questo ‘prestigioso’ compito. Giunta in città con la nonna, sfuggirà al suo controllo per cercare gli ingredienti necessari per la torta. Insieme al suo amico Saeed e al suo gallo andrà incontro a una serie di peripezie a volte avventurose a volte pericolose, ma anche buffe riuscendo alla fine – forse - nel suo intento.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 37903,
+    "imdb_id": "tt1149362",
+    "recent_until": 1795260236467,
+    "pegi": "",
+    "runtime": 144,
+    "title": "Il nastro bianco",
+    "original_title": "Das weiße Band – Eine deutsche Kindergeschichte",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/4ofEWTwzoHAfXBBd3Gue8fuIkZv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/9Cxi5RQzYAlkNI5FROWkoKgiNkJ.jpg",
+    "rating": 7.474,
+    "overview": "Una serie di misteriosi eventi si verificano in una comunità rurale nel nord della Germania nel 1913. Il misterioso rituale punitivo è forse legato al sistema scolastico? E l'educazione tedesca ha forse qualche influenza sull'ascesa del nazismo?",
+    "genres": [
+      "Dramma",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 40001,
+    "imdb_id": "tt0117104",
+    "recent_until": 1795260236604,
+    "pegi": "",
+    "runtime": 105,
+    "title": "Scambio di identità",
+    "original_title": "Mrs. Winterbourne",
+    "year": "1996",
+    "poster": "https://image.tmdb.org/t/p/w500/3W4HeLh2xHX6qKdrslnmlL2QtbM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/2peKSpj2WqR5QxHqS1xzrwkRfNd.jpg",
+    "rating": 7.264,
+    "overview": "Connie, ragazza senza famiglia, parte per New York in cerca di fortuna. Il primo incontro è con un poco di buono che, nel giro di qualche settimana, riesce solo a metterla incinta e a cacciarla di casa. Alla vigilia del parto, la disgraziata finisce su un treno per Boston, dove incontra il rampollo di una famiglia potente: i Winterbourne. Ma il treno deraglia, uccidendo il giovane e la sua fresca sposa in trepida attesa dell'erede.",
+    "genres": [
+      "Romance",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1987,
+    "imdb_id": "tt0103793",
+    "recent_until": 1795260236747,
+    "pegi": "",
+    "runtime": 105,
+    "title": "Benny's Video",
+    "original_title": "Benny's Video",
+    "year": "1992",
+    "poster": "https://image.tmdb.org/t/p/w500/w21dPYUIM2t8amHFHvoptMfiDV2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uH7zKI0YsvZhEju7f9NpVNhtjHw.jpg",
+    "rating": 6.9,
+    "overview": "La storia di Benny, un quattordicenne appassionato di film violenti. Quando si trova a guardare il video dell’uccisione di un maiale perde la testa, uccide una ragazza e filma il tutto con la sua videocamera.",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 1131943,
     "imdb_id": "tt24818230",
     "recent_until": 1795173938464,
