@@ -1,5 +1,132 @@
 [
   {
+    "tmdb_id": 340882,
+    "imdb_id": "tt0075572",
+    "recent_until": 1795346007340,
+    "type": "tv",
+    "title": "Radici",
+    "original_title": "Radici",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ze8lyeo5R8nWxnh6Tsa9u54SZnO.jpg",
+    "backdrop": null,
+    "rating": 0.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 4
+      }
+    ]
+  },
+  {
+    "tmdb_id": 308007,
+    "imdb_id": "tt36786185",
+    "recent_until": 1795346007540,
+    "type": "tv",
+    "title": "The Altruists",
+    "original_title": "The Altruists",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
+    "rating": 7.125,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Giovani, idealisti e improvvisamente miliardari, volevano fare del bene, ma hanno fatto emergere il peggio l'uno dall'altra. Una storia d'amore tossica ispirata a una frode reale.",
+    "genres": [
+      "Crime",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 280720,
+    "imdb_id": "tt34824495",
+    "recent_until": 1795346007753,
+    "type": "tv",
+    "title": "Gods of Egypt",
+    "original_title": "Gods of Egypt",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/wyD0xL4xejiKon8HsxWWNU25jeu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cbgpOMplt3N6lE2dtsWfVOgV1R7.jpg",
+    "rating": 7.0,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Un dream team di archeologi, storici e studiosi ci guiderà tra le pieghe dei miti fondativi dell'Antico Egitto, animati da un pantheon divino tanto potente quanto fragile, ripercorrendo, assieme allo spettatore, le straordinarie avventure di esseri sovrannaturali come Ra, Iside, Horus, Osiride, Seth e molti altri ancora.",
+    "genres": [],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 3
+      }
+    ]
+  },
+  {
+    "tmdb_id": 238106,
+    "imdb_id": "tt29615330",
+    "recent_until": 1795346008059,
+    "type": "tv",
+    "title": "Dieci capodanni",
+    "original_title": "Los años nuevos",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/50N3H0Wq7px1HtrXcidduoQAuD8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zxprUqcYanTstDcxuvZOMuOoJ1e.jpg",
+    "rating": 7.9,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Óscar compie trent'anni il 31 dicembre e la sua vita è quasi risolta. Ana compie trent'anni il primo gennaio, con una vita ancora irrisolta. Si incontrano, si innamorano e iniziano una relazione che durerà dieci anni.",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      }
+    ]
+  },
+  {
+    "tmdb_id": 59369,
+    "imdb_id": "tt21105638",
+    "recent_until": 1795346008263,
+    "type": "tv",
+    "title": "Spellbound",
+    "original_title": "Spellbound",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/t7l0XbTTT8NUISOBfPsop4kHbVc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/p2JFgczzy4JHRVSzgcyHNvrJItp.jpg",
+    "rating": 8.1,
+    "pegi": "",
+    "runtime": null,
+    "overview": "",
+    "genres": [
+      "Famiglia",
+      "Action & Adventure",
+      "Commedia",
+      "Sci-Fi & Fantasy",
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 26
+      },
+      {
+        "season": 2,
+        "episodes": 13
+      }
+    ]
+  },
+  {
     "tmdb_id": 288120,
     "imdb_id": "tt31844371",
     "recent_until": 1795173943065,

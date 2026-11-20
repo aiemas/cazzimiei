@@ -1,5 +1,150 @@
 [
   {
+    "tmdb_id": 958487,
+    "imdb_id": "tt19719904",
+    "recent_until": 1795346003727,
+    "pegi": "",
+    "runtime": 113,
+    "title": "Plan 75",
+    "original_title": "PLAN 75",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/qy6V327vtsk41dy9XI6rTRjtrxN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tdrDN4DoFJnNRRgbvGFVX4Gch5a.jpg",
+    "rating": 6.663,
+    "overview": "In un futuro non molto remoto il Giappone ha messo su un piano denominato Plan 75, con cui si cerca di spingere gli anziani all'eutanasia volontaria, per rimediare ai disagi sociali causati da una popolazione molto invecchiata. Una donna anziana con poche risorse per sopravvivere, un pragmatico venditore del piano e un giovane operaio filippino si confrontano così su scelte di vita e di morte.",
+    "genres": [
+      "Dramma",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 1156125,
+    "imdb_id": "tt28490044",
+    "recent_until": 1795346003932,
+    "pegi": "",
+    "runtime": 106,
+    "title": "Il male non esiste",
+    "original_title": "悪は存在しない",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/8e5Ez58etPqAPv7tNVDXfIZnyVc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/dojVTVK4H2Q0tx2A9NJSnI79OPm.jpg",
+    "rating": 6.827,
+    "overview": "Takumi e la figlia Hana vivono nel villaggio di Mizubiki, nei pressi di Tokyo. Come altre generazioni prima di loro, conducono una vita modesta assecondando i cicli e l’ordine della natura. Un giorno, gli abitanti del villaggio vengono a conoscenza del progetto di costruire, vicino alla casa di Takumi, un glamping, inteso a offrire ai residenti delle città una piacevole fonte di “evasione” nella natura. Quando due funzionari di Tokio giungono al villaggio per tenere un incontro, diventa chiaro che il progetto avrà un impatto negativo sulla rete idrica locale, e ciò causa il malcontento generale. Le intenzioni contraddittorie dell’agenzia mettono in pericolo sia l’equilibrio ecologico dell’altopiano sia lo stile di vita degli abitanti, con profonde ripercussioni sulla vita di Takumi.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 58706,
+    "imdb_id": "tt0082743",
+    "recent_until": 1795346004230,
+    "pegi": "",
+    "runtime": 93,
+    "title": "Mia moglie è una strega",
+    "original_title": "Mia moglie è una strega",
+    "year": "1980",
+    "poster": "https://image.tmdb.org/t/p/w500/pmnGcokotaicAuJbQo9SNzHNloa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cwTP3jCGjrUGhEFsNq3dQzpqgfh.jpg",
+    "rating": 5.943,
+    "overview": "Condannata al rogo nel 1656, la strega romana Finnicella torna a vivere, per sortilegio, ai giorni nostri, dove conosce un agente di borsa e si diverte a mandargli a monte l'imminente matrimonio.",
+    "genres": [
+      "Commedia",
+      "Fantasy"
+    ]
+  },
+  {
+    "tmdb_id": 41855,
+    "imdb_id": "tt0393297",
+    "recent_until": 1795346004434,
+    "pegi": "",
+    "runtime": 88,
+    "title": "Forget About It",
+    "original_title": "Forget About It",
+    "year": "2006",
+    "poster": "https://image.tmdb.org/t/p/w500/s5DKyWjjEWrp4w5J548bE3HHvmj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/potoVo6ofrkuhPZJHYHQatjEzUA.jpg",
+    "rating": 5.038,
+    "overview": "Benvenuti a Sunrise Village, un piccolo angolo di paradiso in un parco roulotte dove i veterani di guerra in pensione Sam, Carl ed Eddie si godono i loro anni d'oro mentre competono per l'affetto della loro sexy vicina. Quando si imbattono in una scorta di denaro della mafia, si ritrovano in fuga dalla mafia e dai federali in questa esilarante farsa sul mito che l'età porti saggezza.",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 46203,
+    "imdb_id": "tt0119404",
+    "recent_until": 1795346004636,
+    "pegi": "",
+    "runtime": 108,
+    "title": "Jane Eyre",
+    "original_title": "Jane Eyre",
+    "year": "1997",
+    "poster": "https://image.tmdb.org/t/p/w500/1j3MacXlWOJg0nrzmBfmlqPoWZp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hsBu64kDdca8ghEStr8FJB1d2g3.jpg",
+    "rating": 7.05,
+    "overview": "",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "televisione film"
+    ]
+  },
+  {
+    "tmdb_id": 803208,
+    "imdb_id": "tt31065630",
+    "recent_until": 1795346004986,
+    "pegi": "",
+    "runtime": 132,
+    "title": "Árva",
+    "original_title": "Árva",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/cfDIfmcIwBJddo5p3l3Q2CA9o5w.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/o30iuvWcb09UtxW5gDIPVhYkdb7.jpg",
+    "rating": 6.1,
+    "overview": "Budapest, 1957. Dopo la rivolta contro il regime comunista, il mondo di Andor, un ragazzino ebreo cresciuto dalla madre con narrazioni idealizzate sul padre defunto, viene sconvolto quando si presenta un uomo brutale che afferma di essere il suo vero padre.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 12193,
+    "imdb_id": "tt0369436",
+    "recent_until": 1795346005192,
+    "pegi": "",
+    "runtime": 88,
+    "title": "Tutti insieme inevitabilmente",
+    "original_title": "Four Christmases",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/w500/q33Q7wZc10OdTASGW8QIyvndi77.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6ZuYKN5wJKcuCw7o1WsbjYo68vz.jpg",
+    "rating": 5.812,
+    "overview": "Brad e Kate sono una coppia californiana non sposata che riesce a conservare salda l'unione anche grazie al fatto che ognuno dei due non conosce i genitori dell'altro. Nemmeno a Natale sono mai dovuti andare a far loro visita perché sono sempre riusciti a partire per un viaggio. Questa volta però le cose si mettono male, perché il loro volo per le Isole Fiji viene annullato e una giornalista televisiva intervistandoli fa sì che i genitori apprendano della loro presenza forzata in città. Diventa quindi obbligatorio andarli a trovare...",
+    "genres": [
+      "Commedia",
+      "Romance",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 842859,
+    "imdb_id": "tt10462154",
+    "recent_until": 1795346005990,
+    "pegi": "14+",
+    "runtime": 81,
+    "title": "Il dono più prezioso",
+    "original_title": "La Plus Précieuse des marchandises",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/nt8ENu1l8S5hV2fx3ijJaJHaasL.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oaYeZs1DMdyJC1Q2WJNBZ6uT6no.jpg",
+    "rating": 7.7,
+    "overview": "Il Povero Taglialegna e la Povera Taglialegna avevano perso un figlio e non potevano più averne. Fino al giorno in cui la donna, pregando il Dio del treno che passava attraverso i campi, trovò nella neve una neonata avvolta in un telo intessuto anche con fili d'oro. Era la più preziosa delle merci di quel convoglio: gettata fuori dal padre affinché si salvasse.",
+    "genres": [
+      "Animazione",
+      "Dramma",
+      "Storia"
+    ]
+  },
+  {
     "tmdb_id": 1464883,
     "imdb_id": "tt36580119",
     "recent_until": 1795260236320,
