@@ -1,5 +1,328 @@
 [
   {
+    "tmdb_id": 468206,
+    "imdb_id": "tt6892276",
+    "recent_until": 1795431044564,
+    "pegi": "T",
+    "runtime": 100,
+    "title": "Il premio",
+    "original_title": "Il premio",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/zjmQlBXj3XMNeFhVzZx1mySFWY1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iKLGWPHHH4iBgL0AcBSgSrmb0jC.jpg",
+    "rating": 6.0,
+    "overview": "Giovanni Passamonte, uomo cinico ed egocentrico, è uno scrittore di best seller. Quando gli comunicano che ha vinto il Premio Nobel per la Letteratura, parte in auto verso Stoccolma per andare a ritirare il premio insieme a Rinaldo, suo assistente da sempre, e i figli Oreste e Lucrezia. Il viaggio si rivelerà un’occasione unica per affrontare dinamiche familiari insospettabili e conoscersi veramente.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 521329,
+    "imdb_id": "tt8354414",
+    "recent_until": 1795431044734,
+    "pegi": "",
+    "runtime": 93,
+    "title": "Tonno spiaggiato",
+    "original_title": "Tonno spiaggiato",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/dmAFI18nypGhfAUBS5HnpcY63Uz.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sKdv8P0BcAqrOM7zqHwkkpnloaA.jpg",
+    "rating": 5.0,
+    "overview": "Francesco è un comico che mette il parmigiano ovunque e non fa ridere nessuno. L'unica che, alle sue battute pietose recitate in palcoscenico, scoppia in una risata è Francesca, e fra i due nasce un amore delicato e paradossale che dura per ben 15 settimane. Poi però Francesco ha la pessima idea di esibirsi in uno sketch che ha come oggetto di ridicolo proprio la sua ragazza, \"colpevole\" di avere qualche chilo in più: per la prima volta ridono tutti - tutti meno Francesca. La grande storia d'amore finisce, e Francesco non se ne fa una ragione: il suo destino di tonno spiaggiato rischia di rimanere tale per sempre. Per riconquistare la sua ormai ex ragazza questo quasi trentenne che va ancora in giro su una bicicletta con le rotelle dovrà inventarsi di tutto, fino al piano più assurdo: uccidere la zia di Francesca per poterne riabbracciare la nipote al funerale.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 516788,
+    "imdb_id": "tt7667558",
+    "recent_until": 1795431044901,
+    "pegi": "",
+    "runtime": 96,
+    "title": "Il tuttofare",
+    "original_title": "Il tuttofare",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/zsv0UzM0aprcAFZymWcwpx1vfFp.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/EZaW4mpJAszA0XNtk4tZSzR3F0.jpg",
+    "rating": 6.2,
+    "overview": "Questa è la storia di Antonio Bonocore (Gugliemo Poggi), praticante in legge che sogna un contratto nel prestigioso studio del suo mentore, il principe del foro Salvatore \"Toti\" Bellastella (Sergio Castellitto): professore di diritto penale, fine giurista, amante del mondo classico tanto che potrebbe sostenere una conversazione in latino e in greco antico, Bellastella è il non plus ultra tra gli avvocati italiani. Per lui Antonio fa tutto: assistente, portaborse, autista e perfino cuoco personale, per il momento a fronte soltanto di un miserrimo rimborso spese.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 70577,
+    "imdb_id": "tt1536410",
+    "recent_until": 1795431045073,
+    "pegi": "",
+    "runtime": 103,
+    "title": "Frammenti di un omicidio",
+    "original_title": "Faces in the Crowd",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/jp0x5R16JqzuBIrUrVXylP5cnqA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eL05IPWMWl4EzFMwej2vd5vwV9I.jpg",
+    "rating": 6.077,
+    "overview": "Una donna dopo essere sopravvissuta all'attacco di un serial killer si risveglia con un trauma celebrale, non è più in grado di riconoscere i volti delle persone...",
+    "genres": [
+      "Thriller",
+      "Crime"
+    ]
+  },
+  {
+    "tmdb_id": 416051,
+    "imdb_id": "tt5893264",
+    "recent_until": 1795431045255,
+    "pegi": "T",
+    "runtime": 110,
+    "title": "Quello che non so di lei",
+    "original_title": "D'après une histoire vraie",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/dIKvxd5o0eMJ8lNJMb4a6PK8DA8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vzyGBy8eEmP6QTnigfd0oi5GfO6.jpg",
+    "rating": 5.691,
+    "overview": "Dopo il successo del suo ultimo libro dedicato alla madre, la scrittrice Delphine attraversa un periodo non proprio facile. A complicarle l'esistenza è una ammiratrice il cui interesse rasenta l'ossessione: le sue lettere dal tono minatorio accusano la scrittrice di aver dato la sua famiglia in pasto al pubblico. A poco a poco, la relazione tra le due sarà profondamente segnata dalla personalità manipolatrice e predatoria della seconda, intenta a prendere il controllo sulla vita di Delphine.",
+    "genres": [
+      "Thriller",
+      "Mistero"
+    ]
+  },
+  {
+    "tmdb_id": 269198,
+    "imdb_id": "tt3691446",
+    "recent_until": 1795431045436,
+    "pegi": "",
+    "runtime": 100,
+    "title": "L'attentato - Sarajevo 1914",
+    "original_title": "Das Attentat - Sarajevo 1914",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/4sNwqUd37oMnObgAg2Q1tQAdHvG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rPygMRMB0iO7RDSjWQJZvvuUsT7.jpg",
+    "rating": 6.3,
+    "overview": "Il 28 giugno 1914 il Successore al Trono dell'Impero Austro-Ungarico, Francesco Ferdinando e la sua consorte Sofia, rest ano vittime di un attentato nella capitale bosmiaca Sarajevo. Il responsabile delle indagini, Leo Pfeffer, intrerroga gli attentatori serbi per stilare l'accusa. La pressione a cui é sottoposto Leo Pfeffer da Vienna e da Berlino, é notevole, poichè Germa nia e Austria vogliono la guerra.....",
+    "genres": [
+      "Thriller",
+      "Storia",
+      "Guerra",
+      "televisione film"
+    ]
+  },
+  {
+    "tmdb_id": 1307474,
+    "imdb_id": "tt33402927",
+    "recent_until": 1795431045600,
+    "pegi": "",
+    "runtime": 148,
+    "title": "A nome di mio figlio",
+    "original_title": "Vicentina Pede Desculpas",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/v6JBUlm6nIYx3ixF38I5ZVpQZgq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
+    "rating": 7.0,
+    "overview": "Dopo che il figlio provoca un incidente d'autobus, Vicentina contatta le famiglie delle vittime, determinata a chiedere perdono di persona mentre affronta il proprio dolore.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1595124,
+    "imdb_id": "tt14413964",
+    "recent_until": 1795431045769,
+    "pegi": "6+",
+    "runtime": 107,
+    "title": "Steps",
+    "original_title": "Steps",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/gXEMhP3LSrVNQ7iV6SPV4sqHKjU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+    "rating": 6.3,
+    "overview": "Pensavate di conoscere le sorellastre \"cattive\" di Cenerentola? Ripensateci! Quando la fraintesa Lilith verrà accusata di aver rovinato il Ballo Reale con una bacchetta magica rubata, trasformerà accidentalmente sua sorella Margot in una rana, lasciando il regno nelle mani di una perfida ragazzina ossessionata dal principe. Lilith, dovrà allearsi con Cenerentola e con un... troll sorprendentemente affascinante per salvare il regno, ricomporre la fiaba incrinata per dimostrare che anche i cosiddetti cattivi meritano un lieto fine.",
+    "genres": [
+      "Animazione",
+      "Famiglia",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1627922,
+    "imdb_id": "tt39640040",
+    "recent_until": 1795431045939,
+    "pegi": "",
+    "runtime": 36,
+    "title": "The Hotline",
+    "original_title": "The Hotline",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/qTgC6JjpEkaWFYR3dSMBxSITGJD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1ElTC8mV2LdkatxA7KgdbVJIGRo.jpg",
+    "rating": 10.0,
+    "overview": "",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1568060,
+    "imdb_id": "tt18351090",
+    "recent_until": 1795431046113,
+    "pegi": "",
+    "runtime": 108,
+    "title": "Perfetti bugiardi",
+    "original_title": "Perfectos mentirosos",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/1amYmUeoBi23kGcR2pWQclEzXk2.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
+    "rating": 6.7,
+    "overview": "Jude Derry si presenta all'esclusiva università di Tagus con una missione segreta: infiltrarsi nella cerchia ristretta dei fratelli Cash e scoprire la verità sulla morte di suo fratello. I tre eredi dell'impero Cash – Aegan, il primogenito carismatico e calcolatore; Adrik, l'enigmatico e misterioso fratello di mezzo; e Alex, il più giovane, ribelle e imprevedibile – governano Tagus con un magnetismo irresistibile. Quella che inizia come una vendetta personale si trasforma in un pericoloso triangolo di seduzione, attrazione proibita e menzogne, mentre Jude si ritrova invischiata nelle complesse dinamiche della famiglia Cash. Con ogni indizio che scopre, si avvicina a una verità che potrebbe non solo distruggere la potente famiglia, ma anche rivelare segreti che lei stessa potrebbe non essere pronta ad affrontare.",
+    "genres": [
+      "Dramma",
+      "Romance",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 9322,
+    "imdb_id": "tt0100263",
+    "recent_until": 1795431046298,
+    "pegi": "T",
+    "runtime": 115,
+    "title": "Nikita",
+    "original_title": "Nikita",
+    "year": "1990",
+    "poster": "https://image.tmdb.org/t/p/w500/crInwm7G8DNkpVF4sge6i12Z9Md.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rk56vslwBXUCcNlQ74s6gmpJqxa.jpg",
+    "rating": 7.105,
+    "overview": "Nikita, condannata all'ergastolo, in carcere viene ingaggiata dai servizi segreti: ufficialmente dichiarata morta, in realtà viene sottoposta a tre anni di training durissimo, agli ordini di Bob. Dopo un brillante battesimo del fuoco, Bob le dà una nuova identità come infermiera. Nikita conosce Marco, che lavora in un supermarket. I due vanno a vivere insieme, senza che Marco sospetti di nulla. La ragazza vorrebbe smettere, ma i suoi capi non glielo permettono.",
+    "genres": [
+      "Azione",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 27906,
+    "imdb_id": "tt1192620",
+    "recent_until": 1795431046469,
+    "pegi": "",
+    "runtime": 88,
+    "title": "Il richiamo della foresta",
+    "original_title": "Call of the Wild",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/mxIjxuafb8Kjb0CCd924OxeWZLl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/v46tTYpvpmOSTl4zs3l7m8vjvvv.jpg",
+    "rating": 5.9,
+    "overview": "E' un percorso di formazione quello che compie Ryann, capricciosa bambina che viene affidata al nonno durante le vacanze dei genitori. Bill, nonno affabile e tradizionalista, abita in una baita immersa nei boschi del Montana, ed è proprio la vita del posto ad annoiare l'imbronciata ragazzina, abituata a ben altri passatempi che non fare pupazzi di neve o raccogliere pigne. La vita in città per Ryann trascorreva cercando l'approvazione delle odiose compagne di scuola sempre all'ultima moda e attaccando sul quaderno dei desideri le foto degli oggetti da possedere, tra cui cellulari e vestiti. Dopo lo scetticismo iniziale, che le fa liquidare la natura da favola che la circonda con un \"ci sono solo alberi e neve\", Ryann inizia ad appassionarsi alla vita di montagna; a rendere possibile il cambiamento, il ritrovamento di un cane ferito (incrocio con un lupo selvatico) a cui la bimba si affeziona da subito e di cui si prende cura con un ritrovato entusiasmo.",
+    "genres": [
+      "Avventura"
+    ]
+  },
+  {
+    "tmdb_id": 705,
+    "imdb_id": "tt0042192",
+    "recent_until": 1795431046644,
+    "pegi": "",
+    "runtime": 138,
+    "title": "Eva contro Eva",
+    "original_title": "All About Eve",
+    "year": "1950",
+    "poster": "https://image.tmdb.org/t/p/w500/w66lytVc7qNp1WBGz4Ox1TVVFpI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zAL3LOswagN9onjN8DPcNFTqKuD.jpg",
+    "rating": 8.1,
+    "overview": "Eva Harrington, ragazza di modesta condizione, piena d'entusiasmo per il teatro, riesce, per mezzo di Karen Lloyd, moglie d'un celebre commediografo, ad avvicinare Margo Channing, grande attrice quarantenne, ancora bella e trionfante. Coi suoi modi insinuanti, spacciandosi per la vedova d'un caduto, Eva riesce ad accaparrarsi le simpatie e ad assicurarsi la protezione di Margo, che l'accoglie in casa sua come segretaria. Una sera Margo arriva in ritardo per la recita e trova Eva, che sta leggendo la sua parte. Quando il giornalista Addison De Witt, il regista Bill Simpson e Karen esaltano il talento d'Eva, Margo sente il morso della gelosia. Qualche tempo dopo, Karen, con uno stratagemma, rende impossibile a Margo di partecipare alla recita: Eva la sostituisce ottenendo un successo trionfale.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1119449,
+    "imdb_id": "tt1341338",
+    "recent_until": 1795431046899,
+    "pegi": "",
+    "runtime": 134,
+    "title": "Good Luck, Have Fun, Don't Die",
+    "original_title": "Good Luck, Have Fun, Don't Die",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/92wepAGh8ojxz1O4sJ1zHmGzh2p.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+    "rating": 7.113,
+    "overview": "Un uomo sposato che passa troppo tempo con un gioco di ruolo fantasy online incontra un uomo proveniente dal futuro con uno strano piano.",
+    "genres": [
+      "Fantascienza",
+      "Azione",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 11090,
+    "imdb_id": "tt0255798",
+    "recent_until": 1795431047067,
+    "pegi": "",
+    "runtime": 83,
+    "title": "Animal",
+    "original_title": "The Animal",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/w500/oNxEXmKTZtECHs0bQbI6dQoXYMV.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/nLWvnjWgm8CoVPaoaY2pNnVCwoz.jpg",
+    "rating": 5.152,
+    "overview": "Il dottor Wilde ha usato il corpo di Marvin Mange per uno strano esperimento; trasformare un essere umano in uno zoo ambulante.Marvin si ritrova così a passare dal sedentario lavoro di archivista della polizia alla mobilità disinvolta di numerose specie animali assemblate in un solo corpo. Si arrampica come una scimmia e nuota come un delfino. Rob Schneider, noto negli Usa per le sue performance al \"David Letterman Show\" e al \"Saturday Night Live\" si mette al servizio di questo Dottor Doolitle al contrario. Lui non parla con gli animali, 'è' una serie di animali. E' il classico film imperniato su un attore che, a quanto si dice, faceva ridere innanzitutto la troupe durante le riprese.",
+    "genres": [
+      "Commedia",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 24363,
+    "imdb_id": "tt0372334",
+    "recent_until": 1795431047265,
+    "pegi": "",
+    "runtime": 96,
+    "title": "House of D - Il mio amico speciale",
+    "original_title": "House of D",
+    "year": "2004",
+    "poster": "https://image.tmdb.org/t/p/w500/4t9m2Mxq30gh89ktmHzfJ1eBtpH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/98opTQ1UGgR1UVpOoLYVOh67JMK.jpg",
+    "rating": 6.304,
+    "overview": "Tom Warshaw, un artista americano che vive a Parigi, cerca di trovare un senso alla sua vita scapestrata riflettendo sulla sua infanzia straordinaria.",
+    "genres": [
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1309012,
+    "imdb_id": "tt32123395",
+    "recent_until": 1795431047431,
+    "pegi": "",
+    "runtime": 85,
+    "title": "Altered",
+    "original_title": "Altered",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/jVgLvefoKxVK92bdycXwN2a2Sem.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/q9bvjUkpKltPE0S9oxci2pmD1Zx.jpg",
+    "rating": 5.5,
+    "overview": "In un presente alternativo, gli esseri umani geneticamente modificati dominano la società. Gli emarginati Leon e Chloe lottano per ottenere giustizia contro i politici corrotti che sfruttano le disparità genetiche, rischiando il tutto per tutto per sfidare un sistema oppressivo e iniquo.",
+    "genres": [
+      "Fantascienza",
+      "Azione"
+    ]
+  },
+  {
+    "tmdb_id": 567646,
+    "imdb_id": "tt9541602",
+    "recent_until": 1795431047602,
+    "pegi": "",
+    "runtime": 111,
+    "title": "Geukhanjikeob",
+    "original_title": "극한직업",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/lzzb384pgYyr0GQvu3K2ZW62CEE.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3MUwpoEnsSNinnzVQ6mynvXBw7T.jpg",
+    "rating": 7.148,
+    "overview": "Una squadra antidroga tenta di abbattere un'organizzazione criminale e per farlo devono andare sotto copertura, quindi iniziano a lavorare in un ristorante di pollo, che diventa famoso per il suo delizioso pollo. A causa dell'inaspettata popolarità, gli investigatori si trovano in una situazione che non si sarebbero mai aspettati.",
+    "genres": [
+      "Azione",
+      "Commedia",
+      "Crime"
+    ]
+  },
+  {
     "tmdb_id": 958487,
     "imdb_id": "tt19719904",
     "recent_until": 1795346003727,

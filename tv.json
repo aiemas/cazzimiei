@@ -1,5 +1,92 @@
 [
   {
+    "tmdb_id": 116885,
+    "imdb_id": "tt13870732",
+    "recent_until": 1795431048984,
+    "type": "tv",
+    "title": "Mina Settembre",
+    "original_title": "Mina Settembre",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/klqaQvKd9l2w49hLJmXdpcIbN3D.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mCDEhFmkrgTNk8nqvPImbLkpvnx.jpg",
+    "rating": 6.6,
+    "pegi": "",
+    "runtime": 54,
+    "overview": "Mina Settembre è un'assistente sociale alla continua ricerca di una soluzione ai problemi degli altri. La sua vita sentimentale è sempre precaria e divisa tra l'affetto per Claudio, il suo ex-marito, e la passione per Domenico, un affascinante ginecologo. Anche la sua famiglia è a pezzi, tra una madre cinica e dispettosa e un padre, recentemente scomparso, che le ha tenuto nascosta una scottante verità. Ma nonostante tutto, Mina non perde il sorriso e la forza per aiutare tutti. Tratta dai racconti di Maurizio de Giovanni \"Un giorno di Settembre a Natale\" e \"Un telegramma di Settembre\".",
+    "genres": [
+      "Dramma"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 12
+      },
+      {
+        "season": 2,
+        "episodes": 12
+      },
+      {
+        "season": 3,
+        "episodes": 12
+      }
+    ]
+  },
+  {
+    "tmdb_id": 314131,
+    "imdb_id": "tt50666033",
+    "recent_until": 1795431049159,
+    "type": "tv",
+    "title": "Melania, la serie",
+    "original_title": "MELANIA the Series",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/zSrsB8xxvTHGCy4Q4ci5FDxipna.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ithzPRYsTWy5umOK9rSbTAiDGat.jpg",
+    "rating": 0.0,
+    "pegi": "T",
+    "runtime": null,
+    "overview": "Scopri la transizione di Melania Trump che diventa First Lady, si muove all'interno della Casa Bianca e dà inizio alla sua missione.",
+    "genres": [
+      "Documentario",
+      "War & Politics"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 2
+      }
+    ]
+  },
+  {
+    "tmdb_id": 66803,
+    "imdb_id": "tt4520992",
+    "recent_until": 1795431049431,
+    "type": "tv",
+    "title": "Falling Water",
+    "original_title": "Falling Water",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/8Zvcv8cehygUawphBcAk7N5kVoi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pxdmqxtJjuD1xMVpK4rKmw8IEyM.jpg",
+    "rating": 6.388,
+    "pegi": "",
+    "runtime": 45,
+    "overview": "Tre persone, che non hanno niente a che fare l'una con l'altra, scoprono di sognare parti separate dello stesso sogno. Così, decidono di unire le forze per svelare l'enigma che stanno vivendo.",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 10
+      },
+      {
+        "season": 2,
+        "episodes": 10
+      }
+    ]
+  },
+  {
     "tmdb_id": 340882,
     "imdb_id": "tt0075572",
     "recent_until": 1795346007340,
