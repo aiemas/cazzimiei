@@ -1,5 +1,80 @@
 [
   {
+    "tmdb_id": 44037,
+    "imdb_id": "tt1499249",
+    "recent_until": 1795517923223,
+    "pegi": "",
+    "runtime": 93,
+    "title": "Lake Placid 3 - Calma apparente",
+    "original_title": "Lake Placid 3",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/w500/Z1HkDT3JNGNI3aZBHHeNPrDDlx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zCJqzdXCKBnkIL5S618bDq4dMbT.jpg",
+    "rating": 5.014,
+    "overview": "La famiglia Bickerman ha ereditato la casa in riva in lago dove anni prima l’anziana signora allevava coccodrilli. Ora la zona è stata disinfestata dai rettili ma qualcosa è sopravvissuto e il piccolo Connor ha deciso di prendersene cura. Tre anni dopo, malgrado i Bickerman abbiano deciso di non abitare nella casa sul lago, i coccodrilli sono cresciuti grazie al cibo che il bambino ha portato loro quotidianamente, ma nel momento in cui Connor manca all’appuntamento con i suoi rettili, questi escono dall’acqua per cercare qualcosa da mettere sotto i denti, campeggiatori compresi.",
+    "genres": [
+      "Horror",
+      "Azione",
+      "Fantascienza",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 63197,
+    "imdb_id": "tt1087461",
+    "recent_until": 1795517923343,
+    "pegi": "",
+    "runtime": 86,
+    "title": "Megan Is Missing",
+    "original_title": "Megan Is Missing",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/lDmIqn0HJDjQJZDZaofuyaAnw2X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hGTK2dnm1vXYpr26QGWjXIVpI9l.jpg",
+    "rating": 6.137,
+    "overview": "Due amiche di 14 anni, Megan Stewart (Rachel Quinn) e Amy Herman (Amber Perkins). La prima è una ragazza popolare ma con un passato di abusi da parte del patrigno. La seconda è invece tormentata dai bulli. Un giorno, dopo aver conosciuto un ragazzo online, Megan sparisce, e Amber inizia a cercarla. Il finale è cupissimo e molto violento, e include una scena di violenza sessuale che è stata parecchio criticata all’epoca.",
+    "genres": [
+      "Dramma",
+      "Horror",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1004663,
+    "imdb_id": "tt21374850",
+    "recent_until": 1795517923539,
+    "pegi": "",
+    "runtime": 113,
+    "title": "Tutta la bellezza e il dolore - All the Beauty and the Bloodshed",
+    "original_title": "All the Beauty and the Bloodshed",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/5ZsCj5i5mohseqsOh3G8oUOhSu6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/anw7ONmtm1BrHd1Du0GQ5FoNd6r.jpg",
+    "rating": 7.2,
+    "overview": "Una storia intima ed emozionante, Leone d’Oro alla 79. Mostra del Cinema di Venezia.Le hanno detto che la sua fotografia non era arte, le hanno detto di stare zitta, le hanno detto che per quelli come lei, nel mondo, non c’era posto. Nan Goldin si è fatta strada nella vita con le unghie e con i denti, fino ad affermarsi come una delle più influenti fotografe contemporanee e come attivista di fama internazionale. La regista premio Oscar® Laura Poitras (CITIZENFOUR) racconta l’epopea umana e artistica di Goldin a partire dalla sua battaglia contro la famiglia Sackler, tra le maggiori responsabili della crisi degli oppioidi che negli ultimi venticinque anni ha causato negli Stati Uniti un incremento costante di morti per overdose da farmaco.",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1025596,
+    "imdb_id": "tt10669888",
+    "recent_until": 1795517923767,
+    "pegi": "",
+    "runtime": 98,
+    "title": "Blood for Dust",
+    "original_title": "Blood for Dust",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/xmf52xVodOmYJnXnFpKI7VxqLyv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bkENfmxUY3UYsRLizJAhF5IQPvS.jpg",
+    "rating": 5.916,
+    "overview": "L'incosciente Ricky guadagna un sacco di soldi trafficando armi illegali in tutta l'area dei tre stati e ama ostentarlo. Il commesso viaggiatore Cliff, percorre lo stesso territorio in cui Ricky traffica con le armi. Nel disperato tentativo di trovare un po' di sollievo finanziario per la sua famiglia in difficoltà, Cliff accetta di collaborare con Ricky per effettuare consegne di droga e armi da uno stato all'altro per conto di John, un boss di medio livello di un cartello americano. Quando un semplice scambio si trasforma in un bagno di sangue dopo che Ricky uccide tutti in un tentativo di accaparramento di territorio, i due si ritrovano in una situazione di pressione in cui l'improbabile spacciatore Cliff deve lottare con tutte le sue forze per sopravvivere.",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 468206,
     "imdb_id": "tt6892276",
     "recent_until": 1795431044564,
