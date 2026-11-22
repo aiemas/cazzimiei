@@ -1,106 +1,605 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>I miei Link</title>
-    <style>
-        /* Sfondo scuro statico e moderno (senza animazioni pesanti per la GPU) */
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            text-align: center;
-            background: #101726; /* Colore solido e leggero da renderizzare */
-            color: #ffffff;
-            padding: 50px 20px;
-            margin: 0;
-            min-height: 100vh;
-        }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>I miei Link</title>
 
-        h1 {
-            color: #ffffff;
-            font-size: 2.5rem;
-            margin-bottom: 10px;
-            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
-        }
+<style>
+:root {
+    --bg: #0b1020;
+    --panel: #151d30;
+    --panel2: #1c2740;
+    --accent: #4f8cff;
+    --accent2: #7c5cff;
+    --text: #f1f5ff;
+    --muted: #94a3bd;
+    --border: rgba(255,255,255,0.09);
+    --danger: #ff5268;
+}
 
-        p {
-            color: #b0c4de;
-            font-size: 1.1rem;
-            margin-bottom: 40px;
-        }
+* {
+    box-sizing: border-box;
+}
 
-        /* Contenitore per allineare i bottoni uno accanto all'altro */
-        .contenitore-bottoni {
-            display: flex;
-            flex-wrap: wrap;       
-            justify-content: center; 
-            gap: 15px;             
-            max-width: 1100px;
-            margin: 0 auto;
-        }
+body {
+    margin: 0;
+    min-height: 100vh;
+    padding: 40px 20px;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: var(--text);
+    background:
+        radial-gradient(circle at top left, rgba(79,140,255,0.15), transparent 35%),
+        radial-gradient(circle at bottom right, rgba(124,92,255,0.12), transparent 35%),
+        var(--bg);
+}
 
-        /* Stile dei bottoni ottimizzato (rimosso il "backdrop-filter" che rallentava tutto) */
-        .bottone {
-            display: inline-block;
-            width: 200px;
-            padding: 15px;
-            background: rgba(255, 255, 255, 0.08); /* Semplice colore semi-trasparente, leggerissimo */
-            color: white;
-            text-decoration: none;
-            font-weight: bold;
-            letter-spacing: 1px;
-            border: 1px solid rgba(255, 255, 255, 0.15);
-            border-radius: 12px; 
-            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-            transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease; /* Transizioni più veloci */
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis; 
-        }
+header {
+    text-align: center;
+    margin-bottom: 35px;
+}
 
-        /* Effetto hover/focus ultra-fluido (rimosse le ombre pesanti e sfumate) */
-        .bottone:hover, .bottone:focus {
-            background: #007bff; 
-            border-color: #007bff;
-            transform: translateY(-2px); 
-            outline: none;
-        }
-    </style>
+header h1 {
+    font-size: clamp(28px, 5vw, 42px);
+    margin: 0 0 12px;
+    letter-spacing: 1px;
+}
+
+header p {
+    color: var(--muted);
+    margin: 0;
+}
+
+.topbar {
+    max-width: 1200px;
+    margin: 0 auto 25px;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.search-box {
+    width: 100%;
+    max-width: 350px;
+    padding: 13px 16px;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    color: white;
+    outline: none;
+    font-size: 15px;
+}
+
+.search-box:focus {
+    border-color: var(--accent);
+}
+
+.action-btn {
+    padding: 12px 18px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: var(--panel2);
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+    transition: 0.2s;
+}
+
+.action-btn:hover {
+    background: var(--accent);
+    transform: translateY(-1px);
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.links-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 15px;
+}
+
+.link-card {
+    position: relative;
+    min-width: 0;
+}
+
+.link-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 65px;
+    width: 100%;
+    padding: 15px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 0.7px;
+    background: linear-gradient(145deg, #1b2740, #121a2b);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.18);
+    transition: 0.2s ease;
+    overflow-wrap: anywhere;
+}
+
+.link-button:hover {
+    transform: translateY(-3px);
+    background: linear-gradient(145deg, #347cff, #6551df);
+    border-color: transparent;
+    box-shadow: 0 8px 20px rgba(60,110,255,0.25);
+}
+
+.link-card.editing .link-button {
+    padding-right: 45px;
+}
+
+.card-actions {
+    display: none;
+    position: absolute;
+    right: 7px;
+    top: 7px;
+    gap: 4px;
+    z-index: 2;
+}
+
+.edit-mode .card-actions {
+    display: flex;
+}
+
+.mini-btn {
+    width: 29px;
+    height: 29px;
+    padding: 0;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    background: rgba(10,15,25,0.92);
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.mini-btn:hover {
+    background: var(--accent);
+}
+
+.mini-btn.delete:hover {
+    background: var(--danger);
+}
+
+.empty-message {
+    text-align: center;
+    color: var(--muted);
+    padding: 40px;
+    display: none;
+}
+
+.footer {
+    text-align: center;
+    color: var(--muted);
+    margin-top: 35px;
+    font-size: 13px;
+}
+
+/* MODALE */
+
+.modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 999;
+    background: rgba(0,0,0,0.72);
+    backdrop-filter: blur(5px);
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+
+.modal-overlay.show {
+    display: flex;
+}
+
+.modal {
+    width: 100%;
+    max-width: 480px;
+    background: #151d30;
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 25px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+}
+
+.modal h2 {
+    margin-top: 0;
+    margin-bottom: 22px;
+}
+
+.form-group {
+    margin-bottom: 16px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 14px;
+    color: var(--muted);
+}
+
+.form-group input {
+    width: 100%;
+    padding: 13px;
+    background: #0b1020;
+    color: white;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    outline: none;
+    font-size: 15px;
+}
+
+.form-group input:focus {
+    border-color: var(--accent);
+}
+
+.modal-buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 22px;
+}
+
+.modal-buttons button {
+    flex: 1;
+}
+
+.primary {
+    background: var(--accent);
+}
+
+.cancel {
+    background: #303b52;
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 30px 15px;
+    }
+
+    .links-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 10px;
+    }
+
+    .link-button {
+        min-height: 60px;
+        font-size: 13px;
+        padding: 12px 8px;
+    }
+
+    header h1 {
+        font-size: 28px;
+    }
+}
+</style>
 </head>
+
 <body>
 
-    <h1>Benvenuto nella mia pagina!</h1>
-    <p>Clicca sui pulsanti per visitare i siti:</p>
+<header>
+    <h1>🌐 I miei Link</h1>
+    <p>La tua raccolta personale, tutto in un unico posto</p>
+</header>
 
-    <div class="contenitore-bottoni">
-        <a href="https://topstream.help" class="bottone">TOPSTREAM</a>
-        <a href="https://zlive.st" class="bottone">ZLIVE</a>
-        <a href="https://streamcorner.st" class="bottone">STREAMCORNER</a>
-        <a href="https://dlive.sx" class="bottone">DADDY</a>
-        <a href="https://ppv.tj" class="bottone">PPV</a>
-        <a href="https://totalsporteke.is" class="bottone">TOTALSPORTEK</a>
-        <a href="https://footybite.page" class="bottone">FOOTYBITE</a>
-        <a href="https://soccerstreamsz.app" class="bottone">SOCCERSTREAMZ</a>
-        <a href="https://ntv.cx" class="bottone">NTV</a>
-        <a href="http://rojadirecta.eu" class="bottone">ROJA</a>
-        <a href="https://aiemas.github.io/miaf/index.html" class="bottone">FILM & SERIE</a>
-        <a href="https://sportsindx.st" class="bottone">SPORTSINDX</a>
-        <a href="https://fctv33.io" class="bottone">FCTV33</a>
-        <a href="https://vavoo.to" class="bottone">VAVOO</a>
-        <a href="https://istreameast.com.co" class="bottone">STREAMEAST</a>
-        <a href="https://falconstreams.st" class="bottone">FALCONSTREAMS</a>
-        <a href="https://cinevid.st" class="bottone">CINEVID</a>
-        <a href="https://livelive24.com" class="bottone">LIVE24</a>
-        <a href="https://1tube.org" class="bottone">1TUBE</a>
-        <a href="https://90minutes.pro" class="bottone">90MINUTES</a>
-        <a href="https://pluto.tv" class="bottone">PLUTO</a>
-        <a href="https://watchott.org" class="bottone">WATCHOTT</a>
-        <a href="https://xyzstreams.st" class="bottone">XYZSTREAMS</a>
-        <a href="https://tvnow247.top" class="bottone">TVNOW247</a>
-        <a href="https://rivestream.app" class="bottone">RIVEIPTV</a>
-        <a href="https://https://damitv.st/" class="bottone">DAMITV</a>
-        <a href="https://coach.direttecommunity.online/" class="bottone">DIRCOMMUNITY</a>
+<div class="topbar">
+    <input
+        type="text"
+        class="search-box"
+        id="search"
+        placeholder="🔎 Cerca un sito..."
+    >
+
+    <button class="action-btn" id="manageBtn">
+        ⚙️ Gestisci link
+    </button>
+
+    <button class="action-btn" id="addBtn">
+        ➕ Aggiungi
+    </button>
+</div>
+
+<div class="container">
+    <div class="links-grid" id="linksGrid"></div>
+    <div class="empty-message" id="emptyMessage">
+        Nessun link trovato.
     </div>
+</div>
+
+<div class="footer">
+    I tuoi link · Modifiche salvate automaticamente
+</div>
+
+<!-- MODALE AGGIUNTA / MODIFICA -->
+
+<div class="modal-overlay" id="modalOverlay">
+    <div class="modal">
+        <h2 id="modalTitle">Nuovo link</h2>
+
+        <div class="form-group">
+            <label for="linkName">Nome del sito</label>
+            <input type="text" id="linkName" placeholder="Es. GOOGLE">
+        </div>
+
+        <div class="form-group">
+            <label for="linkUrl">Indirizzo URL</label>
+            <input type="text" id="linkUrl" placeholder="https://www.example.com">
+        </div>
+
+        <div class="modal-buttons">
+            <button class="action-btn cancel" id="cancelBtn">Annulla</button>
+            <button class="action-btn primary" id="saveBtn">💾 Salva</button>
+        </div>
+    </div>
+</div>
+
+<script>
+const originalLinks = [
+    { name: "TOPSTREAM", url: "https://topstream.help" },
+    { name: "ZLIVE", url: "https://zlive.st" },
+    { name: "STREAMCORNER", url: "https://streamcorner.st" },
+    { name: "DADDY", url: "https://dlive.sx" },
+    { name: "PPV", url: "https://ppv.tj" },
+    { name: "TOTALSPORTEK", url: "https://totalsporteke.is" },
+    { name: "FOOTYBITE", url: "https://footybite.page" },
+    { name: "SOCCERSTREAMZ", url: "https://soccerstreamsz.app" },
+    { name: "NTV", url: "https://ntv.cx" },
+    { name: "ROJA", url: "http://rojadirecta.eu" },
+    { name: "FILM & SERIE", url: "https://aiemas.github.io/miaf/index.html" },
+    { name: "SPORTSINDX", url: "https://sportsindx.st" },
+    { name: "FCTV33", url: "https://fctv33.io" },
+    { name: "VAVOO", url: "https://vavoo.to" },
+    { name: "STREAMEAST", url: "https://istreameast.com.co" },
+    { name: "FALCONSTREAMS", url: "https://falconstreams.st" },
+    { name: "CINEVID", url: "https://cinevid.st" },
+    { name: "LIVE24", url: "https://livelive24.com" },
+    { name: "1TUBE", url: "https://1tube.org" },
+    { name: "90MINUTES", url: "https://90minutes.pro" },
+    { name: "PLUTO", url: "https://pluto.tv" },
+    { name: "WATCHOTT", url: "https://watchott.org" },
+    { name: "XYZSTREAMS", url: "https://xyzstreams.st" },
+    { name: "TVNOW247", url: "https://tvnow247.top" },
+    { name: "RIVEIPTV", url: "https://rivestream.app" },
+    { name: "DAMITV", url: "https://damitv.st/" },
+    { name: "DIRCOMMUNITY", url: "https://coach.direttecommunity.online/" },
+    { name: "AURA", url: "https://aurasports.cfd/" },
+    { name: "DAMITV", url: "https://ondemand.st/" },
+    { name: "FMHY", url: "https://fmhy.net/" },
+    { name: "DIRCOMM2", url: "https://action.direttecommunity.online/" },
+    { name: "STREAMINGCOMMUNITY", url: "https://streamingcommunityz.dad/" },
+    { name: "TIM", url: "https://tim-streams.com/" },
+    { name: "STREAMFREE", url: "https://strmfree.pk/" },
+    { name: "STRUMYK", url: "https://strumyk.pk/" },
+    { name: "CAPITAN", url: "https://capitanstrims.st/" },
+    { name: "ROXIE", url: "https://roxiestreams.su/" },
+    { name: "BINTV", url: "https://www.bintv.cc/?m=0/" },
+    { name: "FOOTBALL-X", url: "https://www.futbol-x.xyz/" }
+];
+
+const STORAGE_KEY = "my_personal_links_v1";
+
+let links = loadLinks();
+let editMode = false;
+let editingIndex = null;
+
+const grid = document.getElementById("linksGrid");
+const search = document.getElementById("search");
+const emptyMessage = document.getElementById("emptyMessage");
+const manageBtn = document.getElementById("manageBtn");
+const addBtn = document.getElementById("addBtn");
+const modal = document.getElementById("modalOverlay");
+const nameInput = document.getElementById("linkName");
+const urlInput = document.getElementById("linkUrl");
+const modalTitle = document.getElementById("modalTitle");
+
+function loadLinks() {
+    try {
+        const saved = localStorage.getItem(STORAGE_KEY);
+        if (saved) {
+            const parsed = JSON.parse(saved);
+            if (Array.isArray(parsed)) return parsed;
+        }
+    } catch (e) {
+        console.error("Errore caricamento link", e);
+    }
+
+    return [...originalLinks];
+}
+
+function saveLinks() {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(links));
+}
+
+function escapeHtml(text) {
+    return String(text).replace(/[&<>"']/g, function (char) {
+        return {
+            "&": "&amp;",
+            "<": "&lt;",
+            ">": "&gt;",
+            '"': "&quot;",
+            "'": "&#039;"
+        }[char];
+    });
+}
+
+function normalizeUrl(value) {
+    let url = value.trim();
+
+    if (!/^https?:\/\//i.test(url)) {
+        url = "https://" + url;
+    }
+
+    return url;
+}
+
+function renderLinks() {
+    const filter = search.value.trim().toLowerCase();
+
+    grid.innerHTML = "";
+
+    const filteredLinks = links
+        .map((link, index) => ({ link, index }))
+        .filter(item =>
+            item.link.name.toLowerCase().includes(filter) ||
+            item.link.url.toLowerCase().includes(filter)
+        );
+
+    filteredLinks.forEach(({ link, index }) => {
+        const card = document.createElement("div");
+        card.className = "link-card" + (editMode ? " editing" : "");
+
+        card.innerHTML = `
+            <a class="link-button"
+               href="${escapeHtml(link.url)}"
+               target="_blank"
+               rel="noopener noreferrer">
+                ${escapeHtml(link.name)}
+            </a>
+
+            <div class="card-actions">
+                <button class="mini-btn" title="Sposta a sinistra"
+                    data-action="up" data-index="${index}">◀</button>
+
+                <button class="mini-btn" title="Modifica"
+                    data-action="edit" data-index="${index}">✏️</button>
+
+                <button class="mini-btn delete" title="Elimina"
+                    data-action="delete" data-index="${index}">✕</button>
+
+                <button class="mini-btn" title="Sposta a destra"
+                    data-action="down" data-index="${index}">▶</button>
+            </div>
+        `;
+
+        grid.appendChild(card);
+    });
+
+    emptyMessage.style.display = filteredLinks.length === 0 ? "block" : "none";
+    grid.style.display = filteredLinks.length === 0 ? "none" : "grid";
+
+    document.body.classList.toggle("edit-mode", editMode);
+
+    manageBtn.textContent = editMode ? "✅ Fine modifica" : "⚙️ Gestisci link";
+    addBtn.style.display = editMode ? "inline-block" : "none";
+}
+
+function openModal(index = null) {
+    editingIndex = index;
+
+    if (index !== null) {
+        modalTitle.textContent = "✏️ Modifica link";
+        nameInput.value = links[index].name;
+        urlInput.value = links[index].url;
+    } else {
+        modalTitle.textContent = "➕ Nuovo link";
+        nameInput.value = "";
+        urlInput.value = "";
+    }
+
+    modal.classList.add("show");
+    setTimeout(() => nameInput.focus(), 100);
+}
+
+function closeModal() {
+    modal.classList.remove("show");
+    editingIndex = null;
+}
+
+function saveLink() {
+    const name = nameInput.value.trim();
+    const url = urlInput.value.trim();
+
+    if (!name || !url) {
+        alert("Inserisci sia il nome che l'indirizzo del sito.");
+        return;
+    }
+
+    const link = {
+        name: name.toUpperCase(),
+        url: normalizeUrl(url)
+    };
+
+    if (editingIndex !== null) {
+        links[editingIndex] = link;
+    } else {
+        links.push(link);
+    }
+
+    saveLinks();
+    renderLinks();
+    closeModal();
+}
+
+function deleteLink(index) {
+    if (!confirm(`Vuoi eliminare "${links[index].name}"?`)) return;
+
+    links.splice(index, 1);
+    saveLinks();
+    renderLinks();
+}
+
+function moveLink(index, direction) {
+    const newIndex = index + direction;
+
+    if (newIndex < 0 || newIndex >= links.length) return;
+
+    [links[index], links[newIndex]] = [links[newIndex], links[index]];
+
+    saveLinks();
+    renderLinks();
+}
+
+grid.addEventListener("click", function(event) {
+    const button = event.target.closest("[data-action]");
+    if (!button) return;
+
+    event.preventDefault();
+
+    const action = button.dataset.action;
+    const index = Number(button.dataset.index);
+
+    if (action === "edit") openModal(index);
+    if (action === "delete") deleteLink(index);
+    if (action === "up") moveLink(index, -1);
+    if (action === "down") moveLink(index, 1);
+});
+
+manageBtn.addEventListener("click", function() {
+    editMode = !editMode;
+    renderLinks();
+});
+
+addBtn.addEventListener("click", () => openModal());
+
+document.getElementById("saveBtn").addEventListener("click", saveLink);
+document.getElementById("cancelBtn").addEventListener("click", closeModal);
+
+search.addEventListener("input", renderLinks);
+
+modal.addEventListener("click", function(event) {
+    if (event.target === modal) closeModal();
+});
+
+document.addEventListener("keydown", function(event) {
+    if (event.key === "Escape") closeModal();
+
+    if (event.key === "Enter" && modal.classList.contains("show")) {
+        saveLink();
+    }
+});
+
+renderLinks();
+</script>
 
 </body>
 </html>
