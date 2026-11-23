@@ -1,5 +1,115 @@
 [
   {
+    "tmdb_id": 1611767,
+    "imdb_id": "tt39316936",
+    "recent_until": 1795608386384,
+    "pegi": "",
+    "runtime": 107,
+    "title": "Scontrarsi a Natale",
+    "original_title": "Clashing Through the Snow",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/1EgU1QFb9TXhMusCDHgwadkI73y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+    "rating": 0.0,
+    "overview": "Due editor rivali sul lavoro, costretti a condividere un'auto per raggiungere New York dopo che una bufera di neve blocca i voli natalizi, trasformano la loro competizione in amore durante un viaggio pieno di imprevisti.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 4543,
+    "imdb_id": "tt0085959",
+    "recent_until": 1795608386562,
+    "pegi": "VM14",
+    "runtime": 90,
+    "title": "Monty Python - Il senso della vita",
+    "original_title": "Monty Python's The Meaning of Life",
+    "year": "1983",
+    "poster": "https://image.tmdb.org/t/p/w500/jibVSxInjnboIdV4C7UjmFR38Er.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eIcJq4QDmToJeu4g6fS4iLPKY8n.jpg",
+    "rating": 7.3,
+    "overview": "In questo circo beffardo e dissacrante si scherza con la morte, la vita dopo la morte, le guerre coloniali, la follia e l'ipocrisia del nostro tempo, il Medioevo, il controllo delle nascite, cattolici e protestanti, l'educazione sessuale, la chirurgia e il sistema bancario che ispira il primo immaginoso sketch…",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 198,
+    "imdb_id": "tt0035446",
+    "recent_until": 1795608386747,
+    "pegi": "",
+    "runtime": 99,
+    "title": "Vogliamo vivere!",
+    "original_title": "To Be or Not to Be",
+    "year": "1942",
+    "poster": "https://image.tmdb.org/t/p/w500/bjJ5EF6JpBybmcGkxc08AN1h1Yd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/28vvMlh490bxipmhkbYTQissiof.jpg",
+    "rating": 7.824,
+    "overview": "Durante l'occupazione nazista della Polonia una compagnia teatrale viene coinvolta da un soldato polacco nello smascheramento di una spia tedesca.",
+    "genres": [
+      "Commedia",
+      "Guerra",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 9821,
+    "imdb_id": "tt0119670",
+    "recent_until": 1795608386994,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Basta guardare il cielo",
+    "original_title": "The Mighty",
+    "year": "1998",
+    "poster": "https://image.tmdb.org/t/p/w500/hPjWTwuQfIjPScb8pviydhNQm0q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wq41s88t8TUNDWWhpZQ65P4OhP8.jpg",
+    "rating": 7.2,
+    "overview": "Kevin (Kieran Culkin, fratello di Macaulay) usa le stampelle per una malformazione, Maxwell, grande e grosso, ma timido e impacciato, se lo porta in giro sulle spalle. Insieme si sentono forti e \"normali\" e possono affrontare i cattivi. Intorno a loro, genitori e nonni sono tutti molto bravi e umani, capaci di capire ogni sfumatura e di aiutare i due ragazzi nel modo migliore.",
+    "genres": [
+      "Dramma",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 15384,
+    "imdb_id": "tt1326972",
+    "recent_until": 1795608387176,
+    "pegi": "",
+    "runtime": 142,
+    "title": "La battaglia dei tre regni - Parte 2",
+    "original_title": "赤壁：決戰天下",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/vZm6obl20BAvLoK5zacKiTab4Pr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/taC4SMRB4UUbXL9R4680aJ4ejQK.jpg",
+    "rating": 7.3,
+    "overview": "Nel corso del terzo secolo d.C., la terra di Wu è invasa dal generale Cao Cao e dal suo esercito formato da un milione di soldati. Per salvare il proprio territorio, il sovrano Sun Quan chiede aiuto al rivale Liu Bei, ma le loro milizie restano insufficienti per fronteggiare l'attacco. Lo stratega di Wu, Zhou Yu, capisce che l'unico modo possibile per vincere la guerra è puntare sulle flotte navali, che sembrano essere l'unico punto debole dei nemici.",
+    "genres": [
+      "Azione",
+      "Storia",
+      "Guerra"
+    ]
+  },
+  {
+    "tmdb_id": 10877,
+    "imdb_id": "tt0242445",
+    "recent_until": 1795608387341,
+    "pegi": "",
+    "runtime": 101,
+    "title": "Ferite mortali",
+    "original_title": "Exit Wounds",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/w500/72l3C4qArLviZqpwBnL4OKB5PHr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4oYN6hr7AjMhmgaZ0tWjVOkfX75.jpg",
+    "rating": 5.9,
+    "overview": "Siamo a Detroit e un poliziotto troppo collerico e taciturno viene punito e spedito in un distretto a rischio. Spariscono cinquanta chili di eroina e il detective dal pugno facile sospetta che alcuni colleghi siano coinvolti nel giro degli affari sporchi. Combatterà, aldilà della legge, fino all'ultima mossa, con l'aiuto di Latrell Walker, genio di Internet e con un fratello in galera.",
+    "genres": [
+      "Azione",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 44037,
     "imdb_id": "tt1499249",
     "recent_until": 1795517923223,
