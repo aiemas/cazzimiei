@@ -1,5 +1,96 @@
 [
   {
+    "tmdb_id": 453272,
+    "imdb_id": "tt5929226",
+    "recent_until": 1795699723958,
+    "pegi": "T",
+    "runtime": 115,
+    "title": "Cuori puri",
+    "original_title": "Cuori puri",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/sQg8iP9QuPCt1jfacvZr5MQCUOi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3fsJxEEkWVodiCd9U0V93twZlug.jpg",
+    "rating": 6.1,
+    "overview": "Agnese compie i diciotto anni mentre vive con una madre molto devota e frequenta la parrocchia locale dove sta per compiere una promessa di castità fino al giorno delle nozze. Stefano ha venticinque anni, un passato difficile e un presente in cui deve cercare di conservare l'incarico di custode di un parcheggio che confina con un campo rom. La sua famiglia sta per essere sfrattata e ha bisogno del suo aiuto. Il loro incontro farà nascere un sentimento speciale che implica delle scelte importanti, in particolare per Agnese.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1829270,
+    "imdb_id": "tt51547822",
+    "recent_until": 1795699724098,
+    "pegi": "",
+    "runtime": 107,
+    "title": "Chiara",
+    "original_title": "Chiara",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/9RBmF9jjnnB33m2znLfYaAM6Qwc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jLBmW2x2AFxtg7wtBO29hSBmwZa.jpg",
+    "rating": 5.5,
+    "overview": "L'influencer Chiara Ferragni parla per la prima volta del clamoroso scandalo che ha travolto la sua carriera e segnato la fine del suo matrimonio da copertina.",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 488,
+    "imdb_id": "tt0043265",
+    "recent_until": 1795699724238,
+    "pegi": "",
+    "runtime": 103,
+    "title": "La regina d'Africa",
+    "original_title": "The African Queen",
+    "year": "1952",
+    "poster": "https://image.tmdb.org/t/p/w500/vGDnsInycDnaWmZBtCV72f7CetN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wCJP24CYlsx632qYknoJkMRmvP7.jpg",
+    "rating": 7.324,
+    "overview": "Prima Guerra Mondiale in Africa. Un rozzo avventuriero e una energica missionaria nordamericani discendono in battello un fiume africano con l'assurdo proposito di affondare una nave da guerra tedesca in un grande lago.",
+    "genres": [
+      "Avventura",
+      "Romance",
+      "Guerra",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 17962,
+    "imdb_id": "tt0165078",
+    "recent_until": 1795699724413,
+    "pegi": "",
+    "runtime": 118,
+    "title": "After Life - Qual è il tuo ricordo più bello?",
+    "original_title": "ワンダフルライフ",
+    "year": "1999",
+    "poster": "https://image.tmdb.org/t/p/w500/yfxd7XVMPpTDtvU3lU8RXUqnvmt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pXOsdvH4xuprxGmZMiCJsRAowi7.jpg",
+    "rating": 7.238,
+    "overview": "In un freddo lunedì mattina, un gruppo di consulenti timbra il cartellino in un ufficio di servizi sociali vecchio stile. Il loro compito è quello di intervistare le persone recentemente decedute, registrare i loro dettagli personali, poi, nel corso della settimana, assisterle nella scelta di un singolo ricordo da conservare per l'eternità.",
+    "genres": [
+      "Fantasy",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 14198,
+    "imdb_id": "tt0362526",
+    "recent_until": 1795699724553,
+    "pegi": "",
+    "runtime": 87,
+    "title": "Criminal",
+    "original_title": "Criminal",
+    "year": "2004",
+    "poster": "https://image.tmdb.org/t/p/w500/tKMt7OIb2xbB0FbroZlS9V7ab3K.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zehty7MIyCKGv9uE3Tfqa3ZquzO.jpg",
+    "rating": 6.237,
+    "overview": "Rodrigo è un ragazzo di origini latine che farebbe di tutto per aiutare suo padre e la sua famiglia, mentre Richard Gaddis ha solo un interesse: fare soldi. Quando vengono in contatto con un grande colpo decidono di mettersi insieme per portare a termine questo atto criminale.",
+    "genres": [
+      "Azione",
+      "Commedia",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 1611767,
     "imdb_id": "tt39316936",
     "recent_until": 1795608386384,
