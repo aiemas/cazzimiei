@@ -1,5 +1,115 @@
 [
   {
+    "tmdb_id": 1280115,
+    "imdb_id": "tt32213169",
+    "recent_until": 1795782485207,
+    "pegi": "6+",
+    "runtime": 106,
+    "title": "Scuola per guerrieri coraggiosi",
+    "original_title": "Way of the Warrior Kid",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/naeCYQHH3CJ6uj47EYd9jHNtxIe.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
+    "rating": 7.5,
+    "overview": "Jake, un Navy SEAL ferito, diventa il mentore del timido Marc e, con la disciplina militare, lo aiuta a diventare un vero Guerriero alle superiori.",
+    "genres": [
+      "Dramma",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 1585476,
+    "imdb_id": "tt38867373",
+    "recent_until": 1795782485382,
+    "pegi": "",
+    "runtime": 85,
+    "title": "Kevin Costner Presents: The First Christmas",
+    "original_title": "Kevin Costner Presents: The First Christmas",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/yXPmDhPj26JqEekHIruDtENSrsj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zfN93jpbjqh08IUYKwQfDwJl5pE.jpg",
+    "rating": 6.4,
+    "overview": "Kevin Costner conduce un racconto dedicato al viaggio di Maria e Giuseppe e alle difficoltà che precedono la nascita di Gesù. Lo speciale ripercorre le vicende della Natività attraverso una prospettiva narrativa e storica legata al significato del Natale.",
+    "genres": [
+      "Documentario",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1281331,
+    "imdb_id": "tt37510326",
+    "recent_until": 1795782485561,
+    "pegi": "T",
+    "runtime": 113,
+    "title": "The Social - Il prezzo della verità",
+    "original_title": "The Social Reckoning",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/mJv5sV2knJtLy5ELIOilryhV59o.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+    "rating": 7.1,
+    "overview": "Frances Haugen, giovane ingegnere di Facebook, si avvale dell'aiuto di Jeff Horwitz, un reporter del Wall Street Journal, per intraprendere un pericoloso viaggio che finisce per rivelare i segreti più custoditi del social network.",
+    "genres": [
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 82658,
+    "imdb_id": "tt0296846",
+    "recent_until": 1795782485739,
+    "pegi": "",
+    "runtime": 95,
+    "title": "Senza filtro",
+    "original_title": "Senza Filtro",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/w500/rNT8OqsvEVuQSJ7co4VAECX2vaI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cCWULXHiX9v90LYvQtuq6x8BHvF.jpg",
+    "rating": 5.5,
+    "overview": "Il film è girato nella periferia milanese (Barona), dove vivono i due ragazzi protagonisti: Nico (J-Ax) e Ray (Dj Jad).\r Un giorno dall'incontro dei due e dalle reciproche conoscenze nasce un folto gruppo di amici. I giovani si trovano ad affrontare le piaghe che affliggono alcune zone cittadine (droga, violenza), ma anche coinvolti in storie d'amore, passioni e tradimenti, fino ad entrare a contatto con la morte.\r I lieti e tragici avvenimenti formano lo spirito di gruppo dei ragazzi, traghettandoli dalla fase adolescenziale verso quella adulta.",
+    "genres": [
+      "Musica",
+      "Commedia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1567605,
+    "imdb_id": "tt38773219",
+    "recent_until": 1795782485925,
+    "pegi": "",
+    "runtime": 118,
+    "title": "Scrooge e gli spiriti del Natale",
+    "original_title": "Ebenezer",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/nlf6gq2mGlbMmk1fKtp12xOVEvI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/274ahmbkJSzdmcWrWSTu9DFv5rp.jpg",
+    "rating": 7.529,
+    "overview": "Un anziano avaro intraprende un viaggio soprannaturale dopo che le visite del fantasma del suo ex socio in affari e degli Spiriti del Natale passato, presente e ancora da venire lo costringono a confrontarsi con il suo passato e a lottare per una seconda possibilità di felicità.",
+    "genres": [
+      "Fantasy",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 993708,
+    "imdb_id": "tt21187592",
+    "recent_until": 1795782486527,
+    "pegi": "",
+    "runtime": 112,
+    "title": "The Threesome",
+    "original_title": "The Threesome",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/7vQUAw3CX60dhzgzC7BQZFN7Y31.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vXYRqIySwaa56quJGRKxXfSaTh0.jpg",
+    "rating": 6.299,
+    "overview": "",
+    "genres": [
+      "Commedia",
+      "Romance",
+      "Dramma"
+    ]
+  },
+  {
     "tmdb_id": 453272,
     "imdb_id": "tt5929226",
     "recent_until": 1795699723958,

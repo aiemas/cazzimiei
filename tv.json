@@ -1,5 +1,62 @@
 [
   {
+    "tmdb_id": 171802,
+    "imdb_id": "tt18224594",
+    "recent_until": 1795782487798,
+    "type": "tv",
+    "title": "Blade Runner 2099",
+    "original_title": "Blade Runner 2099",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
+    "rating": 3.8,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Cinquant’anni dopo gli eventi di Blade Runner 2049, Los Angeles è rinata, ma non per opera dell’umanità. Cora, una fuggitiva che cerca disperatamente di smettere di scappare, assume un’ultima identità: quella di Blade Runner. Costretta a fare squadra con Olwen, una replicante ormai in fin di vita, si mette sulle tracce di un fuggitivo che nasconde una verità che potrebbe far crollare la loro fragile città.",
+    "genres": [
+      "Sci-Fi & Fantasy"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 8
+      }
+    ]
+  },
+  {
+    "tmdb_id": 318906,
+    "imdb_id": "tt41672842",
+    "recent_until": 1795782487989,
+    "type": "tv",
+    "title": "Salish & Jordan Matter",
+    "original_title": "Salish & Jordan Matter",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/7OAira31G4FLCG64cIdUe9R7UIj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/d8tVPtlvJ4219WknD3GvPmxg3Xh.jpg",
+    "rating": 7.833,
+    "pegi": "",
+    "runtime": null,
+    "overview": "Salish deve sopravvivere 24 ore in situazioni insolite, come vivere in una casa gestita solo da telecamere mentre Jordan la osserva da lontano.",
+    "genres": [
+      "Reality",
+      "Kids"
+    ],
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": 7
+      },
+      {
+        "season": 2,
+        "episodes": 6
+      },
+      {
+        "season": 3,
+        "episodes": 8
+      }
+    ]
+  },
+  {
     "tmdb_id": 99233,
     "imdb_id": "tt11717866",
     "recent_until": 1795699725412,
