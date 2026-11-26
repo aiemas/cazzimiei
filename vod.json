@@ -1,5 +1,148 @@
 [
   {
+    "tmdb_id": 300673,
+    "imdb_id": "tt2025690",
+    "recent_until": 1795867704308,
+    "pegi": "",
+    "runtime": 117,
+    "title": "L'ultima tempesta",
+    "original_title": "The Finest Hours",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/iTESsq8zphTv0Xni3Me1zvzlBmI.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/soW3KH0OWzTooeXPm624mMfXI0X.jpg",
+    "rating": 6.603,
+    "overview": "Il 18 febbraio 1952, una terribile tempesta colpisce il New England, devastando intere città della costa orientale e devastando le imbarcazioni che sfortunatamente si trovano nella sua traiettoria. Fra queste, la SS Pendleton, una petroliera T-2 diretta a Boston, viene letteralmente spezzata in due: i 30 marinai intrappolati a poppa sono destinati a un rapido naufragio. Il primo ufficiale di bordo Ray Sybert si rende conto di dover far fronte all’emergenza e superare una delle peggiori tempeste che si siano mai abbattute sull’East Coast. Nel frattempo, la notizia del disastro raggiunge la Guardia Costiera di Chatham, nel Massachusetts. Il Sergente Maggiore Daniel Cluff dà ordine di effettuare una rischiosa operazione per mettere in salvo i naufraghi: quattro uomini guidati dal Capitano Bernie Webber, si imbarcano su una scialuppa di salvataggio dal motore difettoso, quasi sprovvisti di reali mezzi di navigazione, contro onde di 18 metri, venti sferzanti e temperature glaciali.",
+    "genres": [
+      "Azione",
+      "Dramma",
+      "Storia",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 24561,
+    "imdb_id": "tt1010055",
+    "recent_until": 1795867704510,
+    "pegi": "T",
+    "runtime": 111,
+    "title": "Yattaman - Il film",
+    "original_title": "ヤッターマン",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/w500/1C0Uw44cRLmRHSkWaEGEFsocKCr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hiUY16irOAebelGeATnlF7Tcjmu.jpg",
+    "rating": 6.1,
+    "overview": "Ganchan e la sua ragazza Janet costruiscono straordinari robot e quando il mondo è in pericolo si trasformano nei supereroi Yattaman. L'occasione per una nuova impresa si presenta quando la giovane Shoko chiede il loro aiuto per ritrovare il padre, scomparso in Egitto mentre era sulle tracce di uno dei quattro frammenti della potente Pietra Dokrostone. Qualcun altro è infatti alla ricerca della mitica Pietra. Si tratta degli acerrimi nemici degli Yattaman: il trio Drombo, composto dalla bellissima e perfida Miss Dronjo, e dai suoi tirapiedi Boyakki e Tonzula. I Drombo, con l'aiuto del misterioso Dottor Dokrobei ingaggiano con gli Yattaman una dura battaglia per il possesso della Dokrostone... e per il destino del mondo.",
+    "genres": [
+      "Azione",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1070244,
+    "imdb_id": "tt18274542",
+    "recent_until": 1795867704712,
+    "pegi": "",
+    "runtime": 104,
+    "title": "Io vivo altrove!",
+    "original_title": "Io vivo altrove!",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/KEh6a9SJ2PRDAmfcukLophGtnx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fTuE5Od9dSIvHQyR78fWfbN8qYN.jpg",
+    "rating": 5.6,
+    "overview": "Biasutti e Perbellini hanno lo stesso nome, Fausto, e odiano entrambi la vita nella grande città. Si conoscono per caso durante una gita per fotoamatori, diventano amici e iniziano a coltivare insieme il sogno di andare a vivere in campagna, mantenendosi con il frutto delle proprie fatiche. Quando Biasutti eredita la vecchia casa della nonna a Valvana, sulle colline del nord est, il sogno può finalmente diventare realtà: l'accoglienza in paese, però, si dimostra meno calorosa del previsto.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1464341,
+    "imdb_id": null,
+    "recent_until": 1795867704925,
+    "pegi": "",
+    "runtime": 0,
+    "title": "Ambra Sabatini - A un metro dal traguardo",
+    "original_title": "Ambra Sabatini - A un metro dal traguardo",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/mCTqCvV5ElCMxDFoZTGpqNlJM6u.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fIRDIgIpaH1BPTmn8BG59DXdX5X.jpg",
+    "rating": 0.0,
+    "overview": "La storia di Ambra Sabatini, che ad un solo anno dall’incidente stradale in cui perde una gamba, vince la medaglia d’oro alle Paralimpiadi di Tokyo, registrando il record mondiale nei 100mt. Nel 2023 arriva ai mondiali di Parigi e conquista ancora una volta la posizione più alta del podio. La narrativa del lungometraggio è però scandita dall’ultima sfida, la Paralimpiade di Parigi 2024, che porta con sé il peso di grandi aspettative e la consapevolezza di avere tutti i riflettori puntati addosso. La pressione è stata altissima e Ambra ha dovuto fare i conti con se stessa, oltre che con le avversarie. Restare in equilibrio, non perdere lucidità, non farsi prendere dall’ansia e dalla paura che sia tutto troppo. Il film racchiude un insieme di emozioni e di messaggi che arriveranno dritti al cuore delle nuove generazioni.",
+    "genres": []
+  },
+  {
+    "tmdb_id": 705715,
+    "imdb_id": "tt10368460",
+    "recent_until": 1795867705164,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Burraco fatale",
+    "original_title": "Burraco fatale",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/w500/66YEopBtmrD7bUUeyXRTUMbGosr.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jIejXLLwbsDCfs3nzvKNjxTs9DS.jpg",
+    "rating": 3.779,
+    "overview": "Irma (Claudia Gerini), Eugenia (Angela Finocchiaro), Miranda (Caterina Guzzanti) e Rina (Paola Minaccioni) sono quattro donne diverse, ognuna con il proprio carattere, le proprie debolezze e le proprie eccentricità, ma legate da una conoscenza profonda e duratura nel tempo, unita e scandita dalle loro irrinunciabili partite a carte. Quando decidono di partecipare ad un torneo nazionale di burraco e uscire dalla loro quotidianità, si ritroveranno improvvisamente a carte scoperte. La vita offre sempre una seconda occasione e l’amore può tornare a stravolgere a qualsiasi età. Del resto, è proprio il gioco del burraco ad avergli insegnato che una partita va giocata tutta, fino in fondo, e che nessun risultato è mai scontato.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1458300,
+    "imdb_id": "tt36413910",
+    "recent_until": 1795867705371,
+    "pegi": "",
+    "runtime": 128,
+    "title": "The Mosquito Bowl",
+    "original_title": "The Mosquito Bowl",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
+    "rating": 7.0,
+    "overview": "Dopo l’attacco a Pearl Harbor, quattro delle migliori stelle del football universitario statunitense mettono da parte la fama per arruolarsi nei Marines. Mentre si preparano alla brutale invasione di Okinawa, disputano una partita leggendaria che vede protagonisti alcuni dei più grandi giocatori della storia – una partita che, per molti, sarà l’ultima in assoluto…",
+    "genres": [
+      "Guerra",
+      "Storia",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 245703,
+    "imdb_id": "tt2649554",
+    "recent_until": 1795867705690,
+    "pegi": "",
+    "runtime": 112,
+    "title": "Midnight special - Fuga nella notte",
+    "original_title": "Midnight Special",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/wZjgeiMc6upgnxLfDp6wjHY2xZu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/23COMNwqP8q4rWPtLGTBuCD3LnT.jpg",
+    "rating": 6.264,
+    "overview": "Roy Tomlin si mette in fuga con l'amico Lucas e col figlio di otto anni, Alton Meyer, per proteggere quest'ultimo dagli adepti di una setta religiosa, che lo ritengono un profeta, e da un gruppo di agenti dell'FBI, che lo cercano per conto del governo, dopo che il bambino ha sviluppato una serie di particolari poteri sovrannaturali.",
+    "genres": [
+      "Avventura",
+      "Dramma",
+      "Fantascienza"
+    ]
+  },
+  {
+    "tmdb_id": 899382,
+    "imdb_id": "tt15186426",
+    "recent_until": 1795867706097,
+    "pegi": "",
+    "runtime": 95,
+    "title": "La fidanzata di papà",
+    "original_title": "Christmas Is Canceled",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/2Vivy2G7Kx8duhN35eUG74B8JXK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uVflhRHoW3ttVs6KxI7BFVZLBBu.jpg",
+    "rating": 5.4,
+    "overview": "Il padre di Emma e la sua compagna di liceo iniziano a frequentarsi e lei si imbarca in una missione per rompere la coppia felice.",
+    "genres": [
+      "Commedia",
+      "Romance"
+    ]
+  },
+  {
     "tmdb_id": 1280115,
     "imdb_id": "tt32213169",
     "recent_until": 1795782485207,
