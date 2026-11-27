@@ -1,5 +1,151 @@
 [
   {
+    "tmdb_id": 643578,
+    "imdb_id": "tt2205413",
+    "recent_until": 1795953447788,
+    "pegi": "",
+    "runtime": 55,
+    "title": "Apollo 17: The Untold Story of the Last Men on the Moon",
+    "original_title": "Apollo 17: The Untold Story of the Last Men on the Moon",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/yMDR0v8IFnNUFkEmR9E6XAYk7w9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7iURs0d5SACtAUyW8qny2T2hclU.jpg",
+    "rating": 7.6,
+    "overview": "Il documentario rende omaggio alla missione Apollo 17, ultima spedizione del programma Apollo sulla Luna, raccontando il coraggio dei tre astronauti e il lavoro delle migliaia di persone che contribuirono all'impresa della NASA.",
+    "genres": [
+      "Documentario"
+    ]
+  },
+  {
+    "tmdb_id": 1811599,
+    "imdb_id": "tt50307351",
+    "recent_until": 1795953447908,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Tyson Fury",
+    "original_title": "Tyson Fury",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wAffyCmjFZOI3uvmVvpg7Lz8Yn5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6bmg6cWBM6PzHM3ibeLDCNskABq.jpg",
+    "rating": 0.0,
+    "overview": "Era il campione dei pesi massimi, ma poi la vita l'ha quasi messo al tappeto. In questo documentario il mitico pugile Tyson Fury racconta la sua ascesa, caduta e ripartenza.",
+    "genres": [
+      "Documentario",
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 1480665,
+    "imdb_id": "tt37267166",
+    "recent_until": 1795953448035,
+    "pegi": "14+",
+    "runtime": 0,
+    "title": "Quasimodo, l'anima di Parigi",
+    "original_title": "Quasimodo, l'âme de Paris",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ba1Gyh9ZnkSCoLMAFfpMonnsYbN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fILFJb7okqkNdzAataH4CxywwZX.jpg",
+    "rating": 0.0,
+    "overview": "",
+    "genres": [
+      "Dramma",
+      "Romance"
+    ]
+  },
+  {
+    "tmdb_id": 1506401,
+    "imdb_id": "tt36823912",
+    "recent_until": 1795953448158,
+    "pegi": "",
+    "runtime": 0,
+    "title": "Il bambino",
+    "original_title": "El niño",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/6wLVChqjN2qsZ3uolEmetkCuzeO.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kkierrbus8z4QpsexmSg8QSKqak.jpg",
+    "rating": 0.0,
+    "overview": "Il bambino racconta la storia di Mariaje (Belén Cuesta) e Nicasio (Karra Elejalde), la madre e il nonno di uno dei bambini morti in un'esplosione causata da una fuga di gas in una città dei Paesi Baschi nell'ottobre del 1980. La tragedia ha sconvolto la comunità locale e tutta la Spagna, cambiando per sempre le loro vite. In un percorso segnato da emozioni inaspettate, Mariaje e Nicasio cercano, e trovano, il loro modo unico di superare il lutto.",
+    "genres": [
+      "Dramma"
+    ]
+  },
+  {
+    "tmdb_id": 22434,
+    "imdb_id": "tt0102095",
+    "recent_until": 1795953448280,
+    "pegi": "",
+    "runtime": 90,
+    "title": "Un agente segreto al liceo",
+    "original_title": "If Looks Could Kill",
+    "year": "1991",
+    "poster": "https://image.tmdb.org/t/p/w500/3xO5BPV3HQdIeoQ8PKCKkBLftdd.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mmhw9ekCTtysCJwaUvHuA0z32FM.jpg",
+    "rating": 6.1,
+    "overview": "Uno studente liceale, in viaggio con la sua scuola a Parigi, viene scambiato per un agente segreto in incognito. Lui, che è un esuberante, non fa niente per dimostrare il contrario. Anzi, prende gusto alla nuova situazione, anche perché c'è un'organizzazione che è pronta a fornirgli macchine veloci, abiti eleganti e belle donne. Poi, però, le cose cambiano e lo studente si vede costretto a fare i conti con gli agenti nemici.",
+    "genres": [
+      "Azione",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 1257406,
+    "imdb_id": "tt35521200",
+    "recent_until": 1795953448425,
+    "pegi": "",
+    "runtime": 118,
+    "title": "Due procuratori",
+    "original_title": "Deux procureurs",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/yrKLtuveqVuSIqf9ZN3skLb0gEj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3bFyBL1gFghrWH3FG0wNwZc1BGp.jpg",
+    "rating": 6.767,
+    "overview": "Unione Sovietica, 1937. Migliaia di lettere di detenuti ingiustamente accusati dal regime vengono bruciate in una cella di prigione. Contro ogni previsione, una di queste richieste d’aiuto giunge a destinazione, sulla scrivania del procuratore locale appena nominato, Aleksandr Kornev. Il giovane Kornev fa del suo meglio per incontrare il prigioniero, vittima di agenti corrotti della polizia segreta, l’NKVD. Bolscevico convinto e integro, il giovane procuratore sospetta una serie di abusi e illegalità. La sua ricerca di giustizia lo porterà fino all’ufficio del Procuratore Generale a Mosca…",
+    "genres": [
+      "Dramma",
+      "Mistero",
+      "Thriller",
+      "Storia"
+    ]
+  },
+  {
+    "tmdb_id": 1567,
+    "imdb_id": "tt0157016",
+    "recent_until": 1795953448552,
+    "pegi": "",
+    "runtime": 89,
+    "title": "Seul contre tous",
+    "original_title": "Seul contre tous",
+    "year": "1999",
+    "poster": "https://image.tmdb.org/t/p/w500/r4e2kbQkNSx3zpCRPHP28c3zeaA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AjE0eLKSJ8SmHg9aiTaSuX5Od6R.jpg",
+    "rating": 7.4,
+    "overview": "Il Macellaio ha passato un po' di tempo in prigione dopo aver picchiato un ragazzo che ha tentato di sedurre la figlia adolescente con handicap mentali. Ora vuole iniziare una nuova vita. Lascia la figlia in un'istituto e si trasferisce nella periferia di Lille con la sua amante. Gli ha promesso una nuova macelleria. Ha mentito. Il macellaio decide di tornare a Parigi e trovare sua figlia.",
+    "genres": [
+      "Dramma",
+      "Thriller"
+    ]
+  },
+  {
+    "tmdb_id": 1276825,
+    "imdb_id": "tt6001846",
+    "recent_until": 1795953449317,
+    "pegi": "",
+    "runtime": 101,
+    "title": "Long Gone Heroes - il prezzo del potere",
+    "original_title": "Long Gone Heroes",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/1ENAa0K2Qqm6VNf4eZoR4TaLDSn.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qg41DHG06nlDncU3MNeSaluNVfr.jpg",
+    "rating": 5.5,
+    "overview": "Gunner, un soldato delle forze speciali che è stato testimone del lato più oscuro del paese e del combattimento, è costretto a tornare sul campo di battaglia per salvare sua nipote, detenuta in Sud America. Mentre la lotta si intensifica, Gunner e la sua squadra scoprono che la sua scomparsa fa parte di un'operazione privata corrotta che colpisce troppo vicino a casa.",
+    "genres": [
+      "Azione",
+      "Guerra",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
     "tmdb_id": 300673,
     "imdb_id": "tt2025690",
     "recent_until": 1795867704308,
