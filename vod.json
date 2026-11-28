@@ -1,5 +1,94 @@
 [
   {
+    "tmdb_id": 1708043,
+    "imdb_id": "tt39045046",
+    "recent_until": 1796038395862,
+    "pegi": "",
+    "runtime": 100,
+    "title": "Election Day",
+    "original_title": "Election Day",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/lYndI3wlV6QD1HGuEVUihAUkBsi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fLCqYQi6n0gtJHED6pUmGv1pJs4.jpg",
+    "rating": 6.286,
+    "overview": "Mentre si avvicina il verdetto delle elezioni politiche, la notte dello scrutinio la deputata progressista Renata Innocenti – candidata di punta al ruolo di Ministro della Pubblica Istruzione in caso di vittoria della sua coalizione – segue l’andamento dei risultati dalla propria abitazione insieme al suo staff. I primi exit poll delineano uno scenario di perfetta parità, destinato a risolversi per pochissimi voti. Tuttavia, proprio quella stessa sera, Renata ignora che il suo compagno, il giornalista sportivo Carlo De Santis, è coinvolto in un caso mediatico: durante un collegamento dal campo, ha rivolto a un calciatore nero un’offesa di stampo razzista.",
+    "genres": [
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 11008,
+    "imdb_id": "tt0110443",
+    "recent_until": 1796038396011,
+    "pegi": "",
+    "runtime": 95,
+    "title": "Il maggiore Payne",
+    "original_title": "Major Payne",
+    "year": "1995",
+    "poster": "https://image.tmdb.org/t/p/w500/r50oZPMTaA8R9HWzGh7dUTEJjDY.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4lNbhZcnrjG079TUkG1mIi2wen0.jpg",
+    "rating": 6.52,
+    "overview": "Benson Winifred Payne è un veterano dell'esercito alla sua ultima missione. Una volta in pensione cerca di reinventarsi una vita al di fuori delle dure leggi militari, ma non è impresa semplice. Le cose cambiano quando viene chiamato in un'accademia militare per addestrare un gruppo di giovanissime reclute in vista dei giochi militari della Virginia. I ragazzi non amano i suoi modi burberi e il suo addestramento rigido, ma dopo alcune incomprensioni impareranno ad apprezzarlo in vista del loro più grande traguardo.",
+    "genres": [
+      "Avventura",
+      "Commedia",
+      "Famiglia"
+    ]
+  },
+  {
+    "tmdb_id": 14228,
+    "imdb_id": "tt0415167",
+    "recent_until": 1796038396220,
+    "pegi": "",
+    "runtime": 94,
+    "title": "Il custode",
+    "original_title": "Mortuary",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/8UUCsiLJzMwX41lklnCAQjGGR34.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b91RCtEZcSWb5HwFOmyeMmrqCMi.jpg",
+    "rating": 4.5,
+    "overview": "La famiglia Doyle si trasferisce nella campania californiana per ricostruirsi un'esistenza e va ad abitare nella casa funeraria dei fratelli Flower. Gli abitanti del villaggio però evitano accuratamente quella casa perché la ritengono abitata dagli spiriti. Spiriti con cui anche i Doyle presto avranno a che fare",
+    "genres": [
+      "Horror"
+    ]
+  },
+  {
+    "tmdb_id": 308024,
+    "imdb_id": "tt3844362",
+    "recent_until": 1796038396371,
+    "pegi": "",
+    "runtime": 79,
+    "title": "The Overnight - tutto in una notte",
+    "original_title": "The Overnight",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/9LcjvCZm8zaN8E0qWLUmxkqX57B.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/8cAtMxn5unNCpuVQ318d4Uf4jUl.jpg",
+    "rating": 5.92,
+    "overview": "Alex, Emily, e il loro figlio RJ sono nuovi a Los Angeles. Un incontro fortuito al parco dà loro l'occasione di conoscere i misteriosi Kurt, Charlotte e Max. Un appuntamento di gioco in famiglia si fa sempre più interessante col progredire della serata.",
+    "genres": [
+      "Mistero",
+      "Commedia"
+    ]
+  },
+  {
+    "tmdb_id": 505570,
+    "imdb_id": "tt8956284",
+    "recent_until": 1796038396726,
+    "pegi": "",
+    "runtime": 104,
+    "title": "Rimini",
+    "original_title": "Rimini",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/wyaS0VivKaht856D345S2MAea3A.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/pJCfgXOKKnmeXPxV93qKimXNMwW.jpg",
+    "rating": 6.313,
+    "overview": "La morte di sua madre riporta Richie Bravo dalla sua casa adottiva in Italia alla sua camera da letto adolescente in Bassa Austria, dove Charlton Heston sta ancora flettendo i suoi bicipiti e Winnetou è ancora vivo.",
+    "genres": [
+      "Dramma",
+      "Musica"
+    ]
+  },
+  {
     "tmdb_id": 643578,
     "imdb_id": "tt2205413",
     "recent_until": 1795953447788,
